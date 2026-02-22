@@ -1,0 +1,11 @@
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+update.log
