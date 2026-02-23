@@ -9,3 +9,6 @@
 # Logs
 *.log
 update.log
+
+Gemfile.lock
+

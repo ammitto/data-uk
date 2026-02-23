@@ -5,8 +5,9 @@ on:
     # Run daily at 6:00 AM UTC
     - cron: '0 6 * * *'
   workflow_dispatch:
+  pull_request:
   push:
-    branches: [main, master]
+    branches: [main]
     paths:
       - '.github/workflows/fetch.yml'
 
@@ -18,43 +19,31 @@ jobs:
       contents: write
       issues: write
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v6
 
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3'
-          bundler-cache: false
-
-      - name: Install ammitto gem from GitHub
-        run: |
-          gem install specific_install
-          gem specific_install https://github.com/ammitto/ammitto.git -b main
+          ruby-version: '3.4'
+          bundler-cache: true
 
       - name: Fetch data
         run: |
-          ammitto fetch uk --format yaml --output-dir processed --verbose
-
-      - name: Save raw XML
-        run: |
-          mkdir -p downloaded
-          curl -sL "https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.xml" \
-            -o downloaded/uk-sanctions.xml
+          bundle exec ammitto fetch uk --format yaml --output-dir processed --verbose
 
       - name: Check for changes
         id: check_changes
         run: |
           if git diff --quiet && git diff --staged --quiet; then
             echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "No changes detected, skipping commit and push."
           else
             echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "Changes detected, will commit and push."
           fi
 
       - name: Commit and push changes
-        if: steps.check_changes.outputs.has_changes == 'true'
+        if: github.ref_name == github.event.repository.default_branch && steps.check_changes.outputs.has_changes == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -63,7 +52,7 @@ jobs:
           git push
 
       - name: Trigger harmonization
-        if: steps.check_changes.outputs.has_changes == 'true'
+        if: github.ref_name == github.event.repository.default_branch && steps.check_changes.outputs.has_changes == 'true'
         uses: actions/github-script@v7
         with:
           github-token: ${{ secrets.HARMONIZE_TOKEN }}
@@ -80,7 +69,7 @@ jobs:
             }
 
       - name: Create issue on failure
-        if: failure()
+        if: github.ref_name == github.event.repository.default_branch && failure()
         uses: actions/github-script@v7
         with:
           script: |
