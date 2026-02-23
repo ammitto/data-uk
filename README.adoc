@@ -1,0 +1,122 @@
+= Ammitto UK Sanctions Data Repository
+
+== Purpose
+
+This repository stores downloaded and processed sanctions data from the
+United Kingdom (UK) Office of Financial Sanctions Implementation (OFSI)
+Consolidated List.
+
+The data is maintained by the Ammitto project and used by the `ammitto` Ruby
+gem for querying international sanctions information.
+
+== Legal Basis
+
+The UK sanctions are implemented through:
+
+* The Sanctions and Anti-Money Laundering Act 2018 (SAMLA)
+* The Sanctions (EU Exit) Regulations 2019
+* Various country-specific sanctions regulations
+
+Post-Brexit, the UK maintains its own autonomous sanctions regime separate
+from the EU, though many designations initially mirrored EU listings.
+
+== Data Source
+
+* **Authority**: Office of Financial Sanctions Implementation (OFSI), HM Treasury
+* **API Endpoint**: https://ofsistorage.blob.core.windows.net/publishlive/2022-04-06/ConList.xml
+* **Format**: XML
+* **Update Frequency**: As changes occur in UK sanctions regimes
+* **Official Source**: https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets
+
+== Directory Structure
+
+```
+.
+├── downloaded/           # Raw data downloaded from OFSI API
+│   └── uk_sanctions_list.xml
+├── processed/            # Individual YAML files per sanction entity
+│   └── {name}-{index}.yaml
+├── reference-docs/       # Reference documentation
+├── README.adoc           # This file
+├── CLAUDE.md             # Guidance for Claude Code
+└── update.log            # Timestamps of data updates
+```
+
+== Directory Descriptions
+
+downloaded/:: Contains raw XML data files as downloaded from the OFSI API.
+The primary file is `uk_sanctions_list.xml` which contains the complete
+consolidated list.
+
+processed/:: Contains individual YAML files, one per sanction entity.
+Files are named using the pattern `{primary-name}-{index}.yaml` where
+index ensures uniqueness for entities with similar names.
+
+reference-docs/:: Contains reference documentation about the UK sanctions
+schema and data formats.
+
+update.log:: Log file tracking when data was last updated with timestamps.
+
+== Updating Data
+
+Data can be updated using the ammitto gem:
+
+[source,shell]
+----
+# From the ammitto gem directory
+bundle exec ruby exe/ammitto fetch uk --format yaml --output-dir ./processed
+----
+
+Or via the adapters repository:
+
+[source,shell]
+----
+# From the adapters/ directory
+ruby adapter.rb
+----
+
+== YAML Schema
+
+Each processed YAML file follows the schema defined in
+`ammitto/lib/ammitto/sources/uk/` using Lutaml::Model.
+
+.Example YAML structure
+[source,yaml]
+----
+names:
+  - "PRIMARY NAME"
+  - "ALIAS 1"
+entity_type: person  # or "organization"
+source: uk
+country: Country Name
+birthdate: "YYYY-MM-DD"
+identifications:
+  - type: "Passport"
+    number: "XXX123456"
+addresses:
+  - street: "Street Address"
+    city: "City"
+    country: "Country"
+----
+
+== Entity Types
+
+The UK sanctions list contains the following entity types:
+
+Person:: Individual persons subject to sanctions
+Organization:: Legal entities, companies, and organizations
+Ship:: Vessels subject to sanctions
+
+== Related Repositories
+
+* https://github.com/ammitto/ammitto[ammitto] - Main Ruby gem
+* https://github.com/ammitto/adapters[adapters] - Data fetching adapters
+* https://github.com/ammitto/data-eu[data-eu] - EU sanctions data
+* https://github.com/ammitto/data-un[data-un] - UN sanctions data
+* https://github.com/ammitto/data-us[data-us] - US OFAC sanctions data
+
+== License
+
+Data in this repository is sourced from official UK government publications
+and is subject to UK Open Government Licence terms. The data processing
+code is part of the Ammitto project.
