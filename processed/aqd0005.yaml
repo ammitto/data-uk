@@ -1,6 +1,6 @@
 ---
-last_updated: 11/01/2024
-date_designated: 11/05/2004
+last_updated: '2024-01-11'
+date_designated: '2004-05-11'
 unique_id: AQD0005
 ofsi_group_id: '8360'
 un_reference_number: QDe.107
@@ -64,6 +64,9 @@ addresses:
   - address_line1: 30a Put Mladih Muslimana (ex Pavla Lukaca Street)
     address_line6: Sarajevo
     address_country: Bosnia and Herzegovina
+  - address_line1: 72 ul. Strossmajerova
+    address_line6: Zenica
+    address_country: Bosnia and Herzegovina
   - address_line1: 42 Muhameda Hadzijahica
     address_line6: Sarajevo
     address_country: Bosnia and Herzegovina
@@ -72,7 +75,4 @@ addresses:
     address_country: Bosnia and Herzegovina
   - address_line1: Zlatnih Ljiljana Street
     address_line6: Zavidovici
-    address_country: Bosnia and Herzegovina
-  - address_line1: 72 ul. Strossmajerova
-    address_line6: Zenica
     address_country: Bosnia and Herzegovina

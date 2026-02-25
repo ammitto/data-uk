@@ -1,6 +1,6 @@
 ---
-last_updated: 05/12/2024
-date_designated: 25/03/2010
+last_updated: '2024-12-05'
+date_designated: '2010-03-25'
 unique_id: AQD0268
 ofsi_group_id: '11052'
 un_reference_number: QDi.278
@@ -121,8 +121,8 @@ addresses:
   - address_country: Egypt
   - address_line6: Amman
     address_country: Jordan
+  - address_line6: Khan Dari
+    address_country: Iraq
   - address_line5: Asas Village
     address_line6: Abu Ghurayb
-    address_country: Iraq
-  - address_line6: Khan Dari
     address_country: Iraq

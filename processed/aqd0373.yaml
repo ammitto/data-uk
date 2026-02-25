@@ -1,6 +1,6 @@
 ---
-last_updated: 04/04/2022
-date_designated: 23/11/2021
+last_updated: '2022-04-04'
+date_designated: '2021-11-23'
 unique_id: AQD0373
 ofsi_group_id: '14153'
 un_reference_number: QDi.430
@@ -45,7 +45,6 @@ other_information: "Senior member of Islamic State in Iraq and the Levant (ISIL)
   1991 - 2008) "
 addresses:
   addresses:
-  - address_country: United States
   - address_line1: 12 Rio Claro Mayaro Road
     address_line6: Rio Claro
     address_country: Trinidad and Tobago
@@ -55,3 +54,4 @@ addresses:
   - address_line1: Guayaguayare Road
     address_line6: Rio Claro
     address_country: Trinidad and Tobago
+  - address_country: United States

@@ -1,6 +1,6 @@
 ---
-last_updated: '09/04/2025'
-date_designated: 13/06/2024
+last_updated: '2025-04-09'
+date_designated: '2024-06-13'
 unique_id: RUS2135
 ofsi_group_id: '16506'
 names:
@@ -38,14 +38,14 @@ uk_statement_of_reasons: "\nHENGSHUI YUANCHEM TRADING LIMITED is an involved per
   of Ukraine. \n"
 addresses:
   addresses:
+  - address_line1: No. 365 Xinhua Street
+    address_line5: Hebei Province
+    address_line6: Hengshui City
+    address_country: China
   - address_line1: No. 29 Qiantong Road
     address_line2: Qiaotou Town
     address_line3: Wuyi County
     address_line4: Hengshui
-    address_line5: Hebei Province
-    address_line6: Hengshui City
-    address_country: China
-  - address_line1: No. 365 Xinhua Street
     address_line5: Hebei Province
     address_line6: Hengshui City
     address_country: China

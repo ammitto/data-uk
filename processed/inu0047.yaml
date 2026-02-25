@@ -1,6 +1,6 @@
 ---
-last_updated: '09/04/2025'
-date_designated: 31/12/2020
+last_updated: '2025-04-09'
+date_designated: '2020-12-31'
 unique_id: INU0047
 ofsi_group_id: '12820'
 names:
@@ -33,14 +33,14 @@ uk_statement_of_reasons: |2-
   On behalf of a UN designated entity, Aluminat has procured goods which have potential application in Iran's proliferation sensitive nuclear activities.
 addresses:
   addresses:
+  - address_line1: Parcham St
+    address_line2: 13th Km of Qom Rd
+    address_line6: Arak
+    address_country: Iran
   - address_line1: Unit 38
     address_line2: 5th Fl
     address_line3: Bldg No 60
     address_line4: Golfam St
     address_line5: Jordan
     address_line6: Tehran
-    address_country: Iran
-  - address_line1: Parcham St
-    address_line2: 13th Km of Qom Rd
-    address_line6: Arak
     address_country: Iran

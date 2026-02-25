@@ -1,6 +1,6 @@
 ---
-last_updated: 12/08/2025
-date_designated: 27/07/2005
+last_updated: '2025-08-12'
+date_designated: '2005-07-27'
 unique_id: IRQ0146
 ofsi_group_id: '8697'
 un_reference_number: IQi.085
@@ -73,9 +73,9 @@ sanctions_imposed_indicators:
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_line6: Beirut
-    address_country: Lebanon
   - address_line1: Fuad Dawod Farm
     address_line5: Az Zabadani
     address_line6: Damascus
     address_country: Syria
+  - address_line6: Beirut
+    address_country: Lebanon

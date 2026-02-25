@@ -1,6 +1,6 @@
 ---
-last_updated: 17/06/2025
-date_designated: 15/04/2009
+last_updated: '2025-06-17'
+date_designated: '2009-04-15'
 unique_id: AQD0103
 ofsi_group_id: '10834'
 un_reference_number: QDi.268
@@ -111,5 +111,5 @@ other_information: " Overall leader and commander of the Eastern Turkistan Islam
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_country: Pakistan
   - address_country: Afghanistan
+  - address_country: Pakistan

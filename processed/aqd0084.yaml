@@ -1,6 +1,6 @@
 ---
-last_updated: 13/01/2022
-date_designated: 06/10/2001
+last_updated: '2026-02-20'
+date_designated: '2001-10-06'
 unique_id: AQD0084
 ofsi_group_id: '6972'
 un_reference_number: QDe.015
@@ -41,11 +41,6 @@ other_information: 'Headquarters was in Kandahar, Afghanistan as at 2001. Wafa w
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
+  - address_country: United Arab Emirates
   - address_country: Afghanistan
   - address_country: Kuwait
-  - address_country: United Arab Emirates
-  - address_line1: Jordan House No. 125
-    address_line2: Street 54
-    address_line3: Phase II Hayatabad
-    address_line6: Peshawar
-    address_country: Pakistan

@@ -1,6 +1,6 @@
 ---
-last_updated: 24/07/2023
-date_designated: '09/09/2003'
+last_updated: '2023-07-24'
+date_designated: '2003-09-09'
 unique_id: AQD0337
 ofsi_group_id: '7848'
 un_reference_number: QDi.124
@@ -49,7 +49,7 @@ other_information: 'Founding member of Jemaah Islamiyah (JI) (QDe.092) who worke
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_country: Malaysia
   - address_line1: Taman Bukit Ampang
     address_line6: State of Selangor
     address_country: Malaysia
+  - address_country: Malaysia

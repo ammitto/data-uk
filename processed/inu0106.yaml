@@ -1,6 +1,6 @@
 ---
-last_updated: '09/04/2025'
-date_designated: 31/12/2020
+last_updated: '2025-04-09'
+date_designated: '2020-12-31'
 unique_id: INU0106
 ofsi_group_id: '12493'
 names:
@@ -33,11 +33,11 @@ uk_statement_of_reasons: |2-
   Front company of Sad Export Import Company. Has supported entities involved in Iran's nuclear activities through its involvement in an illicit arms transfer aboard M/V Monchegorsk
 addresses:
   addresses:
-  - address_line1: PO Box 1584864813
-    address_line6: Tehran
-    address_country: Iran
   - address_line1: Haftom Tir Square
     address_line2: South Mofte Avenue
     address_line3: Tour Line No 3/1
+    address_line6: Tehran
+    address_country: Iran
+  - address_line1: PO Box 1584864813
     address_line6: Tehran
     address_country: Iran

@@ -1,6 +1,6 @@
 ---
-last_updated: 01/05/2025
-date_designated: 31/12/2020
+last_updated: '2025-05-01'
+date_designated: '2020-12-31'
 unique_id: SYR0306
 ofsi_group_id: '12431'
 names:
@@ -33,12 +33,12 @@ uk_statement_of_reasons: |2
    There are reasonable grounds to suspect that they are an involved person under the Syria (Sanctions) (EU Exit) Regulations 2019 because they are or have been involved in activities carried out on behalf of the Assad regime, implementing, or connected to the repressive policies of that regime. In particular, carrying on prohibited activities related to chemical weapons in Syria.
 addresses:
   addresses:
-  - address_line1: PO Box 5966
-    address_line2: Abou Bakr Al Seddeq St.
-    address_line6: Damascus
-    address_country: Syria
   - address_line1: PO Box 21120
     address_line5: Baramkeh
+    address_line6: Damascus
+    address_country: Syria
+  - address_line1: PO Box 5966
+    address_line2: Abou Bakr Al Seddeq St.
     address_line6: Damascus
     address_country: Syria
   - address_line1: PO Box 2849

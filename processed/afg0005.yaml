@@ -1,6 +1,6 @@
 ---
-last_updated: 12/01/2022
-date_designated: 27/03/2015
+last_updated: '2022-01-12'
+date_designated: '2015-03-27'
 unique_id: AFG0005
 ofsi_group_id: '13269'
 un_reference_number: TAe.014
@@ -79,9 +79,9 @@ addresses:
   - address_line1: Branch Office 7
     address_line6: Kandahar Province
     address_country: Afghanistan
-  - address_line1: Branch Office 8
-    address_line6: Herat Province
-    address_country: Afghanistan
   - address_line1: Branch Office 9
     address_line6: Helmand Province
+    address_country: Afghanistan
+  - address_line1: Branch Office 8
+    address_line6: Herat Province
     address_country: Afghanistan

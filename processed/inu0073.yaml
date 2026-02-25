@@ -1,6 +1,6 @@
 ---
-last_updated: '09/04/2025'
-date_designated: 31/12/2020
+last_updated: '2025-04-09'
+date_designated: '2020-12-31'
 unique_id: INU0073
 ofsi_group_id: '11201'
 names:
@@ -41,10 +41,10 @@ uk_statement_of_reasons: "\nIran Communications Industries (ICI), a subsidiary o
   in the procurement of prohibited goods and technology. \n"
 addresses:
   addresses:
-  - address_line1: 34 Khorramshar Street
+  - address_line1: Apadana Ave.
     address_line6: Tehran
     address_country: Iran
-  - address_line1: Apadana Ave.
+  - address_line1: 34 Khorramshar Street
     address_line6: Tehran
     address_country: Iran
   - address_line1: P.O. Box 15875 4337
@@ -54,12 +54,12 @@ addresses:
     address_line2: Pasdaran Ave
     address_line6: Tehran
     address_country: Iran
+  - address_line1: PO Box 19575 131
+    address_line2: 34 Apadana Ave
+    address_line6: Tehran
+    address_country: Iran
   - address_line1: Shahid Langary St
     address_line2: Nobonyad Square Ave
     address_line3: Pasdaran
-    address_line6: Tehran
-    address_country: Iran
-  - address_line1: PO Box 19575 131
-    address_line2: 34 Apadana Ave
     address_line6: Tehran
     address_country: Iran

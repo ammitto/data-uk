@@ -1,6 +1,6 @@
 ---
-last_updated: 18/12/2021
-date_designated: 02/10/2015
+last_updated: '2021-12-18'
+date_designated: '2015-10-02'
 unique_id: AQD0206
 ofsi_group_id: '13299'
 un_reference_number: QDi.364
@@ -46,8 +46,8 @@ other_information: 'As at Aug. 2015, emir of Russian-speaking militants of the I
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_country: Syria
   - address_country: Iraq
+  - address_country: Syria
   - address_line1: Moscovskiy Microrayon 6
     address_line2: App. 96
     address_line3: Ust- Dzheguta

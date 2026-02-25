@@ -1,6 +1,6 @@
 ---
-last_updated: 18/12/2021
-date_designated: 20/08/2015
+last_updated: '2021-12-18'
+date_designated: '2015-08-20'
 unique_id: CAF0005
 ofsi_group_id: '13271'
 un_reference_number: CFi.004
@@ -69,9 +69,9 @@ addresses:
   addresses:
   - address_line6: The Hague
     address_country: Netherlands
-  - address_line5: Mbaiki
-    address_line6: Lobaye Province
-    address_country: Central African Republic
   - address_line5: Bimbo
     address_line6: Ombella-Mpoko province
+    address_country: Central African Republic
+  - address_line5: Mbaiki
+    address_line6: Lobaye Province
     address_country: Central African Republic

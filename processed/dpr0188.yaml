@@ -1,6 +1,6 @@
 ---
-last_updated: 18/12/2021
-date_designated: 02/03/2016
+last_updated: '2021-12-18'
+date_designated: '2016-03-02'
 unique_id: DPR0188
 ofsi_group_id: '12448'
 un_reference_number: KPe.031
@@ -44,9 +44,9 @@ other_information: The Reconnaissance General Bureau is the DPRK's premiere inte
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_line5: Nungrado
+  - address_line5: Hyongjesan-Guyok
     address_line6: Pyongyang
     address_country: North Korea
-  - address_line5: Hyongjesan-Guyok
+  - address_line5: Nungrado
     address_line6: Pyongyang
     address_country: North Korea

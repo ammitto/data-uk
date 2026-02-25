@@ -1,6 +1,6 @@
 ---
-last_updated: '09/04/2025'
-date_designated: 31/12/2020
+last_updated: '2025-04-09'
+date_designated: '2020-12-31'
 unique_id: RUS0031
 ofsi_group_id: '13200'
 names:
@@ -38,5 +38,5 @@ uk_statement_of_reasons: |2-
   Commander of the ‘Rusich’ unit, an armed separatist group involved in the fighting in eastern Ukraine. In this capacity, he has actively supported actions and policies which undermine the territorial integrity, sovereignty and independence of Ukraine and to further destabilise Ukraine. He was also involved in the construction of the Kerch Bridge from Russia to the illegally annexed Autonomous Republic of Crimea. Therefore he has supported the consolidation of the illegally annexed Crimean peninsula into the Russian Federation, which in turn further undermines the territorial integrity, sovereignty and independence of Ukraine. The trust services sanctions were imposed on 21/03/2023.
 addresses:
   addresses:
-  - address_country: Russia
   - address_country: Syria
+  - address_country: Russia

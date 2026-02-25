@@ -1,6 +1,6 @@
 ---
-last_updated: 18/12/2021
-date_designated: 28/09/2015
+last_updated: '2021-12-18'
+date_designated: '2015-09-28'
 unique_id: AQD0145
 ofsi_group_id: '13285'
 un_reference_number: QDi.356
@@ -42,5 +42,5 @@ other_information: 'Recruiter for Islamic State in Iraq and the Levant, listed a
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_country: United Kingdom
   - address_country: Syria
+  - address_country: United Kingdom

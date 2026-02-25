@@ -1,6 +1,6 @@
 ---
-last_updated: 13/01/2022
-date_designated: 11/01/2002
+last_updated: '2022-01-13'
+date_designated: '2002-01-11'
 unique_id: AQD0074
 ofsi_group_id: '7210'
 un_reference_number: QDe.070
@@ -50,5 +50,5 @@ other_information: 'NOTE: Only the Pakistan and Afghanistan offices of this enti
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_country: Afghanistan
   - address_country: Pakistan
+  - address_country: Afghanistan

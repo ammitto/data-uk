@@ -1,6 +1,6 @@
 ---
-last_updated: 13/01/2022
-date_designated: 21/10/2013
+last_updated: '2022-01-13'
+date_designated: '2013-10-21'
 unique_id: AQD0070
 ofsi_group_id: '12885'
 un_reference_number: QDe.136
@@ -54,6 +54,6 @@ other_information: 'Terrorist and paramilitary group established by Muhammad Jam
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
+  - address_country: Mali
   - address_country: Egypt
   - address_country: Libya
-  - address_country: Mali

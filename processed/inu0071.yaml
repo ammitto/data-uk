@@ -1,6 +1,6 @@
 ---
-last_updated: '09/04/2025'
-date_designated: 31/12/2020
+last_updated: '2025-04-09'
+date_designated: '2020-12-31'
 unique_id: INU0071
 ofsi_group_id: '11199'
 names:
@@ -52,6 +52,17 @@ uk_statement_of_reasons: "\nOwned or controlled by MODAFL as a subsidiary of Ira
   Aviation Industries Organisation (IAIO). \n"
 addresses:
   addresses:
+  - address_line1: P.O. Box 83145 311
+    address_line2: 28 km Esfahan Tehran Freeway
+    address_line3: Shain Shahr
+    address_line6: Esfahan
+    address_country: Iran
+  - address_line1: P.O. Box81465 935
+    address_line6: Esfahan
+    address_country: Iran
+  - address_line1: Shahih Shar Industrial Zone
+    address_line6: Isfahan
+    address_country: Iran
   - address_line1: No. 27 Shahamat Ave.
     address_line2: Vallie asr Square.
     address_line6: Tehran (HESA Tehran Office)
@@ -64,15 +75,4 @@ addresses:
   - address_line1: P.O. Box 8140
     address_line2: No. 107 Sepahbod Gharany Ave.
     address_line6: Tehran
-    address_country: Iran
-  - address_line1: P.O. Box 83145 311
-    address_line2: 28 km Esfahan Tehran Freeway
-    address_line3: Shain Shahr
-    address_line6: Esfahan
-    address_country: Iran
-  - address_line1: Shahih Shar Industrial Zone
-    address_line6: Isfahan
-    address_country: Iran
-  - address_line1: P.O. Box81465 935
-    address_line6: Esfahan
     address_country: Iran

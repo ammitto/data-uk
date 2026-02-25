@@ -1,6 +1,6 @@
 ---
-last_updated: '09/04/2025'
-date_designated: 21/04/2022
+last_updated: '2025-04-09'
+date_designated: '2022-04-21'
 unique_id: RUS1356
 ofsi_group_id: '15305'
 names:
@@ -60,11 +60,11 @@ uk_statement_of_reasons: "\n JSC Kalashnikov Concern is a Russian weapons manufa
   entity.  \n The trust services sanctions were imposed on 21/03/2023."
 addresses:
   addresses:
-  - address_line1: '3'
-    address_line2: Derjabin Pr
-    address_line6: Izhevsk
-    address_country: Russia
   - address_line1: 3B
     address_line2: Deryabina avenue
+    address_line6: Izhevsk
+    address_country: Russia
+  - address_line1: '3'
+    address_line2: Derjabin Pr
     address_line6: Izhevsk
     address_country: Russia

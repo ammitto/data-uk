@@ -1,6 +1,6 @@
 ---
-last_updated: 18/12/2021
-date_designated: 02/10/2015
+last_updated: '2021-12-18'
+date_designated: '2015-10-02'
 unique_id: AQD0343
 ofsi_group_id: '13302'
 un_reference_number: QDi.367
@@ -65,5 +65,5 @@ other_information: 'As at Aug. 2015, one of the leaders of the Army of Emigrants
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_country: Iraq
   - address_country: Syria
+  - address_country: Iraq

@@ -1,6 +1,6 @@
 ---
-last_updated: 21/07/2025
-date_designated: 24/02/2025
+last_updated: '2025-07-21'
+date_designated: '2025-02-24'
 unique_id: RUS2479
 ofsi_group_id: '16829'
 names:
@@ -51,9 +51,9 @@ uk_statement_of_reasons: "\nOJSC KEREMET BANK is an involved person under the Ru
   of Russia, namely the Russian financial services sector.\n"
 addresses:
   addresses:
-  - address_line1: 80/1, Moskovskaya Street
+  - address_line1: 40/4, Togolok Moldo
     address_line6: Bishkek
     address_country: Kyrgyzstan
-  - address_line1: 40/4, Togolok Moldo
+  - address_line1: 80/1, Moskovskaya Street
     address_line6: Bishkek
     address_country: Kyrgyzstan

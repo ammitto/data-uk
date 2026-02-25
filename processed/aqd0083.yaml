@@ -1,6 +1,6 @@
 ---
-last_updated: 23/06/2022
-date_designated: 24/12/2001
+last_updated: '2026-02-20'
+date_designated: '2001-12-24'
 unique_id: AQD0083
 ofsi_group_id: '7530'
 un_reference_number: QDe.068
@@ -35,7 +35,6 @@ other_information: 'Its directors included Mahmood Sultan Bashir-Ud-Din (QDi.055
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_country: Pakistan
   - address_line1: Street 13
     address_line2: Wazir Akbar Khan
     address_line6: Kabul
