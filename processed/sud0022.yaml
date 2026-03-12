@@ -1,8 +1,9 @@
 ---
-last_updated: '2025-12-12'
+last_updated: '2026-02-25'
 date_designated: '2025-12-12'
 unique_id: SUD0022
 ofsi_group_id: '17257'
+un_reference_number: SDi.008
 names:
   names:
   - name1: Abdul
@@ -49,7 +50,7 @@ non_latin_names:
   - name_non_latin_script: عبدالرحيم دقلو
 regime_name: The Sudan (Sanctions) (EU Exit) Regulations 2020
 individual_entity_ship: Individual
-designation_source: UK
+designation_source: UK|UN
 sanctions_imposed: Asset freeze|Travel Ban|Director Disqualification Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
@@ -65,6 +66,10 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
+other_information: |-
+  Abdul Rahim Hamdan Daglo was sanctioned by the UN on 24/02/2026 on the following ground:
+
+  Listed pursuant to paragraph 3(c) of UN Security Council Resolution 1591 (2005). As a Lieutenant General and Deputy commander of the RSF, DAGLO is an individual who impedes the peace process, constitutes a threat to stability in Darfur and the region and has committed violations of international humanitarian or human rights law or other atrocities.
 uk_statement_of_reasons: |2
 
   The Secretary of State considers that there are reasonable grounds to suspect that Abdul Rahim Hamdan Daglo is an involved person under the Sudan (Sanctions) (EU Exit) Regulations 2020 because he is or has been responsible for, engaging in, providing support for, or promoting the commission of serious violations of international humanitarian law in Sudan,grave breaches such as the mass killings of civilians; ethnically targeted executions; sexual violence, including gang rape; abductions for ransom; widespread arbitrary detentions; and attacks on health facilities, medical staff and humanitarian workers.

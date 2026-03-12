@@ -1,0 +1,43 @@
+{
+  "@context": "https://www.ammitto.org/ontology/context.jsonld",
+  "@type": "Index",
+  "slice": "by-regime",
+  "regime": {
+    "@id": "https://www.ammitto.org/regime/the_haiti_sanctions_regulations_2022"
+  },
+  "entries": [
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/hai0001"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/hai0003"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/hai0004"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/hai0005"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/hai0006"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/hai0007"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/hai0008"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/hai0009"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/hai0010"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/hai0012"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/hai0013"
+    }
+  ]
+}

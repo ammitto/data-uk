@@ -1,0 +1,50 @@
+---
+organizations:
+  - id: uk/hmt
+    name:
+      en: "His Majesty's Treasury"
+      zh-Hans: "英国财政部"
+    short_name:
+      en: "HM Treasury"
+      zh-Hans: "财政部"
+    type: ministry
+    url: "https://www.gov.uk/government/organisations/hm-treasury"
+    country_code: GB
+
+  - id: uk/ofsi
+    name:
+      en: "Office of Financial Sanctions Implementation"
+      zh-Hans: "金融制裁实施办公室"
+    short_name:
+      en: "OFSI"
+      zh-Hans: "金融制裁办公室"
+    type: agency
+    parent_id: uk/hmt
+    url: "https://www.gov.uk/government/collections/ofsi-guidance"
+    country_code: GB
+
+  - id: uk/fco
+    name:
+      en: "Foreign, Commonwealth & Development Office"
+      zh-Hans: "外交联邦发展部"
+    short_name:
+      en: "FCDO"
+      zh-Hans: "外交部"
+    type: ministry
+    url: "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office"
+    country_code: GB
+
+  - id: uk/hmso
+    name:
+      en: "His Majesty's Stationery Office"
+      zh-Hans: "英国皇家文书局"
+    type: agency
+    url: "https://www.legislation.gov.uk/"
+    country_code: GB
+
+  - id: uk/beis
+    name:
+      en: "Department for Business, Energy and Industrial Strategy"
+      zh-Hans: "商业能源和产业战略部"
+    type: ministry
+    country_code: GB

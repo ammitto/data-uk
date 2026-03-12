@@ -1,0 +1,163 @@
+{
+  "@context": "https://www.ammitto.org/ontology/context.jsonld",
+  "@type": "Index",
+  "slice": "by-regime",
+  "regime": {
+    "@id": "https://www.ammitto.org/regime/the_venezuela_sanctions_eu_exit_regulations_2019"
+  },
+  "entries": [
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0001"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0002"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0003"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0004"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0005"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0006"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0007"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0008"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0009"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0010"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0011"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0012"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0013"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0014"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0015"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0016"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0017"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0018"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0019"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0020"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0021"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0022"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0023"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0024"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0025"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0026"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0027"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0028"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0029"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0030"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0031"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0032"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0033"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0034"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0035"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0036"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0037"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0038"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0039"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0040"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0041"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0042"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0045"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0046"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0047"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0048"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0049"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0050"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0051"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0052"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ven0053"
+    }
+  ]
+}

@@ -1,8 +1,9 @@
 ---
-last_updated: '2025-12-12'
+last_updated: '2026-02-25'
 date_designated: '2025-12-12'
 unique_id: SUD0023
 ofsi_group_id: '17258'
+un_reference_number: SDi.009
 names:
   names:
   - name1: Al-Fateh
@@ -27,7 +28,7 @@ names:
     name_type: Alias
 regime_name: The Sudan (Sanctions) (EU Exit) Regulations 2020
 individual_entity_ship: Individual
-designation_source: UK
+designation_source: UK|UN
 sanctions_imposed: Asset freeze|Travel Ban|Director Disqualification Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
@@ -43,6 +44,12 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
+other_information: "Al-Fateh Abdullah Idris was sanctioned by the UN on 24/02/2026
+  on the following ground: \n\nListed pursuant to paragraph 3(c) of UN Security Council
+  Resolution 1591 (2005). As a Brigadier General of the RSF, IDRIS is an individual
+  who impedes the peace process, constitutes a threat to stability in Darfur and the
+  region and has committed violations of international humanitarian or human rights
+  law or other atrocities. "
 uk_statement_of_reasons: |2
 
   The Secretary of State considers that there are reasonable grounds to suspect that Al-Fateh Abdullah Idris is an involved person under the Sudan (Sanctions) (EU Exit) Regulations 2020 because he is or has been responsible for the commission of serious violations of international humanitarian law in Sudan, such as violence against persons on the basis of their ethnicity or religious beliefs and the deliberate targeting of civilians.

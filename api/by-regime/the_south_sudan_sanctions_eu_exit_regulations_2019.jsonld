@@ -1,0 +1,46 @@
+{
+  "@context": "https://www.ammitto.org/ontology/context.jsonld",
+  "@type": "Index",
+  "slice": "by-regime",
+  "regime": {
+    "@id": "https://www.ammitto.org/regime/the_south_sudan_sanctions_eu_exit_regulations_2019"
+  },
+  "entries": [
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ssu0001"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ssu0002"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ssu0003"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ssu0004"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ssu0005"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ssu0006"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ssu0007"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ssu0008"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ssu0009"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ssu0010"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ssu0011"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/ssu0012"
+    }
+  ]
+}
