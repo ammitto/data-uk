@@ -1,0 +1,295 @@
+{
+  "@context": "https://www.ammitto.org/ontology/context.jsonld",
+  "@type": "Index",
+  "slice": "by-regime",
+  "regime": {
+    "@id": "https://www.ammitto.org/regime/the_cyber_sanctions_eu_exit_regulations_2020"
+  },
+  "entries": [
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0001"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0002"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0003"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0004"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0005"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0006"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0007"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0008"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0009"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0010"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0011"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0012"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0022"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0023"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0024"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0025"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0026"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0027"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0028"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0029"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0030"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0031"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0032"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0033"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0034"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0035"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0036"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0037"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0038"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0039"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0040"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0041"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0042"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0043"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0044"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0045"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0046"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0047"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0048"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0049"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0050"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0051"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0052"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0053"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0054"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0055"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0056"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0057"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0058"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0059"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0060"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0061"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0062"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0063"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0064"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0065"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0066"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0067"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0068"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0069"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0070"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0071"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0074"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0075"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0076"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0078"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0079"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0081"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0082"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0083"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0086"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0088"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0089"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0090"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0091"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0092"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0094"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0095"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0097"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0098"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0099"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0100"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0101"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0102"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0103"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0104"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0105"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0106"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0107"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0108"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0109"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0110"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0111"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0113"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/cyb0114"
+    }
+  ]
+}

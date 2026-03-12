@@ -1,0 +1,43 @@
+---
+document_types:
+  - id: uk/regulation
+    name:
+      en: "Regulation"
+      zh-Hans: "法规"
+    description:
+      en: "Statutory instrument with legal force"
+
+  - id: uk/order
+    name:
+      en: "Order"
+      zh-Hans: "命令"
+    description:
+      en: "Ministerial order or direction"
+
+  - id: uk/act
+    name:
+      en: "Act"
+      zh-Hans: "法案"
+    description:
+      en: "Primary legislation passed by Parliament"
+
+  - id: uk/direction
+    name:
+      en: "Direction"
+      zh-Hans: "指令"
+    description:
+      en: "Official direction from authority"
+
+  - id: uk/general-license
+    name:
+      en: "General Licence"
+      zh-Hans: "通用许可"
+    description:
+      en: "License permitting otherwise prohibited activities"
+
+  - id: uk/designation
+    name:
+      en: "Designation"
+      zh-Hans: "指定"
+    description:
+      en: "Official designation of sanctioned entity"

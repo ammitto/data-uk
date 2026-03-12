@@ -1,0 +1,161 @@
+---
+$schema: https://json-schema.org/draft/2020-12/schema
+$id: https://www.ammitto.org/schemas/uk-announcement.yml
+title: UK Sanction Announcement
+description: Schema for UK OFSI sanction announcements
+type: object
+required:
+  - id
+  - announcement
+  - sanction_details
+properties:
+  id:
+    type: string
+    description: Unique identifier for this announcement
+    pattern: "^uk/[a-z0-9-]+$"
+
+  announcement:
+    type: object
+    required:
+      - title
+      - publish_date
+    properties:
+      title:
+        type: string
+        description: Title of the announcement
+      url:
+        type: string
+        format: uri
+        description: URL to official source
+      publish_date:
+        type: string
+        format: date
+        description: Publication date (YYYY-MM-DD)
+      publish_time:
+        type: string
+        pattern: "^[0-2][0-9]:[0-5][0-9]$"
+        description: Publication time (HH:MM)
+      document_id:
+        type: string
+        description: Official document identifier
+      document_type:
+        type: string
+        description: Type of document (links to document-types.yml)
+      authority:
+        type: string
+        description: Issuing authority (links to organizations.yml)
+      publisher:
+        type: string
+        description: Publisher (links to organizations.yml)
+      lang:
+        type: string
+        pattern: "^[a-z]{2,3}(-[A-Za-z]{4})?(-[A-Z]{2})?$"
+        description: Language code (e.g., "en")
+        default: en
+
+  sanction_details:
+    type: array
+    items:
+      type: object
+      required:
+        - entity
+        - measures
+      properties:
+        entity:
+          type: object
+          required:
+            - type
+            - name
+          properties:
+            type:
+              type: string
+              enum: [person, organization, vessel, aircraft]
+            name:
+              type: object
+              properties:
+                full_name:
+                  type: string
+                first_name:
+                  type: string
+                last_name:
+                  type: string
+                script:
+                  type: string
+                  description: ISO 15924 script code
+            aliases:
+              type: array
+              items:
+                type: string
+            identifiers:
+              type: array
+              items:
+                type: object
+                properties:
+                  type:
+                    type: string
+                  value:
+                    type: string
+                  issuing_country:
+                    type: string
+        measures:
+          type: array
+          items:
+            type: object
+            properties:
+              type:
+                type: string
+                enum:
+                  - asset_freeze
+                  - travel_ban
+                  - trust_services_sanctions
+                  - arms_embargo
+                  - director_disqualification
+                  - other
+              description:
+                type: object
+                description: Localized description
+        reasons:
+          type: array
+          items:
+            type: object
+            properties:
+              category:
+                type: string
+              description:
+                type: object
+        period:
+          type: object
+          properties:
+            effective_date:
+              type: string
+              format: date
+            expiry_date:
+              type: string
+              format: date
+            is_indefinite:
+              type: boolean
+
+  legal_citations:
+    type: array
+    description: Legal instruments cited as basis
+    items:
+      type: object
+      properties:
+        legal_instrument_id:
+          type: string
+          description: Reference to legal instrument
+        articles:
+          type: array
+          items:
+            type: string
+        citation_type:
+          type: string
+          enum: [legal_basis, reference, amendment]
+
+  regime:
+    type: string
+    description: Sanction regime code
+
+  group_id:
+    type: string
+    description: ID for grouping multiple entries
