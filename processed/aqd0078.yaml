@@ -48,12 +48,12 @@ other_information: 'Reportedly defunct. In 2002-2004, Taibah International – B
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_line1: 6 Avde Smajlovica Street
-    address_line6: Novo Sarajevo
-    address_country: Bosnia and Herzegovina
   - address_line1: 26 Tabhanska Street
     address_line6: Visoko
     address_country: Bosnia and Herzegovina
   - address_line1: 3 Velika Cilna Ulica
     address_line6: Visoko
+    address_country: Bosnia and Herzegovina
+  - address_line1: 6 Avde Smajlovica Street
+    address_line6: Novo Sarajevo
     address_country: Bosnia and Herzegovina

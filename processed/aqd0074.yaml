@@ -50,5 +50,5 @@ other_information: 'NOTE: Only the Pakistan and Afghanistan offices of this enti
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_country: Pakistan
   - address_country: Afghanistan
+  - address_country: Pakistan

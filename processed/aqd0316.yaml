@@ -50,16 +50,16 @@ other_information: 'English language propagandist for Islamic State in Iraq and 
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_country: Syria
-  - address_line1: 349 Dass Branch Trace
-    address_line2: Dass Trace
-    address_line3: Enterprise Chaguanas
-    address_country: Trinidad and Tobago
+  - address_line1: Reyhanli
+    address_line2: Hatay
+    address_country: Turkey
   - address_line1: LP41 Ballisier Road
     address_line2: Smith Field Lands
     address_line3: Wallerfield
     address_line4: County of St. George East
     address_country: Trinidad and Tobago
-  - address_line1: Reyhanli
-    address_line2: Hatay
-    address_country: Turkey
+  - address_country: Syria
+  - address_line1: 349 Dass Branch Trace
+    address_line2: Dass Trace
+    address_line3: Enterprise Chaguanas
+    address_country: Trinidad and Tobago

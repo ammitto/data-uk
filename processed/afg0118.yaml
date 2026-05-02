@@ -1,5 +1,5 @@
 ---
-last_updated: '2026-02-16'
+last_updated: '2026-04-16'
 date_designated: '2011-02-09'
 unique_id: AFG0118
 ofsi_group_id: '11633'
@@ -46,29 +46,13 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Senior member of the Haqqani Network (TAe.012), which operates
-  out of North Waziristan in the Federally Administered Tribal Areas of Pakistan.
-  Has previously traveled to, and raised funds in, Dubai, United Arab Emirates. Brother
-  of Jalaluddin Haqqani (TAi.040) and uncle of Sirajuddin Jallaloudine Haqqani (TAi.144).
-  Reportedly deceased as of 2024. INTERPOL-UN Security Council Special Notice web
-  link: https://www.interpol.int/en/How-we-work/ Notices/View-UN-Notices-Individuals
-  click here'
+other_information: 'Has previously travelled to, and raised funds in, Dubai, United
+  Arab Emirates. Brother of Jalaluddin Haqqani (TAi.040) and uncle of Sirajuddin Jallaloudine
+  Haqqani (TAi.144). Reportedly deceased as of 11 December 2024. INTERPOL-UN Security
+  Council Special Notice weblink:  https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals.'
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_line6: Peshawar
-    address_country: Pakistan
-  - address_line1: Kayla Village
-    address_line2: near Miram Shah
-    address_line5: North Waziristan Agency (NWA),
-    address_line6: Federally Administered Tribal Areas (FATA)
-    address_country: Pakistan
-  - address_line1: Near Dergey Manday Madrasa
-    address_line2: Dergey Manday Village
-    address_line3: near Miram Shah
-    address_line5: North Waziristan Agency (NWA)
-    address_line6: Federally Administered Tribal Areas (FATA)
-    address_country: Pakistan
   - address_line1: Sarana Zadran Village
     address_line6: Paktia Province
     address_country: Afghanistan

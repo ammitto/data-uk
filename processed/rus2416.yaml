@@ -58,7 +58,6 @@ uk_statement_of_reasons: "\nJOINT-STOCK COMPANY SCIENTIFIC AND PRODUCTION ENTERP
   Government of Russia, namely the Russian defence sector. \n"
 addresses:
   addresses:
-  - {}
   - address_line1: Office 4264
     address_line2: Building 4
     address_line3: 7 Larina str.

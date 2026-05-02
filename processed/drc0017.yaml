@@ -39,9 +39,9 @@ addresses:
   addresses:
   - address_line6: Gisenyi
     address_country: Rwanda
-  - address_line1: Avenue President Mobutu
+  - address_line1: PO BOX 315
     address_line6: Goma
     address_country: Congo (Democratic Republic)
-  - address_line1: PO BOX 315
+  - address_line1: Avenue President Mobutu
     address_line6: Goma
     address_country: Congo (Democratic Republic)

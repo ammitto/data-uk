@@ -1,5 +1,5 @@
 ---
-last_updated: '2025-07-21'
+last_updated: '2026-03-06'
 date_designated: '2025-02-24'
 unique_id: RUS2479
 ofsi_group_id: '16829'
@@ -42,18 +42,14 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: "\nOJSC KEREMET BANK is an involved person under the Russia
-  (Sanctions) (EU Exit) Regulations 2019 on the basis that it is \nand has been involved
-  in obtaining a benefit from or supporting the Government of Russia through:\n (1)
-  carrying on business in a sector of strategic significance to the Government of
-  Russia, namely the Russian financial services sector; (2) providing financial services
-  to persons carrying on business in a sector of strategic significance to the Government
-  of Russia, namely the Russian financial services sector.\n"
+uk_statement_of_reasons: |2
+
+  The Secretary of State considers that there are reasonable grounds to suspect that OJSC KEREMET BANK is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 on the basis that it has been involved in obtaining a benefit from or supporting the Government of Russia through: (1) carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian financial services sector; (2) providing financial services to persons carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian financial services sector.
 addresses:
   addresses:
-  - address_line1: 40/4, Togolok Moldo
+  - address_line1: 80/1, Moskovskaya Street
     address_line6: Bishkek
     address_country: Kyrgyzstan
-  - address_line1: 80/1, Moskovskaya Street
+  - address_line1: 40/4, Togolok Moldo
     address_line6: Bishkek
     address_country: Kyrgyzstan

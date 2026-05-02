@@ -1,5 +1,5 @@
 ---
-last_updated: '2025-04-09'
+last_updated: '2026-03-12'
 date_designated: '2022-04-13'
 unique_id: RUS1327
 ofsi_group_id: '15286'
@@ -34,13 +34,10 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: "\nGulbakhor ISMAILOVA is the sister of Alisher USMANOV,
-  an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019. USMANOV
-  was designated by the UK on 3 March 2022. As an immediate family member of USMANOV
-  and obtaining material benefit from USMANOV, Gulbakhor ISMAILOVA is associated with
-  an involved person and therefore ISMAILOVA is an involved person under the Russia
-  (Sanctions) (EU Exit) Regulations 2019. \n The trust services sanctions were imposed
-  on 21/03/2023."
+uk_statement_of_reasons: |2
+
+  The Secretary of State considers that there are reasonable grounds to suspect Gulbakhor ISMAILOVA is the sister of Alisher USMANOV, an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019.  USMANOV was designated by the UK on 3 March 2022.  As an immediate family member of USMANOV, Gulbakhor ISMAILOVA is associated with an involved person and therefore ISMAILOVA is an involved person under the Russia (Sanctions)  (EU Exit) Regulations 2019.
+  The trust services sanctions were imposed on 21/03/2023.
 addresses:
   addresses:
   - address_line1: Apartment 81-83

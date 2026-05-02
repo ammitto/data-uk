@@ -47,5 +47,5 @@ uk_statement_of_reasons: "\n"
 addresses:
   addresses:
   - address_country: Algeria
-  - address_country: Niger
   - address_country: Mali
+  - address_country: Niger

@@ -1,5 +1,5 @@
 ---
-last_updated: '2021-12-18'
+last_updated: '2026-04-29'
 date_designated: '2001-01-25'
 unique_id: AFG0038
 ofsi_group_id: '7164'
@@ -10,6 +10,17 @@ names:
     name2: MOHAMMAD
     name6: HANIF
     name_type: Primary Name
+  - name1: 'IADENA  '
+    name6: 'MOHAMMAD '
+    name_type: Primary Name
+  - name1: 'IADENAMOHAMMAD '
+    name2: NAZRI
+    name6: MOHAMMAD
+    name_type: Primary Name Variation
+  - name1: QARI
+    name2: DIN
+    name6: MOHAMMAD
+    name_type: Primary Name Variation
 non_latin_names:
   names:
   - name_non_latin_script: دین محمد حنیف
@@ -31,10 +42,13 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Member of Taliban Supreme Council responsible for Takhar and Badakhshan
-  provinces. Believed to be in Afghanistan/Pakistan border area. Review pursuant to
-  Security Council resolution 1822 (2008) was concluded on 27 Jul. 2010. Picture available
-  for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security
-  Council Special Notice web link: https://www.interpol.int/en/ How-we-work/Notices/View-UN-Notices-Individuals
-  click here'
+other_information: Member of Taliban Supreme Council responsible for Takhar and Badakhshan
+  provinces. Height 172cm. Review pursuant to Security Council resolution 1822 (2008)
+  was concluded on 27 Jul. 2010. PicturePhoto available for inclusion in the INTERPOL-UN
+  Security Council Special Notice. INTERPOL-UN Security Council Special Notice web
+  link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2007-47175
 uk_statement_of_reasons: "\n"
+addresses:
+  addresses:
+  - address_line6: Kabul
+    address_country: Afghanistan

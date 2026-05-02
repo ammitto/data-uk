@@ -43,9 +43,6 @@ uk_statement_of_reasons: |2-
   Iran Centrifuge Technology Company (TESA) has manufactured uranium enrichment centrifuge parts in direct support of Iran's proliferation-sensitive nuclear activities. It has carried out work on behalf of UN-designated Kalaye Electric Company.
 addresses:
   addresses:
-  - address_line1: Km. 55th of Tehran-Qazvin Rd.
-    address_line6: Karaj
-    address_country: Iran
   - address_line1: 156 Golestan Street
     address_line2: Saradr e Jangal
     address_line6: Tehran
@@ -55,6 +52,9 @@ addresses:
     address_line3: Rowshan Shahr
     address_line4: Third Moshtaq Street
     address_line6: Esfahan
+    address_country: Iran
+  - address_line1: Km. 55th of Tehran-Qazvin Rd.
+    address_line6: Karaj
     address_country: Iran
   - address_line1: No.239
     address_line2: Africa Ave.

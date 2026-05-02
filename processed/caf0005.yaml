@@ -69,9 +69,9 @@ addresses:
   addresses:
   - address_line6: The Hague
     address_country: Netherlands
-  - address_line5: Bimbo
-    address_line6: Ombella-Mpoko province
-    address_country: Central African Republic
   - address_line5: Mbaiki
     address_line6: Lobaye Province
+    address_country: Central African Republic
+  - address_line5: Bimbo
+    address_line6: Ombella-Mpoko province
     address_country: Central African Republic

@@ -1,5 +1,5 @@
 ---
-last_updated: '2021-12-18'
+last_updated: '2026-04-29'
 date_designated: '2001-02-23'
 unique_id: AFG0023
 ofsi_group_id: '7281'
@@ -19,9 +19,14 @@ names:
     name6: Mazloom
     name_type: Alias
     alias_strength: Good quality a.k.a
+  - name1: FADEL
+    name2: AAKHUND
+    name6: MOHAMMAD
+    name_type: Alias
 non_latin_names:
   names:
   - name_non_latin_script: فضل محمد مظلوم
+  - name_non_latin_script: محمد فاضل آخوند
 regime_name: The Afghanistan (Sanctions) (EU Exit) Regulations 2020
 individual_entity_ship: Individual
 designation_source: UN
@@ -40,11 +45,15 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Review pursuant to Security Council resolution 1822 (2008) was
-  concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:
-  https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals click
-  here'
+other_information: Missing left leg since 1996. Serious injury on his right foot .
+  Height 168 cm . Review pursuant to Security Council resolution 1822 (2008) was concluded
+  on 23 Jul. 2010. Photo available for inclusion in the INTERPOL-UN Security Council
+  Special Notice. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2012-316058
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_country: Qatar
+  - address_line1: Pule Mahmood Khan
+    address_line2: PD2
+    address_line3: '10011'
+    address_line4: Kabul
+    address_country: Afghanistan

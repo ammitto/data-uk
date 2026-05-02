@@ -64,13 +64,13 @@ addresses:
   - address_line1: 30a Put Mladih Muslimana (ex Pavla Lukaca Street)
     address_line6: Sarajevo
     address_country: Bosnia and Herzegovina
-  - address_line1: 72 ul. Strossmajerova
-    address_line6: Zenica
-    address_country: Bosnia and Herzegovina
   - address_line1: 42 Muhameda Hadzijahica
     address_line6: Sarajevo
     address_country: Bosnia and Herzegovina
   - address_line1: 70 and 53 Strosmajerova Street
+    address_line6: Zenica
+    address_country: Bosnia and Herzegovina
+  - address_line1: 72 ul. Strossmajerova
     address_line6: Zenica
     address_country: Bosnia and Herzegovina
   - address_line1: Zlatnih Ljiljana Street

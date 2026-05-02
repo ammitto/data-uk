@@ -64,7 +64,7 @@ other_information: Martin Koumtamadji founded the FDPC in 2005. He joined the SÃ
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_line6: Ndjamena
-    address_country: Chad
   - address_line5: Am Dafock
     address_line6: Vakaga prefecture
+  - address_line6: Ndjamena
+    address_country: Chad

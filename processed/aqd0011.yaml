@@ -49,13 +49,13 @@ other_information: 'Reportedly defunct. Used to be officially registered in Bosn
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
+  - address_line1: 64 Potur Mahala Street
+    address_line6: Travnik
+    address_country: Bosnia and Herzegovina
   - address_line6: Zenica
     address_country: Bosnia and Herzegovina
   - address_line1: 14 Bihacka Street
     address_line6: Sarajevo
-    address_country: Bosnia and Herzegovina
-  - address_line1: 64 Potur Mahala Street
-    address_line6: Travnik
     address_country: Bosnia and Herzegovina
   - address_line1: 2A Hasiba Brankovica
     address_line6: Sarajevo

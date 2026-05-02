@@ -35,10 +35,10 @@ uk_statement_of_reasons: |2-
   An Iranian company which has been contracted by UN designated Kalaye Electric Company to provide design and engineering services across the nuclear fuel cycle, including at Natanz Fuel Enrichment Plant.
 addresses:
   addresses:
+  - address_line1: 27 Alvand Avenue
+    address_line2: 37th Street
+    address_line6: Tehran
   - address_line1: '90'
     address_line2: Fathi Shaghaghi Street
     address_line6: Tehran
     address_country: Iran
-  - address_line1: 27 Alvand Avenue
-    address_line2: 37th Street
-    address_line6: Tehran

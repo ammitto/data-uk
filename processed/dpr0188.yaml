@@ -44,9 +44,9 @@ other_information: The Reconnaissance General Bureau is the DPRK's premiere inte
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_line5: Hyongjesan-Guyok
+  - address_line5: Nungrado
     address_line6: Pyongyang
     address_country: North Korea
-  - address_line5: Nungrado
+  - address_line5: Hyongjesan-Guyok
     address_line6: Pyongyang
     address_country: North Korea

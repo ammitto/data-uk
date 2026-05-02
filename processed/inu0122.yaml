@@ -41,6 +41,12 @@ uk_statement_of_reasons: |2-
   Engineering firm that has procured equipment for Iran's heavy water research reactor
 addresses:
   addresses:
+  - address_line1: '3'
+    address_line2: 2nd St.
+    address_line3: Assad Abadi Ave.
+    address_line5: Vali Asr Ave.
+    address_line6: Tehran
+    address_country: Iran
   - address_line1: Flat 3
     address_line2: no. 3
     address_line3: 2nd St.
@@ -68,11 +74,5 @@ addresses:
     address_line3: 2nd Alley
     address_line4: Asad Abadi St.
     address_line5: Vali e asr St.
-    address_line6: Tehran
-    address_country: Iran
-  - address_line1: '3'
-    address_line2: 2nd St.
-    address_line3: Assad Abadi Ave.
-    address_line5: Vali Asr Ave.
     address_line6: Tehran
     address_country: Iran

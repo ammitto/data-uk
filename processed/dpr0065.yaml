@@ -37,7 +37,7 @@ addresses:
   - address_country: North Korea
   - address_line5: Beijing
     address_country: China
-  - address_line5: Dandong
-    address_country: China
   - address_line5: Yinkou
+    address_country: China
+  - address_line5: Dandong
     address_country: China

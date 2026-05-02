@@ -54,6 +54,6 @@ other_information: 'Terrorist and paramilitary group established by Muhammad Jam
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_country: Mali
   - address_country: Egypt
   - address_country: Libya
+  - address_country: Mali

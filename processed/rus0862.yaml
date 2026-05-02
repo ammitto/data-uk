@@ -1,5 +1,5 @@
 ---
-last_updated: '2025-04-09'
+last_updated: '2026-03-17'
 date_designated: '2022-03-15'
 unique_id: RUS0862
 ofsi_group_id: '14813'
@@ -9,6 +9,9 @@ names:
     name2: Dmitrievich
     name6: PESKOV
     name_type: Primary Name
+  - name1: Nicholas
+    name6: CHOLES
+    name_type: Alias
 non_latin_names:
   names:
   - name_non_latin_script: Николай Дмитриевич Песков
