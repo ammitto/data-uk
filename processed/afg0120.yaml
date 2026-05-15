@@ -62,12 +62,12 @@ other_information: 'Taliban financier. Owns businesses in Japan and frequently t
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_line1: Kalay Rangin
-    address_line2: Spin Boldak District
-    address_line6: Kandahar province
-    address_country: Afghanistan
   - address_line1: Boghra Road
     address_line2: Miralzei Village
     address_line3: Chaman
     address_line6: Baluchistan Province
     address_country: Pakistan
+  - address_line1: Kalay Rangin
+    address_line2: Spin Boldak District
+    address_line6: Kandahar province
+    address_country: Afghanistan
