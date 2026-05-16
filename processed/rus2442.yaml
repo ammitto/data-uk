@@ -1,5 +1,5 @@
 ---
-last_updated: '2025-04-09'
+last_updated: '2026-05-15'
 date_designated: '2025-02-24'
 unique_id: RUS2442
 ofsi_group_id: '16806'
@@ -32,12 +32,17 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: "\nVLADIMIR VIKTOROVICH PLATUNOV is or has been involved
-  in destabilising Ukraine or undermining or threatening the territorial integrity,
-  sovereignty or independence of Ukraine, as he owns or controls directly or indirectly
-  (within the meaning of regulation 7), or is working as a director (whether executive
-  or non-executive), trustee, or other manager or equivalent of EKC.AG and EK-RESOURCE
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that VLADIMIR VIKTOROVICH PLATUNOV is or has been involved in
+  destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty
+  or independence of Ukraine, as he owns or controls directly or indirectly (within
+  the meaning of regulation 7), or is working as a director (whether executive or
+  non-executive), trustee, or other manager or equivalent of EKC.AG and EK-RESOURCES
   LLC, which are providing financial services, or making available funds, economic
   resources, goods or technology, that could contribute to destabilising Ukraine or
   undermining or threatening the territorial integrity, sovereignty or independence
   of Ukraine. \n"
+addresses:
+  addresses:
+  - address_line6: Würzburg
+    address_country: Germany

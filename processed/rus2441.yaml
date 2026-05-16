@@ -1,5 +1,5 @@
 ---
-last_updated: '2025-04-09'
+last_updated: '2026-05-15'
 date_designated: '2025-02-24'
 unique_id: RUS2441
 ofsi_group_id: '16805'
@@ -45,12 +45,9 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: "\nEKC.AG is or has been involved in destabilising Ukraine
-  or undermining or threatening the territorial integrity, sovereignty or independence
-  of Ukraine, by providing financial services, or making available funds, economic
-  resources, goods or technology, that could contribute to destabilising Ukraine or
-  undermining or threatening the territorial integrity, sovereignty or independence
-  of Ukraine. \n"
+uk_statement_of_reasons: |2
+
+  The Secretary of State considers that there are reasonable grounds to suspect that EKC.AG is or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine, by providing financial services, or making available funds, economic resources, goods or technology, that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine.
 addresses:
   addresses:
   - address_line1: SKYONE Offices

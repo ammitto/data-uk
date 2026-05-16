@@ -43,12 +43,6 @@ uk_statement_of_reasons: "\nIZZITION E-TECHNOLOGY CO LTD is an \"involved person
   \n"
 addresses:
   addresses:
-  - address_line1: Flat 1506, 15/F
-    address_line2: Lucky Center,
-    address_line3: No. 166-171
-    address_line4: Wan Chai Road
-    address_line6: Hong Kong
-    address_country: China
   - address_line1: RM 29, 22/F, Yan's Tower, 25-27 Wong Chuk Hang Road, Aberdeen
     address_line6: Hong Kong
   - address_line1: Room 1001
@@ -57,4 +51,10 @@ addresses:
     address_line4: Huqqiang North Subdistrict
     address_line5: Futian District
     address_line6: Shenzhen
+    address_country: China
+  - address_line1: Flat 1506, 15/F
+    address_line2: Lucky Center,
+    address_line3: No. 166-171
+    address_line4: Wan Chai Road
+    address_line6: Hong Kong
     address_country: China
