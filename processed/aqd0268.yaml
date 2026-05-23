@@ -118,11 +118,11 @@ other_information: "Mother’s name: Heba Khamis Dari. Father’s name: Harith b
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_line5: Asas Village
-    address_line6: Abu Ghurayb
-    address_country: Iraq
   - address_country: Egypt
   - address_line6: Amman
     address_country: Jordan
+  - address_line5: Asas Village
+    address_line6: Abu Ghurayb
+    address_country: Iraq
   - address_line6: Khan Dari
     address_country: Iraq

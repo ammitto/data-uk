@@ -39,6 +39,9 @@ addresses:
   addresses:
   - address_line6: Basse-Kotto
     address_country: Central African Republic
+  - address_line6: Kafia Kingi
+  - address_line6: Vakaga
+    address_country: Central African Republic
   - address_line6: Bas-Uolo
     address_country: Congo (Democratic Republic)
   - address_line6: Haute-Kotto
@@ -47,6 +50,3 @@ addresses:
     address_country: Central African Republic
   - address_line6: Haut-Uolo
     address_country: Congo (Democratic Republic)
-  - address_line6: Kafia Kingi
-  - address_line6: Vakaga
-    address_country: Central African Republic

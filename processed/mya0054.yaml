@@ -57,11 +57,9 @@ uk_statement_of_reasons: "\nThe Myanmar security forces have a track record of c
   human rights violations and repression of the civilian population in Myanmar.\n"
 addresses:
   addresses:
-  - address_line1: No.19
-    address_line2: Kyaik Wine Pagoda Road
-    address_line3: Myaing Hay Wun Housing
-    address_line4: 8-Mile
-    address_line5: Mayangone
+  - address_line1: Thamadi Street, no.4-i/3
+    address_line2: 8th quarter
+    address_line5: Mayangone Township
     address_line6: Yangon
     address_country: Myanmar
   - address_line1: PYAY ROAD, NO3(X)
@@ -71,8 +69,10 @@ addresses:
     address_line5: Mayangone Township
     address_line6: Yangon
     address_country: Myanmar
-  - address_line1: Thamadi Street, no.4-i/3
-    address_line2: 8th quarter
-    address_line5: Mayangone Township
+  - address_line1: No.19
+    address_line2: Kyaik Wine Pagoda Road
+    address_line3: Myaing Hay Wun Housing
+    address_line4: 8-Mile
+    address_line5: Mayangone
     address_line6: Yangon
     address_country: Myanmar

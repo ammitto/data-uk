@@ -67,9 +67,9 @@ other_information: 'Finance “emir” for Islamic State in Iraq and the Levant,
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_line1: 17 Tamoz
-    address_line6: Mosul, previous address
-    address_country: Iraq
   - address_line1: Tel Afar – Al-Saad
     address_line6: Mosul
+    address_country: Iraq
+  - address_line1: 17 Tamoz
+    address_line6: Mosul, previous address
     address_country: Iraq
