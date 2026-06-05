@@ -35,7 +35,7 @@ uk_statement_of_reasons: |2-
   Subsidiary of the Libyan Investment Authority. Associated with Muammar Qadhafi and involved with associated persons.
 addresses:
   addresses:
-  - address_line6: Tripoli
-    address_country: Libya
   - address_line6: Janzour
+    address_country: Libya
+  - address_line6: Tripoli
     address_country: Libya

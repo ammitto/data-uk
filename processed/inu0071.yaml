@@ -55,15 +55,6 @@ addresses:
   - address_line1: P.O. Box81465 935
     address_line6: Esfahan
     address_country: Iran
-  - address_line1: P.O. Box 8140
-    address_line2: No. 107 Sepahbod Gharany Ave.
-    address_line6: Tehran
-    address_country: Iran
-  - address_line1: P.O. Box 83145 311
-    address_line2: 28 km Esfahan Tehran Freeway
-    address_line3: Shain Shahr
-    address_line6: Esfahan
-    address_country: Iran
   - address_line1: Shahih Shar Industrial Zone
     address_line6: Isfahan
     address_country: Iran
@@ -75,4 +66,13 @@ addresses:
     address_line2: No. 27 Ahahamat Ave.
     address_line3: Vallie Asr Square
     address_line6: Tehran
+    address_country: Iran
+  - address_line1: P.O. Box 8140
+    address_line2: No. 107 Sepahbod Gharany Ave.
+    address_line6: Tehran
+    address_country: Iran
+  - address_line1: P.O. Box 83145 311
+    address_line2: 28 km Esfahan Tehran Freeway
+    address_line3: Shain Shahr
+    address_line6: Esfahan
     address_country: Iran

@@ -1,5 +1,5 @@
 ---
-last_updated: '2025-04-09'
+last_updated: '2026-06-03'
 date_designated: '2024-03-27'
 unique_id: CTD0003
 ofsi_group_id: '16458'
@@ -46,13 +46,9 @@ uk_statement_of_reasons: "\nWe have reasonable grounds to suspect that Aozma SUL
   namely Mustafa AYASH, and Gaza Now. \n"
 addresses:
   addresses:
-  - address_line1: 8 St. Mildreds Avenue
-    address_line6: Luton
+  - address_line6: Uxbridge
     address_country: United Kingdom
-  - address_line1: 4 Culham Court
-    address_line2: Redford Way
-    address_line6: Uxbridge
+  - address_line6: Luton
     address_country: United Kingdom
-  - address_line1: 5 Maryport Road
-    address_line6: Luton
+  - address_line6: Luton
     address_country: United Kingdom

@@ -88,13 +88,13 @@ other_information: 'He was sentenced to 15 years in prison in Indonesia in Janua
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_line1: Desa Gebang
-    address_line2: Kecamatan Masaran
-    address_line3: Kabupaten Sragen
-    address_line4: Jawa Tenagh
-    address_country: Indonesia
   - address_line1: Desa Taman Fajar
     address_line2: Kecamatan Probolinggo
     address_line3: Kabupaten Lampung Timur
     address_line4: Lampung
+    address_country: Indonesia
+  - address_line1: Desa Gebang
+    address_line2: Kecamatan Masaran
+    address_line3: Kabupaten Sragen
+    address_line4: Jawa Tenagh
     address_country: Indonesia

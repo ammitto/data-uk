@@ -63,13 +63,13 @@ other_information: 'Korea Ryonbong General Corporation is the parent company of 
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
+  - address_line5: Mangyongdae District
+    address_line6: Pyongyang
+    address_country: North Korea
   - address_line5: Mangungdae-gu
     address_line6: Pyongyang
     address_country: North Korea
   - address_line4: Tongan-dong
     address_line5: Central District
-    address_line6: Pyongyang
-    address_country: North Korea
-  - address_line5: Mangyongdae District
     address_line6: Pyongyang
     address_country: North Korea
