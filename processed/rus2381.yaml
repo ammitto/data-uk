@@ -1,5 +1,5 @@
 ---
-last_updated: '2025-04-09'
+last_updated: '2026-06-09'
 date_designated: '2024-12-17'
 unique_id: RUS2381
 ofsi_group_id: '16717'
@@ -46,9 +46,12 @@ other_information: 'Transport sanctions: where transport sanctions apply, a ship
   providing technical assistance to, or for the benefit of, the designated person,
   where that technical assistance relates to an aircraft or ship. The Director Disqualification
   Sanction was imposed on 09/04/2025.'
-uk_statement_of_reasons: |2
-
-  2Rivers DMCC is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 based on the following ground: 2Rivers DMCC is or has been involved in obtaining a benefit from or supporting the Government of Russia by carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian energy sector.
+uk_statement_of_reasons: "\n2Rivers DMCC is an involved person under the Russia (Sanctions)
+  (EU Exit) Regulations 2019 based on the following ground:  \n  \nThe Secretary of
+  State considers that there are reasonable grounds to suspect that 2Rivers DMCC is
+  or has been involved in obtaining a benefit from or supporting the Government of
+  Russia by carrying on business in a sector of strategic significance to the Government
+  of Russia, namely the Russian energy sector.  \n"
 addresses:
   addresses:
   - address_line1: 'Unit No: 3902, Platinum Towers'
