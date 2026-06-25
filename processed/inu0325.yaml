@@ -42,11 +42,11 @@ uk_statement_of_reasons: "\nAghajari Oil & Gas Production Company is an involved
   delivery system in, or for use in, Iran. \n"
 addresses:
   addresses:
-  - address_line1: Naft Blvd
-    address_line2: Omideh
-    address_line3: Khouzestan
-    address_country: Iran
   - address_line1: Khuzestan
     address_line2: Omidieh
     address_line3: Oil Boulevard
+    address_country: Iran
+  - address_line1: Naft Blvd
+    address_line2: Omideh
+    address_line3: Khouzestan
     address_country: Iran
