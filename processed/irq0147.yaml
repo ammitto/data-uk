@@ -49,8 +49,8 @@ sanctions_imposed_indicators:
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
+  - address_country: Yemen
   - address_line1: Al-Shahid Street
     address_line5: Al-Mahata Neighbourhood
     address_line6: Az Zabadani
     address_country: Syria
-  - address_country: Yemen

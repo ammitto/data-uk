@@ -58,11 +58,6 @@ addresses:
     address_line5: Tuzla
     address_line6: Istanbul
     address_country: Turkey
-  - address_line1: Sehidler Caddesi
-    address_line2: No 79/2
-    address_line3: Tuzla
-    address_line6: Istanbul
-    address_country: Turkey
   - address_line1: No 39
     address_line2: Alvand Street
     address_line3: Argentina Square
@@ -73,5 +68,10 @@ addresses:
     address_line3: No. 33 B Blk
     address_line4: D.19
     address_line5: Kadikoy
+    address_line6: Istanbul
+    address_country: Turkey
+  - address_line1: Sehidler Caddesi
+    address_line2: No 79/2
+    address_line3: Tuzla
     address_line6: Istanbul
     address_country: Turkey

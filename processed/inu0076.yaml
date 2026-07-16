@@ -48,6 +48,12 @@ uk_statement_of_reasons: |2-
   Owned or controlled by Khatam al Anbiya Construction Headquarters
 addresses:
   addresses:
+  - address_line1: Office E 43
+    address_line2: Torre E Piso4
+    address_line3: Centro Commercial Lido Av
+    address_line4: Francisco de Miranda
+    address_line6: Caracas
+    address_country: Venezuela
   - address_line1: Exclusive Road
     address_line2: Bushehr Grazjan Road
     address_line3: 5km
@@ -58,20 +64,14 @@ addresses:
     address_line5: PO Box 14665 495
     address_line6: Tehran
     address_country: Iran
-  - address_line1: Office E 43
-    address_line2: Torre E Piso4
-    address_line3: Centro Commercial Lido Av
-    address_line4: Francisco de Miranda
-    address_line6: Caracas
-    address_country: Venezuela
+  - address_line1: Zanzabil Mountain Side
+    address_line2: Shahid Kalantari Road 24 km
+    address_line6: Urmia
+    address_country: Iran
   - address_line1: Sadra Building No 3
     address_line2: Shafagh St
     address_line3: Poonak Khavari Blvd
     address_line4: Shahrak Ghods
     address_line5: PO Box 14669 56491
     address_line6: Tehran
-    address_country: Iran
-  - address_line1: Zanzabil Mountain Side
-    address_line2: Shahid Kalantari Road 24 km
-    address_line6: Urmia
     address_country: Iran

@@ -90,12 +90,12 @@ addresses:
     address_line2: Dudullu
     address_line6: Istanbul
     address_country: Turkey
+  - address_line1: Umraniye
+    address_line6: Istanbul
+    address_country: Turkey
   - address_line1: DES Industrial Complex
     address_line2: A13 Block 4
     address_line3: Yukari Dudullu
-    address_line6: Istanbul
-    address_country: Turkey
-  - address_line1: Umraniye
     address_line6: Istanbul
     address_country: Turkey
   - address_line1: No. 44 K6

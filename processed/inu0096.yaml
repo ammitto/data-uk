@@ -51,12 +51,12 @@ addresses:
     address_line4: Feneryolu Kadkoy
     address_line6: Istanbul
     address_country: Turkey
-  - address_line1: Feneryolu Bagdat Cad. Burc Apt. No. 117
-    address_line6: Istanbul
-    address_country: Turkey
   - address_line1: Number 39
     address_line2: Alvand St.
     address_line3: 1st Floor
     address_line4: Argentine Square
     address_line6: Tehran
     address_country: Iran
+  - address_line1: Feneryolu Bagdat Cad. Burc Apt. No. 117
+    address_line6: Istanbul
+    address_country: Turkey

@@ -58,9 +58,9 @@ uk_statement_of_reasons: "\nAndrey Naumovich Perla (hereafter Perla) is an “in
   of Ukraine. \n"
 addresses:
   addresses:
-  - address_line1: Maslennikova 41/24
-    address_line6: Samara
-    address_country: Russia
   - address_line1: Gurzufskaya 16/102
     address_line6: Yekaterinburg
+    address_country: Russia
+  - address_line1: Maslennikova 41/24
+    address_line6: Samara
     address_country: Russia

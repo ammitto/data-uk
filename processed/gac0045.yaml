@@ -1,5 +1,5 @@
 ---
-last_updated: '2025-04-09'
+last_updated: '2026-07-15'
 date_designated: '2023-08-10'
 unique_id: GAC0045
 ofsi_group_id: '16070'
@@ -30,9 +30,19 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-
-  Anna KOSAKOVA is an involved person under the Global Anti-Corruption Sanctions Regulations 2021 on the basis that she has been involved in serious corruption. Specifically, KOSAKOVA has been responsible for or engaged in serious corruption or has facilitated or provided support for serious corruption or has concealed or disguised or has facilitated the concealment or disguise of serious corruption given that she received benefit from funds over $300m improperly diverted, allocated or granted from the Central Bank of Lebanon, whilst Riad Salameh was its Governor.
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that Anna KOSAKOVA is an involved person under the Global Anti-Corruption
+  Sanctions Regulations 2021 on the basis that she is or has been involved in serious
+  corruption. \nSpecifically, there are reasonable grounds to suspect that KOSAKOVA
+  i) has facilitated or provided support for serious corruption, ii) has concealed
+  or disguised, or has facilitated the concealment or disguise of, serious corruption,
+  iii) transfers or converts, or has transferred or converted, or facilitates the
+  transfer or conversion of, any profit or proceeds from serious corruption, and iv)
+  has profited or profits financially or obtained or obtains any other benefit from
+  serious corruption, given the reasonable grounds to suspect that she receives or
+  has received benefit from and has been involved in the improperly diverted, granted,
+  or allocated funds originating from the Central Bank of Lebanon whilst Riad Salameh
+  was its Governor.\n"
 addresses:
   addresses:
   - address_line1: 65 Avenue Georges Mandel
