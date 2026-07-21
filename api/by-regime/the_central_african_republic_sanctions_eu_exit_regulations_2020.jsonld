@@ -1,0 +1,100 @@
+{
+  "@context": "https://www.ammitto.org/ontology/context.jsonld",
+  "@type": "Index",
+  "slice": "by-regime",
+  "regime": {
+    "@id": "https://www.ammitto.org/regime/the_central_african_republic_sanctions_eu_exit_regulations_2020"
+  },
+  "entries": [
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/caf0002"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/caf0003"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/caf0004"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/caf0005"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/caf0006"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/caf0007"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/caf0008"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/caf0009"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/caf0010"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/caf0011"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/caf0012"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/caf0013"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/caf0014"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/caf0015"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/caf0016"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/caf0017"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/caf0018"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/caf0019"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/caf0020"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/caf0021"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/caf0022"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/caf0023"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/caf0024"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/caf0025"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/caf0026"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/caf0027"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/caf0028"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/caf0029"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/caf0030"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/caf0031"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "@context": "https://www.ammitto.org/ontology/context.jsonld",
+  "@type": "Index",
+  "slice": "by-regime",
+  "regime": {
+    "@id": "https://www.ammitto.org/regime/the_yemen_sanctions_eu_exit_regulations_2020"
+  },
+  "entries": [
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/yem0001"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/yem0002"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/yem0004"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/yem0006"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/yem0007"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/yem0008"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/yem0009"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/yem0010"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/yem0011"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/yem0012"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/yem0013"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/yem0014"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/yem0015"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/yem0016"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/yem0017"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/yem0018"
+    }
+  ]
+}

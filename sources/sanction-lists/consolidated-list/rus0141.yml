@@ -1,0 +1,71 @@
+---
+id: uk/rus0141
+announcement:
+  title: "Asset freeze and travel ban imposed on Rustam Temirgaliev"
+  url: "https://www.gov.uk/government/publications/russia-russia-sanctions-regulation-2019"
+  publish_date: "2020-12-31"
+  document_type: uk/regulation
+  authority: uk/ofsi
+  publisher: uk/hmt
+  lang: en
+
+regime: russia
+
+sanction_details:
+  - entity:
+      type: person
+      name:
+        full_name: "Rustam Ilmirovich Temirgaliev"
+        script: Latn
+        first_name: Rustam
+        last_name: Temirgaliev
+      aliases:
+        - "Rustam Ilmyrovych Temirgaliev"
+        - "Рустам Iльмирович ТЕМIРГАЛIЄВ"
+        - "Рустам Ильмирович ТЕМИРГАЛИЕВ"
+      identifiers:
+        - type: "unique_id"
+          value: "RUS0141"
+        - type: "ofsi_group_id"
+          value: "12924"
+      addresses:
+        - country: "Ukraine"
+          country_code: UA
+          city: "Simferopol"
+
+    measures:
+      - type: asset_freeze
+        description:
+          en: "All funds and economic resources belonging to or owned by this person are frozen"
+      - type: travel_ban
+        description:
+          en: "Travel restrictions apply to this individual"
+      - type: trust_services_sanctions
+        description:
+          en: "Trust services sanctions apply"
+      - type: director_disqualification_sanction
+        description:
+          en: "Director disqualification sanction imposed on 09/04/2025"
+
+    reasons:
+      - category: "territorial_integrity"
+        description:
+          en: |
+            As former Deputy Prime Minister of Crimea, Temirgaliev played a relevant role
+            in the decisions taken by the 'Supreme Council' concerning the 'referendum'
+            of 16 March 2014 against the territorial integrity of Ukraine. He lobbied
+            actively for the integration of Crimea into the Russian Federation. On 11 June 2014,
+            he resigned from his function as 'First Deputy Prime Minister' of the so-called
+            'Republic of Crimea'. Currently General Director of the Managing Company of
+            the Russian-Chinese Investment Fund for Regional Development. Remains active
+            in supporting separatist actions or policies.
+
+    period:
+      effective_date: "2020-12-31"
+      is_indefinite: true
+
+legal_citations:
+  - legal_instrument_id: uk/russia-sanctions-regulation-2019
+    citation_type: legal_basis
+
+group_id: uk/2020-12-31-temirgaliev

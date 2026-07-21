@@ -1,0 +1,166 @@
+---
+$schema: https://json-schema.org/draft/2020-12/schema
+$id: https://www.ammitto.org/schemas/uk-measure-modification.yml
+title: UK Measure Modification
+description: Schema for UK sanction measure modifications (suspend, resume, stop)
+type: object
+required:
+  - id
+  - announcement
+  - measure_modifications
+properties:
+  id:
+    type: string
+    description: Unique identifier for this modification
+    pattern: "^uk/[a-z0-9-]+$"
+
+  announcement:
+    type: object
+    required:
+      - title
+      - publish_date
+    properties:
+      title:
+        type: string
+        description: Title of the announcement
+      url:
+        type: string
+        format: uri
+        description: URL to official source
+      publish_date:
+        type: string
+        format: date
+        description: Publication date (YYYY-MM-DD)
+      publish_time:
+        type: string
+        pattern: "^[0-2][0-9]:[0-5][0-9]$"
+        description: Publication time (HH:MM)
+      document_id:
+        type: string
+        description: Official document identifier
+      document_type:
+        type: string
+        description: Type of document
+      authority:
+        type: string
+        description: Issuing authority
+      publisher:
+        type: string
+        description: Publisher
+      lang:
+        type: string
+        pattern: "^[a-z]{2,3}(-[A-Za-z]{4})?(-[A-Z]{2})?$"
+        description: Language code
+        default: en
+      content:
+        type: string
+        description: Full announcement text
+
+  measure_modifications:
+    type: object
+    required:
+      - modifications
+    properties:
+      instruments:
+        type: array
+        description: Legal instruments cited
+        items:
+          type: object
+          properties:
+            id:
+              type: string
+              description: Reference to legal instrument
+            articles:
+              type: array
+              items:
+                type: string
+
+      modifications:
+        type: array
+        items:
+          type: object
+          required:
+            - action
+            - effective_date
+          properties:
+            action:
+              type: string
+              enum: [suspend, resume, stop, amend, extend]
+              description: Type of modification
+
+            target_type:
+              type: string
+              enum: [entry, group, list]
+              description: What is being modified
+
+            target_id:
+              type: string
+              description: IRI of target being modified
+
+            target_announcement_id:
+              type: string
+              description: ID of the original announcement
+
+            target_announcement_date:
+              type: string
+              format: date
+              description: Date of original announcement
+
+            effective_date:
+              type: string
+              format: date
+              description: Date modification becomes effective
+
+            effective_time:
+              type: string
+              pattern: "^[0-2][0-9]:[0-5][0-9]$"
+              description: Time modification becomes effective (HH:MM)
+
+            until_date:
+              type: string
+              format: date
+              description: End date for suspension
+
+            until_time:
+              type: string
+              pattern: "^[0-2][0-9]:[0-5][0-9]$"
+              description: End time for suspension (HH:MM)
+
+            duration_days:
+              type: integer
+              description: Duration in days
+
+            duration_description:
+              type: string
+              description: Duration description (e.g., "90 days")
+
+            affected_entities:
+              type: string
+              description: Description of affected entities
+
+            affected_entity_count:
+              type: integer
+              description: Number of entities affected
+
+            affected_entity_names:
+              type: array
+              description: Names of affected entities
+              items:
+                type: string
+
+            reason:
+              type: object
+              description: Reason for modification
+              properties:
+                en:
+                  type: string
+                  description: English reason
+
+            notes:
+              type: string
+              description: Additional notes
+
+            status:
+              type: string
+              enum: [active, expired, superseded]
+              default: active
