@@ -41,6 +41,6 @@ other_information: 'Headquarters was in Kandahar, Afghanistan as at 2001. Wafa w
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_country: United Arab Emirates
-  - address_country: Kuwait
   - address_country: Afghanistan
+  - address_country: Kuwait
+  - address_country: United Arab Emirates

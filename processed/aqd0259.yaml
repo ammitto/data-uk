@@ -57,7 +57,7 @@ other_information: 'Syrian-based Indonesian national who has served in a variety
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_line6: Aleppo
-    address_country: Syria
   - address_line6: Raqqa
+    address_country: Syria
+  - address_line6: Aleppo
     address_country: Syria

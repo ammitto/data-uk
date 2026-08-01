@@ -47,12 +47,12 @@ uk_statement_of_reasons: "\nThe Social Design Agency (hereafter “SDA”) is an
   sovereignty or independence of Ukraine.\n"
 addresses:
   addresses:
+  - address_line1: Prospekt Novoyasenevskii
+    address_line2: d. 23, k. 1
+    address_line6: Moscow
+    address_country: Russia
   - address_line1: Per. Bolshoi Kislovskiy
     address_line2: d. 1, str. 2
     address_line3: Arbat Municipal Okrug
-    address_line6: Moscow
-    address_country: Russia
-  - address_line1: Prospekt Novoyasenevskii
-    address_line2: d. 23, k. 1
     address_line6: Moscow
     address_country: Russia

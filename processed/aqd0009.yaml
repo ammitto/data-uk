@@ -95,6 +95,11 @@ addresses:
     address_line3: Nazimabad No 4
     address_line6: Karachi
     address_country: Pakistan
+  - address_line1: Office Dha'rbi-M'unin ZR Brothers
+    address_line2: Katcherry Road
+    address_line3: Chowk Yadgaar
+    address_line6: Peshawar
+    address_country: Pakistan
   - address_line1: Kitas Ghar
     address_line2: Nazimabad 4
     address_line3: Dahgel-Iftah
@@ -118,9 +123,4 @@ addresses:
     address_line4: Main Baxae
     address_line5: Mingora
     address_line6: Swat
-    address_country: Pakistan
-  - address_line1: Office Dha'rbi-M'unin ZR Brothers
-    address_line2: Katcherry Road
-    address_line3: Chowk Yadgaar
-    address_line6: Peshawar
     address_country: Pakistan

@@ -23,8 +23,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: 'Asset freeze|Travel Ban|Technical assistance related to aircraft|Trust
-  Services Sanctions|Director Disqualification Sanction|Transport sanctions: see "Other
+sanctions_imposed: 'Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction|Technical assistance related to aircraft|Transport sanctions: see "Other
   information"'
 sanctions_imposed_indicators:
   asset_freeze: true

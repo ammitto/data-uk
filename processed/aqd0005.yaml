@@ -70,9 +70,9 @@ addresses:
   - address_line1: 70 and 53 Strosmajerova Street
     address_line6: Zenica
     address_country: Bosnia and Herzegovina
-  - address_line1: 72 ul. Strossmajerova
-    address_line6: Zenica
-    address_country: Bosnia and Herzegovina
   - address_line1: Zlatnih Ljiljana Street
     address_line6: Zavidovici
+    address_country: Bosnia and Herzegovina
+  - address_line1: 72 ul. Strossmajerova
+    address_line6: Zenica
     address_country: Bosnia and Herzegovina
