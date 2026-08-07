@@ -1,0 +1,41 @@
+---
+last_updated: '2026-03-26'
+date_designated: '2026-03-26'
+unique_id: GHR0190
+names:
+  names:
+  - name6: XINBI COMPANY LIMITED
+    name_type: Primary Name
+regime_name: The Global Human Rights Sanctions Regulations 2020
+individual_entity_ship: Entity
+designation_source: UK
+sanctions_imposed: Asset freeze|Director Disqualification Sanction
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: false
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: false
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: true
+  deflag: false
+other_information: "Xinbi is associated with the following Tron crypto addresses:
+  \n\nTW5tokvhEfrb77z98Rc8HqbkzQJ6sxYtGX\nTBKpozurdWLrbKkxtDqkveeq1dSB8Axj3V"
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that Xinbi Company Limited (“Xinbi”) is an involved person within
+  the meaning of the Global Human Rights Sanctions Regulations 2020 on the basis of
+  the following grounds: (1) Xinbi is or has been involved in providing financial
+  services or making available funds, economic resources, goods or technology, knowing
+  or having reasonable cause to suspect that those financial services or funds will
+  or may contribute to human rights abuses, and; (2) Xinbi is or has been involved
+  in profiting financially or otherwise obtaining a benefit from human rights abuses.
+  Xinbi has enabled and profited from the operation of scam centres in Southeast Asia.
+  The treatment of individuals in these scam centres amounts to a serious abuse of
+  the right not to be subjected to cruel, inhumane, or degrading treatment or punishment,
+  and of the right to be free from slavery, not to be held in servitude or required to
+  perform forced or compulsory labour.  \n"

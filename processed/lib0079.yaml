@@ -1,0 +1,32 @@
+---
+last_updated: '2026-07-24'
+date_designated: '2026-07-22'
+unique_id: LIB0079
+un_reference_number: LYe.006
+names:
+  names:
+  - name6: IMO 9058713 ("AVAX")
+    name_type: Primary Name
+regime_name: The Libya (Sanctions) (EU Exit) Regulations 2020
+individual_entity_ship: Ship
+designation_source: UN
+sanctions_imposed: 'Shipping sanctions: (see "Other information")'
+sanctions_imposed_indicators:
+  asset_freeze: false
+  trust_services_sanctions: false
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: false
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: false
+  deflag: false
+other_information: |-
+  AVAX (IMO 9058713) was listed on 22 July 2026, pursuant to paragraphs 10(a), 10(b), 10(c) and 10(d) of resolution 2146 (2014), as amended by paragraph 2 of resolutions 2441 (2018) and 2509 (2020) and extended in resolution 2819 (2026), as attempting to illicitly export petroleum.
+
+  Shipping sanctions: a specified ship is prohibited from being provided with access to or having its master or pilot cause it to enter a port in the UK, may have its registration on the UK Ship Register terminated, and a master or pilot of a specified ship may be given a port barring direction, a detention direction, and a port entry direction or a movement direction.
+uk_statement_of_reasons: "\n"

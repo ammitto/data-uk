@@ -1,0 +1,49 @@
+---
+last_updated: '2026-04-29'
+date_designated: '2026-04-28'
+unique_id: SUD0036
+un_reference_number: SDi.011
+names:
+  names:
+  - name1: Al-Goney
+    name2: Hamdan
+    name6: DAGALO
+    name_type: Primary Name
+  - name1: Algoney
+    name2: Hamdan
+    name6: DAGALO
+    name_type: Primary Name Variation
+  - name1: Al-qoni
+    name2: Hamdan
+    name6: DAGALO
+    name_type: Primary Name Variation
+regime_name: The Sudan (Sanctions) (EU Exit) Regulations 2020
+individual_entity_ship: Individual
+designation_source: UN
+sanctions_imposed: Asset freeze|Travel Ban
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: false
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: true
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: false
+  deflag: false
+other_information: |+
+  Al-Goney Hamdan Dagalo was sanctioned by the UN on 28 April 2026 pursuant to paragraph 3 (c) of resolution 1591 (2005) on the following grounds: Al-Goney Hamdan Dagalo (Al-Goney) is being designated for engaging in actions or policies that threaten the peace, security, or stability of Darfur.
+
+  Al-Goney is the procurement director of the Rapid Support Forces (RSF) and a brother of Mohammed Hamdan “Hemedti” Dagalo, the leader of the RSF.  Al-Goney has extended this war by leading RSF efforts to procure weapons and military materiel.  By arming the RSF, his actions have directly contributed to the RSF’s ongoing siege of El Fasher in North Darfur, a city of nearly two million vulnerable civilians, and the RSF’s operations elsewhere in Sudan.
+
+  Al-Goney has controlled the RSF front company Tradive General Trading, which imported vehicles to Sudan on behalf of the RSF.
+
+addresses:
+  addresses:
+  - address_line6: Dubai
+    address_country: United Arab Emirates
+...

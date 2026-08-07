@@ -1,0 +1,42 @@
+---
+last_updated: '2026-07-16'
+date_designated: '2026-07-16'
+unique_id: SUD0057
+names:
+  names:
+  - name1: Ahmed
+    name2: Hamad
+    name3: El Basher
+    name6: HASHIM
+    name_type: Primary Name
+non_latin_names:
+  names:
+  - name_non_latin_script: 'أحمد هاشم حمد البشير '
+regime_name: The Sudan (Sanctions) (EU Exit) Regulations 2020
+individual_entity_ship: Individual
+designation_source: UK
+sanctions_imposed: Asset freeze|Travel Ban|Director Disqualification Sanction
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: false
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: true
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: true
+  deflag: false
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that Ahmed Hashim is an involved person under the Sudan (Sanctions)
+  (EU Exit) Regulations 2020\n \nbecause  he is associated with two involved persons,
+  GSK Advanced Company and Algoney Dagalo, and he has, through his his ownership of
+  Aoun Commercial Brokers LLC and position in GSK Advanced Company, provided financial
+  services and made available funds and economic resources that could contribute to
+  \ action, policy or activity which threatens the peace, stability and security of
+  Sudan in that those companies have played a role in the supply of money and resources
+  to the Rapid Support Forces, one of the main parties to the conflict in Sudan.\n
+  \n"

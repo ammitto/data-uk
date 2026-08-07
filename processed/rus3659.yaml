@@ -1,0 +1,52 @@
+---
+last_updated: '2026-06-16'
+date_designated: '2026-06-16'
+unique_id: RUS3659
+names:
+  names:
+  - name6: '"A7-AGENT" LIMITED LIABILITY COMPANY'
+    name_type: Primary Name
+  - name6: A7 AGENT
+    name_type: Primary Name Variation
+  - name6: A7 AGENT LLC
+    name_type: Primary Name Variation
+  - name6: LIMITED LIABILITY COMPANY A7 AGENT
+    name_type: Primary Name Variation
+non_latin_names:
+  names:
+  - name_non_latin_script: ООО «А7-АГЕНТ»
+  - name_non_latin_script: А7 АГЕНТ
+  - name_non_latin_script: A7 АГЕНТ ООО
+  - name_non_latin_script: ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "A7-AGENT"
+regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
+individual_entity_ship: Entity
+designation_source: UK
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: true
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: false
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: true
+  deflag: false
+uk_statement_of_reasons: "\nThe Secretary of State has reasonable grounds to suspect
+  that ”A7-AGENT” LIMITED LIABILITY COMPANY is or has been involved in obtaining a
+  benefit from or supporting the Government of Russia on the following two grounds:
+  (1), by providing financial services, or making available funds, economic resources,
+  goods or technology, to a person, in this case A7 LLC and PJSC Promsvyazbank, \n
+  who is carrying on business in a sector of strategic significance to the Government
+  of Russia,\n and (2) by carrying on business in a sector of strategic significance
+  to the Government of Russia, namely the Russian financial services sector.\n"
+addresses:
+  addresses:
+  - address_line1: Ul. Lesnaya D. 9 Pomeshch. 2/10
+    address_line6: Moscow
+    address_country: Russia

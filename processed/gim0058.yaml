@@ -1,0 +1,32 @@
+---
+last_updated: '2026-05-05'
+date_designated: '2026-05-05'
+unique_id: GIM0058
+names:
+  names:
+  - name1: Suyash
+    name6: MUKUT
+    name_type: Primary Name
+regime_name: The Global Irregular Migration and Trafficking in Persons Sanctions Regulations
+  2025
+individual_entity_ship: Individual
+designation_source: UK
+sanctions_imposed: Asset freeze|Travel Ban|Director Disqualification Sanction
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: false
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: true
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: true
+  deflag: false
+uk_statement_of_reasons: |2
+
+  The Secretary of State considers that there are reasonable grounds to suspect that Suyash MUKUT is an involved person under the Regulations as he is or has been involved in facilitating a relevant activity, namely
+   trafficking in persons. Specifically, he engaged in the recruitment of Indian nationals using deception for the purposes of exploitation. Using social media and other forms of communication, he advertised the provision of student visas in Russia but, upon the recruits’ arrival in Russia, they were forced to fight on the front line of Russia’s war of aggression in Ukraine against their will.

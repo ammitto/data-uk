@@ -1,0 +1,42 @@
+---
+last_updated: '2026-05-11'
+date_designated: '2026-05-11'
+unique_id: RUS3584
+names:
+  names:
+  - name1: Vladislav
+    name2: Nikolayevich
+    name6: GOLOVIN
+    name_type: Primary Name
+non_latin_names:
+  names:
+  - name_non_latin_script: Владислав Миколайович ГОЛОВІН
+regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
+individual_entity_ship: Individual
+designation_source: UK
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: true
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: true
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: true
+  deflag: false
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that Vladyslav Nikolayevich GOLOVIN (hereafter “GOLOVIN”) is
+  an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 on the
+  following grounds: (1) GOLOVIN is or has been involved in \nobtaining a benefit
+  from or supporting the Government of Russia through his role as Head of ‘Yunarmia’
+  (2)\n GOLOVIN is or has been involved in destabilising Ukraine or undermining or
+  threatening the territorial integrity, sovereignty or independence of Ukraine as
+  a person who is responsible for, engages in, provides support for, or promotes policies
+  or actions which destabilise Ukraine or undermine or threaten the territorial integrity,
+  sovereignty or independence of Ukraine, through his role as the Head of ‘Yunarmia’.\n"

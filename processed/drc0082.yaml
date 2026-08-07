@@ -1,0 +1,54 @@
+---
+last_updated: '2026-07-24'
+date_designated: '2026-07-17'
+unique_id: DRC0082
+names:
+  names:
+  - name1: Muhammed
+    name6: Lumisa
+    name_type: Primary Name
+  - name1: L
+    name6: Kato
+    name_type: Alias
+  - name6: Luminsa
+    name_type: Alias
+  - name6: Lumwisa
+    name_type: Alias
+  - name6: Mukade
+    name_type: Alias
+  - name6: Mukake
+    name_type: Alias
+regime_name: The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations
+  2019
+individual_entity_ship: Individual
+designation_source: UN
+sanctions_imposed: Asset freeze|Travel Ban
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: false
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: true
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: false
+  deflag: false
+other_information: 'Listed pursuant to paragraphs 7(a), 7 (e), 7(h) and 7(j) of resolution
+  2293 (2016), as reaffirmed by paragraph 2 of resolution 2688 (2023) and paragraph
+  3 of resolution 2738 (2024) and resolution 2783 (2025): MUHAMMED LUMISA has and
+  continues to engage in acts that undermine the peace, stability and security of
+  the DRC. He is a Senior Commander of the Allied Democratic Forces (ADF), which is
+  an extremist armed rebel group that commits atrocities which undermine the peace,
+  stability and security of the DRC. As leader of the ADF, LUMSISA engages in violation
+  of the measures taken by Member States in accordance with the arms embargo.  As
+  a leader of the ADF, LUMISA acts on behalf of a designated entity and shares responsibility
+  for crimes committed by the ADF in the DRC (killings, recruitment of child soldiers,
+  and sexual abuse), which constitute human rights abuses against civilians. As a
+  leader of the ADF, LUMISA continues to engage in or provide financial, material,
+  or technological support for, or goods or services to, or in support of a designated
+  entity.'
+uk_statement_of_reasons: "\n"

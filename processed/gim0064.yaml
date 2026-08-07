@@ -1,0 +1,39 @@
+---
+last_updated: '2026-05-28'
+date_designated: '2026-05-05'
+unique_id: GIM0064
+names:
+  names:
+  - name1: Mohammad
+    name2: Sufiyan
+    name3: Dawood
+    name4: Ahmad
+    name6: DARAGUR
+    name_type: Primary Name
+regime_name: The Global Irregular Migration and Trafficking in Persons Sanctions Regulations
+  2025
+individual_entity_ship: Individual
+designation_source: UK
+sanctions_imposed: Asset freeze|Travel Ban|Director Disqualification Sanction
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: false
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: true
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: true
+  deflag: false
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that Mohammad Sufiyan Dawood Ahmad DARAGUR is an involved person
+  under the Global Irregular Migration and Trafficking in Persons Sanctions Regulations
+  2025 as he is associated with a relevant person. Specifically, he is a director
+  of Baba Vlogs Overseas Recruitment Solutions Private Limited, a company which is
+  and has been involved in a relevant activity, namely human trafficking. The entity
+  recruited Indian nationals using coercive means for purposes of exploitation, namely
+  deployment on the front line of Russia’s war in Ukraine. \n"

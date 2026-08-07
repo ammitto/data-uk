@@ -1,0 +1,49 @@
+---
+last_updated: '2026-03-26'
+date_designated: '2026-03-26'
+unique_id: GHR0186
+names:
+  names:
+  - name6: LEGEND INNOVATION CO., LTD
+    name_type: Primary Name
+non_latin_names:
+  names:
+  - name_non_latin_script: 'លេជេន អ៊ិននើវេសិន ឯ.ក '
+regime_name: The Global Human Rights Sanctions Regulations 2020
+individual_entity_ship: Entity
+designation_source: UK
+sanctions_imposed: Asset freeze|Director Disqualification Sanction
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: false
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: false
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: true
+  deflag: false
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that LEGEND INNOVATION CO., LTD is an involved person within
+  the meaning of the Global Human Rights Sanctions Regulations 2020 on the basis of
+  the following grounds: (1) LEGEND INNOVATION CO., LTD is associated with persons
+  who are or have been involved in human rights abuses, namely CAMBODIAN HENG XIN
+  REAL ESTATE, which is involved in the development and operation of a scam centre
+  in Cambodia; (2) LEGEND INNOVATION CO., LTD is or has been responsible for, engaging
+  in, facilitating or providing support for human rights abuses, specifically serious
+  abuses of the right not to be subjected to cruel, inhuman or degrading treatment
+  or punishment, and of the right to be free from slavery, not to be held in servitude
+  or required to perform forced or compulsory labour, through its involvement in the
+  development and operation of a scam centre in Cambodia. \n"
+addresses:
+  addresses:
+  - address_line1: Huione Insurance
+    address_line2: Ta Nguon
+    address_line3: Kakap
+    address_line4: Por Sen Chey
+    address_line6: Phnom Penh
+    address_country: Cambodia

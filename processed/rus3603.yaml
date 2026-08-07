@@ -1,0 +1,60 @@
+---
+last_updated: '2026-05-26'
+date_designated: '2026-05-26'
+unique_id: RUS3603
+names:
+  names:
+  - name6: NUEVA CRYPTOLOGIA, SOCIEDAD POR ACCIONES SIMPLIFICADA DE CAPITAL VARIABLE
+      (S.A.S. DE C.V.)
+    name_type: Primary Name
+  - name6: ABCEX
+    name_type: Primary Name Variation
+  - name6: ABCEX Exchange
+    name_type: Primary Name Variation
+  - name6: ABCEX.io
+    name_type: Primary Name Variation
+  - name6: NUEVA CRYPTOLOGIA
+    name_type: Primary Name Variation
+  - name6: NUEVA CRYPTOLOGIA S.A.S. DE C.V.
+    name_type: Primary Name Variation
+regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
+individual_entity_ship: Entity
+designation_source: UK
+sanctions_imposed: 'Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction|Internet Services Sanctions: see "Other Information" | Correspondent Banking
+  Sanctions and processing payments'
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: true
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: false
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: true
+  deflag: false
+other_information: |-
+  Correspondent Banking Sanctions and processing payments:  Where this prohibition applies, UK credit or financial institutions are prohibited from establishing or continuing a correspondent banking relationship with a designated person, and from processing payments to, from or via a designated person. The measures will also apply to credit or financial institutions "owned or controlled" by the designated person (as set out in the regulations).
+
+  Internet Services Sanctions: When an individual or entity is designated for the purposes of this measure, social media services, internet access services and application stores must take reasonable steps to prevent users in the UK from accessing content, sites or applications provided by designated individuals or entities.
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that: \n \nNUEVA CRYPTOLOGIA., SOCIEDAD POR ACCIONES SIMPLIFICADA
+  DE CAPITAL VARIABLE (S.A.S. DE C.V)\n has been involved in obtaining a benefit from
+  or supporting the Government of Russia by providing financial services, or making
+  available funds, economic resources, or technology, to an involved person, namely
+  Garantex and Grinex.\nNUEVA CRYPTOLOGIA, SOCIEDAD POR ACCIONES SIMPLIFICADA DE CAPITAL
+  VARIABLE (S.A.S. DE C.V.) is or has been obtaining a benefit from or supporting
+  the Government of Russia by carrying on business in a sector of strategic significance
+  to the Government of Russia; namely, the Russian financial services sector.\n"
+addresses:
+  addresses:
+  - address_line1: Avenida La Revolución
+    address_line2: Plaza Presidente, Level 6, Local 1
+    address_line3: Colonia San Benito
+    address_line5: San Salvador Centro, Distrito San Salvador
+    address_line6: San Salvador
+    address_country: El Salvador

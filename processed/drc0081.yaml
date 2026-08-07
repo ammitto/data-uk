@@ -1,0 +1,47 @@
+---
+last_updated: '2026-07-24'
+date_designated: '2026-07-17'
+unique_id: DRC0081
+names:
+  names:
+  - name1: John
+    name2: Imani
+    name6: Nzenze
+    name_type: Primary Name
+  - name1: Imani
+    name6: Nzene
+    name_type: Alias
+regime_name: The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations
+  2019
+individual_entity_ship: Individual
+designation_source: UN
+sanctions_imposed: Asset freeze|Travel Ban
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: false
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: true
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: false
+  deflag: false
+other_information: 'Listed pursuant to paragraphs 7 (c), 7 (e) and 7(h) of resolution
+  2293 (2016), as reaffirmed by paragraph 2 of resolution 2688 (2023) and paragraph
+  3 of resolution 2738 (2024) and resolution 2783 (2025): JOHN IMANI NZENZE has and
+  continues to engage in acts that undermine the peace, stability and security of
+  the DRC. He is a military leader of the M23, a Congolese militia which received
+  support from outside the DRC and which impedes the disarmament, demobilization and
+  reintegration processes. As a leader of the M23, JOHN IMANI NZENZE acts on behalf
+  of a designated entity and shares responsibility for crimes committed by M23 in
+  the DRC (including killings, recruitment of child soldiers, and sexual abuse), which
+  constitute human rights abuses against civilians. '
+uk_statement_of_reasons: "\n"
+addresses:
+  addresses:
+  - address_line1: North Kivu
+    address_country: Congo (Democratic Republic)

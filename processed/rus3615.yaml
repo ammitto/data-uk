@@ -1,0 +1,51 @@
+---
+last_updated: '2026-05-26'
+date_designated: '2026-05-26'
+unique_id: RUS3615
+names:
+  names:
+  - name6: OPEN JOINT-STOCK COMPANY "STATE BROKERAGE COMPANY"
+    name_type: Primary Name
+  - name6: '"MBK" OJSC'
+    name_type: Primary Name Variation
+  - name6: MAMLEKETTIK BROKERDICK COMPANY
+    name_type: Primary Name Variation
+  - name6: OJSC "STATE BROKERAGE COMPANY"
+    name_type: Primary Name Variation
+  - name6: STATE BROKERAGE COMPANY
+    name_type: Primary Name Variation
+non_latin_names:
+  names:
+  - name_non_latin_script: АЧЫК АКЦИЯЛЫК КОМПАНИЯ «МАМЛЕКЕТТИК БРОКЕР КОМПАНИЯСЫ»
+  - name_non_latin_script: '"МБК" ААК'
+  - name_non_latin_script: ӨКМӨТТҮК БРОКЕРДИК КОМПАНИЯ
+  - name_non_latin_script: ААК «ӨКМӨТТҮК БРОКЕРЛИК КОМПАНИЯ»
+  - name_non_latin_script: МАМЛЕКЕТТИК БРОКЕРЛИК КОМПАНИЯ
+regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
+individual_entity_ship: Entity
+designation_source: UK
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: true
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: false
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: true
+  deflag: false
+uk_statement_of_reasons: |2
+
+  The Secretary of State considers that there are reasonable grounds to suspect that OPEN JOINT-STOCK COMPANY “STATE BROKERAGE COMPANY” is or has been involved in obtaining a benefit from or supporting the Government of Russia through carrying on business of economic significance to the Government of Russia.
+addresses:
+  addresses:
+  - address_line1: 172 Moskovskaya Street
+    address_line5: Leninsky District
+    address_line6: BISHKEK
+    address_country: Kyrgyzstan

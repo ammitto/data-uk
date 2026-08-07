@@ -1,0 +1,55 @@
+---
+last_updated: '2026-05-05'
+date_designated: '2026-05-05'
+unique_id: GIM0052
+names:
+  names:
+  - name1: Abid
+    name2: Kalid
+    name3: Sharif
+    name6: ABID
+    name_type: Primary Name
+  - name1: Khaled
+    name6: ELAMERI
+    name_type: Primary Name Variation
+non_latin_names:
+  names:
+  - name_non_latin_script: Абид Калид Шариф Абид
+regime_name: The Global Irregular Migration and Trafficking in Persons Sanctions Regulations
+  2025
+individual_entity_ship: Individual
+designation_source: UK
+sanctions_imposed: Asset freeze|Travel Ban|Director Disqualification Sanction
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: false
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: true
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: true
+  deflag: false
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that Abid Kalid Sharif ABID is an involved person under the Global
+  Irregular Migration and Trafficking in Persons Sanctions Regulations 2025 as he
+  is or has been involved in a relevant activity, namely \nthe instrumentalisation
+  of migration for the purposes of destabilisation based on the following grounds:\nGround
+  1: as part of a group backed by the Government of Russia, he facilitates the travel
+  of individuals in countries like \nIraq, Syria, Somalia and Yemen to Finland via
+  Russia for the purpose of causing the destabilisation of Finland and other European
+  Union Member States.\nGround 2: as part of a group backed by the Governments of
+  Russia and Belarus, \nhe facilitates \nthe travel of individuals in countries like
+  Iraq and Syria to Poland via Belarus for the purpose of causing the destabilisation
+  of Poland and other European Union Member States.\nGround 3: as part of a group
+  backed by the Government of Russia, \nhe facilitates the travel \nof individuals
+  in countries like Bangladesh, Iraq, India and Yemen to Ukraine via Russia for the
+  purpose of causing the destabilisation of Ukraine as the individuals are deployed
+  to fight for Russia in its war of aggression in Ukraine.\n"
+addresses:
+  addresses:
+  - address_country: Russia

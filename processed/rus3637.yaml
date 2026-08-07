@@ -1,0 +1,45 @@
+---
+last_updated: '2026-06-16'
+date_designated: '2026-06-16'
+unique_id: RUS3637
+names:
+  names:
+  - name6: 'P.K.T. MUNGMEE CO., LTD '
+    name_type: Primary Name
+regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
+individual_entity_ship: Entity
+designation_source: UK
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: true
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: false
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: true
+  deflag: false
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that P.K.T MUNGMEE CO., LTD is an “involved person” under the
+  Russian (Sanctions) (EU Exit) Regulations 2019 because it is, or has been, involved
+  in destabilising Ukraine or undermining or threatening the territorial integrity,
+  sovereignty or independence of Ukraine by making available economic resources, goods
+  or technology that could contribute to destabilising Ukraine or undermining or threatening
+  the territorial integrity, sovereignty or independence of Ukraine. \n"
+addresses:
+  addresses:
+  - address_line1: 419 Village No. 6
+    address_line2: Buengkan
+    address_line3: Si Wilai District
+    address_country: Thailand
+  - address_line1: 506/32 Moo 5
+    address_line2: Soi 16 Na Kluea
+    address_line3: Bang Lamung
+    address_line6: Chonburi
+    address_country: Thailand

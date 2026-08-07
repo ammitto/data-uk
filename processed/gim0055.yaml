@@ -1,0 +1,46 @@
+---
+last_updated: '2026-05-05'
+date_designated: '2026-05-05'
+unique_id: GIM0055
+names:
+  names:
+  - name6: DREAM HOME TRAVELS AND TOURS LTD
+    name_type: Primary Name
+  - name6: DREAM HOME TRAVELS
+    name_type: Primary Name Variation
+  - name6: 'DREAM HOME TRAVELS AND TOURS LIMITED '
+    name_type: Primary Name Variation
+regime_name: The Global Irregular Migration and Trafficking in Persons Sanctions Regulations
+  2025
+individual_entity_ship: Entity
+designation_source: UK
+sanctions_imposed: Asset freeze|Director Disqualification Sanction
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: false
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: false
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: true
+  deflag: false
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that DREAM HOME TRAVELS AND TOURS LTD is an involved person under
+  the Global Irregular Migration and Trafficking in Persons Sanctions Regulations
+  2025 as it is or has been involved in a relevant activity, namely trafficking in
+  persons. Specifically, DREAM HOME TRAVELS AND TOURS LTD engaged in the recruitment
+  of Bangladeshi nationals using deception and then exploited them. It advertised
+  well paid roles within the services sector in Russia but, upon the Bangladeshi nationals’
+  arrival in Russia, they were forced to fight on the front line of Russia’s war of
+  aggression against Ukraine under coercion. \n"
+addresses:
+  addresses:
+  - address_line1: H-86 Bir Uttam Ziaur Rahman Road
+    address_line2: Banani
+    address_line6: Dhaka
+    address_country: Bangladesh

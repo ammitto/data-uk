@@ -1,0 +1,69 @@
+---
+last_updated: '2026-07-24'
+date_designated: '2026-07-17'
+unique_id: DRC0080
+names:
+  names:
+  - name1: Kubwayo
+    name6: Gustave
+    name_type: Primary Name
+  - name6: Modeste
+    name_type: Alias
+    alias_strength: Low quality a.k.a
+  - name6: Sirkoff
+    name_type: Alias
+    alias_strength: Low quality a.k.a
+  - name6: Sirkoof
+    name_type: Alias
+    alias_strength: Good quality a.k.a
+  - name6: Slycove
+    name_type: Alias
+    alias_strength: Low quality a.k.a
+  - name6: Surcof
+    name_type: Alias
+    alias_strength: Low quality a.k.a
+  - name6: Surcoff
+    name_type: Alias
+    alias_strength: Low quality a.k.a
+  - name6: Surcouf
+    name_type: Alias
+    alias_strength: Good quality a.k.a
+  - name6: Surkoof
+    name_type: Alias
+    alias_strength: Low quality a.k.a
+  - name6: Surkouf
+    name_type: Alias
+    alias_strength: Low quality a.k.a
+  - name6: Syrkoff
+    name_type: Alias
+    alias_strength: Low quality a.k.a
+regime_name: The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations
+  2019
+individual_entity_ship: Individual
+designation_source: UN
+sanctions_imposed: Asset freeze|Travel Ban
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: false
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: true
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: false
+  deflag: false
+other_information: 'Listed pursuant to paragraphs 7(e) and 7(h) of resolution 2293
+  (2016), as reaffirmed by paragraph 2 of resolution 2688 (2023) and paragraph 3 of
+  resolution 2738 (2024) and resolution 2783 (2025): KUBWAYO has and continues to
+  engage in acts that undermine the peace, stability and security of the DRC. He is
+  a key leader of the UN sanctioned Forces Democratiques De Liberation Du Rwanda (FDLR),
+  an extremist armed group that commits atrocities which undermines the peace, stability
+  and security of the RDC. As a leader of FDLR, KUBWAYO acts on behalf of a designated
+  entity and shares responsibility for crimes allegedly committed by the FDLR in the
+  DRC (killings, recruitment of child soldiers, and sexual abuse), which constitute
+  human rights abuses against civilians.'
+uk_statement_of_reasons: "\n"

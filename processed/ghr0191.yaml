@@ -1,0 +1,54 @@
+---
+last_updated: '2026-06-15'
+date_designated: '2026-06-09'
+unique_id: GHR0191
+names:
+  names:
+  - name1: Itamar
+    name6: Yehuda Levy
+    name_type: Primary Name
+  - name1: Itamar
+    name2: Yehuda
+    name6: Levi
+    name_type: Primary Name Variation
+non_latin_names:
+  names:
+  - name_non_latin_script: איתמר יהודה לוי
+regime_name: The Global Human Rights Sanctions Regulations 2020
+individual_entity_ship: Individual
+designation_source: UK
+sanctions_imposed: Asset freeze|Travel Ban|Director Disqualification Sanction
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: false
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: true
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: true
+  deflag: false
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that \nItamar Yehuda Levi\n is an involved person under the Global
+  Human Rights Sanctions Regulations 2020 on the basis of the following ground: \n
+  \n \nItamar Yehuda Levi facilitates, incites, promotes or provides support for such
+  an activity which amounts to a serious abuse of the right of an individual not to
+  be subjected to cruel, inhuman or degrading treatment or punishment.\n  \nItamar
+  Yehuda Levi owns or controls an organisation that is responsible for an activity
+  which amounts to a serious abuse of the right of an individual not to be subjected
+  to cruel, inhuman or degrading treatment or punishment.\n  \nItamar Yehuda Levi\n
+  is associated with a person responsible for \nengaging in an activity which amounts
+  to a serious abuse of the right of an individual not to be subjected to cruel, inhuman
+  or degrading treatment or punishment.\n \n \nSpecifically, Itamar Yehuda Levi owns
+  a company, EYAL HARI YEHUDA COMPANY LTD which facilitates, supports and is responsible
+  for activities of construction and demolition jobs in the West Bank as well as the
+  destruction of Palestinian land and property, physically attacks, shootings and
+  killings of Palestinians which has led to the wider forced displacement of Palestinians.
+  \ \n"
+addresses:
+  addresses:
+  - address_line1: Susya 24, 9040100

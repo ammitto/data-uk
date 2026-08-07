@@ -1,0 +1,58 @@
+---
+last_updated: '2026-03-26'
+date_designated: '2026-03-26'
+unique_id: GHR0187
+names:
+  names:
+  - name1: Thet
+    name6: LI
+    name_type: Primary Name
+  - name1: Tian
+    name6: Li
+    name_type: Primary Name Variation
+non_latin_names:
+  names:
+  - name_non_latin_script: 李添
+regime_name: The Global Human Rights Sanctions Regulations 2020
+individual_entity_ship: Individual
+designation_source: UK
+sanctions_imposed: Asset freeze|Travel Ban|Director Disqualification Sanction
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: false
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: true
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: true
+  deflag: false
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that LI Thet (“LI”) is an involved person within the meaning
+  of the Global Human Rights Sanctions Regulations 2020 on the basis of the following
+  grounds: (1) LI is associated with persons who are or have been involved in human
+  rights abuses, namely CHEN Zhi and the Prince Group; (2) LI has provided financial
+  services, or made available funds, economic resources, goods or technology to a
+  person who is or has been involved in human rights abuses, namely CHEN Zhi and the
+  Prince Group. CHEN Zhi and the Prince Group are or have been involved in the operation
+  of scam centres in Cambodia. The treatment of individuals in these scam centres
+  amounts to a serious abuse of the right not to be subjected to cruel, inhumane,
+  or degrading treatment or punishment, and of the right to be free from slavery,
+  not to be held in servitude or required to perform forced or\n \ncompulsory labour.
+  \n"
+addresses:
+  addresses:
+  - address_line1: '11 Cuscaden Walk #25-01'
+    address_line2: Boulevard Vue Singapore
+    address_line6: Singapore
+    address_country: Singapore
+  - address_line1: No Y02
+    address_line2: St Y02
+    address_line3: Tonle Basac Quarter
+    address_line4: Chamkar Morn District
+    address_line6: Phnom Penh
+    address_country: Cambodia

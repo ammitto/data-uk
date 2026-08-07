@@ -1,0 +1,48 @@
+---
+last_updated: '2026-06-16'
+date_designated: '2026-06-16'
+unique_id: RUS3629
+names:
+  names:
+  - name6: JSC INTERCONSUL
+    name_type: Primary Name
+non_latin_names:
+  names:
+  - name_non_latin_script: АО ИНТЕРКОНСУЛ
+regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
+individual_entity_ship: Entity
+designation_source: UK
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: true
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: false
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: true
+  deflag: false
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that JSC INTERCONSUL is an “involved person” under the Russia
+  (Sanctions) (EU Exit) Regulations 2019 on the basis of the following grounds:  \n
+  \nJSC INTERCONSUL is or has been involved in obtaining a benefit from or supporting
+  the Government of Russia by carrying on business in sectors of strategic significance
+  to the Government of Russia. Namely, JSC INTERCONSUL has been conducting business
+  in the Russian defence and information, communications and digital technologies
+  sectors.  \nJSC INTERCONSUL is associated with LLC NEPTUNE CO LTD, an entity which
+  has been operating as a GRU front company that has been procuring goods and technology
+  to support the production and development needs of the Russian defence sector.\n"
+addresses:
+  addresses:
+  - address_line1: Room 19
+    address_line2: Apartment 6
+    address_line3: Building 125Zh
+    address_line4: Varshavskoe Highway
+    address_line6: Moscow
+    address_country: Russia

@@ -1,0 +1,50 @@
+---
+last_updated: '2026-07-24'
+date_designated: '2026-07-17'
+unique_id: DRC0077
+names:
+  names:
+  - name6: Twirwaneho
+    name_type: Primary Name
+  - name6: Twigwaneho
+    name_type: Primary Name Variation
+regime_name: The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations
+  2019
+individual_entity_ship: Entity
+designation_source: UN
+sanctions_imposed: Asset freeze
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: false
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: false
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: false
+  deflag: false
+other_information: 'Listed pursuant to paragraphs 7(a), 7(d) and 7(e) of resolution
+  2293 (2016), as reaffirmed by paragraph 2 of resolution 2688 (2023) and paragraph
+  3 of resolution 2738 (2024) and resolution 2783 (2025): The TWIRWANEHO has and continues
+  to engage in acts that undermine the peace, stability and security of the DRC. The
+  TWIRWANEHO is a member of the Congo River Alliance which is a politico-military
+  platform formed in alliance with M23, a Congolese militia, which plans, directs
+  and commits act in the DRC that constitute human rights violations or abuses or
+  violations of international humanitarian law. The TWIRWANEHO, by its involvement
+  with the Congo River Alliance, acts on behalf of a designated entity and shares
+  responsibility for crimes committed by M23 in the DRC (killings, recruitment of
+  child soldiers, and sexual abuse), which constitute human rights abuses against
+  civilians. The TWIRWANEHO has and continues to engage in acts that undermine the
+  peace, stability and security of the DRC by the recruitment and use of children
+  in armed conflict and violating the measures taken by UN member states in accordance
+  with the DRC arms embargo. '
+uk_statement_of_reasons: "\n"
+addresses:
+  addresses:
+  - address_line1: Hauts Plateaux
+    address_line2: South Kivu
+    address_country: Congo (Democratic Republic)

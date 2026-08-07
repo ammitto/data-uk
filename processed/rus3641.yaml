@@ -1,0 +1,43 @@
+---
+last_updated: '2026-06-16'
+date_designated: '2026-06-16'
+unique_id: RUS3641
+names:
+  names:
+  - name6: 'AEROGLOBAL CO., LTD.  '
+    name_type: Primary Name
+non_latin_names:
+  names:
+  - name_non_latin_script: 'บริษัท แอโร โกลเบิล จำกัด '
+regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
+individual_entity_ship: Entity
+designation_source: UK
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: true
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: false
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: true
+  deflag: false
+uk_statement_of_reasons: "\nThe Secretary of State considers there are reasonable
+  grounds to suspect that AEROGLOBAL CO., LTD. is an “involved person” under the Russian
+  (Sanctions) (EU Exit) Regulations 2019 because it is acting on behalf of a person
+  involved in obtaining a benefit from or supporting the Government of Russia through
+  carrying on business in a sector of strategic significance to the Government of
+  Russia, namely the transport sector, and carrying on business as a Government of
+  Russia-affiliated entity. \n"
+addresses:
+  addresses:
+  - address_line1: 116/51, S.S.P. Tower 2 Building, 14th Floor, Na Ranong Road, Khlong
+      Toei, Khet Khlong Toei
+    address_line6: Bangkok
+    address_country: Thailand

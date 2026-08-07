@@ -1,0 +1,51 @@
+---
+last_updated: '2026-07-16'
+date_designated: '2026-07-16'
+unique_id: SUD0059
+names:
+  names:
+  - name6: SUDAMIN COMPANY LIMITED
+    name_type: Primary Name
+  - name6: Sodamine
+    name_type: Primary Name Variation
+  - name6: Sudameen
+    name_type: Primary Name Variation
+  - name6: Sudamen
+    name_type: Primary Name Variation
+  - name6: 'Sudamin '
+    name_type: Primary Name Variation
+  - name6: Sudamine
+    name_type: Primary Name Variation
+non_latin_names:
+  names:
+  - name_non_latin_script: سودامين
+regime_name: The Sudan (Sanctions) (EU Exit) Regulations 2020
+individual_entity_ship: Entity
+designation_source: UK
+sanctions_imposed: Asset freeze|Director Disqualification Sanction
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: false
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: false
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: true
+  deflag: false
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that\n \nSudamin Company Limited (\n“SUDAMIN”) is an involved
+  person under the Sudan (Sanctions) (EU Exit) Regulations 2020 as it has made available
+  funds or economic resources that could contribute to activity which threatens the
+  peace, stability and security of Sudan.  Specifically, SUDAMIN, as a major state-owned
+  gold mining company in Sudan with links to other SAF-owned mining companies, has
+  provided the SAF with revenue from conflict gold. The SAF is one of the main warring
+  parties in Sudan.\n \n"
+addresses:
+  addresses:
+  - address_line1: Khartoum, Al Manshya
+    address_country: Sudan

@@ -1,0 +1,49 @@
+---
+last_updated: '2026-07-16'
+date_designated: '2026-07-16'
+unique_id: SUD0052
+names:
+  names:
+  - name1: Mazin
+    name2: Gamareldin
+    name3: Mohamed
+    name6: FADLALLA
+    name_type: Primary Name
+  - name1: Mazin
+    name6: Fadlalla
+    name_type: Primary Name Variation
+  - name1: Mazen
+    name2: Qamar
+    name3: Al Din
+    name4: Mohamed
+    name6: Fadlallah
+    name_type: Primary Name Variation
+non_latin_names:
+  names:
+  - name_non_latin_script: مازن قمر الدينمحمد فضل ه
+regime_name: The Sudan (Sanctions) (EU Exit) Regulations 2020
+individual_entity_ship: Individual
+designation_source: UK
+sanctions_imposed: Asset freeze|Travel Ban|Director Disqualification Sanction
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: false
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: true
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: true
+  deflag: false
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that Mazin Fadlalla is an involved person under the Sudan (Sanctions)
+  (EU Exit) Regulations 2020\n \nbecause  he has, through his positions in GSK Advanced
+  Company, Tradive General Trading\n, and \nAl Jil Al Qadem General Trading, provided
+  support for the activity of the Rapid Support Forces (“RSF”), activity which threatens
+  the peace, stability and security of Sudan. Through his positions in these companies,
+  he has provided financial services and made available funds and economic resources
+  to the RSF. \n"
