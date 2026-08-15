@@ -77,12 +77,12 @@ other_information: 'Prominent Taliban financier. As of mid-2009, supplied weapon
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
+  - address_line1: Kalay Rangin
+    address_line2: Spin Boldak District
+    address_line6: Kandahar Province
+    address_country: Afghanistan
   - address_line1: Boghra Road
     address_line2: Miralzei Village
     address_line3: Chaman
     address_line6: Baluchistan Province
     address_country: Pakistan
-  - address_line1: Kalay Rangin
-    address_line2: Spin Boldak District
-    address_line6: Kandahar Province
-    address_country: Afghanistan

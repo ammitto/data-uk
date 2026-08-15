@@ -63,5 +63,5 @@ other_information: 'As at Aug. 2015, one of the leaders of the Islamic State in 
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_country: Iraq
   - address_country: Syria
+  - address_country: Iraq

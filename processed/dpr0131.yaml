@@ -43,14 +43,14 @@ other_information: 'SWIFT: DCBKKPPY. Daedong Credit Bank has provided financial 
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_line3: Ansan-dong
-    address_line4: Botonggang Hotel
-    address_line5: Pongchon
-    address_line6: Pyongyang
-    address_country: North Korea
   - address_line2: Suite 401
     address_line3: Potonggang Hotel
     address_line4: Ansan-Dong
     address_line5: Pyongchon District
+    address_line6: Pyongyang
+    address_country: North Korea
+  - address_line3: Ansan-dong
+    address_line4: Botonggang Hotel
+    address_line5: Pongchon
     address_line6: Pyongyang
     address_country: North Korea

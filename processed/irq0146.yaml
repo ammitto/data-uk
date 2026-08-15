@@ -73,9 +73,9 @@ sanctions_imposed_indicators:
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_line6: Beirut
-    address_country: Lebanon
   - address_line1: Fuad Dawod Farm
     address_line5: Az Zabadani
     address_line6: Damascus
     address_country: Syria
+  - address_line6: Beirut
+    address_country: Lebanon

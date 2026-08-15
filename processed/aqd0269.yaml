@@ -45,10 +45,10 @@ other_information: 'Facilitator for the Islamic State in Iraq and the Levant (IS
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_line6: Basilan Province
-    address_country: Philippines
   - address_line6: Daina
     address_country: Saudi Arabia
+  - address_line6: Basilan Province
+    address_country: Philippines
   - address_line6: Jeddah
     address_country: Saudi Arabia
   - address_line6: Zamboanga City

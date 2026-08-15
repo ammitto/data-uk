@@ -52,14 +52,14 @@ uk_statement_of_reasons: |2
    There are reasonable grounds to suspect that they are an involved person under the Syria (Sanctions) (EU Exit) Regulations 2019 because they are or have been involved in activities carried out on behalf of the Assad regime, implementing, or connected to the repressive policies of that regime. In particular, carrying on prohibited activities related to chemical weapons in Syria.
 addresses:
   addresses:
-  - address_line1: Industrial Zone
-    address_line2: Al-Qadam Road
-    address_line5: P.O. Box 35202
-    address_line6: Damascus
-    address_country: Syria
   - address_line1: 'Rural Damascus: Adra'
     address_line2: Industrial Zone
     address_line3: next to Teshreen Mill
     address_line5: 'P.O. Box: 1149'
+    address_line6: Damascus
+    address_country: Syria
+  - address_line1: Industrial Zone
+    address_line2: Al-Qadam Road
+    address_line5: P.O. Box 35202
     address_line6: Damascus
     address_country: Syria

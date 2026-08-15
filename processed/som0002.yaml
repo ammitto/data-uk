@@ -80,8 +80,8 @@ sanctions_imposed_indicators:
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_line6: Mogadishu
-    address_country: Somalia
   - address_line5: Rinkeby
     address_line6: Stockholm
     address_country: Sweden
+  - address_line6: Mogadishu
+    address_country: Somalia

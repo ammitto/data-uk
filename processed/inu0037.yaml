@@ -46,14 +46,14 @@ uk_statement_of_reasons: "\nA subsidiary of the Defence Industries Organisation 
   and Ministry of Defence and Armed Forces Logistics (MODAFL). \n"
 addresses:
   addresses:
+  - address_line1: P.O. Box 19585/777
+    address_line6: Tehran
+  - address_line1: Pasdaran Avenue.
+    address_line6: Tehran
+    address_country: Iran
   - address_line1: 44 Sharif St.
     address_line2: Hoveyzeh, Korramshahr
     address_line3: North Sohrevardi Ave
   - address_line1: P.O. Box 19585 348
-    address_line6: Tehran
-    address_country: Iran
-  - address_line1: P.O. Box 19585/777
-    address_line6: Tehran
-  - address_line1: Pasdaran Avenue.
     address_line6: Tehran
     address_country: Iran

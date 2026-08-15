@@ -48,13 +48,13 @@ addresses:
   - address_line1: Changwang Street,
     address_line4: Pyongyang,
     address_line5: Democratic People’s Republic of Korea
-  - address_line1: Second KWP Government Building (Korean – Ch’o’ngsa, Urban Town
-      (Korean-Dong),
-    address_line2: Chung Ward,
-    address_line3: Pyongyang,
-    address_line4: Democratic People's Republic of Korea
   - address_line1: Chung-Guyok (Central District),
     address_line2: Sosong Street,
     address_line3: Kyongrim-Dong,
     address_line4: Pyongyang,
     address_line5: Democratic People’s Republic of Korea
+  - address_line1: Second KWP Government Building (Korean – Ch’o’ngsa, Urban Town
+      (Korean-Dong),
+    address_line2: Chung Ward,
+    address_line3: Pyongyang,
+    address_line4: Democratic People's Republic of Korea

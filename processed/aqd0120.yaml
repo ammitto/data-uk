@@ -1,5 +1,5 @@
 ---
-last_updated: '2024-01-11'
+last_updated: '2026-08-14'
 date_designated: '2008-10-27'
 unique_id: AQD0120
 ofsi_group_id: '10752'
@@ -31,17 +31,26 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Associated with the Islamic Jihad Union (IJU), also known as the
+other_information: "Associated with the Islamic Jihad Union (IJU), also known as the
   Islamic Jihad Group (QDe.119).Deported from Germany to Türkiye in February 2019.
-  Ongoing judicial process as of November 2023. Review pursuant to Security Council
+  Ongoing judicial process as of November 2023. Photo available for inclusion \nin
+  the INTERPOL-UN Security Council Special Notice. Review pursuant to Security Council
   resolution 2368 (2017) was concluded on 4 Dec. 2019. INTERPOL-UN Security Council
   Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals.
-  In prison since Sep. 2007.'
+  In prison since Sep. 2007."
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_country: Turkey
   - address_country: Germany
+  - address_line1: Ash Sokak no 24/5
+    address_line2: Atalar Mahallesi
+    address_line6: İstanbul
+    address_country: Turkey
   - address_line1: Südliche Ringstrasse 133
     address_line6: Langen
     address_country: Germany
+  - address_line1: Ash Street 24/5
+    address_line2: Atalar Neighbourhood
+    address_line5: Kartal
+    address_line6: Istanbul
+    address_country: Turkey

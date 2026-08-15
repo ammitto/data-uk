@@ -1,5 +1,5 @@
 ---
-last_updated: '2021-12-18'
+last_updated: '2026-08-14'
 date_designated: '2001-01-25'
 unique_id: AQD0312
 ofsi_group_id: '7424'
@@ -25,8 +25,21 @@ names:
     name6: Al-'Adil
     name_type: Alias
     alias_strength: Low quality a.k.a
+  - name1: Hazem
+    name6: al-Madani
+    name_type: Alias
+    alias_strength: Low quality a.k.a
   - name1: Ibrahim
     name6: al-Madani
+    name_type: Alias
+    alias_strength: Low quality a.k.a
+  - name1: Abu
+    name2: Khaled
+    name6: al-San'ani
+    name_type: Alias
+    alias_strength: Low quality a.k.a
+  - name1: Salem
+    name6: al-Sharif
     name_type: Alias
     alias_strength: Low quality a.k.a
   - name1: Muhamad
@@ -34,9 +47,18 @@ names:
     name6: MAKKAWI
     name_type: Alias
     alias_strength: Good quality a.k.a
+  - name1: Aber
+    name6: Sabil
+    name_type: Alias
+    alias_strength: Low quality a.k.a
+  - name1: Muhannad
+    name6: Salem
+    name_type: Alias
+    alias_strength: Low quality a.k.a
 non_latin_names:
   names:
   - name_non_latin_script: محمد صلاح الدين عبدالحليم زيدان
+  - name_non_latin_script: ﺳﺎﻟﻢ اﻟﺸﺮﯾﻒ
 regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations
   2019
 individual_entity_ship: Individual

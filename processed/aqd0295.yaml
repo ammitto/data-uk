@@ -64,11 +64,11 @@ other_information: 'Member of the Rajah Solaiman Movement (QDe.128). Arrested by
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_line1: Barangay Mangayao
-    address_line5: Tagkawayan
-    address_line6: Quezon
-    address_country: Philippines
   - address_line1: Barangay Tigib
     address_line5: Ayungon
     address_line6: Negros Oriental
+    address_country: Philippines
+  - address_line1: Barangay Mangayao
+    address_line5: Tagkawayan
+    address_line6: Quezon
     address_country: Philippines
