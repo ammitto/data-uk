@@ -67,11 +67,11 @@ other_information: 'Has controlled and commanded a large group of armed militia 
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
+  - address_line6: The Hague
+    address_country: Netherlands
   - address_line5: Mbaiki
     address_line6: Lobaye Province
     address_country: Central African Republic
   - address_line5: Bimbo
     address_line6: Ombella-Mpoko province
     address_country: Central African Republic
-  - address_line6: The Hague
-    address_country: Netherlands

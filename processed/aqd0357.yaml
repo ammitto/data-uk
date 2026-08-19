@@ -1,5 +1,5 @@
 ---
-last_updated: '2022-04-05'
+last_updated: '2026-08-17'
 date_designated: '2019-05-14'
 unique_id: AQD0357
 ofsi_group_id: '13788'
@@ -8,6 +8,8 @@ names:
   names:
   - name6: ISLAMIC STATE IN IRAQ AND THE LEVANT - KHORASAN (ISIL- K)
     name_type: Primary name
+  - name6: ISLAMIC STATE KHORASAN PROVINCE (ISKP)
+    name_type: Primary Name Variation
   - name6: ISIL KHORASAN
     name_type: Alias
   - name6: ISIL'S SOUTH ASIA BRANCH
@@ -57,5 +59,5 @@ other_information: 'Islamic State of Iraq and the Levant - Khorasan (ISIL - K) w
   oath of allegiance to the Islamic State of Iraq and the Levant (listed as Al-Qaida
   in Iraq (QDe.115)). ISIL – K has claimed responsibility for numerous attacks in
   both Afghanistan and Pakistan. INTERPOL-UN Security Council Special Notice web link:
-  https://www.interpol.int/How-we-work/Notices/View-UN-Notices-Entities'
+  https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities#2019-54448 '
 uk_statement_of_reasons: "\n"

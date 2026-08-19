@@ -1,5 +1,5 @@
 ---
-last_updated: '2025-06-26'
+last_updated: '2026-08-17'
 date_designated: '2025-06-16'
 unique_id: AQD0388
 ofsi_group_id: '16974'
@@ -8,6 +8,9 @@ names:
   - name1: ABUBAKAR
     name6: SWALLEH
     name_type: Primary Name
+  - name6: " Isaac Mupeta"
+    name_type: Alias
+    alias_strength: Low quality a.k.a
   - name6: ABUBAKER SWALEH
     name_type: Alias
     alias_strength: Good quality a.k.a
@@ -33,11 +36,13 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: Abubakar Swalleh provides financial, material, or technological
+other_information: "Abubakar Swalleh provides financial, material, or technological
   support for, or financial or other services to, or in support of, ISIL (listed as
   Al-Qaida in Iraq (QDe.115). He acted, since 2018, as an ISIL facilitator who provides
   financial and logistic support including recruitment for ISIL in East and Southern
-  Africa.
+  Africa. Phone number:  +963936016952. Gender: Male. Photo available for inclusion
+  in the INTERPOL-UN Security Council  Special Notice INTERPOL-UN Security Council
+  Special Notice: https://www.interpol.int/en/How-we\nwork/Notices/View-UN-Notices-Individuals#2025-47413 "
 uk_statement_of_reasons: |2
 
   Abubakar Swalleh was listed on [Date] pursuant to paragraphs 2 and 5 of resolution 2734 (2024) as being associated with ISIL or Al-Qaida for “participating in the financing, planning, facilitating, preparing, or perpetrating of acts or activities by, in conjunction with, under the name of, on behalf of, or in support of” Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq (QDe.115) and for “recruiting for Al-Qaida, ISIL, or any cell, affiliate, splinter group or derivative thereof” and for “otherwise supporting acts or activities of Al-Qaida, ISIL, or any cell, affiliate, splinter group or derivative thereof”.

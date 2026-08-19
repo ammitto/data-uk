@@ -59,9 +59,9 @@ other_information: 'Mother’s name is Khamisah al-Kathiri. Subject to a decree 
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_line1: Via Bertesi Number 27
+  - address_line1: Via Plebiscito Number 3
     address_line2: Cremona
     address_country: Italy
-  - address_line1: Via Plebiscito Number 3
+  - address_line1: Via Bertesi Number 27
     address_line2: Cremona
     address_country: Italy

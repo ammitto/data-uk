@@ -63,12 +63,12 @@ other_information: 'Chief of operations of Lashkar-e-Tayyiba (listed under perma
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_line1: Barahkoh
-    address_line2: P.O. DO
-    address_line6: Tehsil and District Islamabad
-    address_country: Pakistan
   - address_line1: Chak No. 18/IL
     address_line2: Rinala Khurd
     address_line3: Tehsil Rinala Khurd
     address_line6: District Okara
+    address_country: Pakistan
+  - address_line1: Barahkoh
+    address_line2: P.O. DO
+    address_line6: Tehsil and District Islamabad
     address_country: Pakistan
