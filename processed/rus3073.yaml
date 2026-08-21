@@ -40,12 +40,12 @@ uk_statement_of_reasons: "\nHORSWAY TECH (HK) CO., LIMITED is an \"involved pers
   \n"
 addresses:
   addresses:
+  - address_line1: Flat/Rm 2003 20/F Hong Kong Plaza
+    address_line2: 188 Connaught Road West
+    address_line6: Hong Kong
+    address_country: China
   - address_line1: Rm 1318, Sunbeam Centre
     address_line2: 27 Shing Yip Street
     address_line5: Kwun Tong
-    address_line6: Hong Kong
-    address_country: China
-  - address_line1: Flat/Rm 2003 20/F Hong Kong Plaza
-    address_line2: 188 Connaught Road West
     address_line6: Hong Kong
     address_country: China

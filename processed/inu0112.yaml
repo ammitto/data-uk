@@ -51,10 +51,10 @@ uk_statement_of_reasons: |2-
   Carries out scientific research in relation to Iran’s proliferation-sensitive nuclear activities.
 addresses:
   addresses:
-  - address_line1: P.O. Box 19395/4716
-    address_line6: Tehran
-    address_country: Iran
   - address_line1: Shahid Beheshti University
     address_line5: Evin
+    address_line6: Tehran
+    address_country: Iran
+  - address_line1: P.O. Box 19395/4716
     address_line6: Tehran
     address_country: Iran

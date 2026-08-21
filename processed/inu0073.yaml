@@ -41,10 +41,10 @@ uk_statement_of_reasons: "\nIran Communications Industries (ICI), a subsidiary o
   in the procurement of prohibited goods and technology. \n"
 addresses:
   addresses:
-  - address_line1: Apadana Ave.
+  - address_line1: 34 Khorramshar Street
     address_line6: Tehran
     address_country: Iran
-  - address_line1: 34 Khorramshar Street
+  - address_line1: Apadana Ave.
     address_line6: Tehran
     address_country: Iran
   - address_line1: P.O. Box 15875 4337

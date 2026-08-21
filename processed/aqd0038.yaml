@@ -43,9 +43,9 @@ other_information: 'Reportedly defunct. No longer operates in Bosnia and Herzego
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_line6: Gaza Strip
   - address_country: Bangladesh
   - address_country: Yemen
+  - address_line6: Gaza Strip
   - address_line1: 20-24 Branford Place
     address_line2: Suite 705
     address_line5: Newark

@@ -1,5 +1,5 @@
 ---
-last_updated: '2023-02-07'
+last_updated: '2026-08-20'
 date_designated: '2005-12-06'
 unique_id: AQD0207
 ofsi_group_id: '8787'
@@ -63,7 +63,7 @@ other_information: "Senior leader of Abu Sayyaf Group (ASG) (QDe.001). Leader of
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_line6: Lanao del Sur
-    address_country: Philippines
   - address_line6: Basilan, previous location until 2016
+    address_country: Philippines
+  - address_line6: Lanao del Sur
     address_country: Philippines

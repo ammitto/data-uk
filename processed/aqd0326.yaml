@@ -62,8 +62,8 @@ other_information: Reportedly a member of Jama'a Nusrat ul-Islam wa al-Muslimin 
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
+  - address_country: Mali
   - address_line4: Cité Feradj Lakhdar
     address_line5: Merine
     address_line6: Sidi Bel Abbes
     address_country: Algeria
-  - address_country: Mali

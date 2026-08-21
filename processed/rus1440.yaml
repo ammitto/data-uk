@@ -43,11 +43,11 @@ uk_statement_of_reasons: "\n MPI VOLNA LLC is involved in supporting the Governm
   the electronics sector. \n The trust services sanctions were imposed on 21/03/2023."
 addresses:
   addresses:
-  - address_line1: 4A Plekhanova Street
-    address_line2: Unit XII, Floor 2
-    address_line6: Moscow
-    address_country: Russia
   - address_line1: 29 Entuziastov Highway
     address_line2: Balashikha
     address_line6: Moskovskaya Oblast
+    address_country: Russia
+  - address_line1: 4A Plekhanova Street
+    address_line2: Unit XII, Floor 2
+    address_line6: Moscow
     address_country: Russia

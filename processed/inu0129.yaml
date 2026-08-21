@@ -42,12 +42,12 @@ addresses:
   - address_line1: 139, Hoveyzeh St.
     address_line6: Tehran
     address_country: Iran
-  - address_line1: No.101
-    address_line2: West Zartoshy St.
-    address_line6: Tehran
   - address_line1: Zardosht St
     address_line2: Opposite Mehr Hospital
     address_line3: Bldg No. 101
     address_line4: 3rd Floor
     address_line6: Tehran
     address_country: Iran
+  - address_line1: No.101
+    address_line2: West Zartoshy St.
+    address_line6: Tehran

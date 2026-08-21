@@ -48,16 +48,16 @@ addresses:
     address_line5: Futian District
     address_line6: Shenzhen
     address_country: China
+  - address_line1: Room 03, Chevalier House
+    address_line2: 45-51 Chatham Road South
+    address_line3: Tsim Sha Tsui
+    address_line5: Kowloon
+    address_line6: Hong Kong
+    address_country: China
   - address_line1: Rm. B22, 1/F, Block B
     address_line2: East Sun Industrial Centre,
     address_line3: 16 Shing Yip Street
     address_line4: Kwun Tong
-    address_line5: Kowloon
-    address_line6: Hong Kong
-    address_country: China
-  - address_line1: Room 03, Chevalier House
-    address_line2: 45-51 Chatham Road South
-    address_line3: Tsim Sha Tsui
     address_line5: Kowloon
     address_line6: Hong Kong
     address_country: China

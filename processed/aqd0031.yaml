@@ -47,6 +47,6 @@ other_information: 'Associated with the Organization of Al-Qaida in the Islamic 
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
+  - address_country: Tunisia
   - address_line1: Operates in Derna and Jebel Akhdar, Libya
     address_country: Libya
-  - address_country: Tunisia
