@@ -44,8 +44,8 @@ other_information: 'Associated with Islamic Movement of Uzbekistan (QDe.010). As
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
+  - address_line1: Syrian Arab Republic (as at 2023)
+    address_country: Syria
   - address_line1: Ungartenstrasse 6
     address_line6: Bonn
     address_country: Germany
-  - address_line1: Syrian Arab Republic (as at 2023)
-    address_country: Syria

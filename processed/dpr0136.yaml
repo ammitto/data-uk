@@ -68,13 +68,13 @@ addresses:
   - address_line5: Nungrado
     address_line6: Pyongyang
     address_country: North Korea
+  - address_line1: Reconnaissance General Bureau Headquarters
+    address_line5: Hyongjesan-Guyok
+    address_line6: Pyongyang
+    address_country: North Korea
   - address_line1: Rakrang No. 1
     address_line2: Rakrang District
     address_line3: Mangyongdae District
     address_line5: Chilgol-1 dong
-    address_line6: Pyongyang
-    address_country: North Korea
-  - address_line1: Reconnaissance General Bureau Headquarters
-    address_line5: Hyongjesan-Guyok
     address_line6: Pyongyang
     address_country: North Korea

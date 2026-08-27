@@ -42,12 +42,12 @@ other_information: Korea International Chemical Joint Venture Company is a subsi
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_line5: Man gyongdae-kuyok
-    address_line6: Pyongyang
-    address_country: North Korea
   - address_line5: Mangyungdae-gu
     address_line6: Pyongyang
     address_country: North Korea
   - address_line5: Hamhung
     address_line6: South Hamgyong Province
+    address_country: North Korea
+  - address_line5: Man gyongdae-kuyok
+    address_line6: Pyongyang
     address_country: North Korea

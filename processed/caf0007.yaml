@@ -53,10 +53,10 @@ other_information: 'Is a diamond smuggler and a three-star general of the Sélé
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
+  - address_line5: Tullus
+    address_line6: Southern Darfur
+    address_country: Sudan
   - address_line6: Birao
     address_country: Central African Republic
   - address_line6: Bria
     address_country: Central African Republic
-  - address_line5: Tullus
-    address_line6: Southern Darfur
-    address_country: Sudan

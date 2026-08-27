@@ -9,9 +9,9 @@ names:
     name_type: Primary Name
   - name6: 'Charters DV  '
     name_type: Primary Name Variation
-  - name6: Hartis DV LLC
-    name_type: Primary Name Variation
   - name6: 'Hartis Dv LLC  '
+    name_type: Primary Name Variation
+  - name6: Hartis DV LLC
     name_type: Primary Name Variation
   - name6: Heartis DV Limited Company
     name_type: Primary Name Variation
