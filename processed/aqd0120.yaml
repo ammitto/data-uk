@@ -41,16 +41,16 @@ other_information: "Associated with the Islamic Jihad Union (IJU), also known as
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
+  - address_country: Germany
+  - address_line1: Südliche Ringstrasse 133
+    address_line6: Langen
+    address_country: Germany
+  - address_line1: Ash Sokak no 24/5
+    address_line2: Atalar Mahallesi
+    address_line6: İstanbul
+    address_country: Turkey
   - address_line1: Ash Street 24/5
     address_line2: Atalar Neighbourhood
     address_line5: Kartal
     address_line6: Istanbul
     address_country: Turkey
-  - address_country: Germany
-  - address_line1: Ash Sokak no 24/5
-    address_line2: Atalar Mahallesi
-    address_line6: İstanbul
-    address_country: Turkey
-  - address_line1: Südliche Ringstrasse 133
-    address_line6: Langen
-    address_country: Germany

@@ -1,5 +1,5 @@
 ---
-last_updated: '2026-08-06'
+last_updated: '2026-09-03'
 date_designated: '2026-08-06'
 unique_id: RUS3709
 names:
@@ -10,8 +10,6 @@ names:
     name_type: Primary Name Variation
   - name6: LIMITED LIABILITY COMPANY ECOM BANK
     name_type: Primary Name Variation
-  - name6: ONEY BANK
-    name_type: Primary Name Variation
   - name6: OZON BANK LLC
     name_type: Primary Name Variation
 non_latin_names:
@@ -19,7 +17,6 @@ non_latin_names:
   - name_non_latin_script: ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ «ОЗОН БАНК»
   - name_non_latin_script: ЭКОМ БАНК
   - name_non_latin_script: ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ «ЭКОМ БАНК»
-  - name_non_latin_script: ОНЕЙ БАНК
   - name_non_latin_script: ООО ОЗОН БАНК
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity

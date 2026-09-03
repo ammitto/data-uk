@@ -1,5 +1,5 @@
 ---
-last_updated: '2025-05-20'
+last_updated: '2026-09-02'
 date_designated: '2025-05-20'
 unique_id: RUS2711
 ofsi_group_id: '16953'
@@ -9,7 +9,9 @@ names:
     name2: Bronislavovich
     name6: KLEVITSKIY
     name_type: Primary Name
-  - name6: KLEVITSKII
+  - name1: Stanislav
+    name2: Bronislavovich
+    name6: KLEVITSKII
     name_type: Primary Name Variation
 non_latin_names:
   names:
