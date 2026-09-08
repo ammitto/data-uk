@@ -1,20 +1,24 @@
 ---
-last_updated: '2026-08-18'
+last_updated: '2026-09-07'
 date_designated: '2025-06-16'
 unique_id: AQD0388
 ofsi_group_id: '16974'
+un_reference_number: QDi.436
 names:
   names:
-  - name1: ABUBAKAR
+  - name1: Abubakar
     name6: SWALLEH
     name_type: Primary Name
-  - name6: " Isaac Mupeta"
-    name_type: Alias
-    alias_strength: Low quality a.k.a
-  - name6: ABUBAKER SWALEH
+  - name1: Tom
+    name6: KIYURIGE
     name_type: Alias
     alias_strength: Good quality a.k.a
-  - name6: TOM KIYURIGE
+  - name1: " Isaac"
+    name6: Mupeta
+    name_type: Alias
+    alias_strength: Good quality a.k.a
+  - name1: Abubaker
+    name6: SWALEH
     name_type: Alias
     alias_strength: Good quality a.k.a
 regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations
