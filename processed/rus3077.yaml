@@ -1,5 +1,5 @@
 ---
-last_updated: '2025-10-15'
+last_updated: '2026-09-10'
 date_designated: '2025-10-15'
 unique_id: RUS3077
 ofsi_group_id: '17182'
@@ -35,10 +35,9 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: "\nJSC SOLID BANK is or has been obtaining a benefit from
-  or supporting the Government of Russia by carrying on business in a sector of strategic
-  significance to the Government of Russia; namely, the Russian financial services
-  sector.  \n"
+uk_statement_of_reasons: |2
+
+  The Secretary of State has reasonable grounds to suspect that JSC SOLID BANK is or has been obtaining a benefit from or supporting the Government of Russia by carrying on business in a sector of strategic significance to the Government of Russia; namely, the Russian financial services sector.
 addresses:
   addresses:
   - address_line1: St. Aleutian D. 33

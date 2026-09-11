@@ -1,5 +1,5 @@
 ---
-last_updated: '2026-09-08'
+last_updated: '2026-09-10'
 date_designated: '2026-09-08'
 unique_id: GHR0202
 names:
@@ -28,6 +28,9 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
+uk_statement_of_reasons: |2
+
+  The Secretary of State considers Avichai SUISSA (hereafter “SUISSA”) is an involved person within the meaning of the Global Human Rights Sanctions Regulations 2020 on the basis of the following ground: SUISSA provides financial services, or makes available funds, economic resources, goods or technology, knowing or having reasonable cause to suspect that those financial services, funds, economic resources, goods or technology will or may contribute to cruel, inhuman or degrading treatment.
 addresses:
   addresses:
   - address_line3: West Bank
