@@ -47,7 +47,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
+          git add -A -- processed/
           git commit -m "chore: update UK sanctions data ($(date +%Y-%m-%d))"
           git push
 
