@@ -1,4 +1,3 @@
----
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: DPR0009
@@ -8,8 +7,7 @@ names:
   - name1: Yun
     name6: Chol
     name_type: Primary name
-regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations
-  2019
+regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
 sanctions_imposed: Asset freeze|Travel Ban|Director Disqualification Sanction
@@ -27,13 +25,14 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: Associations with Green Pine Corporation and Korea Unsong Corporation
-  Limited The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: "\nChol Yun has been identified by the UN Panel of Experts
-  as contact person of the DPRK Company General Precious Metal involved in the sale
-  of lithium-6, a UN prohibited nuclear-related item, and DPRK diplomat.\n\n \n\nGeneral
-  Precious Metal has previously been identified by the European Union as an alias
-  of the UN designated entity Green Pine"
+other_information: Associations with Green Pine Corporation and Korea Unsong Corporation Limited The Director Disqualification Sanction was imposed on 09/04/2025.
+uk_statement_of_reasons: |-2
+  
+  Chol Yun has been identified by the UN Panel of Experts as contact person of the DPRK Company General Precious Metal involved in the sale of lithium-6, a UN prohibited nuclear-related item, and DPRK diplomat.
+
+   
+
+  General Precious Metal has previously been identified by the European Union as an alias of the UN designated entity Green Pine
 addresses:
   addresses:
   - address_country: China

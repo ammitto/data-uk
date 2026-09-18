@@ -1,4 +1,3 @@
----
 last_updated: '2025-04-09'
 date_designated: '2022-05-04'
 unique_id: RUS1441
@@ -18,8 +17,7 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
-  Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -34,14 +32,11 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: KPP 773601001 The Director Disqualification Sanction was imposed
-  on 09/04/2025.
-uk_statement_of_reasons: "\n MCST JSC is an involved person under the Russia (EU Exit)
-  (Sanctions) Regulations 2019 on the basis that it is or has been involved in obtaining
-  a benefit from or supporting the Government of Russia by carrying on business in
-  the information, communications, and digital technologies sector, a sector of strategic
-  significance to the Government of Russia. \n The trust services sanctions were imposed
-  on 21/03/2023."
+other_information: KPP 773601001 The Director Disqualification Sanction was imposed on 09/04/2025.
+uk_statement_of_reasons: |-2
+  
+   MCST JSC is an involved person under the Russia (EU Exit) (Sanctions) Regulations 2019 on the basis that it is or has been involved in obtaining a benefit from or supporting the Government of Russia by carrying on business in the information, communications, and digital technologies sector, a sector of strategic significance to the Government of Russia. 
+   The trust services sanctions were imposed on 21/03/2023.
 addresses:
   addresses:
   - address_line1: 51 Leninsky prospect

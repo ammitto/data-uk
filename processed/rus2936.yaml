@@ -1,4 +1,3 @@
----
 last_updated: '2025-09-12'
 date_designated: '2025-09-12'
 unique_id: RUS2936
@@ -13,8 +12,7 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
-  Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -29,14 +27,11 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: "\nTECGR CO., LTD is or has been involved in destabilising
-  Ukraine or undermining or threatening the territorial integrity, sovereignty or
-  independence of Ukraine, by making available goods or technology, that could contribute
-  to destabilising Ukraine or undermining or threatening the territorial integrity,
-  sovereignty or independence of Ukraine.  \n"
+uk_statement_of_reasons: |2
+  
+  TECGR CO., LTD is or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine, by making available goods or technology, that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine.  
 addresses:
   addresses:
-  - address_line1: 14/305 Rama II Rd, Khwaeng Bang Mot, Khet Chom Thong, Krung Thep
-      Maha Nakhon
+  - address_line1: 14/305 Rama II Rd, Khwaeng Bang Mot, Khet Chom Thong, Krung Thep Maha Nakhon
     address_line6: Bangkok
     address_country: Thailand

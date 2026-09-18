@@ -1,4 +1,3 @@
----
 last_updated: '2021-12-18'
 date_designated: '2006-04-25'
 unique_id: SUD0004
@@ -46,6 +45,5 @@ sanctions_imposed_indicators:
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_line6: Tine, Resides in Tine, on the Sudanese side of the border with
-      Chad
+  - address_line6: Tine, Resides in Tine, on the Sudanese side of the border with Chad
     address_country: Sudan

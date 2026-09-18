@@ -1,4 +1,3 @@
----
 last_updated: '2025-04-09'
 date_designated: '2023-03-27'
 unique_id: MYA0066
@@ -29,12 +28,10 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: Formerly The Asia Sun Aviation Pte Limited The Director Disqualification
-  Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: "\nShoon Energy Pte Limited is an involved person under The
-  Myanmar (Sanctions) Regulations 2021 because it has been profiting financially from
-  activity which represses the civilian population in Myanmar, namely through the
-  supply of aviation fuel.  \n"
+other_information: Formerly The Asia Sun Aviation Pte Limited The Director Disqualification Sanction was imposed on 09/04/2025.
+uk_statement_of_reasons: |2
+  
+  Shoon Energy Pte Limited is an involved person under The Myanmar (Sanctions) Regulations 2021 because it has been profiting financially from activity which represses the civilian population in Myanmar, namely through the supply of aviation fuel.  
 addresses:
   addresses:
   - address_line1: '77 HIGH STREET #09-11 HIGH STREET PLAZA'

@@ -1,4 +1,3 @@
----
 last_updated: '2025-04-09'
 date_designated: '2025-02-11'
 unique_id: CYB0064
@@ -27,24 +26,14 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: 'Incorporation date: 2/25/2011  The Director Disqualification Sanction
-  was imposed on 09/04/2025.'
-uk_statement_of_reasons: "\nZSERVERS has been involved in relevant cyber activity,
-  in that by providing hosting services that support relevant cyber activity it has
-  provided support for the commission, planning or preparation of such activity, has
-  supplied technology and provided technical assistance that could contribute to such
-  activity, and has carried out activities which promoted, enabled or facilitated
-  the commission of relevant cyber activity.\n  \nZSERVERS has operated from Barnaul,
-  Russia and has promoted itself as a Bulletproof Hosting (BPH) provider. ZSERVERS
-  has been involved in relevant cyber activity though its role providing infrastructure
-  used in ransomware incidents and reprovisioning infrastructure for customers identified
-  as being involved in malicious cyber activity, including those affiliated with the
-  LockBit ransomware group. ZSERVERS infrastructure was used to host a ransomware-dedicated
-  site connected with the leak of private information stolen from Australian health
-  insurance company Medibank Private Limited. ZSERVERS has been identified as a key
-  enabler of the cybercrime ecosystem.\n  \nSuch activity that ZSERVERS was involved
-  in, directly or indirectly caused, or was intended to cause, economic loss to, or
-  prejudice to the commercial interests of those affected by the activity.\n"
+other_information: 'Incorporation date: 2/25/2011  The Director Disqualification Sanction was imposed on 09/04/2025.'
+uk_statement_of_reasons: |2
+  
+  ZSERVERS has been involved in relevant cyber activity, in that by providing hosting services that support relevant cyber activity it has provided support for the commission, planning or preparation of such activity, has supplied technology and provided technical assistance that could contribute to such activity, and has carried out activities which promoted, enabled or facilitated the commission of relevant cyber activity.
+    
+  ZSERVERS has operated from Barnaul, Russia and has promoted itself as a Bulletproof Hosting (BPH) provider. ZSERVERS has been involved in relevant cyber activity though its role providing infrastructure used in ransomware incidents and reprovisioning infrastructure for customers identified as being involved in malicious cyber activity, including those affiliated with the LockBit ransomware group. ZSERVERS infrastructure was used to host a ransomware-dedicated site connected with the leak of private information stolen from Australian health insurance company Medibank Private Limited. ZSERVERS has been identified as a key enabler of the cybercrime ecosystem.
+    
+  Such activity that ZSERVERS was involved in, directly or indirectly caused, or was intended to cause, economic loss to, or prejudice to the commercial interests of those affected by the activity.
 addresses:
   addresses:
   - address_line1: 32 Jubileinaia

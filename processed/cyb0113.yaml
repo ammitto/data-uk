@@ -1,4 +1,3 @@
----
 last_updated: '2025-12-09'
 date_designated: '2025-12-09'
 unique_id: CYB0113
@@ -29,18 +28,13 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
-  grounds to suspect that Integrity Technology Group Incorporated (Integrity Tech),
-  formerly Beijing Integrity Technology Group (BITG), has been involved in relevant
-  cyber activity, in that it provided support for and engaged in the commission, planning
-  or preparation of such activity, and supplied technology that could contribute to
-  the commission of relevant cyber activity. \n \nIntegrity Tech controlled and managed
-  a botnet covert network consisting of over 260,000 compromised devices worldwide
-  and supplied access to this network enabling unauthorised access to and interference
-  with information systems and data which targeted UK public sector IT systems. \n
-  \nSuch activity that Integrity Tech was involved in, undermined, or was intended
-  to undermine, the integrity, prosperity or security of the United Kingdom or a country
-  other than the United Kingdom. \n"
+uk_statement_of_reasons: |2
+  
+  The Secretary of State considers that there are reasonable grounds to suspect that Integrity Technology Group Incorporated (Integrity Tech), formerly Beijing Integrity Technology Group (BITG), has been involved in relevant cyber activity, in that it provided support for and engaged in the commission, planning or preparation of such activity, and supplied technology that could contribute to the commission of relevant cyber activity. 
+   
+  Integrity Tech controlled and managed a botnet covert network consisting of over 260,000 compromised devices worldwide and supplied access to this network enabling unauthorised access to and interference with information systems and data which targeted UK public sector IT systems. 
+   
+  Such activity that Integrity Tech was involved in, undermined, or was intended to undermine, the integrity, prosperity or security of the United Kingdom or a country other than the United Kingdom. 
 addresses:
   addresses:
   - address_line1: Room 103, Block 6, No. 9

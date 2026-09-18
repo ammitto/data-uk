@@ -1,4 +1,3 @@
----
 last_updated: '2021-12-18'
 date_designated: '2015-03-13'
 unique_id: AQD0154
@@ -17,8 +16,7 @@ names:
     name6: Zahra
     name_type: Alias
     alias_strength: Low quality a.k.a
-regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations
-  2019
+regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UN
 sanctions_imposed: Asset freeze|Arms embargo|Travel Ban
@@ -36,7 +34,5 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'A senior leader of Jemaah Islamiyah (QDe.092) who has held leadership
-  positions in Hilal Ahmar Society Indonesia (HASI) (QDe.147). INTERPOL-UN Security
-  Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5854969'
+other_information: 'A senior leader of Jemaah Islamiyah (QDe.092) who has held leadership positions in Hilal Ahmar Society Indonesia (HASI) (QDe.147). INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5854969'
 uk_statement_of_reasons: "\n"

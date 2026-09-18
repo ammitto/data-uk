@@ -1,4 +1,3 @@
----
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: DPR0022
@@ -12,8 +11,7 @@ names:
     name2: Su
     name6: Kim
     name_type: Primary name variation
-regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations
-  2019
+regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
 sanctions_imposed: Asset freeze|Travel Ban|Director Disqualification Sanction
@@ -31,10 +29,9 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: Associations with Korean National Insurance Corporation (KNIC)
-  The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2-
-
+other_information: Associations with Korean National Insurance Corporation (KNIC) The Director Disqualification Sanction was imposed on 09/04/2025.
+uk_statement_of_reasons: |-2
+  
   Manager in the reinsurance department of Korea National Insurance Corporation (KNIC) based in the headquarters in Pyongyang and former authorised chief representative of KNIC in Hamburg, acting on behalf of KNIC or at its direction.
 addresses:
   addresses:

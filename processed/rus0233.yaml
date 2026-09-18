@@ -1,4 +1,3 @@
----
 last_updated: '2025-04-09'
 date_designated: '2022-02-22'
 unique_id: RUS0233
@@ -19,8 +18,7 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
-  Sanction|Prohibition on Correspondent banking relationships and processing payments
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction|Prohibition on Correspondent banking relationships and processing payments
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -38,8 +36,8 @@ sanctions_imposed_indicators:
 other_information: |-
   Other suspected locations: 22 regional offices in Crimea. The prohibition on correspondent banking relationships and processing payments was imposed on 15/12/2023.
    The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2-
-
+uk_statement_of_reasons: |-2
+  
    JOINT STOCK COMPANY “BLACK SEA BANK FOR DEVELOPMENT AND RECONSTRUCTION” hereafter, JSC “BLACK SEA BANK FOR DEVELOPMENT AND RECONSTRUCTION” is a Crimean bank that was created immediately after the illegal annexation of Crimea in 2014. It has capitalised on the sector’s fear of Western sanctions and the lack of banks in Crimea. By operating in Crimea, JSC “BLACK SEA BANK FOR DEVELOPMENT AND RECONSTRUCTION” has consolidated Crimea into the Russian Federation through the financial system.
    The trust services sanctions were imposed on 21/03/2023.
 addresses:

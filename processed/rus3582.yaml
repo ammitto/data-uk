@@ -1,24 +1,19 @@
----
 last_updated: '2026-05-11'
 date_designated: '2026-05-11'
 unique_id: RUS3582
 names:
   names:
-  - name6: 'THE CENTER FOR MILITARY SPORTS TRAINING AND PATRIOTIC EDUCATION OF YOUTH
-      "WARRIOR" '
+  - name6: 'THE CENTER FOR MILITARY SPORTS TRAINING AND PATRIOTIC EDUCATION OF YOUTH "WARRIOR" '
     name_type: Primary Name
-  - name6: 'Center for the Development of Military Sports Training and Patriotic Education
-      of Youth '
+  - name6: 'Center for the Development of Military Sports Training and Patriotic Education of Youth '
     name_type: Primary Name Variation
 non_latin_names:
   names:
-  - name_non_latin_script: 'ЦЕНТР ВОЕННО-СПОРТИВНОЙ ПОДГОТОВКИ И ПАТРИОТИЧЕСКОГО ВОСПИТАНИЯ
-      МОЛОДЕЖИ «ВОИН» '
+  - name_non_latin_script: 'ЦЕНТР ВОЕННО-СПОРТИВНОЙ ПОДГОТОВКИ И ПАТРИОТИЧЕСКОГО ВОСПИТАНИЯ МОЛОДЕЖИ «ВОИН» '
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
-  Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -33,14 +28,10 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
-  grounds to suspect that THE CENTER FOR MILITARY SPORTS TRAINING AND PATRIOTIC EDUCATION
-  OF YOUTH \"WARRIOR\" is an ‘involved person’ under the Russia (Sanctions) (EU Exit)
-  Regulations 2019 on the grounds that it is or has been involved in\n destabilising
-  Ukraine or undermining or threatening the territorial integrity, sovereignty or
-  independence of Ukraine as an entity which is  responsible for, engages in, provides
-  support for, or promotes policies or actions which destabilise Ukraine or undermine
-  or threaten the territorial integrity, sovereignty or independence of Ukraine. \n"
+uk_statement_of_reasons: |2
+  
+  The Secretary of State considers that there are reasonable grounds to suspect that THE CENTER FOR MILITARY SPORTS TRAINING AND PATRIOTIC EDUCATION OF YOUTH "WARRIOR" is an ‘involved person’ under the Russia (Sanctions) (EU Exit) Regulations 2019 on the grounds that it is or has been involved in
+   destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine as an entity which is  responsible for, engages in, provides support for, or promotes policies or actions which destabilise Ukraine or undermine or threaten the territorial integrity, sovereignty or independence of Ukraine. 
 addresses:
   addresses:
   - address_line1: Radio str.,

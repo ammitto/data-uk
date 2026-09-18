@@ -1,4 +1,3 @@
----
 last_updated: '2025-11-19'
 date_designated: '2025-11-19'
 unique_id: CYB0100
@@ -44,13 +43,8 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
-  grounds to suspect that Alexander Alexandrovich VOLOSOVIK is or has been involved
-  in relevant cyber activity through his role in and association with MEDIA LAND LLC,
-  an involved person identified as a key enabler of the cybercrime ecosystem.\nIn
-  this capacity, VOLOSOVIK is or has been involved in the supply of goods or technology
-  that could contribute to relevant cyber activity, or in providing financial services
-  relating to such supply. VOLOSOVIK is therefore involved in enabling cybercrime.
-  \nSuch activity that VOLOSOVIK is or has been involved in, directly or indirectly
-  caused, or was intended to cause, economic loss to, or prejudice to the commercial
-  interests of, those affected by the activity.\n"
+uk_statement_of_reasons: |2
+  
+  The Secretary of State considers that there are reasonable grounds to suspect that Alexander Alexandrovich VOLOSOVIK is or has been involved in relevant cyber activity through his role in and association with MEDIA LAND LLC, an involved person identified as a key enabler of the cybercrime ecosystem.
+  In this capacity, VOLOSOVIK is or has been involved in the supply of goods or technology that could contribute to relevant cyber activity, or in providing financial services relating to such supply. VOLOSOVIK is therefore involved in enabling cybercrime. 
+  Such activity that VOLOSOVIK is or has been involved in, directly or indirectly caused, or was intended to cause, economic loss to, or prejudice to the commercial interests of, those affected by the activity.

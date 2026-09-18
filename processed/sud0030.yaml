@@ -1,4 +1,3 @@
----
 last_updated: '2026-02-05'
 date_designated: '2026-02-05'
 unique_id: SUD0030
@@ -25,9 +24,8 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
-  grounds to suspect that Hussein Barsham is an involved person under the Sudan (Sanctions)
-  (EU Exit) Regulations 2020\n because he, as a Commander in the RSF, is or has been
-  responsible for promoting the commission of serious violations of international
-  humanitarian law in Sudan,\n and engaging in grave breaches such as targeted executions.
-  \n"
+uk_statement_of_reasons: |2
+  
+  The Secretary of State considers that there are reasonable grounds to suspect that Hussein Barsham is an involved person under the Sudan (Sanctions) (EU Exit) Regulations 2020
+   because he, as a Commander in the RSF, is or has been responsible for promoting the commission of serious violations of international humanitarian law in Sudan,
+   and engaging in grave breaches such as targeted executions. 

@@ -1,4 +1,3 @@
----
 last_updated: '2026-07-16'
 date_designated: '2026-07-16'
 unique_id: SUD0051
@@ -36,15 +35,13 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
-  grounds to suspect that Abu Dharr Abdul Nabi Habiballa Ahmmed is an involved person
-  under the Sudan (Sanctions) (EU Exit) Regulations 2020\n \nbecause he has, through
-  his position in Capital Tap Holding LLC\n,\n provided support for action, policy
-  or activity which threatens the peace, stability and security of Sudan, and has
-  provided financial services and made available funds and economic resources that
-  could contribute to such activity in that Capital Tap Holding LLC and its subsidiaries
-  have played a significant role in the supply of money and weapons to the Rapid Support
-  Forces, one of the main parties to the conflict in Sudan.\n"
+uk_statement_of_reasons: |2
+  
+  The Secretary of State considers that there are reasonable grounds to suspect that Abu Dharr Abdul Nabi Habiballa Ahmmed is an involved person under the Sudan (Sanctions) (EU Exit) Regulations 2020
+   
+  because he has, through his position in Capital Tap Holding LLC
+  ,
+   provided support for action, policy or activity which threatens the peace, stability and security of Sudan, and has provided financial services and made available funds and economic resources that could contribute to such activity in that Capital Tap Holding LLC and its subsidiaries have played a significant role in the supply of money and weapons to the Rapid Support Forces, one of the main parties to the conflict in Sudan.
 addresses:
   addresses:
   - address_line2: Dubai

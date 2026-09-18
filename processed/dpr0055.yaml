@@ -1,4 +1,3 @@
----
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: DPR0055
@@ -13,8 +12,7 @@ names:
     name2: Kyong
     name6: Hui
     name_type: Alias
-regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations
-  2019
+regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
 sanctions_imposed: Asset freeze|Travel Ban|Director Disqualification Sanction
@@ -32,16 +30,10 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: Association with Tcheul Hy Djang, Yong Nam Kim and Su Gwang Kim
-  The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: "\nKIM Kyong Hui, a four-star general of the DPRK, has been
-  involved together with her husband Kim Su Gwang, her father-in-law Kim Yong Nam
-  and her mother-in-law Djang Tcheul Hy in a pattern of deceptive financial practices
-  which could contribute to the DPRK’s nuclear-related, ballistic missile-related
-  or other weapons of mass destruction-related programmes. She received several bank
-  transfers from her husband Kim Su Gwang and father-in-law Kim Yong Nam, and transferred
-  money to accounts outside the European Union in her name or the name of her mother-in-law,
-  Djang Tcheul Hy.  \n"
+other_information: Association with Tcheul Hy Djang, Yong Nam Kim and Su Gwang Kim The Director Disqualification Sanction was imposed on 09/04/2025.
+uk_statement_of_reasons: |2
+  
+  KIM Kyong Hui, a four-star general of the DPRK, has been involved together with her husband Kim Su Gwang, her father-in-law Kim Yong Nam and her mother-in-law Djang Tcheul Hy in a pattern of deceptive financial practices which could contribute to the DPRK’s nuclear-related, ballistic missile-related or other weapons of mass destruction-related programmes. She received several bank transfers from her husband Kim Su Gwang and father-in-law Kim Yong Nam, and transferred money to accounts outside the European Union in her name or the name of her mother-in-law, Djang Tcheul Hy.  
 addresses:
   addresses:
   - address_country: North Korea

@@ -1,15 +1,12 @@
----
 last_updated: '2025-07-07'
 date_designated: '2025-07-07'
 unique_id: CHW0032
 ofsi_group_id: '16979'
 names:
   names:
-  - name6: JOINT STOCK COMPANY FEDERAL SCIENTIFIC AND PRODUCTION CENTRE SCIENTIFIC
-      RESEARCH INSTITUTE OF APPLIED CHEMISTRY
+  - name6: JOINT STOCK COMPANY FEDERAL SCIENTIFIC AND PRODUCTION CENTRE SCIENTIFIC RESEARCH INSTITUTE OF APPLIED CHEMISTRY
     name_type: Primary Name
-  - name6: FEDERAL RESEARCH AND PRODUCTION CENTER SCIENTIFIC RESEARCH INSTITUTE OF
-      APPLIED CHEMISTRY JSC
+  - name6: FEDERAL RESEARCH AND PRODUCTION CENTER SCIENTIFIC RESEARCH INSTITUTE OF APPLIED CHEMISTRY JSC
     name_type: Primary Name Variation
   - name6: FNPC NII APPLIED CHEMISTRY JSC
     name_type: Primary Name Variation
@@ -40,15 +37,9 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: 'Incorporation dates: 1945, 1 August 2011'
-uk_statement_of_reasons: "\nThe Joint Stock Company Federal Scientific and Production
-  Centre Scientific Research Institute of Applied Chemistry is an involved person
-  under the Chemical Weapons (Sanctions) (EU Exit) Regulations 2019, as it is or has
-  been responsible for, engaging in, providing support for, or promoting, a prohibited
-  activity related to chemical weapons. Specifically, the Joint Stock Company Federal
-  Scientific and Production Centre Scientific Research Institute of Applied Chemistry
-  provided RG-Vo riot control agent grenades to the Russian military which have been
-  used as a method of warfare against Ukraine in contravention of the Chemical Weapons
-  Convention. \n"
+uk_statement_of_reasons: |2
+  
+  The Joint Stock Company Federal Scientific and Production Centre Scientific Research Institute of Applied Chemistry is an involved person under the Chemical Weapons (Sanctions) (EU Exit) Regulations 2019, as it is or has been responsible for, engaging in, providing support for, or promoting, a prohibited activity related to chemical weapons. Specifically, the Joint Stock Company Federal Scientific and Production Centre Scientific Research Institute of Applied Chemistry provided RG-Vo riot control agent grenades to the Russian military which have been used as a method of warfare against Ukraine in contravention of the Chemical Weapons Convention. 
 addresses:
   addresses:
   - address_line1: 3 Akademika Silin Street

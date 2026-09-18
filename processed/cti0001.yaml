@@ -1,4 +1,3 @@
----
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: CTI0001
@@ -12,12 +11,10 @@ names:
     name2: Abdollahi
     name6: Saberi
     name_type: Alias
-regime_name: The Counter-Terrorism (International Sanctions) (EU Exit) Regulations
-  2019
+regime_name: The Counter-Terrorism (International Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Arms embargo|Travel Ban|Director Disqualification
-  Sanction
+sanctions_imposed: Asset freeze|Arms embargo|Travel Ban|Director Disqualification Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: false
@@ -32,10 +29,9 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: 'Links to IRGC5: Soleimani, Shahlai, Shakuri and Arbabsiar. The
-  Director Disqualification Sanction was imposed on 09/04/2025.'
+other_information: 'Links to IRGC5: Soleimani, Shahlai, Shakuri and Arbabsiar. The Director Disqualification Sanction was imposed on 09/04/2025.'
 uk_statement_of_reasons: |2
-
+  
   Hamed Abdollahi is a senior commander in the Iranian Revolutionary Guards-Qods Force (IRGC-QF). Mr Abdollahi has been accused of overseeing and coordinating the attempted assassination of Adel al-Jubeir, the Saudi ambassador to the US, in 2011.
 addresses:
   addresses:

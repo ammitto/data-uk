@@ -1,4 +1,3 @@
----
 last_updated: '2022-01-13'
 date_designated: '2001-10-06'
 unique_id: AQD0066
@@ -13,8 +12,7 @@ names:
 non_latin_names:
   names:
   - name_non_latin_script: الجماعة الاسلامية المقاتلة الليبية
-regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations
-  2019
+regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UN
 sanctions_imposed: Asset freeze|Arms embargo
@@ -32,9 +30,7 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Members in Afghanistan merged with Al-Qaida (QDe.004) in Nov.
-  2007. Review pursuant to Security Council resolution 1822 (2008) was concluded on
-  21 Jun. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/une/5281977'
+other_information: 'Members in Afghanistan merged with Al-Qaida (QDe.004) in Nov. 2007. Review pursuant to Security Council resolution 1822 (2008) was concluded on 21 Jun. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/une/5281977'
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

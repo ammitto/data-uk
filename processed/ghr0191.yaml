@@ -1,4 +1,3 @@
----
 last_updated: '2026-06-15'
 date_designated: '2026-06-09'
 unique_id: GHR0191
@@ -32,23 +31,23 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
-  grounds to suspect that \nItamar Yehuda Levi\n is an involved person under the Global
-  Human Rights Sanctions Regulations 2020 on the basis of the following ground: \n
-  \n \nItamar Yehuda Levi facilitates, incites, promotes or provides support for such
-  an activity which amounts to a serious abuse of the right of an individual not to
-  be subjected to cruel, inhuman or degrading treatment or punishment.\n  \nItamar
-  Yehuda Levi owns or controls an organisation that is responsible for an activity
-  which amounts to a serious abuse of the right of an individual not to be subjected
-  to cruel, inhuman or degrading treatment or punishment.\n  \nItamar Yehuda Levi\n
-  is associated with a person responsible for \nengaging in an activity which amounts
-  to a serious abuse of the right of an individual not to be subjected to cruel, inhuman
-  or degrading treatment or punishment.\n \n \nSpecifically, Itamar Yehuda Levi owns
-  a company, EYAL HARI YEHUDA COMPANY LTD which facilitates, supports and is responsible
-  for activities of construction and demolition jobs in the West Bank as well as the
-  destruction of Palestinian land and property, physically attacks, shootings and
-  killings of Palestinians which has led to the wider forced displacement of Palestinians.
-  \ \n"
+uk_statement_of_reasons: |2
+  
+  The Secretary of State considers that there are reasonable grounds to suspect that 
+  Itamar Yehuda Levi
+   is an involved person under the Global Human Rights Sanctions Regulations 2020 on the basis of the following ground: 
+   
+   
+  Itamar Yehuda Levi facilitates, incites, promotes or provides support for such an activity which amounts to a serious abuse of the right of an individual not to be subjected to cruel, inhuman or degrading treatment or punishment.
+    
+  Itamar Yehuda Levi owns or controls an organisation that is responsible for an activity which amounts to a serious abuse of the right of an individual not to be subjected to cruel, inhuman or degrading treatment or punishment.
+    
+  Itamar Yehuda Levi
+   is associated with a person responsible for 
+  engaging in an activity which amounts to a serious abuse of the right of an individual not to be subjected to cruel, inhuman or degrading treatment or punishment.
+   
+   
+  Specifically, Itamar Yehuda Levi owns a company, EYAL HARI YEHUDA COMPANY LTD which facilitates, supports and is responsible for activities of construction and demolition jobs in the West Bank as well as the destruction of Palestinian land and property, physically attacks, shootings and killings of Palestinians which has led to the wider forced displacement of Palestinians.  
 addresses:
   addresses:
   - address_line1: Susya 24, 9040100

@@ -1,4 +1,3 @@
----
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: VEN0017
@@ -29,16 +28,10 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: President of the National Electoral Council The Director Disqualification
-  Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: "\nCurrently, Minister of University Education and former
-  President of the National Electoral Council (Consejo Nacional Electoral – CNE).
-  As CNE President between April 2006-June 2020, her actions and policies have undermined
-  democracy and the rule of law in Venezuela, including by failing to ensure that
-  the CNE remains an impartial and independent institution in accordance with the
-  Venezuelan Constitution thereby facilitating the establishment of the Constituent
-  Assembly and the re-election of Nicolás Maduro in May 2018 through presidential
-  elections that were neither free nor fair.  \n"
+other_information: President of the National Electoral Council The Director Disqualification Sanction was imposed on 09/04/2025.
+uk_statement_of_reasons: |2
+  
+  Currently, Minister of University Education and former President of the National Electoral Council (Consejo Nacional Electoral – CNE). As CNE President between April 2006-June 2020, her actions and policies have undermined democracy and the rule of law in Venezuela, including by failing to ensure that the CNE remains an impartial and independent institution in accordance with the Venezuelan Constitution thereby facilitating the establishment of the Constituent Assembly and the re-election of Nicolás Maduro in May 2018 through presidential elections that were neither free nor fair.  
 addresses:
   addresses:
   - address_line6: Caracas

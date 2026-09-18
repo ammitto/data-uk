@@ -1,4 +1,3 @@
----
 last_updated: '2025-12-09'
 date_designated: '2025-12-09'
 unique_id: CYB0114
@@ -32,15 +31,8 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
-  grounds to suspect that Sichuan Anxun Information Technology Co., Ltd. (i-Soon)
-  has been involved in relevant cyber activity, including being responsible for, engaging
-  in and providing support for malicious cyber activity that resulted in the exploitation
-  of previously unknown vulnerabilities and gaining unauthorised access to over 80
-  foreign government and private business networks.\n \nIn addition, i-Soon facilitated
-  and supported a wider ecosystem of China-based information security companies, enabling
-  actual or attempted unauthorised access to and interference with information systems
-  and data, which targeted UK public sector and private industry IT systems through,
-  namely, researching, exploiting and sharing of vulnerabilities. This malicious activity
-  undermined or was intended to undermine the integrity, prosperity or security of
-  the United Kingdom or a country other than the United Kingdom.\n"
+uk_statement_of_reasons: |2
+  
+  The Secretary of State considers that there are reasonable grounds to suspect that Sichuan Anxun Information Technology Co., Ltd. (i-Soon) has been involved in relevant cyber activity, including being responsible for, engaging in and providing support for malicious cyber activity that resulted in the exploitation of previously unknown vulnerabilities and gaining unauthorised access to over 80 foreign government and private business networks.
+   
+  In addition, i-Soon facilitated and supported a wider ecosystem of China-based information security companies, enabling actual or attempted unauthorised access to and interference with information systems and data, which targeted UK public sector and private industry IT systems through, namely, researching, exploiting and sharing of vulnerabilities. This malicious activity undermined or was intended to undermine the integrity, prosperity or security of the United Kingdom or a country other than the United Kingdom.

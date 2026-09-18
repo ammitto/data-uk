@@ -1,4 +1,3 @@
----
 last_updated: '2026-02-24'
 date_designated: '2026-02-24'
 unique_id: RUS3380
@@ -24,14 +23,7 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Shipping sanctions: a specified ship is prohibited from being
-  provided with access to or having its master or pilot cause it to enter a port in
-  the UK, may have its registration on the UK Ship Register terminated, and a master
-  or pilot of a specified ship may be given a port barring direction, a detention
-  direction, and a port entry direction or a movement direction.'
-uk_statement_of_reasons: "\nThe Secretary of State has reasonable grounds to suspect
-  that IMO 9299707 (‘GUANYIN’) is, has been or is likely to be involved in activity
-  whose object or effect is to destabilise Ukraine or undermine or threaten the territorial
-  integrity, sovereignty or independence of Ukraine or to obtain a benefit from or
-  support the Government of Russia. Namely, 9299707 is involved in carrying oil or
-  oil products that originated in Russia from Russia to a third country. \n"
+other_information: 'Shipping sanctions: a specified ship is prohibited from being provided with access to or having its master or pilot cause it to enter a port in the UK, may have its registration on the UK Ship Register terminated, and a master or pilot of a specified ship may be given a port barring direction, a detention direction, and a port entry direction or a movement direction.'
+uk_statement_of_reasons: |2
+  
+  The Secretary of State has reasonable grounds to suspect that IMO 9299707 (‘GUANYIN’) is, has been or is likely to be involved in activity whose object or effect is to destabilise Ukraine or undermine or threaten the territorial integrity, sovereignty or independence of Ukraine or to obtain a benefit from or support the Government of Russia. Namely, 9299707 is involved in carrying oil or oil products that originated in Russia from Russia to a third country. 

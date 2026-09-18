@@ -1,4 +1,3 @@
----
 last_updated: '2025-07-18'
 date_designated: '2025-07-18'
 unique_id: RUS2916
@@ -15,8 +14,7 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: 'Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
-  Sanction|Internet Services Sanctions: see "Other Information"'
+sanctions_imposed: 'Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction|Internet Services Sanctions: see "Other Information"'
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -31,13 +29,7 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: 'Internet Services Sanctions: When an individual or entity is designated
-  for the purposes of this measure, social media services, internet access services
-  and application stores must take reasonable steps to prevent users in the UK from
-  accessing content, sites or applications provided by designated individuals or entities. '
-uk_statement_of_reasons: "\nAnna Sergeevna Zamaraeva is an \"involved person\" under
-  the Russia (Sanctions) (EU Exit) Regulations 2019 on the basis of the following
-  ground: Zamaraeva is and has been involved in destabilising Ukraine by being responsible
-  for, engaging in, providing support for, or promoting any policy or action which
-  destabilases Ukraine or undermines or threaten the territorial integrity, sovereignty
-  or independence of Ukraine through their role at African Initiative. \n"
+other_information: 'Internet Services Sanctions: When an individual or entity is designated for the purposes of this measure, social media services, internet access services and application stores must take reasonable steps to prevent users in the UK from accessing content, sites or applications provided by designated individuals or entities. '
+uk_statement_of_reasons: |2
+  
+  Anna Sergeevna Zamaraeva is an "involved person" under the Russia (Sanctions) (EU Exit) Regulations 2019 on the basis of the following ground: Zamaraeva is and has been involved in destabilising Ukraine by being responsible for, engaging in, providing support for, or promoting any policy or action which destabilases Ukraine or undermines or threaten the territorial integrity, sovereignty or independence of Ukraine through their role at African Initiative. 

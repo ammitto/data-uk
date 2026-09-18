@@ -1,4 +1,3 @@
----
 last_updated: '2026-02-24'
 date_designated: '2026-02-24'
 unique_id: RUS3434
@@ -11,13 +10,11 @@ names:
 non_latin_names:
   names:
   - name_non_latin_script: ООО "ПМР"
-  - name_non_latin_script: ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ ПАЛФИНГЕР МАРИН
-      РУС
+  - name_non_latin_script: ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ ПАЛФИНГЕР МАРИН РУС
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
-  Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -32,14 +29,9 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
-  grounds to suspect that LLC PMR is an involved person under the Russia (Sanctions)
-  (EU Exit) Regulations 2019 because LLC PMR is or has been involved in destabilising
-  Ukraine or undermining or threatening the territorial integrity, sovereignty or
-  independence of Ukraine through providing financial services, or making available
-  funds, economic resources, goods or technology, that could contribute to destabilising
-  Ukraine or undermining or threatening the territorial integrity, sovereignty or
-  independence of Ukraine. \n"
+uk_statement_of_reasons: |2
+  
+  The Secretary of State considers that there are reasonable grounds to suspect that LLC PMR is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 because LLC PMR is or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine through providing financial services, or making available funds, economic resources, goods or technology, that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine. 
 addresses:
   addresses:
   - address_line1: SH. PULKOVSKOE D. 40, K. 4 LIT. D, OFFICE D5042

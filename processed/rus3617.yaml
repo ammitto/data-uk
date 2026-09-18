@@ -1,4 +1,3 @@
----
 last_updated: '2026-05-26'
 date_designated: '2026-05-26'
 unique_id: RUS3617
@@ -15,8 +14,7 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
-  Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -32,7 +30,7 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 uk_statement_of_reasons: |2
-
+  
   The Secretary of State considers that there are reasonable grounds to suspect that TRACE ROAD LLC is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 because it is associated with A7 LLC, a Government of Russia-affiliated entity carrying on business in a sector of strategic significance to the Government of Russia (namely the Russian financial services sector), by reason of: (i) its operational integration into the A7 network through shared infrastructure and personnel; (ii) the documented role of its principals within the network; and (iii) the financial benefit it obtains in that capacity. The Secretary of State further considers that there are reasonable grounds to suspect that TRACE ROAD LLC makes available economic resources to A7 LLC and to other persons within the A7 network which are themselves carrying on business as Government of Russia-affiliated entities and in the Russian financial services sector.
 addresses:
   addresses:

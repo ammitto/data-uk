@@ -1,4 +1,3 @@
----
 last_updated: '2025-04-09'
 date_designated: '2022-03-24'
 unique_id: CYB0022
@@ -13,8 +12,7 @@ names:
     name_type: Primary Name Variation
   - name6: Scientific Research Institute No 6
     name_type: Primary Name Variation
-  - name6: 'State Research Centre of the Russian Federation Federal State Unitary
-      Enterprise Central Scientific Research Institute for Chemistry and Mechanics '
+  - name6: 'State Research Centre of the Russian Federation Federal State Unitary Enterprise Central Scientific Research Institute for Chemistry and Mechanics '
     name_type: Primary Name Variation
   - name6: TSNIIKHM
     name_type: Primary Name Variation
@@ -38,7 +36,7 @@ sanctions_imposed_indicators:
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
 uk_statement_of_reasons: |2
-
+  
     The Central Scientific Research Institute of Chemistry and Mechanics (TsNIIKhM) was responsible for a cyber attack on a petro-chemical company in August 2017. The cyber attack gained remote access to the Safety Instrumented Systems connected to the Industrial Control System of a petrochemical refinery.  This shut down the plant for over a week. There is evidence to suggest that the shutdown was inadvertent while TsNIIKhM were attempting to cause a highly dangerous physical consequence through disabling the safety systems, which could have included an explosion. These actions caused economic loss and prejudice to commercial interests and/or was intended to undermine the security and prosperity of a country other than the United Kingdom.
 addresses:
   addresses:

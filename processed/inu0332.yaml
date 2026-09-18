@@ -1,4 +1,3 @@
----
 last_updated: '2025-09-29'
 date_designated: '2025-09-29'
 unique_id: INU0332
@@ -47,14 +46,9 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: "\nKala Naft is an involved person under the Iran (Sanctions)
-  (Nuclear) (EU Exit) Regulations 2019 on the basis of the following ground: Kala
-  Naft is associated with the National Iranian Oil Company (NIOC), who makes available
-  funds or economic resources that could contribute to a relevant nuclear activity,
-  namely the proliferation or development of nuclear weapons in, or for use in, Iran,
-  or an activity that could lead to the development of nuclear weapons in, or for
-  use in, Iran, or the development of a nuclear weapon delivery system in, or for
-  use in, Iran. \n"
+uk_statement_of_reasons: |2
+  
+  Kala Naft is an involved person under the Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019 on the basis of the following ground: Kala Naft is associated with the National Iranian Oil Company (NIOC), who makes available funds or economic resources that could contribute to a relevant nuclear activity, namely the proliferation or development of nuclear weapons in, or for use in, Iran, or an activity that could lead to the development of nuclear weapons in, or for use in, Iran, or the development of a nuclear weapon delivery system in, or for use in, Iran. 
 addresses:
   addresses:
   - address_line1: KALA NAFT TEHRAN TRADING BUILDING

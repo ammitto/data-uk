@@ -1,4 +1,3 @@
----
 last_updated: '2022-08-02'
 date_designated: '2018-03-30'
 unique_id: DPR0162
@@ -8,13 +7,10 @@ names:
   names:
   - name6: KOREA SAMJONG SHIPPING
     name_type: Primary name
-regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations
-  2019
+regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UN
-sanctions_imposed: Asset freeze|Chartering of Ships|Closure of representative offices|Crew
-  servicing of ships and aircraft|Prevention of business arrangements|Prohibition
-  of port entry
+sanctions_imposed: Asset freeze|Chartering of Ships|Closure of representative offices|Crew servicing of ships and aircraft|Prevention of business arrangements|Prohibition of port entry
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: false
@@ -29,9 +25,7 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: true
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Registered owner of DPRK tankers SAM JONG 1 and SAM JONG 2. Both
-  vessels are believed to have imported refined petroleum to DPRK in violation of
-  UN sanctions in late January 2018. IMO number: 5954061.'
+other_information: 'Registered owner of DPRK tankers SAM JONG 1 and SAM JONG 2. Both vessels are believed to have imported refined petroleum to DPRK in violation of UN sanctions in late January 2018. IMO number: 5954061.'
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

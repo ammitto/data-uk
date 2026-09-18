@@ -1,4 +1,3 @@
----
 last_updated: '2025-04-09'
 date_designated: '2022-12-08'
 unique_id: GHR0092
@@ -31,13 +30,9 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: "\nOleg Vladimirovich Tkachenko in his role as the Head of
-  the Department for Public Prosecutors for the Rostov Region is an involved person
-  under the Global Human Rights Sanctions Regulations 2020 because he has been responsible
-  for violations of the right not to be subjected to torture or cruel, inhuman or
-  degrading treatment. There are reasonable grounds to suspect Tkachenko recklessly
-  failed to use his powers to investigate or prosecute credible claims of torture.
-  \ \n"
+uk_statement_of_reasons: |2
+  
+  Oleg Vladimirovich Tkachenko in his role as the Head of the Department for Public Prosecutors for the Rostov Region is an involved person under the Global Human Rights Sanctions Regulations 2020 because he has been responsible for violations of the right not to be subjected to torture or cruel, inhuman or degrading treatment. There are reasonable grounds to suspect Tkachenko recklessly failed to use his powers to investigate or prosecute credible claims of torture.  
 addresses:
   addresses:
   - address_line1: Prokuratura Rostovskoy Oblasti

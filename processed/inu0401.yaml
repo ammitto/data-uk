@@ -1,4 +1,3 @@
----
 last_updated: '2025-09-29'
 date_designated: '2025-09-29'
 unique_id: INU0401
@@ -36,11 +35,9 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: "\nThe IRAN ALUMINIUM COMPANY is an involved person under
-  the Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019 on the basis of the following
-  ground: The Iran Aluminium Company is or has been providing aluminium powder used
-  in solid rocket fuel. This could contribute to a relevant nuclear activity, namely
-  the development of a nuclear weapon delivery system in, or use for, Iran.  \n"
+uk_statement_of_reasons: |2
+  
+  The IRAN ALUMINIUM COMPANY is an involved person under the Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019 on the basis of the following ground: The Iran Aluminium Company is or has been providing aluminium powder used in solid rocket fuel. This could contribute to a relevant nuclear activity, namely the development of a nuclear weapon delivery system in, or use for, Iran.  
 addresses:
   addresses:
   - address_line1: No. 100

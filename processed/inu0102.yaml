@@ -1,4 +1,3 @@
----
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: INU0102
@@ -36,6 +35,6 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2-
-
+uk_statement_of_reasons: |-2
+  
   An entity that has supplied materials for use in gas centrifuge component production, and has been directly involved in construction planning for one of Iran's uranium enrichment sites. Fomerly known as Paya Partov.

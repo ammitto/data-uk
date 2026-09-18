@@ -1,4 +1,3 @@
----
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: DPR0029
@@ -9,8 +8,7 @@ names:
     name2: Han
     name6: Park
     name_type: Primary name
-regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations
-  2019
+regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
 sanctions_imposed: Asset freeze|Travel Ban|Director Disqualification Sanction
@@ -28,16 +26,14 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: Associations with Pan Systems, Reconnaissance General Bureau, Glocom,
-  International Servides Sdn Bhd, and International Global Systems Sdn Bhd The Director
-  Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: "\nDirector of Beijing New Technology which has been identified
-  by the UN Panel of Experts as a front company of KOMID. KOMID was designated by
-  the Sanctions Committee in April 2009 and is the DPRK’s primary arms dealer and
-  main exporter of goods and equipment related to ballistic missiles and conventional
-  weapons.\n\n \n\nLegal representative of Guangcaiweixing Trading Co. Ltd., which
-  was identified by the UN Panel of Experts as the shipper of an intercepted shipment
-  to Eritrea of military-related items in August 2012."
+other_information: Associations with Pan Systems, Reconnaissance General Bureau, Glocom, International Servides Sdn Bhd, and International Global Systems Sdn Bhd The Director Disqualification Sanction was imposed on 09/04/2025.
+uk_statement_of_reasons: |-2
+  
+  Director of Beijing New Technology which has been identified by the UN Panel of Experts as a front company of KOMID. KOMID was designated by the Sanctions Committee in April 2009 and is the DPRK’s primary arms dealer and main exporter of goods and equipment related to ballistic missiles and conventional weapons.
+
+   
+
+  Legal representative of Guangcaiweixing Trading Co. Ltd., which was identified by the UN Panel of Experts as the shipper of an intercepted shipment to Eritrea of military-related items in August 2012.
 addresses:
   addresses:
   - address_country: Malaysia

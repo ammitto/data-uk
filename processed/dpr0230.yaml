@@ -1,4 +1,3 @@
----
 last_updated: '2021-12-18'
 date_designated: '2017-12-22'
 unique_id: DPR0230
@@ -13,12 +12,10 @@ names:
     name6: Kyo'ng-il
     name_type: Alias
     alias_strength: Good quality a.k.a
-regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations
-  2019
+regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UN
-sanctions_imposed: Asset freeze|Chartering of Ships|Prevention of business arrangements|Prohibition
-  of port entry|Travel Ban
+sanctions_imposed: Asset freeze|Chartering of Ships|Prevention of business arrangements|Prohibition of port entry|Travel Ban
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: false

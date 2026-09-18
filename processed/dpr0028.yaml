@@ -1,4 +1,3 @@
----
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: DPR0028
@@ -19,8 +18,7 @@ names:
   - name1: Daniel
     name6: Pak
     name_type: Alias
-regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations
-  2019
+regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
 sanctions_imposed: Asset freeze|Travel Ban|Director Disqualification Sanction
@@ -38,12 +36,9 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: Associations with Mansudae Overseas Project Group, Reconnaissance
-  General Bureau, MKP Capital of the MKP Group, Ocean Maritime Management, Nice Field
-  International, and Korea Kwangsong Banking Corporation. The Director Disqualification
-  Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2-
-
+other_information: Associations with Mansudae Overseas Project Group, Reconnaissance General Bureau, MKP Capital of the MKP Group, Ocean Maritime Management, Nice Field International, and Korea Kwangsong Banking Corporation. The Director Disqualification Sanction was imposed on 09/04/2025.
+uk_statement_of_reasons: |-2
+  
   PAK IN SU has been identified by the UN Panel of Experts as being involved in activities related to the sale of coal and minerals from DRPK in Malaysia in violation of the prohibitions imposed by the United Nations Security Council Resolutions.
 addresses:
   addresses:

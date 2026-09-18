@@ -1,4 +1,3 @@
----
 last_updated: '2026-08-03'
 date_designated: '2022-04-11'
 unique_id: BIH0002
@@ -29,17 +28,10 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: Has previously held a series of high-profile governance positions
-  within the Bosnian Serb Entity. Leader of a key party, the SNSD (expelled from the
-  Socialist International in 2012 for its “nationalism and extremism”). The party
-  has been in power in the Republika Srpska since 2006. The Director Disqualification
-  Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: "\nMilorad Dodik as the Bosnian Serb member of the Bosnia
-  and Herzegovina tripartite Presidency has used this position to undermine the territorial
-  integrity, sovereignty and stability of Bosnia and Herzegovina through using hate
-  speech to stir ethnic tensions, calling for the fragmentation of Bosnia and Herzogovina
-  to create an independent Republika Srpska, and overseeing legislative steps to degrade/destroy
-  state institutions.  \n"
+other_information: Has previously held a series of high-profile governance positions within the Bosnian Serb Entity. Leader of a key party, the SNSD (expelled from the Socialist International in 2012 for its “nationalism and extremism”). The party has been in power in the Republika Srpska since 2006. The Director Disqualification Sanction was imposed on 09/04/2025.
+uk_statement_of_reasons: |2
+  
+  Milorad Dodik as the Bosnian Serb member of the Bosnia and Herzegovina tripartite Presidency has used this position to undermine the territorial integrity, sovereignty and stability of Bosnia and Herzegovina through using hate speech to stir ethnic tensions, calling for the fragmentation of Bosnia and Herzogovina to create an independent Republika Srpska, and overseeing legislative steps to degrade/destroy state institutions.  
 addresses:
   addresses:
   - address_line1: Karadjordjeva Street 3

@@ -1,4 +1,3 @@
----
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: INU0120
@@ -34,8 +33,8 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2-
-
+uk_statement_of_reasons: |-2
+  
   Company for constructing and commissioning of nuclear power plants.
 addresses:
   addresses:

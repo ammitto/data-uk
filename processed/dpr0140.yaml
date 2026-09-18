@@ -1,4 +1,3 @@
----
 last_updated: '2022-01-14'
 date_designated: '2018-03-30'
 unique_id: DPR0140
@@ -11,13 +10,10 @@ names:
 non_latin_names:
   names:
   - name_non_latin_script: 華信船務(香港)有限公司
-regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations
-  2019
+regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UN
-sanctions_imposed: Asset freeze|Chartering of Ships|Closure of representative offices|Crew
-  servicing of ships and aircraft|Prevention of business arrangements|Prohibition
-  of port entry
+sanctions_imposed: Asset freeze|Chartering of Ships|Closure of representative offices|Crew servicing of ships and aircraft|Prevention of business arrangements|Prohibition of port entry
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: false
@@ -32,13 +28,7 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: true
   director_disqualification_sanction: false
   deflag: false
-other_information: Ship and commercial manager of the ASIA BRIDGE 1. Hong Kong-owned
-  vessel, the probable “ASIA BRIDGE 1” was instructed on 19 October 2017 by Huaxin
-  Shipping to make preparations for entry into Nampo, DPRK to receive a shipment of
-  coal bound for Vietnam. The “ASIA BRIDGE 1” was instructed by an unidentified employee
-  of Huaxin Shipping Ltd. to make preparations to receive 8,000 metric tons of coal
-  and then sail to Cam Pha, Vietnam. The master of the vessel was instructed to cover
-  the ship’s name and other markings using canvas while in port at Nampo.
+other_information: Ship and commercial manager of the ASIA BRIDGE 1. Hong Kong-owned vessel, the probable “ASIA BRIDGE 1” was instructed on 19 October 2017 by Huaxin Shipping to make preparations for entry into Nampo, DPRK to receive a shipment of coal bound for Vietnam. The “ASIA BRIDGE 1” was instructed by an unidentified employee of Huaxin Shipping Ltd. to make preparations to receive 8,000 metric tons of coal and then sail to Cam Pha, Vietnam. The master of the vessel was instructed to cover the ship’s name and other markings using canvas while in port at Nampo.
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

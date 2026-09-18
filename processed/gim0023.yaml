@@ -1,4 +1,3 @@
----
 last_updated: '2025-07-23'
 date_designated: '2025-07-23'
 unique_id: GIM0023
@@ -18,8 +17,7 @@ names:
   - name1: Mariwan
     name6: WSW
     name_type: Primary Name Variation
-regime_name: The Global Irregular Migration and Trafficking in Persons Sanctions Regulations
-  2025
+regime_name: The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025
 individual_entity_ship: Individual
 designation_source: UK
 sanctions_imposed: Asset freeze|Travel Ban|Director Disqualification Sanction
@@ -38,5 +36,5 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 uk_statement_of_reasons: |2
-
+  
   Mariwan JAMAL (“JAMAL”) is an involved person under the Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025 (“the Regulations”) as he is or has been involved in a relevant activity, namely people smuggling, by transferring by any means funds or economic resources which constitute payment for the unlawful arrival in a country of a person who is not a national of that country or permanently resident in it. Specifically, he controls money movements through a Hawala banker. These are payments for the smuggling of persons from the Kurdistan region of Iraq to Europe via Turkey.

@@ -1,4 +1,3 @@
----
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: VEN0001
@@ -30,20 +29,10 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: Minister for Interior, Justice and Peace The Director Disqualification
-  Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: "\nCurrently Minister for Electrical Energy and Sectoral
-  Vice President of Public Works and Services. There are reasonable grounds to suspect
-  that Reverol Torres, as Interior Minister, was responsible for policing, and parts
-  of the Venezuelan security forces.  Under the command of Reverol Torres as Interior
-  Minister, the Bolivarian National Police committed serious human rights violations
-  between April and July 2017, including excessive use of force by security forces,
-  arbitrary arrest and detention, mistreatment and torture in detention, and over
-  120 deaths between April and August 2017. Further, there are reasonable grounds
-  to suspect that he was also involved in the commission of serious human rights violations
-  as former Commander General of the Bolivian National Guard, including during “Liberation
-  of the People” security operations against suspected gang-members in 2015. He was
-  later promoted to General in Chief within the National Guard. \n"
+other_information: Minister for Interior, Justice and Peace The Director Disqualification Sanction was imposed on 09/04/2025.
+uk_statement_of_reasons: |2
+  
+  Currently Minister for Electrical Energy and Sectoral Vice President of Public Works and Services. There are reasonable grounds to suspect that Reverol Torres, as Interior Minister, was responsible for policing, and parts of the Venezuelan security forces.  Under the command of Reverol Torres as Interior Minister, the Bolivarian National Police committed serious human rights violations between April and July 2017, including excessive use of force by security forces, arbitrary arrest and detention, mistreatment and torture in detention, and over 120 deaths between April and August 2017. Further, there are reasonable grounds to suspect that he was also involved in the commission of serious human rights violations as former Commander General of the Bolivian National Guard, including during “Liberation of the People” security operations against suspected gang-members in 2015. He was later promoted to General in Chief within the National Guard. 
 addresses:
   addresses:
   - address_line6: Caracas

@@ -1,4 +1,3 @@
----
 last_updated: '2026-02-24'
 date_designated: '2026-02-24'
 unique_id: RUS3421
@@ -14,8 +13,7 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
-  Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -30,12 +28,9 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
-  grounds to suspect that JSC RUSATOM OVERSEAS is an involved entity under the Russia
-  (Sanctions) (EU Exit) Regulations 2019 because it is or has been involved in obtaining
-  a benefit from or supporting the Government of Russia, through: (1) carrying on
-  business in a sector of strategic significance, namely, the Russian energy sector;
-  and (2) carrying on business as a Government of Russia-affiliated entity.    \n"
+uk_statement_of_reasons: |2
+  
+  The Secretary of State considers that there are reasonable grounds to suspect that JSC RUSATOM OVERSEAS is an involved entity under the Russia (Sanctions) (EU Exit) Regulations 2019 because it is or has been involved in obtaining a benefit from or supporting the Government of Russia, through: (1) carrying on business in a sector of strategic significance, namely, the Russian energy sector; and (2) carrying on business as a Government of Russia-affiliated entity.    
 addresses:
   addresses:
   - address_line1: UL. LENINSKAYA SLOBODA D.26, STR.5, BTS SIMONOV PLAZA

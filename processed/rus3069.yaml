@@ -1,4 +1,3 @@
----
 last_updated: '2025-10-20'
 date_designated: '2025-10-15'
 unique_id: RUS3069
@@ -25,8 +24,7 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
-  Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -41,11 +39,9 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: "\nPERGAM-ENGINEERING JSC is an “involved person” under the Russia
-  (Sanctions) (EU Exit) Regulations 2019 on the basis of the following ground: PERGAM-ENGINEERING
-  JSC is or has been involved in obtaining a benefit from or supporting the Government
-  of Russia by carrying on business in a sector of strategic significance to the Government
-  of Russia, namely the Russian defence sector. \n"
+uk_statement_of_reasons: |2
+  
+  PERGAM-ENGINEERING JSC is an “involved person” under the Russia (Sanctions) (EU Exit) Regulations 2019 on the basis of the following ground: PERGAM-ENGINEERING JSC is or has been involved in obtaining a benefit from or supporting the Government of Russia by carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian defence sector. 
 addresses:
   addresses:
   - address_line1: Room 305 3rd Floor

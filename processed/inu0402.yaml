@@ -1,4 +1,3 @@
----
 last_updated: '2025-10-01'
 date_designated: '2025-09-28'
 unique_id: INU0402
@@ -30,9 +29,7 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: Large research component of the Atomic Energy Organization of Iran
-  (AEOI), which was designated in resolution 1737 (2006). The NFRPC is AEOI’s center
-  for the development of nuclear fuel and is involved in enrichment-related activities.
+other_information: Large research component of the Atomic Energy Organization of Iran (AEOI), which was designated in resolution 1737 (2006). The NFRPC is AEOI’s center for the development of nuclear fuel and is involved in enrichment-related activities.
 addresses:
   addresses:
   - address_line6: Karaj

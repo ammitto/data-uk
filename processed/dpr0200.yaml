@@ -1,4 +1,3 @@
----
 last_updated: '2021-12-18'
 date_designated: '2013-01-22'
 unique_id: DPR0200
@@ -13,12 +12,10 @@ names:
     name6: Myong-Jin
     name_type: Alias
     alias_strength: Good quality a.k.a
-regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations
-  2019
+regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UN
-sanctions_imposed: Asset freeze|Chartering of Ships|Prevention of business arrangements|Prohibition
-  of port entry|Travel Ban
+sanctions_imposed: Asset freeze|Chartering of Ships|Prevention of business arrangements|Prohibition of port entry|Travel Ban
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: false
@@ -33,6 +30,5 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: General Manager of the Sohae Satellite Launching Station and head
-  of launch center at which the 13 April and 12 December 2012 launches took place.
+other_information: General Manager of the Sohae Satellite Launching Station and head of launch center at which the 13 April and 12 December 2012 launches took place.
 uk_statement_of_reasons: "\n"

@@ -1,4 +1,3 @@
----
 last_updated: '2025-07-23'
 date_designated: '2025-07-23'
 unique_id: GIM0020
@@ -8,8 +7,7 @@ names:
   - name1: Bledar
     name6: LALA
     name_type: Primary Name
-regime_name: The Global Irregular Migration and Trafficking in Persons Sanctions Regulations
-  2025
+regime_name: The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025
 individual_entity_ship: Individual
 designation_source: UK
 sanctions_imposed: Asset freeze|Travel Ban|Director Disqualification Sanction
@@ -28,7 +26,7 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 uk_statement_of_reasons: |2
-
+  
   Bledar LALA is an involved person under the Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025 (“the Regulations”) on the basis of the following grounds:
   He is or has been involved in a relevant activity, namely people smuggling, by engaging in the unlawful arrival in a country of a person who is not a national of that country or permanently resident in it with a view to obtaining a benefit. Specifically, he is in control of the ‘Belgium operations’ of an organised criminal group which engages in the smuggling of persons from Belgium across the English Channel to the United Kingdom.
   He is or has been involved in a relevant activity, namely people smuggling, by receiving funds and economic resources which constitute payment for the unlawful arrival of a person who is not a national of that country or permanently resident in it. Specifically, he receives payment for the smuggling of persons from Belgium across the English Channel to the United Kingdom.

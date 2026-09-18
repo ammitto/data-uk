@@ -1,4 +1,3 @@
----
 last_updated: '2025-07-23'
 date_designated: '2025-07-23'
 unique_id: GIM0021
@@ -29,8 +28,7 @@ names:
     name2: Khidir
     name6: PIROT
     name_type: Primary Name Variation
-regime_name: The Global Irregular Migration and Trafficking in Persons Sanctions Regulations
-  2025
+regime_name: The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025
 individual_entity_ship: Individual
 designation_source: UK
 sanctions_imposed: Asset freeze|Travel Ban|Director Disqualification Sanction
@@ -49,5 +47,5 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 uk_statement_of_reasons: |2
-
+  
   Muhammed Khadir PIROT ("PIROT") is an involved person under the Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025 ("the Regulations") as he is or has been involved in a relevant activity, namely people smuggling, by receiving by any means funds or economic resources which constitute payment for the unlawful arrival in a country of a person who is not a national of that country or permanently resident in it. Specifically, he is a Hawala banker who receives monies from migrants to pay for their smuggling from the Kurdistan region of Iraq to Europe via Turkey.

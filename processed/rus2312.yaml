@@ -1,4 +1,3 @@
----
 last_updated: '2025-04-09'
 date_designated: '2024-11-19'
 unique_id: RUS2312
@@ -15,8 +14,7 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
-  Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -32,14 +30,8 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: "\nSerafim Vikentevich IVANOV is an “involved person” under
-  the Russia (Sanctions) (EU Exit) Regulations 2019 because he is or has been involved
-  in an action which destabilises Ukraine or undermines or threatens the territorial
-  integrity, sovereignty or independence of Ukraine by: 1) engaging in, providing
-  support for, or promoting \nany policy or action which destabilises Ukraine or undermines
-  or threatens the territorial integrity, sovereignty or independence of Ukraine\n,
-  namely the Government of Russia’s programme for the forced deportation and re-education
-  of Ukrainian children; and 2) obtaining a benefit from or supporting the Government
-  of Russia in his role as Federal Coordinator and Press Secretary of the “Volunteer
-  Company” of the Combat Brotherhood, and Head of the Regional Headquarters of All-Russian
-  Young Army Military Patriotic Social Movement (Yunarmia) in Kherson. \n"
+uk_statement_of_reasons: |2
+  
+  Serafim Vikentevich IVANOV is an “involved person” under the Russia (Sanctions) (EU Exit) Regulations 2019 because he is or has been involved in an action which destabilises Ukraine or undermines or threatens the territorial integrity, sovereignty or independence of Ukraine by: 1) engaging in, providing support for, or promoting 
+  any policy or action which destabilises Ukraine or undermines or threatens the territorial integrity, sovereignty or independence of Ukraine
+  , namely the Government of Russia’s programme for the forced deportation and re-education of Ukrainian children; and 2) obtaining a benefit from or supporting the Government of Russia in his role as Federal Coordinator and Press Secretary of the “Volunteer Company” of the Combat Brotherhood, and Head of the Regional Headquarters of All-Russian Young Army Military Patriotic Social Movement (Yunarmia) in Kherson. 

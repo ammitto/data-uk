@@ -1,4 +1,3 @@
----
 last_updated: '2022-01-14'
 date_designated: '2009-04-24'
 unique_id: DPR0195
@@ -12,13 +11,10 @@ names:
     name_type: Alias
   - name6: KOREA CHANGGWANG CREDIT BANK
     name_type: Alias
-regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations
-  2019
+regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UN
-sanctions_imposed: Asset freeze|Chartering of Ships|Closure of representative offices|Crew
-  servicing of ships and aircraft|Prevention of business arrangements|Prohibition
-  of port entry
+sanctions_imposed: Asset freeze|Chartering of Ships|Closure of representative offices|Crew servicing of ships and aircraft|Prevention of business arrangements|Prohibition of port entry
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: false
@@ -33,8 +29,7 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: true
   director_disqualification_sanction: false
   deflag: false
-other_information: Main DPRK financial entity for sales of conventional arms, ballistic
-  missiles, and goods related to the assembly and manufacture of such weapons.
+other_information: Main DPRK financial entity for sales of conventional arms, ballistic missiles, and goods related to the assembly and manufacture of such weapons.
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

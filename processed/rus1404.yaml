@@ -1,4 +1,3 @@
----
 last_updated: '2025-04-09'
 date_designated: '2022-05-04'
 unique_id: RUS1404
@@ -15,8 +14,7 @@ names:
     name_type: Primary Name Variation
   - name6: NIIME AND MIKRON
     name_type: Primary Name Variation
-  - name6: OTKRYTOE AKTSIONERNOE OBSHCHESTVO NII MOLEKULYARNOY ELECKTRONIKI I ZAVOD
-      MIKRON
+  - name6: OTKRYTOE AKTSIONERNOE OBSHCHESTVO NII MOLEKULYARNOY ELECKTRONIKI I ZAVOD MIKRON
     name_type: Primary Name Variation
   - name6: PJSC MIKRON
     name_type: Primary Name Variation
@@ -28,8 +26,7 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
-  Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -44,17 +41,11 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: Organization Established Date 13 Jan 1994; Government Gazette Number
-  07589295 (Russia); The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: "\n JOINT STOCK COMPANY MIKRON is an involved person under
-  the Russia (Sanctions) (EU Exit) Regulation 2019 because it is the largest Russian
-  manufacturer and exporter of microelectronics. The company received tax benefits
-  to produce the domestic chip for Russia’s National Payment Card System, which was
-  developed following previous sanctions on Russia. Therefore, JOINT STOCK COMPANY
-  MIKRON is involved in obtaining a benefit from or supporting the Government of Russia
-  by carrying on business in a sector of strategic significance to the Government
-  of Russia, namely the Russian electronics sector. \n The trust services sanctions
-  were imposed on 21/03/2023."
+other_information: Organization Established Date 13 Jan 1994; Government Gazette Number 07589295 (Russia); The Director Disqualification Sanction was imposed on 09/04/2025.
+uk_statement_of_reasons: |-2
+  
+   JOINT STOCK COMPANY MIKRON is an involved person under the Russia (Sanctions) (EU Exit) Regulation 2019 because it is the largest Russian manufacturer and exporter of microelectronics. The company received tax benefits to produce the domestic chip for Russia’s National Payment Card System, which was developed following previous sanctions on Russia. Therefore, JOINT STOCK COMPANY MIKRON is involved in obtaining a benefit from or supporting the Government of Russia by carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian electronics sector. 
+   The trust services sanctions were imposed on 21/03/2023.
 addresses:
   addresses:
   - address_line1: 1st Zapadny Proezd 12/1

@@ -1,4 +1,3 @@
----
 last_updated: '2021-12-18'
 date_designated: '2018-08-23'
 unique_id: AQD0248
@@ -71,8 +70,7 @@ names:
     name6: Syaifudin
     name_type: Alias
     alias_strength: Low quality a.k.a
-regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations
-  2019
+regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UN
 sanctions_imposed: Asset freeze|Arms embargo|Travel Ban
@@ -90,12 +88,7 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Senior member of Islamic State in Iraq and the Levant (ISIL),
-  listed as Al-Qaida in Iraq (QDe.115). Recruited for ISIL and instructed individuals
-  to perpetrate terrorist acts via online video. Physical description: hair colour:
-  black; build: slight. Speaks Indonesian, Arabic and Mindanao dialect. INTERPOL-UN
-  Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/6244333.
-  Syria, location since 2015'
+other_information: 'Senior member of Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq (QDe.115). Recruited for ISIL and instructed individuals to perpetrate terrorist acts via online video. Physical description: hair colour: black; build: slight. Speaks Indonesian, Arabic and Mindanao dialect. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/6244333. Syria, location since 2015'
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

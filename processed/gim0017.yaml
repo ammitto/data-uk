@@ -1,4 +1,3 @@
----
 last_updated: '2025-07-23'
 date_designated: '2025-07-23'
 unique_id: GIM0017
@@ -13,8 +12,7 @@ names:
     name2: Mohsin
     name6: KHOSHNAW
     name_type: Primary Name Variation
-regime_name: The Global Irregular Migration and Trafficking in Persons Sanctions Regulations
-  2025
+regime_name: The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025
 individual_entity_ship: Individual
 designation_source: UK
 sanctions_imposed: Asset freeze|Travel Ban|Director Disqualification Sanction
@@ -33,5 +31,5 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 uk_statement_of_reasons: |2
-
+  
   Nihad Mohsin Xoshnaw is an involved person within the meaning of the Global Irregular Migration Sanctions and Trafficking in Persons Regulations 2025 ("the Regulations") as he is or has been involved in a relevant activity, namely people smuggling, by facilitating or providing support for the activity, with a view to obtaining any gain or benefit from the unlawful arrival in a country of a person who is not a national of that country or permanent resident in it. Specifically, each has supplied inflatable boats, outboard motors and other maritime equipment used by migrants to cross the English Channel from France to the United Kingdom.

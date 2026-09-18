@@ -1,4 +1,3 @@
----
 last_updated: '2025-09-12'
 date_designated: '2025-09-12'
 unique_id: RUS2995
@@ -13,8 +12,7 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
-  Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -29,17 +27,13 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: "\nMASTEL MAKINA ITHALAT IHRACAT LIMITED SIRKETI (MASTEL
-  MAKINA) is an involved person under the Russia (EU Exit) (Sanctions) Regulations
-  2019 on the basis of the following ground: MASTEL MAKINA is\n or has been destabilising
-  Ukraine or undermining or threatening the territorial integrity, sovereignty or
-  independence of Ukraine by making available funds, economic resources, goods or
-  technology, that could contribute to destabilising Ukraine or undermining or threatening
-  the territorial integrity, sovereignty or independence of Ukraine. \n"
+uk_statement_of_reasons: |2
+  
+  MASTEL MAKINA ITHALAT IHRACAT LIMITED SIRKETI (MASTEL MAKINA) is an involved person under the Russia (EU Exit) (Sanctions) Regulations 2019 on the basis of the following ground: MASTEL MAKINA is
+   or has been destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by making available funds, economic resources, goods or technology, that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine. 
 addresses:
   addresses:
-  - address_line1: 'ATAKÖY 7-8-9-10. KISIM MAH. ÇOBANÇEŞME E-5 YAN YOL CAD. NO: 16/1
-      INTERIOR DOOR NO: 90'
+  - address_line1: 'ATAKÖY 7-8-9-10. KISIM MAH. ÇOBANÇEŞME E-5 YAN YOL CAD. NO: 16/1 INTERIOR DOOR NO: 90'
     address_line5: BAKIRKÖY
     address_line6: Istanbul
     address_country: Turkey

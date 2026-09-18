@@ -1,4 +1,3 @@
----
 last_updated: '2025-10-22'
 date_designated: '2025-10-22'
 unique_id: GIM0030
@@ -7,8 +6,7 @@ names:
   names:
   - name6: ALPA TRADING FZCO
     name_type: Primary Name
-regime_name: The Global Irregular Migration and Trafficking in Persons Sanctions Regulations
-  2025
+regime_name: The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025
 individual_entity_ship: Entity
 designation_source: UK
 sanctions_imposed: Asset freeze|Director Disqualification Sanction
@@ -26,27 +24,13 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
-  grounds to suspect ALPA TRADING FZCO is an involved person under the Global Irregular
-  Migration and Trafficking in Persons Sanctions Regulations 2025 (\"the Regulations\")
-  on the basis of the following grounds: \n(1)\tIt is or has been involved in a relevant
-  activity, namely people smuggling, by facilitating the unlawful arrival in a country
-  of individuals who are not a national of that country or permanently resident in
-  it with a view to obtaining any gain or benefit. Specifically, it has purchased
-  equipment, namely engines, motors and spare parts, from East Asia for the purpose
-  of facilitating the irregular arrival of migrants across the English Channel into
-  the United Kingdom.\n(2)\tIt is or has been involved in a relevant activity, namely
-  people smuggling, by profiting financially from the unlawful arrival in a country
-  of individuals who are not a national of that country or permanently resident in
-  it. Specifically, it has profited from the supply of equipment, namely engines,
-  motors and spare parts, from East Asia for the purpose of facilitating the irregular
-  arrival of migrants across the English Channel into the United Kingdom.\n(3) It
-  is or has been involved in a relevant activity, namely people smuggling, by facilitating
-  \nthe unlawful arrival in a country of individuals who are not a national of that
-  country or permanently resident in it with a view to obtaining any gain or benefit.
-  Specifically, it has provided goods, namely engines, motors and spare parts, from
-  East Asia that could contribute to the irregular arrival of migrants across the
-  English Channel into the United Kingdom. \n"
+uk_statement_of_reasons: |2
+  
+  The Secretary of State considers that there are reasonable grounds to suspect ALPA TRADING FZCO is an involved person under the Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025 ("the Regulations") on the basis of the following grounds: 
+  (1)	It is or has been involved in a relevant activity, namely people smuggling, by facilitating the unlawful arrival in a country of individuals who are not a national of that country or permanently resident in it with a view to obtaining any gain or benefit. Specifically, it has purchased equipment, namely engines, motors and spare parts, from East Asia for the purpose of facilitating the irregular arrival of migrants across the English Channel into the United Kingdom.
+  (2)	It is or has been involved in a relevant activity, namely people smuggling, by profiting financially from the unlawful arrival in a country of individuals who are not a national of that country or permanently resident in it. Specifically, it has profited from the supply of equipment, namely engines, motors and spare parts, from East Asia for the purpose of facilitating the irregular arrival of migrants across the English Channel into the United Kingdom.
+  (3) It is or has been involved in a relevant activity, namely people smuggling, by facilitating 
+  the unlawful arrival in a country of individuals who are not a national of that country or permanently resident in it with a view to obtaining any gain or benefit. Specifically, it has provided goods, namely engines, motors and spare parts, from East Asia that could contribute to the irregular arrival of migrants across the English Channel into the United Kingdom. 
 addresses:
   addresses:
   - address_line1: 204 Nouf Tower

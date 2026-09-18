@@ -1,4 +1,3 @@
----
 last_updated: '2023-07-03'
 date_designated: '2013-03-07'
 unique_id: DPR0247
@@ -11,12 +10,10 @@ names:
     name_type: Primary name
   - name6: Mun Chong-Chol
     name_type: Alias
-regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations
-  2019
+regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UN
-sanctions_imposed: Asset freeze|Chartering of Ships|Prevention of business arrangements|Prohibition
-  of port entry|Travel Ban
+sanctions_imposed: Asset freeze|Chartering of Ships|Prevention of business arrangements|Prohibition of port entry|Travel Ban
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: false
@@ -31,10 +28,7 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: Mun Cho'ng-Ch'o'l is a TCB official. In this capacity he has facilitated
-  transactions for TCB. Tanchon was designated by the Committee in April 2009 is the
-  main DPRK financial entity for sales of conventional arms, ballistic missiles, and
-  goods related to the assembly and manufacture of such weapons.
+other_information: Mun Cho'ng-Ch'o'l is a TCB official. In this capacity he has facilitated transactions for TCB. Tanchon was designated by the Committee in April 2009 is the main DPRK financial entity for sales of conventional arms, ballistic missiles, and goods related to the assembly and manufacture of such weapons.
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

@@ -1,4 +1,3 @@
----
 last_updated: '2025-04-09'
 date_designated: '2023-12-07'
 unique_id: CYB0042
@@ -34,21 +33,11 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: "\nAndrey Stanislavovich KORINETS, a member of the Callisto
-  Group (AKA Seaborgium, Star Blizzard, Cold River), is or has been involved in relevant
-  cyber activity, including providing technical assistance that could contribute to
-  relevant cyber activity. This included the preparation of spear-phishing campaigns
-  and associated activity that resulted in unauthorised access and exfiltration of
-  sensitive data. This action undermined, or was intended to undermine, the integrity,
-  prosperity and security of UK organisations and more broadly, the UK government,
-  and directly or indirectly caused, or was intended to cause, economic loss to, or
-  prejudice to the commercial interests of, those affected by the activity.  \n  \nThe
-  Callisto Group, a cyber programme operated by officers of the Russian FSB, was responsible
-  for intrusions into the Institute for Statecraft (IfS), a UK-based think tank responsible
-  for a programme to research, publicise, and counter the threat to European democracies
-  from disinformation and other forms of hybrid warfare. Official documents belonging
-  to IfS were released in the hack and subsequent leak, resulting from the preparation
-  of spear-phishing campaigns and associated activity. \n"
+uk_statement_of_reasons: |2
+  
+  Andrey Stanislavovich KORINETS, a member of the Callisto Group (AKA Seaborgium, Star Blizzard, Cold River), is or has been involved in relevant cyber activity, including providing technical assistance that could contribute to relevant cyber activity. This included the preparation of spear-phishing campaigns and associated activity that resulted in unauthorised access and exfiltration of sensitive data. This action undermined, or was intended to undermine, the integrity, prosperity and security of UK organisations and more broadly, the UK government, and directly or indirectly caused, or was intended to cause, economic loss to, or prejudice to the commercial interests of, those affected by the activity.  
+    
+  The Callisto Group, a cyber programme operated by officers of the Russian FSB, was responsible for intrusions into the Institute for Statecraft (IfS), a UK-based think tank responsible for a programme to research, publicise, and counter the threat to European democracies from disinformation and other forms of hybrid warfare. Official documents belonging to IfS were released in the hack and subsequent leak, resulting from the preparation of spear-phishing campaigns and associated activity. 
 addresses:
   addresses:
   - address_line1: Komi Republic

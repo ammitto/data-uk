@@ -1,4 +1,3 @@
----
 last_updated: '2022-08-01'
 date_designated: '2016-03-02'
 unique_id: DPR0129
@@ -12,13 +11,10 @@ names:
     name_type: Alias
   - name6: Chongchongang Shipping Co LTD
     name_type: Alias
-regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations
-  2019
+regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UN
-sanctions_imposed: Asset freeze|Chartering of Ships|Closure of representative offices|Crew
-  servicing of ships and aircraft|Prevention of business arrangements|Prohibition
-  of port entry
+sanctions_imposed: Asset freeze|Chartering of Ships|Closure of representative offices|Crew servicing of ships and aircraft|Prevention of business arrangements|Prohibition of port entry
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: false
@@ -33,9 +29,7 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: true
   director_disqualification_sanction: false
   deflag: false
-other_information: 'IMO Number: 5342883. The Chongchongang Shipping Company, through
-  its vessel, the Chong Chon Gang, attempted to directly import the illicit shipment
-  of conventional weapons and arms to the DPRK in July 2013.'
+other_information: 'IMO Number: 5342883. The Chongchongang Shipping Company, through its vessel, the Chong Chon Gang, attempted to directly import the illicit shipment of conventional weapons and arms to the DPRK in July 2013.'
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

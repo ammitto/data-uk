@@ -1,4 +1,3 @@
----
 last_updated: '2026-07-24'
 date_designated: '2026-07-17'
 unique_id: DRC0083
@@ -16,8 +15,7 @@ names:
   - name1: Sebastien
     name6: Uwimbabazi
     name_type: Alias
-regime_name: The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations
-  2019
+regime_name: The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UN
 sanctions_imposed: Asset freeze|Travel Ban
@@ -35,16 +33,7 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Listed pursuant to paragraphs  7 (e), 7(h) of resolution 2293
-  (2016), as reaffirmed by paragraph 2 of resolution 2688 (2023) and paragraph 3 of
-  resolution 2738 (2024) and resolution 2783 (2025): SEBASTIEN UWIMBABAZI has and
-  continues to engage in or provide support for acts that undermine the peace, stability
-  and security of the DRC.  He is the leader of intelligence of the Democratic Forces
-  for the Liberation of Rwanda (FDLR).. As a key leader of the FDLR, SEBASTIEN UWIMBABAZI
-  acts on behalf of a designated entity and shares responsibility for crimes committed
-  by the FDLR in the DRC (killings, recruitment of child soldiers, and sexual abuse),
-  which constitute human rights abuses and/or violations of international humanitarian
-  law against civilians.'
+other_information: 'Listed pursuant to paragraphs  7 (e), 7(h) of resolution 2293 (2016), as reaffirmed by paragraph 2 of resolution 2688 (2023) and paragraph 3 of resolution 2738 (2024) and resolution 2783 (2025): SEBASTIEN UWIMBABAZI has and continues to engage in or provide support for acts that undermine the peace, stability and security of the DRC.  He is the leader of intelligence of the Democratic Forces for the Liberation of Rwanda (FDLR).. As a key leader of the FDLR, SEBASTIEN UWIMBABAZI acts on behalf of a designated entity and shares responsibility for crimes committed by the FDLR in the DRC (killings, recruitment of child soldiers, and sexual abuse), which constitute human rights abuses and/or violations of international humanitarian law against civilians.'
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

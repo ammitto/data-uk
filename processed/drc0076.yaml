@@ -1,4 +1,3 @@
----
 last_updated: '2026-07-24'
 date_designated: '2026-07-17'
 unique_id: DRC0076
@@ -10,8 +9,7 @@ names:
     name_type: Primary Name
   - name6: AFC
     name_type: Primary Name Variation
-regime_name: The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations
-  2019
+regime_name: The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UN
 sanctions_imposed: Asset freeze
@@ -29,14 +27,7 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Listed pursuant to paragraphs 7(c), 7(h), 7(g), and 7(j) of resolution
-  2293 (2016), as reaffirmed by paragraph 2 of resolution 2688 (2023) and paragraph
-  3 of resolution 2738 (2024) and resolution 2783 (2025): The CONGO RIVER ALLIANCE
-  has and continues to  impede the participation of their combatants, namely M23 combatants,
-  in disarmament, demobilization and reintegration processes.  The CONGO RIVER ALLIANCE
-  acts on behalf of, and provides support for, a designated entity, namely M23, and
-  shares responsibility for  M23’s destabilisation activities including through the
-  exploitation of natural resources such as coltan.'
+other_information: 'Listed pursuant to paragraphs 7(c), 7(h), 7(g), and 7(j) of resolution 2293 (2016), as reaffirmed by paragraph 2 of resolution 2688 (2023) and paragraph 3 of resolution 2738 (2024) and resolution 2783 (2025): The CONGO RIVER ALLIANCE has and continues to  impede the participation of their combatants, namely M23 combatants, in disarmament, demobilization and reintegration processes.  The CONGO RIVER ALLIANCE acts on behalf of, and provides support for, a designated entity, namely M23, and shares responsibility for  M23’s destabilisation activities including through the exploitation of natural resources such as coltan.'
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

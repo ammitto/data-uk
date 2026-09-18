@@ -1,4 +1,3 @@
----
 last_updated: '2025-05-20'
 date_designated: '2025-05-20'
 unique_id: RUS2658
@@ -23,13 +22,11 @@ names:
     name_type: Primary Name Variation
 non_latin_names:
   names:
-  - name_non_latin_script: 'АКЦИОНЕРНОЕ ОБЩЕСТВО "ВОЛГОГРАДСКИЙ МЕТАЛЛУРГИЧЕСКИЙ ЗАВОД
-      "КРАСНЫЙ ОКТЯБРЬ" '
+  - name_non_latin_script: 'АКЦИОНЕРНОЕ ОБЩЕСТВО "ВОЛГОГРАДСКИЙ МЕТАЛЛУРГИЧЕСКИЙ ЗАВОД "КРАСНЫЙ ОКТЯБРЬ" '
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
-  Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -44,10 +41,9 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: "\nJOINT STOCK COMPANY VOLGOGRAD METALLURGICAL PLANT \"RED
-  OCTOBER\" is involved in obtaining a benefit from or supporting the Government of
-  Russia by carrying on business in a sector of strategic significance to the Government
-  of Russia, namely the Russian defence sector.   \n"
+uk_statement_of_reasons: |2
+  
+  JOINT STOCK COMPANY VOLGOGRAD METALLURGICAL PLANT "RED OCTOBER" is involved in obtaining a benefit from or supporting the Government of Russia by carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian defence sector.   
 addresses:
   addresses:
   - address_line1: Lenin Ave, 114b

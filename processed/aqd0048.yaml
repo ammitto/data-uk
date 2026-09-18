@@ -1,4 +1,3 @@
----
 last_updated: '2022-01-12'
 date_designated: '2015-03-13'
 unique_id: AQD0048
@@ -12,8 +11,7 @@ names:
     name_type: Alias
   - name6: Yayasan Hilal Ahmar
     name_type: Alias
-regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations
-  2019
+regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UN
 sanctions_imposed: Asset freeze|Arms embargo
@@ -31,12 +29,7 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Ostensibly humanitarian wing of Jemaah Islamiyah (QDe.092). Operates
-  in Lampung, Jakarta, Semarang, Yogyakarta, Solo, Surabaya and Makassar, Indonesia.
-  Has been recruiting, funding and facilitating travel of foreign terrorist fighters
-  to Syria. Not affiliated with the humanitarian group International Federation of
-  the Red Cross and Red Crescent Societies (IFRC). INTERPOL-UN Security Council Special
-  Notice web link: https://www.interpol.int/en/notice/search/une/5854978'
+other_information: 'Ostensibly humanitarian wing of Jemaah Islamiyah (QDe.092). Operates in Lampung, Jakarta, Semarang, Yogyakarta, Solo, Surabaya and Makassar, Indonesia. Has been recruiting, funding and facilitating travel of foreign terrorist fighters to Syria. Not affiliated with the humanitarian group International Federation of the Red Cross and Red Crescent Societies (IFRC). INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/une/5854978'
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

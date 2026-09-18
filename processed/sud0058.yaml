@@ -1,4 +1,3 @@
----
 last_updated: '2026-07-16'
 date_designated: '2026-07-16'
 unique_id: SUD0058
@@ -27,16 +26,9 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
-  grounds to suspect that Natwest Logistics LLC is an involved person under the Sudan
-  (Sanctions) (EU Exit) Regulations 2020 because it is associated with an involved
-  person, GSK Advanced Company Ltd, and because it has, as part of a network of companies
-  linked to the Rapid Support Forces (RSF) and through its association with the RSF’s
-  financial and logistical support network, provided financial services and made available
-  funds and economic resources that could contribute to action, policy or activity
-  which threatens the peace, stability and security of Sudan in that this network
-  has played a significant role in the supply of money and resources to the RSF, one
-  of the main parties to the conflict in Sudan. \n"
+uk_statement_of_reasons: |2
+  
+  The Secretary of State considers that there are reasonable grounds to suspect that Natwest Logistics LLC is an involved person under the Sudan (Sanctions) (EU Exit) Regulations 2020 because it is associated with an involved person, GSK Advanced Company Ltd, and because it has, as part of a network of companies linked to the Rapid Support Forces (RSF) and through its association with the RSF’s financial and logistical support network, provided financial services and made available funds and economic resources that could contribute to action, policy or activity which threatens the peace, stability and security of Sudan in that this network has played a significant role in the supply of money and resources to the RSF, one of the main parties to the conflict in Sudan. 
 addresses:
   addresses:
   - address_line6: Dubai

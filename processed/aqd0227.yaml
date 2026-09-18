@@ -1,4 +1,3 @@
----
 last_updated: '2022-06-23'
 date_designated: '2015-09-29'
 unique_id: AQD0227
@@ -14,8 +13,7 @@ names:
     name6: al Faransi
     name_type: Alias
     alias_strength: Low quality a.k.a
-regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations
-  2019
+regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UN
 sanctions_imposed: Asset freeze|Arms embargo|Travel Ban
@@ -33,14 +31,7 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'French foreign terrorist fighter for Islamic State in Iraq and
-  the Levant, listed as Al-Qaida in Iraq (QDe.115). French arrest warrant issued on
-  20 Jan. 2015 by a magistrate of the anti-terrorism division of the Prosecutor’s
-  Office in Paris for murder in connection with a terrorist entity and participation
-  in a terrorist criminal association. Review pursuant to Security Council resolution
-  2268 (2017) was concluded on 15 November 2021. INTERPOL-UN Security Council Special
-  Notice web link: https://www.interpol.int/en/notice/search/un/5897332. Syria, as
-  at Sep. 2015'
+other_information: 'French foreign terrorist fighter for Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq (QDe.115). French arrest warrant issued on 20 Jan. 2015 by a magistrate of the anti-terrorism division of the Prosecutor’s Office in Paris for murder in connection with a terrorist entity and participation in a terrorist criminal association. Review pursuant to Security Council resolution 2268 (2017) was concluded on 15 November 2021. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5897332. Syria, as at Sep. 2015'
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

@@ -1,4 +1,3 @@
----
 last_updated: '2025-05-20'
 date_designated: '2025-05-20'
 unique_id: RUS2618
@@ -19,8 +18,7 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
-  Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -36,7 +34,7 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 uk_statement_of_reasons: |2
-
+  
   SHANGHAI NEW CHESS CO., LTD. is or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine, through making available goods or technology that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine; namely, SHANGHAI NEW CHESS CO., LTD. has been collaborating as part of a network involving MT-SYSTEMS LLC, ATOMA LLC, Igor Borisovich BYSTROV and SHANGHAI NEW CHESS INT'L LOGISTICS CO., LTD. to source, import and supply electronics to Russia’s defence sector. 
 addresses:
   addresses:

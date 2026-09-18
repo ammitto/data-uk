@@ -1,4 +1,3 @@
----
 last_updated: '2023-07-07'
 date_designated: '2009-07-16'
 unique_id: DPR0262
@@ -9,12 +8,10 @@ names:
   - name1: RI
     name6: HONG-SOP
     name_type: Primary name
-regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations
-  2019
+regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UN
-sanctions_imposed: Asset freeze|Chartering of Ships|Prevention of business arrangements|Prohibition
-  of port entry|Travel Ban
+sanctions_imposed: Asset freeze|Chartering of Ships|Prevention of business arrangements|Prohibition of port entry|Travel Ban
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: false
@@ -29,9 +26,7 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Former director, Yongbyon Nuclear Research Center, oversaw three
-  core facilities that assist in the production of weapons-grade plutonium: the Fuel
-  Fabrication Facility, the Nuclear Reactor, and the Reprocessing Plant.'
+other_information: 'Former director, Yongbyon Nuclear Research Center, oversaw three core facilities that assist in the production of weapons-grade plutonium: the Fuel Fabrication Facility, the Nuclear Reactor, and the Reprocessing Plant.'
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

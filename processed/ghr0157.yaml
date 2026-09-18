@@ -1,4 +1,3 @@
----
 last_updated: '2025-05-20'
 date_designated: '2025-05-20'
 unique_id: GHR0157
@@ -30,13 +29,9 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-uk_statement_of_reasons: "\nNERIA’S FARM OUTPOST (also known as NERIYA’S FARM OUTPOST)
-  including persons residing in the outpost, (hereafter “NERIA”) is an involved person
-  within the meaning of the Global Human Rights Sanctions Regulations 2020 on the
-  basis of the following ground: NERIA is associated with a person who is or has been
-  involved in activity which amounts to facilitating, inciting, promoting or providing
-  support for activity which amounts to a serious abuse of the right of individuals
-  not to be subjected to cruel, inhuman or degrading treatment or punishment.  \n"
+uk_statement_of_reasons: |2
+  
+  NERIA’S FARM OUTPOST (also known as NERIYA’S FARM OUTPOST) including persons residing in the outpost, (hereafter “NERIA”) is an involved person within the meaning of the Global Human Rights Sanctions Regulations 2020 on the basis of the following ground: NERIA is associated with a person who is or has been involved in activity which amounts to facilitating, inciting, promoting or providing support for activity which amounts to a serious abuse of the right of individuals not to be subjected to cruel, inhuman or degrading treatment or punishment.  
 addresses:
   addresses:
   - address_line1: NERIA’S FARM OUTPOST

@@ -1,4 +1,3 @@
----
 last_updated: '2023-07-07'
 date_designated: '2009-07-16'
 unique_id: DPR0278
@@ -13,12 +12,10 @@ names:
     name6: Ho-chin
     name_type: Alias
     alias_strength: Good quality a.k.a
-regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations
-  2019
+regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UN
-sanctions_imposed: Asset freeze|Chartering of Ships|Prevention of business arrangements|Prohibition
-  of port entry|Travel Ban
+sanctions_imposed: Asset freeze|Chartering of Ships|Prevention of business arrangements|Prohibition of port entry|Travel Ban
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: false
@@ -33,8 +30,7 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: Director of Namchongang Trading Corporation; oversees the import
-  of items needed for the uranium enrichment program.
+other_information: Director of Namchongang Trading Corporation; oversees the import of items needed for the uranium enrichment program.
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

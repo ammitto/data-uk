@@ -1,4 +1,3 @@
----
 last_updated: '2023-02-07'
 date_designated: '2017-07-20'
 unique_id: AQD0259
@@ -32,8 +31,7 @@ names:
     name6: Tamtomo
     name_type: Alias
     alias_strength: Good quality a.k.a
-regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations
-  2019
+regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UN
 sanctions_imposed: Asset freeze|Arms embargo|Travel Ban
@@ -51,9 +49,7 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Syrian-based Indonesian national who has served in a variety of
-  roles supporting the Islamic State in Iraq and the Levant, listed as Al-Qaida in
-  Iraq (QDe.115). INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/6116575'
+other_information: 'Syrian-based Indonesian national who has served in a variety of roles supporting the Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq (QDe.115). INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/6116575'
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

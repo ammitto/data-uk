@@ -1,4 +1,3 @@
----
 last_updated: '2025-04-09'
 date_designated: '2025-02-11'
 unique_id: CYB0065
@@ -30,15 +29,10 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: "\nXHOST INTERNET SOLUTIONS LP ('XHOST') has been involved
-  in relevant cyber activity, in that it is owned or controlled by and is acting on
-  behalf or at the direction of ZSERVERS, which is involved in relevant cyber activity
-  through the provision of hosting services that support such activity. XHOST has
-  provided support for the commission, planning or preparation of relevant cyber activity,
-  has supplied technology that could contribute to such activity, and has carried
-  out activities which promoted, enabled or facilitated the commission of relevant
-  cyber activity, by providing hosting services that support such activity.\n  \nFurther,
-  XHOST was established to support and obfuscate relevant cyber activity by ZSERVERS,
-  a Russian-based provider of bulletproof hosting services.\n  \nSuch activity that
-  XHOST was involved in, directly or indirectly caused, or is intended to cause, economic
-  loss to, or prejudice to the commercial interests of, those affected by the activity.\n"
+uk_statement_of_reasons: |2
+  
+  XHOST INTERNET SOLUTIONS LP ('XHOST') has been involved in relevant cyber activity, in that it is owned or controlled by and is acting on behalf or at the direction of ZSERVERS, which is involved in relevant cyber activity through the provision of hosting services that support such activity. XHOST has provided support for the commission, planning or preparation of relevant cyber activity, has supplied technology that could contribute to such activity, and has carried out activities which promoted, enabled or facilitated the commission of relevant cyber activity, by providing hosting services that support such activity.
+    
+  Further, XHOST was established to support and obfuscate relevant cyber activity by ZSERVERS, a Russian-based provider of bulletproof hosting services.
+    
+  Such activity that XHOST was involved in, directly or indirectly caused, or is intended to cause, economic loss to, or prejudice to the commercial interests of, those affected by the activity.

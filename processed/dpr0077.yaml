@@ -1,4 +1,3 @@
----
 last_updated: '2021-12-18'
 date_designated: '2017-10-03'
 unique_id: DPR0077
@@ -14,8 +13,7 @@ names:
     name_type: Alias
   - name6: Twgenesis Wave
     name_type: Alias
-regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations
-  2019
+regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Ship
 designation_source: UN
 sanctions_imposed: Prohibition of port entry
@@ -33,6 +31,5 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: Pursuant to paragraph 6 of Security Council Resolution 2371 (2017)
-  and paragraph 6 of Security Council Resolution 2375 (2017)
+other_information: Pursuant to paragraph 6 of Security Council Resolution 2371 (2017) and paragraph 6 of Security Council Resolution 2375 (2017)
 uk_statement_of_reasons: "\n"

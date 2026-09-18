@@ -1,4 +1,3 @@
----
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: RUS0125
@@ -12,8 +11,7 @@ names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
-  Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -28,12 +26,9 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: 'Comembers of the Commission to monitor the situation in Ukraine:
-  Vladimir Dzhabarov; Anatoly Lisitsyn, Alexander Weinberg; Mikhail Marchenko; Eugene
-  (Evgeny) Gromyko and Yefgeny Bushmin. The Director Disqualification Sanction was
-  imposed on 09/04/2025.'
-uk_statement_of_reasons: |2-
-
+other_information: 'Comembers of the Commission to monitor the situation in Ukraine: Vladimir Dzhabarov; Anatoly Lisitsyn, Alexander Weinberg; Mikhail Marchenko; Eugene (Evgeny) Gromyko and Yefgeny Bushmin. The Director Disqualification Sanction was imposed on 09/04/2025.'
+uk_statement_of_reasons: |-2
+  
   Member of the Committee for federal issues, regional politics and the North of the Federation Council of the Russian Federation. On 1 March 2014 Ryzhkov publicly supported in the Federation Council the deployment of Russian forces in Ukraine. The trust services sanctions were imposed on 21/03/2023.
 addresses:
   addresses:

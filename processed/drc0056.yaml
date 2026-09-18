@@ -1,4 +1,3 @@
----
 last_updated: '2021-12-18'
 date_designated: '2012-11-12'
 unique_id: DRC0056
@@ -18,8 +17,7 @@ names:
     name6: MAKENGA
     name_type: Alias
     alias_strength: Good quality a.k.a
-regime_name: The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations
-  2019
+regime_name: The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UN
 sanctions_imposed: Asset freeze|Travel Ban
@@ -37,7 +35,5 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'A military leader of the Mouvement du 23 Mars (M23) group operating
-  in the Democratic Republic of the Congo. In Uganda as of late 2014. INTERPOL-UN
-  Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5272833'
+other_information: 'A military leader of the Mouvement du 23 Mars (M23) group operating in the Democratic Republic of the Congo. In Uganda as of late 2014. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5272833'
 uk_statement_of_reasons: "\n"

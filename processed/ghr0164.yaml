@@ -1,4 +1,3 @@
----
 last_updated: '2025-06-10'
 date_designated: '2025-06-10'
 unique_id: GHR0164
@@ -30,13 +29,9 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: "\nBezalel SMOTRICH (hereafter “SMOTRICH”) is an involved
-  person within the meaning of the Global Human Rights Sanctions Regulations 2020
-  on the basis of the following ground: SMOTRICH is responsible for engaging in, inciting,
-  promoting and/or supporting activity which amounts to a serious abuse of the right
-  of individuals not to be subjected to cruel, inhuman or degrading treatment or punishment,
-  in particular acts of aggression and violence against Palestinian individuals in
-  the West Bank. \n"
+uk_statement_of_reasons: |2
+  
+  Bezalel SMOTRICH (hereafter “SMOTRICH”) is an involved person within the meaning of the Global Human Rights Sanctions Regulations 2020 on the basis of the following ground: SMOTRICH is responsible for engaging in, inciting, promoting and/or supporting activity which amounts to a serious abuse of the right of individuals not to be subjected to cruel, inhuman or degrading treatment or punishment, in particular acts of aggression and violence against Palestinian individuals in the West Bank. 
 addresses:
   addresses:
   - address_line1: Eish Yemicha Street, Giv’at Rashi, Kedumim, West Bank

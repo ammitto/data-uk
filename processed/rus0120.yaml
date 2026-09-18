@@ -1,4 +1,3 @@
----
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: RUS0120
@@ -27,8 +26,7 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
-  Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -43,9 +41,7 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: Former so-called 'Prime Minister of the Council of Ministers of
-  the Luhansk People's Republic'. Continues activities of supporting LNR separatist
-  structures. The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2-
-
+other_information: Former so-called 'Prime Minister of the Council of Ministers of the Luhansk People's Republic'. Continues activities of supporting LNR separatist structures. The Director Disqualification Sanction was imposed on 09/04/2025.
+uk_statement_of_reasons: |-2
+  
   Former so-called 'Information and Mass Communications Minister' of the 'Donetsk People's Republic'. Currently a member of the so-called 'People's Council of the 'Donetsk People's Republic'. Repsonsible for the pro-separatist propaganda activities of the'government' of the 'Donetsk People's Republic'. Continues active support to the separatist actions in Eastern Ukraine. The trust services sanctions were imposed on 21/03/2023.

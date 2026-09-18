@@ -1,4 +1,3 @@
----
 last_updated: '2021-12-18'
 date_designated: '2018-03-30'
 unique_id: DPR0096
@@ -23,8 +22,7 @@ names:
     name_type: Alias
   - name6: Zuzagbong-5
     name_type: Alias
-regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations
-  2019
+regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Ship
 designation_source: UN
 sanctions_imposed: Asset freeze|Prohibition of port entry
@@ -42,9 +40,5 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Pursuant to paragraph 6 of Security Council Resolution 2371 (2017),
-  paragraph 6 of Security Council Resolution 2375 (2017)and paragraph 12 of Security
-  Council resolution 2321 (2016). DPRK oil tanker M/V CHON MYONG 1 conducted a ship-to-ship
-  transfer, likely for oil, in late December 2017. Listed as asset of Chonmyong Shipping
-  Co (OFSI ID: 13627, UN Ref KPe.056)'
+other_information: 'Pursuant to paragraph 6 of Security Council Resolution 2371 (2017), paragraph 6 of Security Council Resolution 2375 (2017)and paragraph 12 of Security Council resolution 2321 (2016). DPRK oil tanker M/V CHON MYONG 1 conducted a ship-to-ship transfer, likely for oil, in late December 2017. Listed as asset of Chonmyong Shipping Co (OFSI ID: 13627, UN Ref KPe.056)'
 uk_statement_of_reasons: "\n"

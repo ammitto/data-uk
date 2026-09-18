@@ -1,4 +1,3 @@
----
 last_updated: '2026-05-26'
 date_designated: '2026-05-26'
 unique_id: RUS3616
@@ -26,8 +25,7 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
-  Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -42,27 +40,22 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
-  grounds to suspect that \nLIMITED LIABILITY COMPANY \"DIAMOND ESTATE\" (hereafter
-  “DIAMOND ESTATE”) \nis an involved person under the Russia (Sanctions) (EU Exit)
-  Regulations 2019 because: \n \nLIMITED LIABILITY COMPANY \"DIAMOND ESTATE\" \nis
-  or has been involved in obtaining a benefit from or supporting the Government of
-  Russia by carrying on business in a sector of strategic significance to the Government
-  of Russia, namely the Russian financial services secto\nr.\nLIMITED LIABILITY COMPANY
-  \"DIAMOND ESTATE\"\n is or has been involved in obtaining a benefit from or supporting
-  the Government of Russia by providing financial services, or making available funds,
-  economic resources, goods or technology to a person who carries on business in a
-  sector of strategic significance to the Government of Russia, namely persons within
-  the A7 network and \nSibmetinvest LLC\n (in the Russian financial sector) \nand
-  \ Raspadskaya Coal Company LLC (in the Russian extractive sector)\n. \nLIMITED LIABILITY
-  COMPANY \"DIAMOND ESTATE\" has provided financial services or made available funds,
-  economic resources, goods or technology to a person who provides financial services
-  or makes available funds, economic resources, goods or technology that could contribute
-  to destabilising Ukraine or undermining or threatening the territorial integrity,
-  sovereignty or independence of Ukraine, namely persons within the A7 network, who
-  provide financial services and makes available funds, economic resources, goods
-  and technology that undermine Western sanctions and weaken a key foreign policy
-  tool aimed at ending Russian aggression in Ukraine.\n"
+uk_statement_of_reasons: |2
+  
+  The Secretary of State considers that there are reasonable grounds to suspect that 
+  LIMITED LIABILITY COMPANY "DIAMOND ESTATE" (hereafter “DIAMOND ESTATE”) 
+  is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 because: 
+   
+  LIMITED LIABILITY COMPANY "DIAMOND ESTATE" 
+  is or has been involved in obtaining a benefit from or supporting the Government of Russia by carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian financial services secto
+  r.
+  LIMITED LIABILITY COMPANY "DIAMOND ESTATE"
+   is or has been involved in obtaining a benefit from or supporting the Government of Russia by providing financial services, or making available funds, economic resources, goods or technology to a person who carries on business in a sector of strategic significance to the Government of Russia, namely persons within the A7 network and 
+  Sibmetinvest LLC
+   (in the Russian financial sector) 
+  and  Raspadskaya Coal Company LLC (in the Russian extractive sector)
+  . 
+  LIMITED LIABILITY COMPANY "DIAMOND ESTATE" has provided financial services or made available funds, economic resources, goods or technology to a person who provides financial services or makes available funds, economic resources, goods or technology that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine, namely persons within the A7 network, who provide financial services and makes available funds, economic resources, goods and technology that undermine Western sanctions and weaken a key foreign policy tool aimed at ending Russian aggression in Ukraine.
 addresses:
   addresses:
   - address_line1: Block 4 Floor 1

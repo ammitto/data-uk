@@ -1,4 +1,3 @@
----
 last_updated: '2025-10-03'
 date_designated: '2025-09-25'
 unique_id: CTD0007
@@ -27,17 +26,9 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-uk_statement_of_reasons: "\nWe have reasonable grounds to suspect that Rampage Productions
-  (“Rampage”) is an involved person on the basis that Rampage has been and is involved
-  in the terrorist activity set out below. (a) Rampage has been and is facilitating,
-  promoting and encouraging terrorism via its dissemination of music whose content
-  promotes and encourages terrorism and through supporting events where such music
-  is performed and disseminated; (b) Rampage has made funds available to, or for the
-  benefit of, a person involved in terrorism for the purpose of promoting and encouraging
-  terrorism through the sale of music and material whose content promotes and encourages
-  terrorism; and through supporting events where such music is performed and such
-  material disseminated; and (c) Rampage is an unincorporated association and/or organisation
-  controlled directly by a person involved in terrorism. \n"
+uk_statement_of_reasons: |2
+  
+  We have reasonable grounds to suspect that Rampage Productions (“Rampage”) is an involved person on the basis that Rampage has been and is involved in the terrorist activity set out below. (a) Rampage has been and is facilitating, promoting and encouraging terrorism via its dissemination of music whose content promotes and encourages terrorism and through supporting events where such music is performed and disseminated; (b) Rampage has made funds available to, or for the benefit of, a person involved in terrorism for the purpose of promoting and encouraging terrorism through the sale of music and material whose content promotes and encourages terrorism; and through supporting events where such music is performed and such material disseminated; and (c) Rampage is an unincorporated association and/or organisation controlled directly by a person involved in terrorism. 
 addresses:
   addresses:
   - address_line2: Holyfield Road

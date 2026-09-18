@@ -1,4 +1,3 @@
----
 last_updated: '2024-01-08'
 date_designated: '2016-03-02'
 unique_id: DPR0124
@@ -10,13 +9,10 @@ names:
     name_type: Primary name
   - name6: Second Academy of Natural Sciences (KPe.018)
     name_type: Alias
-regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations
-  2019
+regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UN
-sanctions_imposed: Asset freeze|Chartering of Ships|Closure of representative offices|Crew
-  servicing of ships and aircraft|Prevention of business arrangements|Prohibition
-  of port entry
+sanctions_imposed: Asset freeze|Chartering of Ships|Closure of representative offices|Crew servicing of ships and aircraft|Prevention of business arrangements|Prohibition of port entry
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: false
@@ -31,9 +27,7 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: true
   director_disqualification_sanction: false
   deflag: false
-other_information: The Academy of National Defense Science is involved in the DPRK's
-  efforts to advance the development of its ballistic missile and nuclear weapons
-  programs.
+other_information: The Academy of National Defense Science is involved in the DPRK's efforts to advance the development of its ballistic missile and nuclear weapons programs.
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

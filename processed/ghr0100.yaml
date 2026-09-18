@@ -1,4 +1,3 @@
----
 last_updated: '2025-04-09'
 date_designated: '2023-12-07'
 unique_id: GHR0100
@@ -34,12 +33,9 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: "\nPacific Real Estate Property Management Company is an
-  involved person under the Global Human Rights Sanctions Regulations 2020 because
-  it is responsible for, has engaged in, or has facilitated, activity that violates
-  the right not to be subjected to torture or cruel, inhuman or degrading treatment
-  or punishment or the right not to be held in servitude or required to perform forced
-  or compulsory labour   \n"
+uk_statement_of_reasons: |2
+  
+  Pacific Real Estate Property Management Company is an involved person under the Global Human Rights Sanctions Regulations 2020 because it is responsible for, has engaged in, or has facilitated, activity that violates the right not to be subjected to torture or cruel, inhuman or degrading treatment or punishment or the right not to be held in servitude or required to perform forced or compulsory labour   
 addresses:
   addresses:
   - address_line1: Chrey Thum

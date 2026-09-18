@@ -1,4 +1,3 @@
----
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: RUS0087
@@ -28,8 +27,7 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
-  Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -44,10 +42,9 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: Deputy Chairperson of the Duma Committee on ethnic affairs. The
-  Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2-
-
+other_information: Deputy Chairperson of the Duma Committee on ethnic affairs. The Director Disqualification Sanction was imposed on 09/04/2025.
+uk_statement_of_reasons: |-2
+  
   Chaliy became “People’s Mayor of Sevastopol” by popular acclamation 23 February 2014 and accepted this “vote”. He actively campaigned for Sevastopol to become a separate entity of the Russian Federation following a referendum on 16 March 2014. He was one of the co-signatories of the “treaty on Crimea’s accession to the Russian Federation” of 18 March 2014. He was acting “Governor” of Sevastopol from 1 to 14 April 2014 and is a former “elected” Chairman of the “Legislative Assembly” of the City of Sevastopol (until September 2019). Remains active in supporting separatist actions or policies.For his involvement in the annexation process he has been awarded with the Russian State order “For Merit to the Fatherland” – first degree. The trust services sanctions were imposed on 21/03/2023.
 addresses:
   addresses:

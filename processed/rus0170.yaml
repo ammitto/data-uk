@@ -1,4 +1,3 @@
----
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: RUS0170
@@ -15,8 +14,7 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
-  Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -31,13 +29,10 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: Part of the so called "2nd Army Corps of the "Lugansk People's
-  Republic". Also part of the Great Don Army. The Director Disqualification Sanction
-  was imposed on 09/04/2025.
-uk_statement_of_reasons: |2-
-
+other_information: Part of the so called "2nd Army Corps of the "Lugansk People's Republic". Also part of the Great Don Army. The Director Disqualification Sanction was imposed on 09/04/2025.
+uk_statement_of_reasons: |-2
+  
   Armed separatist group which has actively supported actions which undermine the territorial integrity, sovereignty and independence of Ukraine and to further destabilise Ukraine. Part of the so called "2nd Army Corps of the "Lugansk People's Republic". The trust services sanctions were imposed on 21/03/2023.
 addresses:
   addresses:
-  - address_line6: A former tourist camp outside Donetsk which has been turned into
-      a base for the Death Battalion.
+  - address_line6: A former tourist camp outside Donetsk which has been turned into a base for the Death Battalion.

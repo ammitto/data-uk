@@ -1,4 +1,3 @@
----
 last_updated: '2026-07-06'
 date_designated: '2026-07-06'
 unique_id: CHW0043
@@ -32,11 +31,9 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: "\nTh\ne Secretary of State considers that there are reasonable
-  grounds to suspect that \nAleksandr Aleksandrovich Makhlay (hereafter “Makhlay”)
-  is an involved person under the Chemical Weapons (Sanctions) (EU Exit) Regulations
-  2019 on the basis of the following grounds: (1) Makhlay is or has been responsible
-  for, engaging in, providing support for, or promoting prohibited activity related
-  to chemical weapons; (2) Makhlay is associated with SC Signal which is or has been
-  responsible for, engaging in, providing support for, or promoting prohibited activity
-  related to chemical weapons. Makhlay is the Chief Scientist at SC Signal. \n \n"
+uk_statement_of_reasons: |2
+  
+  Th
+  e Secretary of State considers that there are reasonable grounds to suspect that 
+  Aleksandr Aleksandrovich Makhlay (hereafter “Makhlay”) is an involved person under the Chemical Weapons (Sanctions) (EU Exit) Regulations 2019 on the basis of the following grounds: (1) Makhlay is or has been responsible for, engaging in, providing support for, or promoting prohibited activity related to chemical weapons; (2) Makhlay is associated with SC Signal which is or has been responsible for, engaging in, providing support for, or promoting prohibited activity related to chemical weapons. Makhlay is the Chief Scientist at SC Signal. 
+   
