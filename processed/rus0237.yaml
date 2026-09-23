@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2022-02-22'
 unique_id: RUS0237
@@ -16,7 +17,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction|Prohibition on Correspondent banking relationships and processing payments
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction|Prohibition on Correspondent banking relationships and processing payments
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -31,9 +33,11 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: The prohibition on correspondent banking relationships and processing payments was imposed on 15/12/2023. The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
+other_information: The prohibition on correspondent banking relationships and processing
+  payments was imposed on 15/12/2023. The Director Disqualification Sanction was imposed
+  on 09/04/2025.
+uk_statement_of_reasons: |2-
+
   PJSC Promsvyazbank ("Promsvyazbank") is a Russian state owned bank. Its main task is to service the state defence order and to finance defence industry enterprises. In its role as a pivotal bank for the Russian military-industrial complex, including servicing nearly 70% of the state contracts signed by the Defence Ministry as a government customer, Promsvyazbank provides financial services or makes available funds and economic resources that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine.
    The trust services sanctions were imposed on 21/03/2023.
 addresses:

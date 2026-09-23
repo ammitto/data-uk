@@ -1,3 +1,4 @@
+---
 last_updated: '2026-03-26'
 date_designated: '2026-03-26'
 unique_id: GHR0186
@@ -26,9 +27,18 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  The Secretary of State considers that there are reasonable grounds to suspect that LEGEND INNOVATION CO., LTD is an involved person within the meaning of the Global Human Rights Sanctions Regulations 2020 on the basis of the following grounds: (1) LEGEND INNOVATION CO., LTD is associated with persons who are or have been involved in human rights abuses, namely CAMBODIAN HENG XIN REAL ESTATE, which is involved in the development and operation of a scam centre in Cambodia; (2) LEGEND INNOVATION CO., LTD is or has been responsible for, engaging in, facilitating or providing support for human rights abuses, specifically serious abuses of the right not to be subjected to cruel, inhuman or degrading treatment or punishment, and of the right to be free from slavery, not to be held in servitude or required to perform forced or compulsory labour, through its involvement in the development and operation of a scam centre in Cambodia. 
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that LEGEND INNOVATION CO., LTD is an involved person within
+  the meaning of the Global Human Rights Sanctions Regulations 2020 on the basis of
+  the following grounds: (1) LEGEND INNOVATION CO., LTD is associated with persons
+  who are or have been involved in human rights abuses, namely CAMBODIAN HENG XIN
+  REAL ESTATE, which is involved in the development and operation of a scam centre
+  in Cambodia; (2) LEGEND INNOVATION CO., LTD is or has been responsible for, engaging
+  in, facilitating or providing support for human rights abuses, specifically serious
+  abuses of the right not to be subjected to cruel, inhuman or degrading treatment
+  or punishment, and of the right to be free from slavery, not to be held in servitude
+  or required to perform forced or compulsory labour, through its involvement in the
+  development and operation of a scam centre in Cambodia. \n"
 addresses:
   addresses:
   - address_line1: Huione Insurance

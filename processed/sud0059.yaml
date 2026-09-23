@@ -1,3 +1,4 @@
+---
 last_updated: '2026-07-16'
 date_designated: '2026-07-16'
 unique_id: SUD0059
@@ -36,13 +37,14 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  The Secretary of State considers that there are reasonable grounds to suspect that
-   
-  Sudamin Company Limited (
-  “SUDAMIN”) is an involved person under the Sudan (Sanctions) (EU Exit) Regulations 2020 as it has made available funds or economic resources that could contribute to activity which threatens the peace, stability and security of Sudan.  Specifically, SUDAMIN, as a major state-owned gold mining company in Sudan with links to other SAF-owned mining companies, has provided the SAF with revenue from conflict gold. The SAF is one of the main warring parties in Sudan.
-   
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that\n \nSudamin Company Limited (\n“SUDAMIN”) is an involved
+  person under the Sudan (Sanctions) (EU Exit) Regulations 2020 as it has made available
+  funds or economic resources that could contribute to activity which threatens the
+  peace, stability and security of Sudan.  Specifically, SUDAMIN, as a major state-owned
+  gold mining company in Sudan with links to other SAF-owned mining companies, has
+  provided the SAF with revenue from conflict gold. The SAF is one of the main warring
+  parties in Sudan.\n \n"
 addresses:
   addresses:
   - address_line1: Khartoum, Al Manshya

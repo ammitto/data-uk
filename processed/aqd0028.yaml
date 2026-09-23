@@ -1,3 +1,4 @@
+---
 last_updated: '2022-01-12'
 date_designated: '2004-10-18'
 unique_id: AQD0028
@@ -41,7 +42,8 @@ non_latin_names:
   names:
   - name_non_latin_script: القاعده في العراق
   - name_non_latin_script: Tanzeem Qa’idat al Jihad/Bilad al Raafidaini
-regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019
+regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Entity
 designation_source: UN
 sanctions_imposed: Asset freeze|Arms embargo
@@ -59,5 +61,7 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Review pursuant to Security Council resolution 1822 (2008) was concluded on 25 May 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/une/5278296'
+other_information: 'Review pursuant to Security Council resolution 1822 (2008) was
+  concluded on 25 May 2010. INTERPOL-UN Security Council Special Notice web link:
+  https://www.interpol.int/en/notice/search/une/5278296'
 uk_statement_of_reasons: "\n"

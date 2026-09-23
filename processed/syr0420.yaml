@@ -1,3 +1,4 @@
+---
 last_updated: '2025-12-19'
 date_designated: '2025-12-19'
 unique_id: SYR0420
@@ -33,6 +34,8 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  The Secretary of State considers that there are reasonable grounds to suspect that Mohammed al-Jasim is an involved person under the Syria (Sanctions) (EU Exit) Regulations 2019 on the basis of the following ground: AL-JASIM is or has been involved in repressing the civilian population of Syria and, during the civil war, the commission of violations of International Humanitarian Law.  
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that Mohammed al-Jasim is an involved person under the Syria
+  (Sanctions) (EU Exit) Regulations 2019 on the basis of the following ground: AL-JASIM
+  is or has been involved in repressing the civilian population of Syria and, during
+  the civil war, the commission of violations of International Humanitarian Law.  \n"

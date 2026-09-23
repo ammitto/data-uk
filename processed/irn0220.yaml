@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2024-09-02'
 unique_id: IRN0220
@@ -26,6 +27,8 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  Hamid FAZELI is an involved person within the meaning of the Iran (Sanctions) Regulations 2023 on the basis of the following ground: FAZELI is or has been involved in hostile activity by the Government of Iran, namely giving support or assistance to armed groups threatening, planning or conducting activity intended to cause the destabilisation of Israel. 
+uk_statement_of_reasons: "\nHamid FAZELI is an involved person within the meaning
+  of the Iran (Sanctions) Regulations 2023 on the basis of the following ground: FAZELI
+  is or has been involved in hostile activity by the Government of Iran, namely giving
+  support or assistance to armed groups threatening, planning or conducting activity
+  intended to cause the destabilisation of Israel. \n"

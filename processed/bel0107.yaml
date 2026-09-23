@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2021-06-21'
 unique_id: BEL0107
@@ -35,9 +36,12 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  BNK (UK) Ltd Company is controlled directly or indirectly by the President of Belarus, Alexander Lukashenko, who has been responsible for serious violations of human rights in Belarus. BNK (UK) Ltd is controlled by CJSC Belarusian Oil Company, the state exporter of oil products, of which Belarusneft Production Association, a State owned entity in Belarus is the major controlling party. 
+uk_statement_of_reasons: "\nBNK (UK) Ltd Company is controlled directly or indirectly
+  by the President of Belarus, Alexander Lukashenko, who has been responsible for
+  serious violations of human rights in Belarus. BNK (UK) Ltd is controlled by CJSC
+  Belarusian Oil Company, the state exporter of oil products, of which Belarusneft
+  Production Association, a State owned entity in Belarus is the major controlling
+  party. \n"
 addresses:
   addresses:
   - address_line1: 26-28 Hammersmith Grove

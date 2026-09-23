@@ -1,3 +1,4 @@
+---
 last_updated: '2025-12-04'
 date_designated: '2025-12-04'
 unique_id: CTD0012
@@ -26,10 +27,11 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-uk_statement_of_reasons: |2
-  
-  We have reasonable grounds to suspect that Babbar Akali Lehar (“BAL”) is an involved person on the basis that it has been involved in the following terrorist activity: 
-   
-  (a) BAL has been and is promoting and encouraging terrorism, through promoting a person involved in terrorism, namely Babbar Khalsa (“BK”) which uses the alias Babbar Khalsa International (“BKI”) (together “BK/BKI”);
-  (b) BAL is associated with a person involved in terrorism namely BK/BKI; and
-  (c) BAL has been and is carrying out recruitment activities for persons involved in terrorism, namely themselves and BK/BKI.
+uk_statement_of_reasons: "\nWe have reasonable grounds to suspect that Babbar Akali
+  Lehar (“BAL”) is an involved person on the basis that it has been involved in the
+  following terrorist activity: \n \n(a) BAL has been and is promoting and encouraging
+  terrorism, through promoting a person involved in terrorism, namely Babbar Khalsa
+  (“BK”) which uses the alias Babbar Khalsa International (“BKI”) (together “BK/BKI”);\n(b)
+  BAL is associated with a person involved in terrorism namely BK/BKI; and\n(c) BAL
+  has been and is carrying out recruitment activities for persons involved in terrorism,
+  namely themselves and BK/BKI.\n"

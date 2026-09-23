@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2022-05-04'
 unique_id: RUS1407
@@ -16,7 +17,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -31,9 +33,10 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: Organization Established Date 11 Feb 2016 The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
+other_information: Organization Established Date 11 Feb 2016 The Director Disqualification
+  Sanction was imposed on 09/04/2025.
+uk_statement_of_reasons: |2-
+
   ANALITICHESKI TSENTR KATEKHON OOO (a.k.a. KATEHON) is a think tank and website involved in the spread of propaganda and disinformation. Through articles on its website it is regularly engaged in providing support for and promoting policies and action which destabilise Ukraine and undermine and threaten its territorial integrity, sovereignty and independence.
    The trust services sanctions were imposed on 21/03/2023.
 addresses:

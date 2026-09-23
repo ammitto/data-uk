@@ -1,3 +1,4 @@
+---
 last_updated: '2026-06-16'
 date_designated: '2026-06-16'
 unique_id: RUS3651
@@ -13,7 +14,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -28,11 +30,11 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  The Secretary of State considers that there are reasonable grounds to suspect that 
-  Nikolay 
-  Nikolayevich SAZHIN is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 because he
-   is, or has been, a member of THE MAIN DIRECTORATE OF THE GENERAL STAFF OF THE ARMED FORCES OF THE RUSSIAN FEDERATION (“the GRU”). Specifically, 
-  Nikolay 
-  Nikolayevich SAZHIN is an officer of the GRU and has been involved in supporting GRU front company LLC NEPTUNE CO LTD’s activities procuring goods and technology to support the production and development needs of the Russian defence sector.
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that \nNikolay \nNikolayevich SAZHIN is an involved person under
+  the Russia (Sanctions) (EU Exit) Regulations 2019 because he\n is, or has been,
+  a member of THE MAIN DIRECTORATE OF THE GENERAL STAFF OF THE ARMED FORCES OF THE
+  RUSSIAN FEDERATION (“the GRU”). Specifically, \nNikolay \nNikolayevich SAZHIN is
+  an officer of the GRU and has been involved in supporting GRU front company LLC
+  NEPTUNE CO LTD’s activities procuring goods and technology to support the production
+  and development needs of the Russian defence sector.\n"

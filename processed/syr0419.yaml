@@ -1,3 +1,4 @@
+---
 last_updated: '2025-12-19'
 date_designated: '2025-12-19'
 unique_id: SYR0419
@@ -50,6 +51,8 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  The Secretary of State considers that there are reasonable grounds to suspect that Ghaith DALLA is an involved person under the Syria (Sanctions) (EU Exit) Regulations 2019 on the basis of the following ground: DALLA is or has been involved in repressing the civilian population of Syria and committing violations of international humanitarian law during the civil war. 
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that Ghaith DALLA is an involved person under the Syria (Sanctions)
+  (EU Exit) Regulations 2019 on the basis of the following ground: DALLA is or has
+  been involved in repressing the civilian population of Syria and committing violations
+  of international humanitarian law during the civil war. \n"

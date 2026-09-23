@@ -1,3 +1,4 @@
+---
 last_updated: '2026-07-06'
 date_designated: '2026-07-06'
 unique_id: CHW0037
@@ -37,10 +38,11 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  The Secretary of State considers that there are reasonable grounds to suspect that 
-  Artur 
-  Aleksandrovich
-   Zhirov (hereafter “Zhirov”) is an involved person under the Chemical Weapons (Sanctions) (EU Exit) Regulations 2019 on the basis of the following grounds: (1) Artur Zhirov is or has been responsible for, engaging in, providing support for, or promoting prohibited activity related to chemical weapons; (2) Zhirov is associated with SC Signal, which is or has been responsible for, engaging in, providing support for, or promoting prohibited activity related to chemical weapons. Zhirov is the Director of SC Signal. 
-   
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that \nArtur \nAleksandrovich\n Zhirov (hereafter “Zhirov”) is
+  an involved person under the Chemical Weapons (Sanctions) (EU Exit) Regulations
+  2019 on the basis of the following grounds: (1) Artur Zhirov is or has been responsible
+  for, engaging in, providing support for, or promoting prohibited activity related
+  to chemical weapons; (2) Zhirov is associated with SC Signal, which is or has been
+  responsible for, engaging in, providing support for, or promoting prohibited activity
+  related to chemical weapons. Zhirov is the Director of SC Signal. \n \n"

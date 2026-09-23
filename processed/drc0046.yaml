@@ -1,3 +1,4 @@
+---
 last_updated: '2021-12-18'
 date_designated: '2005-11-01'
 unique_id: DRC0046
@@ -42,7 +43,8 @@ names:
   - name6: Papa Six
     name_type: Alias
     alias_strength: Low quality a.k.a
-regime_name: The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019
+regime_name: The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Individual
 designation_source: UN
 sanctions_imposed: Asset freeze|Travel Ban
@@ -60,5 +62,14 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Former RCD-G General. Founder, National Congress for the People’s Defense, 2006; Senior Officer, Rally for Congolese Democracy-Goma (RCD-G), 1998-2006; Officer Rwandan Patriotic Front (RPF), 1992-1998. Laurent Nkunda was arrested by Rwandan authorities in Rwanda in January 2009 and replaced as the commander of the CNDP. Since then, he has been under house arrest in Kigali, Rwanda. DRC Government’s request to extradite Nkunda for crimes committed in eastern DRC has been refused by Rwanda. In 2010, Nkunda’s appeal for illegal detention was rejected by Rwandan court in Gisenyi, ruling that the matter should be examined by a military court. Nkunda’s lawyers appealed with the Rwandan Military Court. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5270703'
+other_information: 'Former RCD-G General. Founder, National Congress for the People’s
+  Defense, 2006; Senior Officer, Rally for Congolese Democracy-Goma (RCD-G), 1998-2006;
+  Officer Rwandan Patriotic Front (RPF), 1992-1998. Laurent Nkunda was arrested by
+  Rwandan authorities in Rwanda in January 2009 and replaced as the commander of the
+  CNDP. Since then, he has been under house arrest in Kigali, Rwanda. DRC Government’s
+  request to extradite Nkunda for crimes committed in eastern DRC has been refused
+  by Rwanda. In 2010, Nkunda’s appeal for illegal detention was rejected by Rwandan
+  court in Gisenyi, ruling that the matter should be examined by a military court.
+  Nkunda’s lawyers appealed with the Rwandan Military Court. INTERPOL-UN Security
+  Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5270703'
 uk_statement_of_reasons: "\n"

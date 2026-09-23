@@ -1,3 +1,4 @@
+---
 last_updated: '2023-02-07'
 date_designated: '2014-09-23'
 unique_id: AQD0085
@@ -41,7 +42,8 @@ names:
   - name6: Yusuf
     name_type: Alias
     alias_strength: Low quality a.k.a
-regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019
+regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Individual
 designation_source: UN
 sanctions_imposed: Asset freeze|Arms embargo|Travel Ban
@@ -59,7 +61,12 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'A sentence of imprisonment for 15 years was issued against him by Kuwait in absentia on 30 July 2015. Provides support to Al-Qaida (QDe.004) and Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq (AQI) (QDe.115), in Syria and Iraq. Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5818202'
+other_information: 'A sentence of imprisonment for 15 years was issued against him
+  by Kuwait in absentia on 30 July 2015. Provides support to Al-Qaida (QDe.004) and
+  Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq (AQI) (QDe.115),
+  in Syria and Iraq. Review pursuant to Security Council resolution 2253 (2015) was
+  concluded on 21 Feb. 2019. INTERPOL-UN Security Council Special Notice web link:
+  https://www.interpol.int/en/notice/search/un/5818202'
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

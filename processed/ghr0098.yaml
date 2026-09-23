@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2023-12-07'
 unique_id: GHR0098
@@ -28,9 +29,12 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  Joseph Pierre Richard DUPLAN is an involved person within the meaning of the Global Human Rights Sanctions Regulations 2020 because he is or has been involved in the commission of a serious human rights violation or abuse in Haiti. In particular, Joseph Pierre Richard DUPLAN was President Moïse’s Departmental Delegate and, whilst in this senior role, participated in the planning of the La Saline massacre that took place in 2018. 
+uk_statement_of_reasons: "\nJoseph Pierre Richard DUPLAN is an involved person within
+  the meaning of the Global Human Rights Sanctions Regulations 2020 because he is
+  or has been involved in the commission of a serious human rights violation or abuse
+  in Haiti. In particular, Joseph Pierre Richard DUPLAN was President Moïse’s Departmental
+  Delegate and, whilst in this senior role, participated in the planning of the La
+  Saline massacre that took place in 2018. \n"
 addresses:
   addresses:
   - address_country: Haiti

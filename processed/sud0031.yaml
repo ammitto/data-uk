@@ -1,3 +1,4 @@
+---
 last_updated: '2026-02-05'
 date_designated: '2026-02-05'
 unique_id: SUD0031
@@ -27,8 +28,12 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  The Secretary of State considers that there are reasonable grounds to suspect that Mustafa Ibrahim Abdel Nabi Mohamed is an involved person under the Sudan (Sanctions) (EU Exit) Regulations 2020 (1) through his association with Alkhaleej Bank Co Ltd; and (2) Mustafa Ibrahim Abdel Nabi Mohamed himself is or has been  providing financial services that could contribute to an action, policy or activity which threatens the peace, stability and security of Sudan because he has acted as financial advisor to the RSF and he has therefore contributed to the RSF’s siege of El Fasher in North Darfur and the RSF’s operations elsewhere in Sudan.
-    
-     
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that Mustafa Ibrahim Abdel Nabi Mohamed is an involved person
+  under the Sudan (Sanctions) (EU Exit) Regulations 2020 (1) through his association
+  with Alkhaleej Bank Co Ltd; and (2) Mustafa Ibrahim Abdel Nabi Mohamed himself is
+  or has been  providing financial services that could contribute to an action, policy
+  or activity which threatens the peace, stability and security of Sudan because he
+  has acted as financial advisor to the RSF and he has therefore contributed to the
+  RSF’s siege of El Fasher in North Darfur and the RSF’s operations elsewhere in Sudan.\n
+  \ \n   \n"

@@ -1,3 +1,4 @@
+---
 last_updated: '2025-11-19'
 date_designated: '2025-11-19'
 unique_id: CYB0098
@@ -28,11 +29,19 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  The Secretary of State considers that there are reasonable grounds to suspect that MEDIA LAND LLC is or has been involved in relevant cyber activity, in that it has provided support for the commission, planning or preparation of such activity, and has supplied technology and provided technical assistance that could contribute to the commission of relevant cyber activity. 
-  MEDIA LAND has operated from St. Petersburg, Russia and has promoted itself as a Bulletproof Hosting (BPH) provider. MEDIA LAND has been involved in relevant cyber activity through its role in providing infrastructure used in ransomware incidents and malicious cyber activity for customers, including those affiliated with the LockBit ransomware group. MEDIA LAND has been identified as a key enabler of the cybercrime ecosystem. 
-  Such activity that MEDIA LAND is or has been involved in, directly or indirectly caused, or was intended to cause, economic loss to, or prejudice to the commercial interests of, those affected by the activity. 
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that MEDIA LAND LLC is or has been involved in relevant cyber
+  activity, in that it has provided support for the commission, planning or preparation
+  of such activity, and has supplied technology and provided technical assistance
+  that could contribute to the commission of relevant cyber activity. \nMEDIA LAND
+  has operated from St. Petersburg, Russia and has promoted itself as a Bulletproof
+  Hosting (BPH) provider. MEDIA LAND has been involved in relevant cyber activity
+  through its role in providing infrastructure used in ransomware incidents and malicious
+  cyber activity for customers, including those affiliated with the LockBit ransomware
+  group. MEDIA LAND has been identified as a key enabler of the cybercrime ecosystem.
+  \nSuch activity that MEDIA LAND is or has been involved in, directly or indirectly
+  caused, or was intended to cause, economic loss to, or prejudice to the commercial
+  interests of, those affected by the activity. \n"
 addresses:
   addresses:
   - address_line1: Office 27

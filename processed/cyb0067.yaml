@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2025-02-11'
 unique_id: CYB0067
@@ -35,10 +36,13 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  Aleksandr Igorevich MISHIN is an involved person through his role in and association with ZSERVERS, an involved person identified as a key enabler of the cybercrime ecosystem.
-    
-  In this capacity, Aleksandr Igorevich MISHIN was directly involved in the supply of goods or technology that could contribute to relevant cyber activity, or in providing financial services relating to such supply, as well as the provision of technical assistance that could contribute to relevant cyber activity. Aleksandr Igorevich MISHIN is therefore involved in enabling cybercrime.
-    
-  In this role, Aleksandr Igorevich MISHIN was involved in relevant cyber activity that, directly or indirectly caused, or was intended to cause, economic loss to, or prejudice to the commercial interests of, those affected by the activity.
+uk_statement_of_reasons: "\nAleksandr Igorevich MISHIN is an involved person through
+  his role in and association with ZSERVERS, an involved person identified as a key
+  enabler of the cybercrime ecosystem.\n  \nIn this capacity, Aleksandr Igorevich
+  MISHIN was directly involved in the supply of goods or technology that could contribute
+  to relevant cyber activity, or in providing financial services relating to such
+  supply, as well as the provision of technical assistance that could contribute to
+  relevant cyber activity. Aleksandr Igorevich MISHIN is therefore involved in enabling
+  cybercrime.\n  \nIn this role, Aleksandr Igorevich MISHIN was involved in relevant
+  cyber activity that, directly or indirectly caused, or was intended to cause, economic
+  loss to, or prejudice to the commercial interests of, those affected by the activity.\n"

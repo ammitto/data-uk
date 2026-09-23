@@ -1,3 +1,4 @@
+---
 last_updated: '2026-07-06'
 date_designated: '2026-07-06'
 unique_id: CHW0039
@@ -36,8 +37,12 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  The Secretary of State considers that there are reasonable grounds to suspect that 
-  Sergei Viktorovich Chepur (hereafter “Chepur”) is an involved person under the Chemical Weapons (Sanctions) (EU Exit) Regulations 2019 on the basis of the following grounds: (1) Chepur is or has been responsible for, engaging in, providing support for, or promoting prohibited activity related to chemical weapons; (2) Chepur is associated with the State Research Institute of Military Medicine (GNIII VM) which is or has been responsible for, engaging in, providing support for, or promoting prohibited activity related to chemical weapons. Chepur is Head of the State Research Institute of Military Medicine (GNIII VM). 
-   
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that \nSergei Viktorovich Chepur (hereafter “Chepur”) is an involved
+  person under the Chemical Weapons (Sanctions) (EU Exit) Regulations 2019 on the
+  basis of the following grounds: (1) Chepur is or has been responsible for, engaging
+  in, providing support for, or promoting prohibited activity related to chemical
+  weapons; (2) Chepur is associated with the State Research Institute of Military
+  Medicine (GNIII VM) which is or has been responsible for, engaging in, providing
+  support for, or promoting prohibited activity related to chemical weapons. Chepur
+  is Head of the State Research Institute of Military Medicine (GNIII VM). \n \n"

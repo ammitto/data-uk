@@ -1,3 +1,4 @@
+---
 last_updated: '2025-10-15'
 date_designated: '2025-10-15'
 unique_id: RUS3073
@@ -14,7 +15,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -29,9 +31,13 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  HORSWAY TECH (HK) CO., LIMITED is an "involved person" under the Russia (Sanctions) (EU Exit) Regulations 2019 because it is, or has been, involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by making available economic resources, goods or technology that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine. 
+uk_statement_of_reasons: "\nHORSWAY TECH (HK) CO., LIMITED is an \"involved person\"
+  under the Russia (Sanctions) (EU Exit) Regulations 2019 because it is, or has been,
+  involved in destabilising Ukraine or undermining or threatening the territorial
+  integrity, sovereignty or independence of Ukraine by making available economic resources,
+  goods or technology that could contribute to destabilising Ukraine or undermining
+  or threatening the territorial integrity, sovereignty or independence of Ukraine.
+  \n"
 addresses:
   addresses:
   - address_line1: Flat/Rm 2003 20/F Hong Kong Plaza

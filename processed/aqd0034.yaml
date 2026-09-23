@@ -1,3 +1,4 @@
+---
 last_updated: '2022-01-12'
 date_designated: '2013-03-20'
 unique_id: AQD0034
@@ -10,7 +11,8 @@ names:
 non_latin_names:
   names:
   - name_non_latin_script: انصار الدين
-regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019
+regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Entity
 designation_source: UN
 sanctions_imposed: Asset freeze|Arms embargo
@@ -28,7 +30,12 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Was founded in December 2011 by Iyad ag Ghali (QDi.316). Linked to the Organization of Al-Qaida in the Islamic Maghreb (QDe.014) and Mouvement pour l’Unification et le Jihad en Afrique de l’Ouest (MUJAO) (QDe.134). Associated with Abdelmalek Droukdel (QDi.232). Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/une/5566155'
+other_information: 'Was founded in December 2011 by Iyad ag Ghali (QDi.316). Linked
+  to the Organization of Al-Qaida in the Islamic Maghreb (QDe.014) and Mouvement pour
+  l’Unification et le Jihad en Afrique de l’Ouest (MUJAO) (QDe.134). Associated with
+  Abdelmalek Droukdel (QDi.232). Review pursuant to Security Council resolution 2253
+  (2015) was concluded on 21 Feb. 2019. INTERPOL-UN Security Council Special Notice
+  web link: https://www.interpol.int/en/notice/search/une/5566155'
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

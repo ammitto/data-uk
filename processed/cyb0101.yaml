@@ -1,3 +1,4 @@
+---
 last_updated: '2025-11-19'
 date_designated: '2025-11-19'
 unique_id: CYB0101
@@ -31,8 +32,14 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  The Secretary of State considers that there are reasonable grounds to suspect that Kirill Andreevich ZATOLOKIN is or has been involved in relevant cyber activity through his role in and association with MEDIA LAND LLC, an involved person identified as a key enabler of the cybercrime ecosystem. 
-  In this capacity, ZATOLOKIN is or has been involved in providing technical assistance that could contribute to relevant cyber activity, and is or has been involved in the supply of goods or technology that could contribute to relevant cyber activity or in providing financial services relating to such supply. ZATOLOKIN is therefore involved in enabling cybercrime. 
-  Such activity that ZATOLOKIN is or has been involved in, directly or indirectly caused, or was intended to cause, economic loss to, or prejudice to the commercial interests of, those affected by the activity.
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that Kirill Andreevich ZATOLOKIN is or has been involved in relevant
+  cyber activity through his role in and association with MEDIA LAND LLC, an involved
+  person identified as a key enabler of the cybercrime ecosystem. \nIn this capacity,
+  ZATOLOKIN is or has been involved in providing technical assistance that could contribute
+  to relevant cyber activity, and is or has been involved in the supply of goods or
+  technology that could contribute to relevant cyber activity or in providing financial
+  services relating to such supply. ZATOLOKIN is therefore involved in enabling cybercrime.
+  \nSuch activity that ZATOLOKIN is or has been involved in, directly or indirectly
+  caused, or was intended to cause, economic loss to, or prejudice to the commercial
+  interests of, those affected by the activity.\n"

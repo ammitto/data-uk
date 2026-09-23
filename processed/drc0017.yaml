@@ -1,3 +1,4 @@
+---
 last_updated: '2022-01-14'
 date_designated: '2007-03-29'
 unique_id: DRC0017
@@ -11,7 +12,8 @@ names:
     name_type: Alias
   - name6: GREAT LAKES BUSINESS COMPANY (GLBC)
     name_type: Alias
-regime_name: The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019
+regime_name: The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Entity
 designation_source: UN
 sanctions_imposed: Asset freeze
@@ -29,7 +31,9 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'As of December 2008, GLBC no longer had any operational aircraft, although several aircraft continued flying in 2008 despite UN sanctions. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/une/5278381'
+other_information: 'As of December 2008, GLBC no longer had any operational aircraft,
+  although several aircraft continued flying in 2008 despite UN sanctions. INTERPOL-UN
+  Security Council Special Notice web link: https://www.interpol.int/en/notice/search/une/5278381'
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

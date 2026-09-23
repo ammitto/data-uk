@@ -1,3 +1,4 @@
+---
 last_updated: '2025-05-20'
 date_designated: '2025-05-20'
 unique_id: RUS2623
@@ -22,7 +23,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -38,7 +40,7 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 uk_statement_of_reasons: |2
-  
+
   CONSUL GROUP LTD is an “ involved person" under the Russia (Sanctions) (EU Exit) Regulations 2019 on the following grounds: CONSUL GROUP LTD is or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by providing goods or technology that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine.
 addresses:
   addresses:

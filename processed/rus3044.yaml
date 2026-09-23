@@ -1,3 +1,4 @@
+---
 last_updated: '2025-09-03'
 date_designated: '2025-09-03'
 unique_id: RUS3044
@@ -30,7 +31,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -45,11 +47,13 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  Aymani Nesievna KADYROVA is an “involved person” under the Russia (Sanctions) (EU Exit) Regulations 2019 because she is or has been
-   involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by engaging in and providing support for the Government of Russia’s programme for the military-patriotic re-education of Ukrainian children in the TOT’s through her role as President of 
-  The Akmat Kadyrov Foundation. 
+uk_statement_of_reasons: "\nAymani Nesievna KADYROVA is an “involved person” under
+  the Russia (Sanctions) (EU Exit) Regulations 2019 because she is or has been\n involved
+  in destabilising Ukraine or undermining or threatening the territorial integrity,
+  sovereignty or independence of Ukraine by engaging in and providing support for
+  the Government of Russia’s programme for the military-patriotic re-education of
+  Ukrainian children in the TOT’s through her role as President of \nThe Akmat Kadyrov
+  Foundation. \n"
 addresses:
   addresses:
   - address_line1: Kommunisticheskaya str. 9

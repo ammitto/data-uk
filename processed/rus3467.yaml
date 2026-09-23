@@ -1,3 +1,4 @@
+---
 last_updated: '2026-02-24'
 date_designated: '2026-02-24'
 unique_id: RUS3467
@@ -11,7 +12,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -27,7 +29,7 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 uk_statement_of_reasons: |2
-  
+
   The Secretary of State considers that there are reasonable grounds to suspect that POSTV is an involved person under the Russia (EU Exit) (Sanctions) Regulations 2019 on the basis of the following ground: it spreads and has spread deliberately misleading information concerning Russia’s full-scale invasion of Ukraine to its audiences, which are predominately located in Georgia, which provides support for or promotes a policy or action which destabilises Ukraine or undermines or threatens the territorial integrity, sovereignty or independence of Ukraine. In particular, it regularly disseminates content that the Ukrainian Government and President Zelensky are illegitimate, Ukraine is a “puppet” of the West, Ukraine is a corrupt country and that Ukraine and the West are seeking to destabilise Georgia.
 addresses:
   addresses:

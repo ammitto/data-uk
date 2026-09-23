@@ -1,3 +1,4 @@
+---
 last_updated: '2022-01-07'
 date_designated: '2021-11-09'
 unique_id: YEM0007
@@ -34,7 +35,10 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: Houthi Military Chief of General Staff, plays the leading role in orchestrating the Houthis’ military efforts that are directly threatening the peace, security and stability of Yemen, including in Marib, as well as cross-border attacks against Saudi Arabia.
+other_information: Houthi Military Chief of General Staff, plays the leading role
+  in orchestrating the Houthis’ military efforts that are directly threatening the
+  peace, security and stability of Yemen, including in Marib, as well as cross-border
+  attacks against Saudi Arabia.
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

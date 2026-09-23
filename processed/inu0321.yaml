@@ -1,3 +1,4 @@
+---
 last_updated: '2025-09-29'
 date_designated: '2025-09-29'
 unique_id: INU0321
@@ -28,9 +29,14 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  Iran Fuel Conservation Organization is an involved person under the Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019 on the basis of the following ground: (1) Iran Fuel Conservation Organization is or has been providing financial services, or making available funds or economic resources, that could contribute to a relevant nuclear activity, namely the proliferation or development of nuclear weapons in, or for use in, Iran; an activity that could lead to the development of nuclear weapons in, or for use in, Iran; or the development of a nuclear weapon delivery system in, or for use in, Iran. 
+uk_statement_of_reasons: "\nIran Fuel Conservation Organization is an involved person
+  under the Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019 on the basis of
+  the following ground: (1) Iran Fuel Conservation Organization is or has been providing
+  financial services, or making available funds or economic resources, that could
+  contribute to a relevant nuclear activity, namely the proliferation or development
+  of nuclear weapons in, or for use in, Iran; an activity that could lead to the development
+  of nuclear weapons in, or for use in, Iran; or the development of a nuclear weapon
+  delivery system in, or for use in, Iran. \n"
 addresses:
   addresses:
   - address_line1: 23, East Daneshvar St

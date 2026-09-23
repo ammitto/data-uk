@@ -1,3 +1,4 @@
+---
 last_updated: '2022-08-02'
 date_designated: '2018-03-30'
 unique_id: DPR0178
@@ -7,10 +8,13 @@ names:
   names:
   - name6: MYOHYANG SHIPPING CO
     name_type: Primary name
-regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019
+regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Entity
 designation_source: UN
-sanctions_imposed: Asset freeze|Chartering of Ships|Closure of representative offices|Crew servicing of ships and aircraft|Prevention of business arrangements|Prohibition of port entry
+sanctions_imposed: Asset freeze|Chartering of Ships|Closure of representative offices|Crew
+  servicing of ships and aircraft|Prevention of business arrangements|Prohibition
+  of port entry
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: false
@@ -25,7 +29,8 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: true
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Ship manager of DPRK oil products tanker YU SON, which is believed to have been involved in ship-to-ship transfer operations for oil. IMO number: 5988369.'
+other_information: 'Ship manager of DPRK oil products tanker YU SON, which is believed
+  to have been involved in ship-to-ship transfer operations for oil. IMO number: 5988369.'
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

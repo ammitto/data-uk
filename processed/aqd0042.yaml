@@ -1,3 +1,4 @@
+---
 last_updated: '2022-01-12'
 date_designated: '2011-07-29'
 unique_id: AQD0042
@@ -10,7 +11,8 @@ names:
 non_latin_names:
   names:
   - name_non_latin_script: Эмират Кавказ
-regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019
+regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Entity
 designation_source: UN
 sanctions_imposed: Asset freeze|Arms embargo
@@ -28,7 +30,9 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Mainly active in the Russian Federation, Afghanistan and Pakistan. Led by# Doku Khamatovich Umarov (QDi.290) INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/une/5235592'
+other_information: 'Mainly active in the Russian Federation, Afghanistan and Pakistan.
+  Led by# Doku Khamatovich Umarov (QDi.290) INTERPOL-UN Security Council Special Notice
+  web link: https://www.interpol.int/en/notice/search/une/5235592'
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

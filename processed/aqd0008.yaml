@@ -1,3 +1,4 @@
+---
 last_updated: '2022-01-12'
 date_designated: '2014-06-02'
 unique_id: AQD0008
@@ -14,7 +15,8 @@ names:
 non_latin_names:
   names:
   - name_non_latin_script: المرابطون
-regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019
+regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Entity
 designation_source: UN
 sanctions_imposed: Asset freeze|Arms embargo
@@ -32,7 +34,12 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Founded on 20 Aug. 2013 as result of a merger between Al Moulathamoun (QDe.140) and the Mouvement pour l’Unification et le Jihad en Afrique de l’Ouest (MUJAO) (QDe.134). Associated with the Organization of Al-Qaida in the Islamic Maghreb (QDe.014) and led by Mokhtar Belmokhtar (QDi.136). Active in the Sahel/Sahara region. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities.'
+other_information: 'Founded on 20 Aug. 2013 as result of a merger between Al Moulathamoun
+  (QDe.140) and the Mouvement pour l’Unification et le Jihad en Afrique de l’Ouest
+  (MUJAO) (QDe.134). Associated with the Organization of Al-Qaida in the Islamic Maghreb
+  (QDe.014) and led by Mokhtar Belmokhtar (QDi.136). Active in the Sahel/Sahara region.
+  Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec.
+  2019. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities.'
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

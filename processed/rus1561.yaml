@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2022-09-26'
 unique_id: RUS1561
@@ -17,7 +18,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -33,7 +35,11 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
-  Andrey YARIN is an involved person within the meaning of the Russia (Sanctions) (EU Exit) Regulations 2019 because YARIN is a head or deputy-head of any public body, federal agency or service subordinate to the President of the Russian Federation, including the Administration of the President of the Russian Federation. Specifically, YARIN is Head of the Office of the President of Russia for Domestic Policy. Therefore, YARIN is a person involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine. 
-   The trust services sanctions were imposed on 21/03/2023.
+uk_statement_of_reasons: "\nAndrey YARIN is an involved person within the meaning
+  of the Russia (Sanctions) (EU Exit) Regulations 2019 because YARIN is a head or
+  deputy-head of any public body, federal agency or service subordinate to the President
+  of the Russian Federation, including the Administration of the President of the
+  Russian Federation. Specifically, YARIN is Head of the Office of the President of
+  Russia for Domestic Policy. Therefore, YARIN is a person involved in destabilising
+  Ukraine or undermining or threatening the territorial integrity, sovereignty or
+  independence of Ukraine. \n The trust services sanctions were imposed on 21/03/2023."

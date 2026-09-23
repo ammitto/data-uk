@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2023-07-12'
 unique_id: SUD0009
@@ -33,15 +34,14 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-   
-  SUDAN MASTER TECHNOLOGY is an arms company associated with the SAF, an involved person under the Sudan (Sanctions) (EU Exit) Regulations 2020.   
-   
-  SUDAN MASTER TECHNOLOGY supports the SAF by supplying it with equipment. It provides financial support for activity that undermines the peace and security of Sudan by providing funds to SAF.   
-   
-  SUDAN MASTER TECHNOLOGY is therefore responsible for activity which threatens the peace, stability and security of Sudan though supporting SAF’s ongoing participation in hostilities in Sudan and frequent breaches of ceasefires. 
-   
+uk_statement_of_reasons: "\n \nSUDAN MASTER TECHNOLOGY is an arms company associated
+  with the SAF, an involved person under the Sudan (Sanctions) (EU Exit) Regulations
+  2020.   \n \nSUDAN MASTER TECHNOLOGY supports the SAF by supplying it with equipment.
+  It provides financial support for activity that undermines the peace and security
+  of Sudan by providing funds to SAF.   \n \nSUDAN MASTER TECHNOLOGY is therefore
+  responsible for activity which threatens the peace, stability and security of Sudan
+  though supporting SAF’s ongoing participation in hostilities in Sudan and frequent
+  breaches of ceasefires. \n \n"
 addresses:
   addresses:
   - address_line1: SMT BUILDING MADANI ROAD

@@ -1,3 +1,4 @@
+---
 last_updated: '2022-08-01'
 date_designated: '2016-03-02'
 unique_id: DPR0239
@@ -36,10 +37,12 @@ names:
     name6: Tong-Myo'ng
     name_type: Alias
     alias_strength: Good quality a.k.a
-regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019
+regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Individual
 designation_source: UN
-sanctions_imposed: Asset freeze|Chartering of Ships|Prevention of business arrangements|Prohibition of port entry|Travel Ban
+sanctions_imposed: Asset freeze|Chartering of Ships|Prevention of business arrangements|Prohibition
+  of port entry|Travel Ban
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: false
@@ -54,5 +57,7 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: Kim Tong My’ong is the President of Tanchon Commercial Bank and has held various positions within Tanchon Commercial bank since at least 2002. He has also played a role in managing Amroggang’s affairs.
+other_information: Kim Tong My’ong is the President of Tanchon Commercial Bank and
+  has held various positions within Tanchon Commercial bank since at least 2002. He
+  has also played a role in managing Amroggang’s affairs.
 uk_statement_of_reasons: "\n"

@@ -1,3 +1,4 @@
+---
 last_updated: '2022-08-01'
 date_designated: '2016-03-02'
 unique_id: DPR0277
@@ -8,10 +9,12 @@ names:
   - name1: YU
     name6: CHOL U
     name_type: Primary name
-regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019
+regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Individual
 designation_source: UN
-sanctions_imposed: Asset freeze|Prevention of business arrangements|Prohibition of port entry|Travel Ban
+sanctions_imposed: Asset freeze|Prevention of business arrangements|Prohibition of
+  port entry|Travel Ban
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: false

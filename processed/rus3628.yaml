@@ -1,3 +1,4 @@
+---
 last_updated: '2026-06-16'
 date_designated: '2026-06-16'
 unique_id: RUS3628
@@ -11,7 +12,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -26,12 +28,18 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  The Secretary of State considers that there are reasonable grounds to suspect that LLC MAGNUS LINK is an “involved person” under the Russia (Sanctions) (EU Exit) Regulations 2019 on the basis of the following grounds:  
-   
-  LLC MAGNUS LINK is or has been involved in obtaining a benefit from or supporting the Government of Russia by carrying on business in sectors of strategic significance to the Government of Russia. Namely, LLC MAGNUS LINK has been conducting business in the Russian defence and electronics sectors. 
-  LLC MAGNUS LINK is owned by Stanislav Sergeevich POPOV. Stanislav Sergeevich POPOV is an involved person because he is, or has been, involved in obtaining a benefit from or supporting the Government of Russia by working as a director of LLC NEPTUNE CO LTD, an entity that is, or has been, involved in obtaining a benefit from or supporting the Government of Russia by operating in the Russian defence and electronics sectors. 
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that LLC MAGNUS LINK is an “involved person” under the Russia
+  (Sanctions) (EU Exit) Regulations 2019 on the basis of the following grounds:  \n
+  \nLLC MAGNUS LINK is or has been involved in obtaining a benefit from or supporting
+  the Government of Russia by carrying on business in sectors of strategic significance
+  to the Government of Russia. Namely, LLC MAGNUS LINK has been conducting business
+  in the Russian defence and electronics sectors. \nLLC MAGNUS LINK is owned by Stanislav
+  Sergeevich POPOV. Stanislav Sergeevich POPOV is an involved person because he is,
+  or has been, involved in obtaining a benefit from or supporting the Government of
+  Russia by working as a director of LLC NEPTUNE CO LTD, an entity that is, or has
+  been, involved in obtaining a benefit from or supporting the Government of Russia
+  by operating in the Russian defence and electronics sectors. \n"
 addresses:
   addresses:
   - address_line1: Building 1

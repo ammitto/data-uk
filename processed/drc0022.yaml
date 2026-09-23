@@ -1,3 +1,4 @@
+---
 last_updated: '2022-01-14'
 date_designated: '2005-11-01'
 unique_id: DRC0022
@@ -9,7 +10,8 @@ names:
     name_type: Primary name
   - name6: TPD
     name_type: Alias
-regime_name: The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019
+regime_name: The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Entity
 designation_source: UN
 sanctions_imposed: Asset freeze
@@ -27,7 +29,13 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Goma, with provincial committees in South Kivu, Kasai Occidental, Kasai Oriental and Maniema Officially suspended all activities since 2008. In practice, as of June 2011 TPD offices are open and involved in cases related to returns of IDPs, community reconciliation initiatives, land conflict settlements, etc. The TPD President is Eugene Serufuli and Vice-President is Saverina Karomba. Important members include North Kivu provincial deputies Robert Seninga and Bertin Kirivita. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/une/5278464'
+other_information: 'Goma, with provincial committees in South Kivu, Kasai Occidental,
+  Kasai Oriental and Maniema Officially suspended all activities since 2008. In practice,
+  as of June 2011 TPD offices are open and involved in cases related to returns of
+  IDPs, community reconciliation initiatives, land conflict settlements, etc. The
+  TPD President is Eugene Serufuli and Vice-President is Saverina Karomba. Important
+  members include North Kivu provincial deputies Robert Seninga and Bertin Kirivita.
+  INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/une/5278464'
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

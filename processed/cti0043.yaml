@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: CTI0043
@@ -8,7 +9,8 @@ names:
     name_type: Primary name
   - name6: Basque Homeland and Liberty
     name_type: Alias
-regime_name: The Counter-Terrorism (International Sanctions) (EU Exit) Regulations 2019
+regime_name: The Counter-Terrorism (International Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Entity
 designation_source: UK
 sanctions_imposed: Asset freeze|Arms embargo|Director Disqualification Sanction
@@ -27,6 +29,8 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  Euskadi Ta Askatasuna (ETA) sought the creation of an independent state comprising the Basque regions of both Spain and France. It is responsible for the killings of over 800 individuals in numerous terrorist attacks since 1968, including but not limited to, the bombing of Hipercor in Barcelona (June 1987). Its most recent attack, resulting in two deaths, took place in 2009.  
+uk_statement_of_reasons: "\nEuskadi Ta Askatasuna (ETA) sought the creation of an
+  independent state comprising the Basque regions of both Spain and France. It is
+  responsible for the killings of over 800 individuals in numerous terrorist attacks
+  since 1968, including but not limited to, the bombing of Hipercor in Barcelona (June
+  1987). Its most recent attack, resulting in two deaths, took place in 2009.  \n"

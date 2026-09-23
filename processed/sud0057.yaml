@@ -1,3 +1,4 @@
+---
 last_updated: '2026-07-16'
 date_designated: '2026-07-16'
 unique_id: SUD0057
@@ -29,9 +30,13 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  The Secretary of State considers that there are reasonable grounds to suspect that Ahmed Hashim is an involved person under the Sudan (Sanctions) (EU Exit) Regulations 2020
-   
-  because  he is associated with two involved persons, GSK Advanced Company and Algoney Dagalo, and he has, through his his ownership of Aoun Commercial Brokers LLC and position in GSK Advanced Company, provided financial services and made available funds and economic resources that could contribute to  action, policy or activity which threatens the peace, stability and security of Sudan in that those companies have played a role in the supply of money and resources to the Rapid Support Forces, one of the main parties to the conflict in Sudan.
-   
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that Ahmed Hashim is an involved person under the Sudan (Sanctions)
+  (EU Exit) Regulations 2020\n \nbecause  he is associated with two involved persons,
+  GSK Advanced Company and Algoney Dagalo, and he has, through his his ownership of
+  Aoun Commercial Brokers LLC and position in GSK Advanced Company, provided financial
+  services and made available funds and economic resources that could contribute to
+  \ action, policy or activity which threatens the peace, stability and security of
+  Sudan in that those companies have played a role in the supply of money and resources
+  to the Rapid Support Forces, one of the main parties to the conflict in Sudan.\n
+  \n"

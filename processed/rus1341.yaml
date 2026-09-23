@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2022-04-21'
 unique_id: RUS1341
@@ -14,7 +15,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -30,8 +32,9 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
-  Andrei Olgertovich VOLOZHINSKY is a former Vice Admiral and Deputy Chief of the Main Operations Directorate of the General Staff of the Armed Forces of the Russian Federation. 
-  VOLOZHINSKY has engaged in and provided support for actions or policies which destabilise Ukraine or undermine or threaten the territorial integrity, sovereignty or independence of Ukraine.
-   The trust services sanctions were imposed on 21/03/2023.
+uk_statement_of_reasons: "\nAndrei Olgertovich VOLOZHINSKY is a former Vice Admiral
+  and Deputy Chief of the Main Operations Directorate of the General Staff of the
+  Armed Forces of the Russian Federation. \nVOLOZHINSKY has engaged in and provided
+  support for actions or policies which destabilise Ukraine or undermine or threaten
+  the territorial integrity, sovereignty or independence of Ukraine.\n The trust services
+  sanctions were imposed on 21/03/2023."

@@ -1,3 +1,4 @@
+---
 last_updated: '2021-12-18'
 date_designated: '2018-03-30'
 unique_id: DPR0102
@@ -14,7 +15,8 @@ names:
     name_type: Alias
   - name6: Yujong-2
     name_type: Alias
-regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019
+regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Ship
 designation_source: UN
 sanctions_imposed: Asset freeze|Prohibition of port entry
@@ -32,5 +34,11 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Pursuant to paragraph 6 of Security Council Resolution 2371 (2017), paragraph 6 of Security Council Resolution 2375 (2017)and paragraph 12 of Security Council resolution 2321 (2016). DPRK oil tanker M/V YU JONG 2 was involved in-ship-to ship transfer operations for oil in November 2017. M/V YU JONG 2 was also involved in a ship-to-ship transfer operation, likely for oil, with M/V MIN NING DE YOU 078 on 16 February 2018. Listed as asset of Korea Yujong Shipping Co Ltd (OFSI ID: 13637, UN Reference Number: UN Ref KPe.066)'
+other_information: 'Pursuant to paragraph 6 of Security Council Resolution 2371 (2017),
+  paragraph 6 of Security Council Resolution 2375 (2017)and paragraph 12 of Security
+  Council resolution 2321 (2016). DPRK oil tanker M/V YU JONG 2 was involved in-ship-to
+  ship transfer operations for oil in November 2017. M/V YU JONG 2 was also involved
+  in a ship-to-ship transfer operation, likely for oil, with M/V MIN NING DE YOU 078
+  on 16 February 2018. Listed as asset of Korea Yujong Shipping Co Ltd (OFSI ID: 13637,
+  UN Reference Number: UN Ref KPe.066)'
 uk_statement_of_reasons: "\n"

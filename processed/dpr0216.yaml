@@ -1,3 +1,4 @@
+---
 last_updated: '2021-12-18'
 date_designated: '2017-08-05'
 unique_id: DPR0216
@@ -8,7 +9,8 @@ names:
   - name1: JANG
     name6: SUNG NAM
     name_type: Primary name
-regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019
+regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Individual
 designation_source: UN
 sanctions_imposed: Asset freeze|Travel Ban
@@ -26,5 +28,7 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: Chief of an overseas Tangun Trading Corporation branch, which is primarily responsible for the procurement of commodities and technologies to support the DPRK’s defense research and development programs.
+other_information: Chief of an overseas Tangun Trading Corporation branch, which is
+  primarily responsible for the procurement of commodities and technologies to support
+  the DPRK’s defense research and development programs.
 uk_statement_of_reasons: "\n"

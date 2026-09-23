@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: RUS0119
@@ -23,7 +24,8 @@ names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -38,7 +40,8 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: Former so-called 'Minister of Security of the Donetsk People's Republic' The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
+other_information: Former so-called 'Minister of Security of the Donetsk People's
+  Republic' The Director Disqualification Sanction was imposed on 09/04/2025.
+uk_statement_of_reasons: |2-
+
   Former so called "Minister of Security of People's Republic of Donetsk". Responsible for the separatist security activities of the "government of the Donetsk People's Republic". Remains active in supporting separatist actions or policies The trust services sanctions were imposed on 21/03/2023.

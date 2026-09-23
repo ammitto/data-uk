@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: INU0111
@@ -29,6 +30,5 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  Entity subordinate to Iran's Aerospace Industries Organisation (AIO) which has developed and produced missiles for Iran's military. 
+uk_statement_of_reasons: "\nEntity subordinate to Iran's Aerospace Industries Organisation
+  (AIO) which has developed and produced missiles for Iran's military. \n"

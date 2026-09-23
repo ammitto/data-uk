@@ -1,10 +1,12 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2023-08-08'
 unique_id: RUS1961
 ofsi_group_id: '16056'
 names:
   names:
-  - name6: Islamic Revolutionary Guard Corps – Research and Self-Sufficiency Jihad Organization (IRGC-SSJO)
+  - name6: Islamic Revolutionary Guard Corps – Research and Self-Sufficiency Jihad
+      Organization (IRGC-SSJO)
     name_type: Primary Name
   - name6: IRGC Jihad Self Sufficiency Organization
     name_type: Primary Name Variation
@@ -22,11 +24,13 @@ names:
     name_type: Primary Name Variation
   - name6: IRGC's Self-Sufficiency and Industrial Research Centre
     name_type: Primary Name Variation
-  - name6: Islamic Revolutionary Guard Corps – Research and Self-Sufficiency Jihad Organization
+  - name6: Islamic Revolutionary Guard Corps – Research and Self-Sufficiency Jihad
+      Organization
     name_type: Primary Name Variation
   - name6: Islamic Revolutionary Guard Corps Self-Sufficiency Jehad Organization
     name_type: Primary Name Variation
-  - name6: Jihad Self-Sufficiency Organization of Islamic Revolution Iranian Revolutionary Guards Self Sufficiency Jihad Organisation (SSJO IRGC SSJO)
+  - name6: Jihad Self-Sufficiency Organization of Islamic Revolution Iranian Revolutionary
+      Guards Self Sufficiency Jihad Organisation (SSJO IRGC SSJO)
     name_type: Primary Name Variation
   - name6: Self Sufficiency Jihad Organization
     name_type: Primary Name Variation
@@ -36,7 +40,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -53,5 +58,5 @@ sanctions_imposed_indicators:
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
 uk_statement_of_reasons: |2
-  
+
   IRGC-SSJO is an involved person within the meaning of the Russia (Sanctions) (EU Exit) Regulations 2019 as it is or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty, or independence of Ukraine,  in that it has been providing or making available goods or technology that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine.

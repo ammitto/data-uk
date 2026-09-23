@@ -1,3 +1,4 @@
+---
 last_updated: '2022-01-12'
 date_designated: '2002-09-11'
 unique_id: AQD0040
@@ -17,7 +18,8 @@ names:
     name_type: Alias
   - name6: The Eastern Turkistan Islamic Party of Allah
     name_type: Alias
-regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019
+regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Entity
 designation_source: UN
 sanctions_imposed: Asset freeze|Arms embargo

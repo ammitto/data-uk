@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2023-06-19'
 unique_id: DRC0062
@@ -7,7 +8,8 @@ names:
   - name1: William
     name6: Yakutumba
     name_type: Primary Name
-regime_name: The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019
+regime_name: The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Individual
 designation_source: UK
 sanctions_imposed: Asset freeze|Travel Ban|Director Disqualification Sanction
@@ -26,9 +28,12 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  William YAKUTUMBA is an "involved person" under the Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019 because he is or has been involved in the commission of violations of international humanitarian law in the Democratic Republic of the Congo, including rape, mass rape and other forms of sexual and gender-based violence, through his role as leader of the Mai-Mai Yakutumba. 
+uk_statement_of_reasons: "\nWilliam YAKUTUMBA is an \"involved person\" under the
+  Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019 because
+  he is or has been involved in the commission of violations of international humanitarian
+  law in the Democratic Republic of the Congo, including rape, mass rape and other
+  forms of sexual and gender-based violence, through his role as leader of the Mai-Mai
+  Yakutumba. \n"
 addresses:
   addresses:
   - address_country: Congo (Democratic Republic)

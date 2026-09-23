@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: RUS0187
@@ -11,7 +12,8 @@ names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -26,7 +28,9 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: Name of Director Aleksandr Zakharchenko (now deceased) and Mikhail Verin (nom de guerre ‘The Fifth’) The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
+other_information: Name of Director Aleksandr Zakharchenko (now deceased) and Mikhail
+  Verin (nom de guerre ‘The Fifth’) The Director Disqualification Sanction was imposed
+  on 09/04/2025.
+uk_statement_of_reasons: |2-
+
   Armed separatist group which has taken part in combat activity and has actively supported actions which undermine the territorial integrity, sovereignty and independence of Ukraine and to further destabilise Ukraine. These actions include occupation of City Hall in Donetsk; an assault assault on the army positions at Krasnohorivka, which took the lives of three Ukrainian soldiers; repulsion of Kiev troops in Donetsk and being reportedly part of the so-called "1st Army Corps" of the "Donetsk People's Republic". The trust services sanctions were imposed on 21/03/2023.

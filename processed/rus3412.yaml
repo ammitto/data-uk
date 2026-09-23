@@ -1,3 +1,4 @@
+---
 last_updated: '2026-02-24'
 date_designated: '2026-02-24'
 unique_id: RUS3412
@@ -13,7 +14,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -28,9 +30,13 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  The Secretary of State considers that there are reasonable grounds to suspect that Igor Yakovlevich FISHELEV is and has been involved destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by owning a person that provides economic resources to LIMITED LIABILITY COMPANY UNIMATIC (“LLC Unimatic”), LLC Unimatic being a company which provides goods or technology that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine.
-  The Secretary of State considers that there are reasonable grounds to suspect that Igor Yakovlevich FISHELEV is associated 
-  with 
-  Oleg Igorevich FISHELEV, who is an involved person. Namely, Igor Yakovlevich FISHELEV is the father of Oleg Igorevich FISHELEV.
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that Igor Yakovlevich FISHELEV is and has been involved destabilising
+  Ukraine or undermining or threatening the territorial integrity, sovereignty or
+  independence of Ukraine by owning a person that provides economic resources to LIMITED
+  LIABILITY COMPANY UNIMATIC (“LLC Unimatic”), LLC Unimatic being a company which
+  provides goods or technology that could contribute to destabilising Ukraine or undermining
+  or threatening the territorial integrity, sovereignty or independence of Ukraine.\nThe
+  Secretary of State considers that there are reasonable grounds to suspect that Igor
+  Yakovlevich FISHELEV is associated \nwith \nOleg Igorevich FISHELEV, who is an involved
+  person. Namely, Igor Yakovlevich FISHELEV is the father of Oleg Igorevich FISHELEV.\n"

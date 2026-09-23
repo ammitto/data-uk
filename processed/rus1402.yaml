@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2022-05-04'
 unique_id: RUS1402
@@ -14,7 +15,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -29,11 +31,12 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: Organization Established Date 1908; Trade License No. 1117847020400 (Russia) The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
-   AO NII VEKTOR has obtained a benefit from supporting the Government of Russia by carrying on business as a Government of Russia-affiliated entity which is owned or controlled directly or indirectly by the Government of Russia. 
-   The trust services sanctions were imposed on 21/03/2023.
+other_information: Organization Established Date 1908; Trade License No. 1117847020400
+  (Russia) The Director Disqualification Sanction was imposed on 09/04/2025.
+uk_statement_of_reasons: "\n AO NII VEKTOR has obtained a benefit from supporting
+  the Government of Russia by carrying on business as a Government of Russia-affiliated
+  entity which is owned or controlled directly or indirectly by the Government of
+  Russia. \n The trust services sanctions were imposed on 21/03/2023."
 addresses:
   addresses:
   - address_line1: 14 St. Academician Pavlova

@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2022-12-08'
 unique_id: GHR0085
@@ -26,9 +27,11 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  Kale KAYIHURA was the Inspector General of the Ugandan Police Force between 2005 and 2018. KAYIHURA is an involved person under the Global Human Rights Sanctions Regulations 2020 because he is or has been responsible for activity that violates the right to life and the right not to be subjected to torture or cruel, inhuman or degrading treatment or punishment.   
+uk_statement_of_reasons: "\nKale KAYIHURA was the Inspector General of the Ugandan
+  Police Force between 2005 and 2018. KAYIHURA is an involved person under the Global
+  Human Rights Sanctions Regulations 2020 because he is or has been responsible for
+  activity that violates the right to life and the right not to be subjected to torture
+  or cruel, inhuman or degrading treatment or punishment.   \n"
 addresses:
   addresses:
   - address_line1: Muyenga

@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2024-09-02'
 unique_id: IRN0218
@@ -25,6 +26,9 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  IRGC-QF Unit 700 is an involved person within the meaning of the Iran (Sanctions) Regulations 2023. IRGC-QF Unit 700 is or has been involved in hostile activity by an armed group backed by the Government of Iran, namely through conduct which facilitates (or is intended to facilitate) or gives assistance to the planning or conducting of activity which is intended to cause the destabilisation of the United Kingdom or any other country.  
+uk_statement_of_reasons: "\nIRGC-QF Unit 700 is an involved person within the meaning
+  of the Iran (Sanctions) Regulations 2023. IRGC-QF Unit 700 is or has been involved
+  in hostile activity by an armed group backed by the Government of Iran, namely through
+  conduct which facilitates (or is intended to facilitate) or gives assistance to
+  the planning or conducting of activity which is intended to cause the destabilisation
+  of the United Kingdom or any other country.  \n"

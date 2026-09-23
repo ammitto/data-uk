@@ -1,3 +1,4 @@
+---
 last_updated: '2025-10-22'
 date_designated: '2025-10-22'
 unique_id: GIM0028
@@ -7,7 +8,8 @@ names:
   - name1: Vahid
     name6: DERAKHSHAN
     name_type: Primary Name
-regime_name: The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025
+regime_name: The Global Irregular Migration and Trafficking in Persons Sanctions Regulations
+  2025
 individual_entity_ship: Individual
 designation_source: UK
 sanctions_imposed: Asset freeze|Travel Ban|Director Disqualification Sanction
@@ -25,9 +27,15 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  The Secretary of State considers that there are reasonable grounds to suspect Vahid DERAKHSHAN is an involved person under the Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025 ("the Regulations") as he is or has been involved in a relevant activity, namely people smuggling, by profiting financially from the unlawful arrival in a country of individuals who are not a national of that country or permanently resident in it. Specifically, he is involved in the financial activities of ALPA TRADING FZCO and has profited financially from the irregular arrival of migrants across the English Channel into the United Kingdom. 
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect Vahid DERAKHSHAN is an involved person under the Global Irregular
+  Migration and Trafficking in Persons Sanctions Regulations 2025 (\"the Regulations\")
+  as he is or has been involved in a relevant activity, namely people smuggling, by
+  profiting financially from the unlawful arrival in a country of individuals who
+  are not a national of that country or permanently resident in it. Specifically,
+  he is involved in the financial activities of ALPA TRADING FZCO and has profited
+  financially from the irregular arrival of migrants across the English Channel into
+  the United Kingdom. \n"
 addresses:
   addresses:
   - address_line1: 204 Nouf Tower

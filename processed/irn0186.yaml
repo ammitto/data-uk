@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2024-01-29'
 unique_id: IRN0186
@@ -25,6 +26,8 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  IRGC-QF Unit 840 is an involved person within the meaning of the Iran (Sanctions) Regulations 2023 on the basis of the following ground: IRGC-QF Unit 840 is or has been involved in hostile activity by the Government of Iran, namely threatening, planning or conducting attacks, including assassinations and threats to life, in countries other than Iran, including the UK. 
+uk_statement_of_reasons: "\nIRGC-QF Unit 840 is an involved person within the meaning
+  of the Iran (Sanctions) Regulations 2023 on the basis of the following ground: IRGC-QF
+  Unit 840 is or has been involved in hostile activity by the Government of Iran,
+  namely threatening, planning or conducting attacks, including assassinations and
+  threats to life, in countries other than Iran, including the UK. \n"

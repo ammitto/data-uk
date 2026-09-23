@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: LIB0002
@@ -24,9 +25,11 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: Contact details of administration are Hay Alandalus, Jian St., Tripoli , PoBox 1101, Libya The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
+other_information: Contact details of administration are Hay Alandalus, Jian St.,
+  Tripoli , PoBox 1101, Libya The Director Disqualification Sanction was imposed on
+  09/04/2025.
+uk_statement_of_reasons: |2-
+
   Controlled by Saif Al Islam Qadhafi, son of Muammar Qadhafi, a person involved in the commission of serious human rights violations or abuses in Libya and connected to the repressive policies of the Muammar Qadhafi regime.
 addresses:
   addresses:

@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: RUS0061
@@ -35,7 +36,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -51,8 +53,8 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
+uk_statement_of_reasons: |2-
+
   By accepting his appointment as so-called ‘Minister of Interior of the Republic of Crimea’ by the President of Russia (decree No.301) on 5 May 2014 and by his actions as so-called ‘Minister of Interior’ he has undermined the territorial integrity, sovereignty and unity of Ukraine. Dismissed as so-called 'Minister of Interior of the 'Republic of Crimea' in June 2018. Aide to the 'Chairman' of the Council of ministers of the so-called 'Republic of Crimea.' The trust services sanctions were imposed on 21/03/2023.
 addresses:
   addresses:

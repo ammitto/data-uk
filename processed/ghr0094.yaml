@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2023-04-21'
 unique_id: GHR0094
@@ -29,11 +30,13 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  There are reasonable grounds to suspect that Alexander SAMOFAL is an involved person under the Global Human Rights Sanctions Regulations 2020 because he has been involved in activities that amount to a serious violation of an individual’s right
-   
-  not to be subjected to torture or cruel, inhuman or degrading treatment. As a member of the operational team that followed Vladimir Kara-Murza prior to two poisoning incidents, he engaged in and/or facilitated the near-fatal poisonings. 
+uk_statement_of_reasons: "\nThere are reasonable grounds to suspect that Alexander
+  SAMOFAL is an involved person under the Global Human Rights Sanctions Regulations
+  2020 because he has been involved in activities that amount to a serious violation
+  of an individual’s right\n \nnot to be subjected to torture or cruel, inhuman or
+  degrading treatment. As a member of the operational team that followed Vladimir
+  Kara-Murza prior to two poisoning incidents, he engaged in and/or facilitated the
+  near-fatal poisonings. \n"
 addresses:
   addresses:
   - address_line1: Military Unit 2568

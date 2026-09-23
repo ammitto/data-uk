@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: RUS0005
@@ -20,7 +21,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -36,8 +38,8 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
+uk_statement_of_reasons: |2-
+
   As speaker of the Supreme Council of the Autonomous republic of Crimea, Konstantinov played a relevant role in the decisions taken by the "Supreme Council" concerning the "referendum" against territorial integrity of Ukraine and called on voters to cast their votes in favour of Crimean independence in the "referendum" of 16 March 2014. He was one of the co-signatories of the "treaty on Crimea's accession to the Russian Federation" of 18 March 2014. Since 17 March 2014,"Chairman" of the "State Council" of the so-called "Republic of Crimea". The trust services sanctions were imposed on 21/03/2023.
 addresses:
   addresses:

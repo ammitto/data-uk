@@ -1,3 +1,4 @@
+---
 last_updated: '2022-04-19'
 date_designated: '2003-11-03'
 unique_id: AQD0159
@@ -114,7 +115,8 @@ names:
     name6: Seth
     name_type: Alias
     alias_strength: Low quality a.k.a
-regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019
+regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Individual
 designation_source: UN
 sanctions_imposed: Asset freeze|Arms embargo|Travel Ban
@@ -132,7 +134,11 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Father’s name is Sheikh Ibrahim Ali Kaskar, mother’s name is Amina Bi, wife’s name is Mehjabeen Shaikh. International arrest warrant issued by the Government of India. Review pursuant to Security Council resolution 1822 (2008) was concluded on 20 May 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/4520465'
+other_information: 'Father’s name is Sheikh Ibrahim Ali Kaskar, mother’s name is Amina
+  Bi, wife’s name is Mehjabeen Shaikh. International arrest warrant issued by the
+  Government of India. Review pursuant to Security Council resolution 1822 (2008)
+  was concluded on 20 May 2010. INTERPOL-UN Security Council Special Notice web link:
+  https://www.interpol.int/en/notice/search/un/4520465'
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

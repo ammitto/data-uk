@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2024-12-19'
 unique_id: GHR0145
@@ -31,11 +32,16 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  Zviad Kharazishvili is an involved person within the meaning of the Global Human Rights Sanctions Regulations 2020 on the basis of the following ground: Zviad Kharazishvili is and/or has been responsible for, and engaged in, activity which amounts to a serious violation of the right of individuals not to be subjected to cruel, inhuman or degrading treatment or punishment. 
-   
-   Specifically, during the protests that occurred after the passage of the foreign influence law, security forces from the Ministry of Internal Affairs Special Task Department (Special Task Department), and Tbilisi Police Department, violently targeted Georgian citizens, political opposition leaders, journalists, and youth activists. In their role as Chief of the Special Task Department, this violence was overseen by Zviad Kharazishvili.
+uk_statement_of_reasons: "\nZviad Kharazishvili is an involved person within the meaning
+  of the Global Human Rights Sanctions Regulations 2020 on the basis of the following
+  ground: Zviad Kharazishvili is and/or has been responsible for, and engaged in,
+  activity which amounts to a serious violation of the right of individuals not to
+  be subjected to cruel, inhuman or degrading treatment or punishment. \n \n Specifically,
+  during the protests that occurred after the passage of the foreign influence law,
+  security forces from the Ministry of Internal Affairs Special Task Department (Special
+  Task Department), and Tbilisi Police Department, violently targeted Georgian citizens,
+  political opposition leaders, journalists, and youth activists. In their role as
+  Chief of the Special Task Department, this violence was overseen by Zviad Kharazishvili.\n"
 addresses:
   addresses:
   - address_line1: Apartment 71

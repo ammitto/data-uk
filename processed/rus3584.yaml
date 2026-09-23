@@ -1,3 +1,4 @@
+---
 last_updated: '2026-05-11'
 date_designated: '2026-05-11'
 unique_id: RUS3584
@@ -13,7 +14,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -28,8 +30,13 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  The Secretary of State considers that there are reasonable grounds to suspect that Vladyslav Nikolayevich GOLOVIN (hereafter “GOLOVIN”) is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 on the following grounds: (1) GOLOVIN is or has been involved in 
-  obtaining a benefit from or supporting the Government of Russia through his role as Head of ‘Yunarmia’ (2)
-   GOLOVIN is or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine as a person who is responsible for, engages in, provides support for, or promotes policies or actions which destabilise Ukraine or undermine or threaten the territorial integrity, sovereignty or independence of Ukraine, through his role as the Head of ‘Yunarmia’.
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that Vladyslav Nikolayevich GOLOVIN (hereafter “GOLOVIN”) is
+  an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 on the
+  following grounds: (1) GOLOVIN is or has been involved in \nobtaining a benefit
+  from or supporting the Government of Russia through his role as Head of ‘Yunarmia’
+  (2)\n GOLOVIN is or has been involved in destabilising Ukraine or undermining or
+  threatening the territorial integrity, sovereignty or independence of Ukraine as
+  a person who is responsible for, engages in, provides support for, or promotes policies
+  or actions which destabilise Ukraine or undermine or threaten the territorial integrity,
+  sovereignty or independence of Ukraine, through his role as the Head of ‘Yunarmia’.\n"

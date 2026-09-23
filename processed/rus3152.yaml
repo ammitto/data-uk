@@ -1,3 +1,4 @@
+---
 last_updated: '2025-12-04'
 date_designated: '2025-12-04'
 unique_id: RUS3152
@@ -14,7 +15,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -29,11 +31,14 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  Denis Alexandrovich SMOLYANINOV (hereafter SMOLYANINOV) is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 on the basis that: 
-    
-  a) SMOLYANINOV is or has been obtaining a benefit from the Government of Russia, and is involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine, through working for Russia's security and intelligence services, with a rank of colonel or higher. 
-    
-  b) SMOLYANINOV is or has been destabilising Ukraine or
-   undermining the territorial security and sovereignty of Ukraine by engaging in, providing support for, or promoting actions which destabilise Ukraine or undermine or threaten the territorial integrity, sovereignty or independence of Ukraine, namely the coordination of GRU sabotage operations in Ukraine. 
+uk_statement_of_reasons: "\nDenis Alexandrovich SMOLYANINOV (hereafter SMOLYANINOV)
+  is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 on
+  the basis that: \n  \na) SMOLYANINOV is or has been obtaining a benefit from the
+  Government of Russia, and is involved in destabilising Ukraine or undermining or
+  threatening the territorial integrity, sovereignty or independence of Ukraine, through
+  working for Russia's security and intelligence services, with a rank of colonel
+  or higher. \n  \nb) SMOLYANINOV is or has been destabilising Ukraine or\n undermining
+  the territorial security and sovereignty of Ukraine by engaging in, providing support
+  for, or promoting actions which destabilise Ukraine or undermine or threaten the
+  territorial integrity, sovereignty or independence of Ukraine, namely the coordination
+  of GRU sabotage operations in Ukraine. \n"

@@ -1,3 +1,4 @@
+---
 last_updated: '2021-12-18'
 date_designated: '2016-03-02'
 unique_id: DPR0214
@@ -16,10 +17,12 @@ names:
     name6: Pom Su
     name_type: Alias
     alias_strength: Good quality a.k.a
-regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019
+regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Individual
 designation_source: UN
-sanctions_imposed: Asset freeze|Chartering of Ships|Prevention of business arrangements|Prohibition of port entry|Travel Ban
+sanctions_imposed: Asset freeze|Chartering of Ships|Prevention of business arrangements|Prohibition
+  of port entry|Travel Ban
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: false
@@ -34,5 +37,7 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Pursuant to Resolution 2371(2017) the Security Council added the following information: New AKA: Jang Hyon U with date of birth 22 February 1958 and diplomatic passport number 836110034, which expires on 1 January 2020.'
+other_information: 'Pursuant to Resolution 2371(2017) the Security Council added the
+  following information: New AKA: Jang Hyon U with date of birth 22 February 1958
+  and diplomatic passport number 836110034, which expires on 1 January 2020.'
 uk_statement_of_reasons: "\n"

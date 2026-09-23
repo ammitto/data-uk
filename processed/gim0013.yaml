@@ -1,3 +1,4 @@
+---
 last_updated: '2025-07-23'
 date_designated: '2025-07-23'
 unique_id: GIM0013
@@ -8,7 +9,8 @@ names:
     name2: Ali
     name6: SALIH
     name_type: Primary Name
-regime_name: The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025
+regime_name: The Global Irregular Migration and Trafficking in Persons Sanctions Regulations
+  2025
 individual_entity_ship: Individual
 designation_source: UK
 sanctions_imposed: Asset freeze|Director Disqualification Sanction
@@ -26,6 +28,11 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  Hemin SALIH is an involved person under the Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025 on the basis of the following ground: He has engaged in a relevant activity, namely people smuggling. He facilitated the unlawful arrival of persons into the United Kingdom who were not United Kingdom nationals nor permanent residents in the United Kingdom with a view to obtaining a benefit for himself. He facilitated the arrival of migrants in refrigerated lorries which crossed the English Channel from France to the United Kingdom. 
+uk_statement_of_reasons: "\nHemin SALIH is an involved person under the Global Irregular
+  Migration and Trafficking in Persons Sanctions Regulations 2025 on the basis of
+  the following ground: He has engaged in a relevant activity, namely people smuggling.
+  He facilitated the unlawful arrival of persons into the United Kingdom who were
+  not United Kingdom nationals nor permanent residents in the United Kingdom with
+  a view to obtaining a benefit for himself. He facilitated the arrival of migrants
+  in refrigerated lorries which crossed the English Channel from France to the United
+  Kingdom. \n"

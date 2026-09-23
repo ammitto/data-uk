@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2024-12-09'
 unique_id: RUS2358
@@ -10,7 +11,8 @@ names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -26,9 +28,12 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  Anto Joseph is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 on basis of the following ground: Anto Joseph is associated with a person that is or has been involved in making available funds to a person that makes available economic resources that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine. 
+uk_statement_of_reasons: "\nAnto Joseph is an involved person under the Russia (Sanctions)
+  (EU Exit) Regulations 2019 on basis of the following ground: Anto Joseph is associated
+  with a person that is or has been involved in making available funds to a person
+  that makes available economic resources that could contribute to destabilising Ukraine
+  or undermining or threatening the territorial integrity, sovereignty or independence
+  of Ukraine. \n"
 addresses:
   addresses:
   - address_line1: One Lake Plaza,

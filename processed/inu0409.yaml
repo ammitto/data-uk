@@ -1,3 +1,4 @@
+---
 last_updated: '2025-09-29'
 date_designated: '2025-09-29'
 unique_id: INU0409
@@ -14,7 +15,8 @@ names:
     name_type: Primary Name Variation
   - name6: Exploration and Preparation of Raw Material of the Nuclear Industry Company
     name_type: Primary Name Variation
-  - name6: Exploration and Preparation of Raw Materials for the Nuclear Industry Company of Iran
+  - name6: Exploration and Preparation of Raw Materials for the Nuclear Industry Company
+      of Iran
     name_type: Primary Name Variation
 regime_name: The Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
@@ -35,7 +37,7 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 uk_statement_of_reasons: |2
-  
+
   EMKA Company is an involved person under the Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019 on the basis of the following ground: EMKA Company is associated with the Atomic Energy Organisation of Iran, who is responsible for and engaged in the proliferation or development of nuclear weapons in, or for use in, Iran, or an activity that could lead to the development of nuclear weapons in, or for use in, Iran.
 addresses:
   addresses:

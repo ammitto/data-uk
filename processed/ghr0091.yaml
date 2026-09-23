@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2022-12-08'
 unique_id: GHR0091
@@ -39,9 +40,12 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  There are reasonable grounds to suspect Artur Rinatovich SHAMBAZOV, is an involved person under the Global Human Rights Sanctions Regulations 2020 because has been responsible for violations of the right not to be subjected to torture or cruel, inhuman or degrading treatment or punishment, in his role in the torture of Ukrainian political prisoner Oleksandr Kostenko, whilst an FSB officer in 2014-2015. 
+uk_statement_of_reasons: "\nThere are reasonable grounds to suspect Artur Rinatovich
+  SHAMBAZOV, is an involved person under the Global Human Rights Sanctions Regulations
+  2020 because has been responsible for violations of the right not to be subjected
+  to torture or cruel, inhuman or degrading treatment or punishment, in his role in
+  the torture of Ukrainian political prisoner Oleksandr Kostenko, whilst an FSB officer
+  in 2014-2015. \n"
 addresses:
   addresses:
   - address_line1: Evpatoria st

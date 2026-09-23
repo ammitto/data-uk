@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: CTI0009
@@ -20,10 +21,12 @@ names:
   - name1: Samir
     name6: Salwwan
     name_type: Alias
-regime_name: The Counter-Terrorism (International Sanctions) (EU Exit) Regulations 2019
+regime_name: The Counter-Terrorism (International Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Arms embargo|Travel Ban|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Arms embargo|Travel Ban|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: false
@@ -40,5 +43,5 @@ sanctions_imposed_indicators:
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
 uk_statement_of_reasons: |2
-  
+
   Hasan Izz Al-Din is a member of Lebanese Hizballah. He is wanted by the FBI for his involvement in the hijacking of a commercial airliner on 14 June 1985 during which various passengers and crewmembers were assaulted and one US citizen murdered.

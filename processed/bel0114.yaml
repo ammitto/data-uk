@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2021-12-02'
 unique_id: BEL0114
@@ -85,10 +86,16 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  A Senior Political Commentator for the National State TV and Radio Company “Belteleradio” (BTRC) Andrey Evgenievich KRIVOSHEYEV is one of the most vocal and influential members of the Belarusian state propaganda machine in the broadcast media. Further, in his role as Head of the pro-regime State Union of Journalists (BUJ) KRIVOSHEYEV is a close supporter of President of Belarus, Alexander Lukashenko, and a key player in the regime's propaganda and censorship apparatus. KRIVOSHEYEV has actively supported Lukashenko and his regime throughout the flawed election process surrounding the 9 August 2020 Presidential election. 
-  KRIVOSHEYEV therefore is or has been involved in undermining the rule of law in Belarus and repressing of civil society and democratic opposition.  
+uk_statement_of_reasons: "\nA Senior Political Commentator for the National State
+  TV and Radio Company “Belteleradio” (BTRC) Andrey Evgenievich KRIVOSHEYEV is one
+  of the most vocal and influential members of the Belarusian state propaganda machine
+  in the broadcast media. Further, in his role as Head of the pro-regime State Union
+  of Journalists (BUJ) KRIVOSHEYEV is a close supporter of President of Belarus, Alexander
+  Lukashenko, and a key player in the regime's propaganda and censorship apparatus.
+  KRIVOSHEYEV has actively supported Lukashenko and his regime throughout the flawed
+  election process surrounding the 9 August 2020 Presidential election. \nKRIVOSHEYEV
+  therefore is or has been involved in undermining the rule of law in Belarus and
+  repressing of civil society and democratic opposition.  \n"
 addresses:
   addresses:
   - address_line1: Belarusian Union of Journalists

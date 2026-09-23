@@ -1,3 +1,4 @@
+---
 last_updated: '2022-01-13'
 date_designated: '2003-03-04'
 unique_id: AQD0075
@@ -19,7 +20,8 @@ names:
     name_type: Alias
   - name6: The Sabotage and Military Surveillance Group of the Riyadh al-Salihin Martyrs
     name_type: Alias
-regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019
+regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Entity
 designation_source: UN
 sanctions_imposed: Asset freeze|Arms embargo
@@ -37,5 +39,8 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Associated with the Islamic International Brigade (IIB) (QDe.099), the Special Purpose Islamic Regiment (SPIR) (QDe.101) and Emarat Kavkaz (QDe.131). Review pursuant to Security Council resolution 1822 (2008) was concluded on 17 May 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/une/5281893'
+other_information: 'Associated with the Islamic International Brigade (IIB) (QDe.099),
+  the Special Purpose Islamic Regiment (SPIR) (QDe.101) and Emarat Kavkaz (QDe.131).
+  Review pursuant to Security Council resolution 1822 (2008) was concluded on 17 May
+  2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/une/5281893'
 uk_statement_of_reasons: "\n"

@@ -1,3 +1,4 @@
+---
 last_updated: '2026-06-03'
 date_designated: '2024-03-27'
 unique_id: CTD0003
@@ -28,10 +29,21 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: 'We have reasonable grounds to suspect that at least the following entities are owned or controlled by SULTANA and are therefore also subject to the asset freeze on SULTANA: Al-Qureshi Executives (company number 138086160) and the Aakhirah Ltd (company number 06850415). The Director Disqualification Sanction was imposed on 09/04/2025.'
-uk_statement_of_reasons: |2
-  
-  We have reasonable grounds to suspect that Aozma SULTANA (“SULTANA”) is an involved person on the basis that SULTANA: 1. Has been involved in terrorist activity by: a. Making available funds and providing financial services for the purposes of terrorism by making available funds and providing financial services to “Gaza Now”, an organisation which promotes, encourages and supports Hamas and Palestinian Islamic Jihad, and to its founder Mustafa AYASH, and b. Supporting or assisting Mustafa AYASH, and Gaza Now, both persons whom it is reasonable to suspect SULTANA knew or believed were involved in promoting or encouraging terrorism; and 2. Is associated with persons who are or have been involved in terrorist activity, namely Mustafa AYASH, and Gaza Now. 
+other_information: 'We have reasonable grounds to suspect that at least the following
+  entities are owned or controlled by SULTANA and are therefore also subject to the
+  asset freeze on SULTANA: Al-Qureshi Executives (company number 138086160) and the
+  Aakhirah Ltd (company number 06850415). The Director Disqualification Sanction was
+  imposed on 09/04/2025.'
+uk_statement_of_reasons: "\nWe have reasonable grounds to suspect that Aozma SULTANA
+  (“SULTANA”) is an involved person on the basis that SULTANA: 1. Has been involved
+  in terrorist activity by: a. Making available funds and providing financial services
+  for the purposes of terrorism by making available funds and providing financial
+  services to “Gaza Now”, an organisation which promotes, encourages and supports
+  Hamas and Palestinian Islamic Jihad, and to its founder Mustafa AYASH, and b. Supporting
+  or assisting Mustafa AYASH, and Gaza Now, both persons whom it is reasonable to
+  suspect SULTANA knew or believed were involved in promoting or encouraging terrorism;
+  and 2. Is associated with persons who are or have been involved in terrorist activity,
+  namely Mustafa AYASH, and Gaza Now. \n"
 addresses:
   addresses:
   - address_line6: Uxbridge

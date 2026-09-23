@@ -1,3 +1,4 @@
+---
 last_updated: '2021-12-18'
 date_designated: '2012-03-14'
 unique_id: AQD0112
@@ -55,7 +56,8 @@ non_latin_names:
   - name_non_latin_script: عبد الرحمن
   - name_non_latin_script: عبد الرحمن السيندي
   - name_non_latin_script: عبدالله السندي
-regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019
+regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Individual
 designation_source: UN
 sanctions_imposed: Asset freeze|Arms embargo|Travel Ban
@@ -73,7 +75,11 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Has provided facilitation and financial services to Al-Qaida (QDe.004). Associated with Harakatul Jihad Islami (QDe.130), Jaish-I-Mohammed (QDe.019), and Al-Akhtar Trust International (QDe.121). Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5040885'
+other_information: 'Has provided facilitation and financial services to Al-Qaida (QDe.004).
+  Associated with Harakatul Jihad Islami (QDe.130), Jaish-I-Mohammed (QDe.019), and
+  Al-Akhtar Trust International (QDe.121). Review pursuant to Security Council resolution
+  2253 (2015) was concluded on 21 Feb. 2019. INTERPOL-UN Security Council Special
+  Notice web link: https://www.interpol.int/en/notice/search/un/5040885'
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

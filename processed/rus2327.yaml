@@ -1,3 +1,4 @@
+---
 last_updated: '2024-11-25'
 date_designated: '2024-11-25'
 unique_id: RUS2327
@@ -23,7 +24,12 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Shipping sanctions: where shipping sanctions apply, a specified ship is prohibited from entering a port in the UK, may be given a movement or a port entry direction, can be detained, and will be refused permission to register on the UK Ship Register or have its existing registration terminated.  '
-uk_statement_of_reasons: |2
-  
-  ARIADNE (IMO 9289752) is involved in activity whose object or effect is to destabilise Ukraine or undermine or threaten the territorial integrity, sovereignty or independence of Ukraine or to obtain a benefit from or support the Government of Russia. Namely, ARIADNE is involved in carrying oil or oil products that originated in Russia from Russia to a third country. 
+other_information: 'Shipping sanctions: where shipping sanctions apply, a specified
+  ship is prohibited from entering a port in the UK, may be given a movement or a
+  port entry direction, can be detained, and will be refused permission to register
+  on the UK Ship Register or have its existing registration terminated.  '
+uk_statement_of_reasons: "\nARIADNE (IMO 9289752) is involved in activity whose object
+  or effect is to destabilise Ukraine or undermine or threaten the territorial integrity,
+  sovereignty or independence of Ukraine or to obtain a benefit from or support the
+  Government of Russia. Namely, ARIADNE is involved in carrying oil or oil products
+  that originated in Russia from Russia to a third country. \n"

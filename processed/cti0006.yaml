@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: CTI0006
@@ -15,10 +16,12 @@ names:
   - name1: Abu
     name6: Zubair
     name_type: Alias
-regime_name: The Counter-Terrorism (International Sanctions) (EU Exit) Regulations 2019
+regime_name: The Counter-Terrorism (International Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Arms embargo|Travel Ban|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Arms embargo|Travel Ban|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: false
@@ -34,6 +37,6 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
+uk_statement_of_reasons: |2-
+
   Mohammed Bouyeri was a member of the (now disbanded) Islamist terrorist Hofstad Group. Bouyeri murdered the film director Theo van Gogh in the Netherlands 2004. In 2005 he was found guilty of murder and of membership of a terrorist organisation.

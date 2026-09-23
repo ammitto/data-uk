@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2022-03-24'
 unique_id: RUS1083
@@ -12,7 +13,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -28,8 +30,8 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
+uk_statement_of_reasons: |2-
+
   Rushydro is a Russia-based energy producer.  As such, it is or has been involved in obtaining a benefit from or supporting the Government of Russia by carrying on business in the energy sector, a sector of strategic significance to Government of Russia.
    The trust services sanctions were imposed on 21/03/2023.
 addresses:

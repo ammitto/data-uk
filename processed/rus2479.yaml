@@ -1,3 +1,4 @@
+---
 last_updated: '2026-03-06'
 date_designated: '2025-02-24'
 unique_id: RUS2479
@@ -24,7 +25,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction|Prohibition on correspondent banking and clearing
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction|Prohibition on correspondent banking and clearing
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -41,7 +43,7 @@ sanctions_imposed_indicators:
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
 uk_statement_of_reasons: |2
-  
+
   The Secretary of State considers that there are reasonable grounds to suspect that OJSC KEREMET BANK is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 on the basis that it has been involved in obtaining a benefit from or supporting the Government of Russia through: (1) carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian financial services sector; (2) providing financial services to persons carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian financial services sector.
 addresses:
   addresses:

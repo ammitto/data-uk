@@ -1,3 +1,4 @@
+---
 last_updated: '2022-01-14'
 date_designated: '2018-03-30'
 unique_id: DPR0184
@@ -9,10 +10,13 @@ names:
     name_type: Primary name
   - name6: Care of First Oil JV Co Ltd
     name_type: Alias
-regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019
+regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Entity
 designation_source: UN
-sanctions_imposed: Asset freeze|Chartering of Ships|Closure of representative offices|Crew servicing of ships and aircraft|Prevention of business arrangements|Prohibition of port entry
+sanctions_imposed: Asset freeze|Chartering of Ships|Closure of representative offices|Crew
+  servicing of ships and aircraft|Prevention of business arrangements|Prohibition
+  of port entry
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: false
@@ -27,7 +31,8 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: true
   director_disqualification_sanction: false
   deflag: false
-other_information: Registered owner of the DPRK tanker PAEK MA, which was involved in ship-to-ship transfer operations for oil in mid-January 2018.
+other_information: Registered owner of the DPRK tanker PAEK MA, which was involved
+  in ship-to-ship transfer operations for oil in mid-January 2018.
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

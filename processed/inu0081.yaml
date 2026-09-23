@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: INU0081
@@ -8,7 +9,8 @@ names:
     name_type: Primary name
   - name6: Aerospace Divison of IRGC
     name_type: Alias
-  - name6: Aerospace Force of the Army of the Guardians of the Islamic Revolution (AFAGIR)
+  - name6: Aerospace Force of the Army of the Guardians of the Islamic Revolution
+      (AFAGIR)
     name_type: Alias
   - name6: Air Force, IRGC
     name_type: Alias
@@ -38,5 +40,5 @@ sanctions_imposed_indicators:
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
 uk_statement_of_reasons: |2
-  
+
   Operates Iran’s inventory of short and medium range ballistic missiles and is responsible for controlling Iran’s strategic missile force. Controlled by and acts on behalf of the IRGC.

@@ -1,3 +1,4 @@
+---
 last_updated: '2025-07-31'
 date_designated: '2025-07-18'
 unique_id: CYB0078
@@ -26,6 +27,11 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  Russian GRU Senior Officer General-Major Viktor Borisovich NETYKSHO is or has been responsible for, engaging in, providing support for, or promoting the commission, planning or preparation of relevant cyber activity. Additionally, NETYKSHO remains associated with, a person who is or has been so involved, by reason of his continuing service in the GRU. The relevant cyber activity in which NETYKSHO is or has been involved undermines, or was intended to undermine, the integrity, prosperity or security of the United Kingdom or a country other than the United Kingdom. 
+uk_statement_of_reasons: "\nRussian GRU Senior Officer General-Major Viktor Borisovich
+  NETYKSHO is or has been responsible for, engaging in, providing support for, or
+  promoting the commission, planning or preparation of relevant cyber activity. Additionally,
+  NETYKSHO remains associated with, a person who is or has been so involved, by reason
+  of his continuing service in the GRU. The relevant cyber activity in which NETYKSHO
+  is or has been involved undermines, or was intended to undermine, the integrity,
+  prosperity or security of the United Kingdom or a country other than the United
+  Kingdom. \n"

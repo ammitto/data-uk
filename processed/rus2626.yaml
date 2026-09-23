@@ -1,3 +1,4 @@
+---
 last_updated: '2025-05-20'
 date_designated: '2025-05-20'
 unique_id: RUS2626
@@ -14,7 +15,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -29,10 +31,14 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  Igor 
-  Borisovich BYSTROV is or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine, through making available goods or technology, that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine; namely, Igor Borisovich BYSTROV has been collaborating as part of a network involving MT-SYSTEMS LLC, ATOMA LLC, SHANGHAI NEW CHESS CO., LTD and SHANGHAI NEW CHESS INT'L LOGISTICS CO., LTD to source, import and supply electronics to Russia’s defence sector.
+uk_statement_of_reasons: "\nIgor \nBorisovich BYSTROV is or has been involved in destabilising
+  Ukraine or undermining or threatening the territorial integrity, sovereignty or
+  independence of Ukraine, through making available goods or technology, that could
+  contribute to destabilising Ukraine or undermining or threatening the territorial
+  integrity, sovereignty or independence of Ukraine; namely, Igor Borisovich BYSTROV
+  has been collaborating as part of a network involving MT-SYSTEMS LLC, ATOMA LLC,
+  SHANGHAI NEW CHESS CO., LTD and SHANGHAI NEW CHESS INT'L LOGISTICS CO., LTD to source,
+  import and supply electronics to Russia’s defence sector.\n"
 addresses:
   addresses:
   - address_line6: St Petersburg

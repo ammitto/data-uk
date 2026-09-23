@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2024-11-07'
 unique_id: RUS2270
@@ -18,7 +19,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -34,9 +36,11 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  STANEX GROUP LIMITED LIABILITY PARTNERSHIP is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 on the following ground: STANEX GROUP LIMITED LIABILITY PARTNERSHIP is associated with KAZSTANEX LLP and UZSTANEX LLC by receiving a material benefit from KAZSTANEX and UZSTANEX. KAZSTANEX and UZSTANEX are involved persons as defined in the regulations.   
+uk_statement_of_reasons: "\nSTANEX GROUP LIMITED LIABILITY PARTNERSHIP is an involved
+  person under the Russia (Sanctions) (EU Exit) Regulations 2019 on the following
+  ground: STANEX GROUP LIMITED LIABILITY PARTNERSHIP is associated with KAZSTANEX
+  LLP and UZSTANEX LLC by receiving a material benefit from KAZSTANEX and UZSTANEX.
+  KAZSTANEX and UZSTANEX are involved persons as defined in the regulations.   \n"
 addresses:
   addresses:
   - address_line1: 17A MAGISTRALNAYA STREET

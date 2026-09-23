@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2023-07-20'
 unique_id: CAF0020
@@ -25,9 +26,15 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  Lobaye Invest Sarlu (LOBAYE) is an involved person under the Central African Republic (Sanctions) (EU Exit) Regulations 2020 as it is and has been involved in actions and activities which undermine or threaten the peace, stability and security of the Central African Republic, including through acts that undermine efforts to resolve armed conflicts.  It is and has been involved in such actions and activities (i) itself; (ii) through its subsidiary, Sewa Security Services (SSS) and (iii) because it is responsible for, engaging in, providing support for, and/or promoting the actions and activities of the broader Wagner Group in Central African Republic. 
+uk_statement_of_reasons: "\nLobaye Invest Sarlu (LOBAYE) is an involved person under
+  the Central African Republic (Sanctions) (EU Exit) Regulations 2020 as it is and
+  has been involved in actions and activities which undermine or threaten the peace,
+  stability and security of the Central African Republic, including through acts that
+  undermine efforts to resolve armed conflicts.  It is and has been involved in such
+  actions and activities (i) itself; (ii) through its subsidiary, Sewa Security Services
+  (SSS) and (iii) because it is responsible for, engaging in, providing support for,
+  and/or promoting the actions and activities of the broader Wagner Group in Central
+  African Republic. \n"
 addresses:
   addresses:
   - address_line6: Bangui

@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2024-02-12'
 unique_id: GHR0116
@@ -32,9 +33,13 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  Yinon LEVY (hereafter “LEVY”) is an involved person within the meaning of the Global Human Rights Sanctions Regulations 2020 on the basis of the following ground: LEVY is and/or has been responsible for, engaging in, facilitating, inciting or providing support for activity which amounts to a serious abuse of the right of individuals not to be subjected to cruel, inhuman or degrading treatment or punishment. Specifically, LEVY has threatened and perpetrated acts of aggression and violence against Palestinian individuals in the West Bank. 
+uk_statement_of_reasons: "\nYinon LEVY (hereafter “LEVY”) is an involved person within
+  the meaning of the Global Human Rights Sanctions Regulations 2020 on the basis of
+  the following ground: LEVY is and/or has been responsible for, engaging in, facilitating,
+  inciting or providing support for activity which amounts to a serious abuse of the
+  right of individuals not to be subjected to cruel, inhuman or degrading treatment
+  or punishment. Specifically, LEVY has threatened and perpetrated acts of aggression
+  and violence against Palestinian individuals in the West Bank. \n"
 addresses:
   addresses:
   - address_line1: Meitarim Farm outpost

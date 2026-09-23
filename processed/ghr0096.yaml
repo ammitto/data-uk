@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2023-12-07'
 unique_id: GHR0096
@@ -27,9 +28,11 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  Heng He Casino is an involved person under the Global Human Rights Sanctions Regulations 2020 because it has been involved in facilitating, providing support for and concealing evidence of an activity that violates the right not to be subjected to torture or cruel, inhuman or degrading treatment or punishment or the right not to be required to perform forced or compulsory labour.   
+uk_statement_of_reasons: "\nHeng He Casino is an involved person under the Global
+  Human Rights Sanctions Regulations 2020 because it has been involved in facilitating,
+  providing support for and concealing evidence of an activity that violates the right
+  not to be subjected to torture or cruel, inhuman or degrading treatment or punishment
+  or the right not to be required to perform forced or compulsory labour.   \n"
 addresses:
   addresses:
   - address_line1: 3599+QX

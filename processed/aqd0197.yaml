@@ -1,3 +1,4 @@
+---
 last_updated: '2025-10-08'
 date_designated: '2002-01-11'
 unique_id: AQD0197
@@ -57,7 +58,8 @@ names:
 non_latin_names:
   names:
   - name_non_latin_script: ابراهيم علي أبو بكر تنتوش
-regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019
+regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Individual
 designation_source: UN
 sanctions_imposed: Asset freeze|Arms embargo|Travel Ban
@@ -75,7 +77,12 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Associated with Afghan Support Committee (ASC) (QDe.069), Revival of Islamic Heritage Society (RIHS)(QDe.070) and the Libyan Islamic Fighting Group (LIFG) (QDe.011). Photograph and fingerprints available for inclusion in the INTERPOL-UNSC Special Notice. Review pursuant to Security Council resolution 1822 (2008) was concluded on 8 Jun. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1446790. Tripoli as at Feb. 2014'
+other_information: 'Associated with Afghan Support Committee (ASC) (QDe.069), Revival
+  of Islamic Heritage Society (RIHS)(QDe.070) and the Libyan Islamic Fighting Group
+  (LIFG) (QDe.011). Photograph and fingerprints available for inclusion in the INTERPOL-UNSC
+  Special Notice. Review pursuant to Security Council resolution 1822 (2008) was concluded
+  on 8 Jun. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1446790.
+  Tripoli as at Feb. 2014'
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

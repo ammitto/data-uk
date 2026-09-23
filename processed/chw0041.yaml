@@ -1,3 +1,4 @@
+---
 last_updated: '2026-07-06'
 date_designated: '2026-07-06'
 unique_id: CHW0041
@@ -33,9 +34,12 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  Th
-  e Secretary of State considers that there are reasonable grounds to suspect that 
-  Viktor Fedorovic Taranchenko (hereafter “Taranchenko”) is an involved person under the Chemical Weapons (Sanctions) (EU Exit) Regulations 2019 on the basis of the following grounds: (1) Taranchenko is or has been responsible for, engaging in, providing support for, or promoting prohibited activity related to chemical weapons; (2) Taranchenko is associated with SC Signal which is or has been responsible for, engaging in, providing support for, or promoting prohibited activity related to chemical weapons.  Taranchenko is Head of the 1st Scientific Research Centre at SC Signal.
-   
+uk_statement_of_reasons: "\nTh\ne Secretary of State considers that there are reasonable
+  grounds to suspect that \nViktor Fedorovic Taranchenko (hereafter “Taranchenko”)
+  is an involved person under the Chemical Weapons (Sanctions) (EU Exit) Regulations
+  2019 on the basis of the following grounds: (1) Taranchenko is or has been responsible
+  for, engaging in, providing support for, or promoting prohibited activity related
+  to chemical weapons; (2) Taranchenko is associated with SC Signal which is or has
+  been responsible for, engaging in, providing support for, or promoting prohibited
+  activity related to chemical weapons.  Taranchenko is Head of the 1st Scientific
+  Research Centre at SC Signal.\n \n"

@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2022-03-31'
 unique_id: RUS1113
@@ -14,7 +15,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -30,7 +32,7 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
+uk_statement_of_reasons: |2-
+
    Sergey Borisovich BRILEV is a prominent news anchor and senior executive at the Russian state-owned Rossiya Television and Radio network. BRILEV has actively engaged in propagating the Kremlin’s disinformation about Russia’s invasion of Ukraine, and has supported and promoted Russian military actions that destabilise Ukraine and undermine or threatens the territorial integrity, sovereignty or independence of Ukraine.
    The trust services sanctions were imposed on 21/03/2023.

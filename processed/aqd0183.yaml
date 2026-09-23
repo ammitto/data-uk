@@ -1,3 +1,4 @@
+---
 last_updated: '2024-01-08'
 date_designated: '2008-12-10'
 unique_id: AQD0183
@@ -54,7 +55,8 @@ names:
     name6: Syeed
     name_type: Alias
     alias_strength: Good quality a.k.a
-regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019
+regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Individual
 designation_source: UN
 sanctions_imposed: Asset freeze|Arms embargo|Travel Ban
@@ -72,7 +74,11 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Muhammad Saeed is the leader of Lashkar-e-Tayyiba (QDe.118). In custody of the Government of Pakistan serving a 78 year imprisonment sentence since 12 February 2020 as a result of conviction in seven terror financing cases. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1543488. Location as of May 2008.'
+other_information: 'Muhammad Saeed is the leader of Lashkar-e-Tayyiba (QDe.118). In
+  custody of the Government of Pakistan serving a 78 year imprisonment sentence since
+  12 February 2020 as a result of conviction in seven terror financing cases. INTERPOL-UN
+  Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1543488.
+  Location as of May 2008.'
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

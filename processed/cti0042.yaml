@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: CTI0042
@@ -13,7 +14,8 @@ names:
 non_latin_names:
   names:
   - name_non_latin_script: Teyrêbazên Azadiya Kurdistan (TAK)
-regime_name: The Counter-Terrorism (International Sanctions) (EU Exit) Regulations 2019
+regime_name: The Counter-Terrorism (International Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Entity
 designation_source: UK
 sanctions_imposed: Asset freeze|Arms embargo|Director Disqualification Sanction
@@ -32,6 +34,6 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
+uk_statement_of_reasons: |2-
+
   The Kurdistan Freedom Hawks (TAK) is a Kurdish nationalist group that uses violence to pursue its goal of an independent Kurdish state in south eastern Turkey. They have claimed responsibility for numerous terrorist attacks, and are believed to have links to the Kurdistan Workers Party (PKK a proscribed terrorist organisation).

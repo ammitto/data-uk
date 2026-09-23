@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2023-02-08'
 unique_id: RUS1705
@@ -14,7 +15,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -30,7 +32,11 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
-  Boris Yuryevich TITOV is Russia’s Presidential Commissioner for Entrepreneurs’ Rights and a prominent business person. TITOV is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 (“Russia Regulations”) because: 1) he is associated with a person involved in destabilising Ukraine, namely President Vladimir Putin, and thus meets regulation 6(2)(d) of the Russia Regulations; and 2) he is head of a public body, federal agency or service subordinate to the President of the Russian Federation, and thus meets regulation 6(4A)(b) of the Russia Regulations. 
-   The trust services sanctions were imposed on 21/03/2023.
+uk_statement_of_reasons: "\nBoris Yuryevich TITOV is Russia’s Presidential Commissioner
+  for Entrepreneurs’ Rights and a prominent business person. TITOV is an involved
+  person under the Russia (Sanctions) (EU Exit) Regulations 2019 (“Russia Regulations”)
+  because: 1) he is associated with a person involved in destabilising Ukraine, namely
+  President Vladimir Putin, and thus meets regulation 6(2)(d) of the Russia Regulations;
+  and 2) he is head of a public body, federal agency or service subordinate to the
+  President of the Russian Federation, and thus meets regulation 6(4A)(b) of the Russia
+  Regulations. \n The trust services sanctions were imposed on 21/03/2023."

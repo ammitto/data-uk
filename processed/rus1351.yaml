@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2022-04-21'
 unique_id: RUS1351
@@ -8,7 +9,8 @@ names:
     name_type: Primary Name
   - name6: AO TsNIIMash
     name_type: Primary Name Variation
-  - name6: FEDERAL STATE UNITARY ENTERPRISE CENTRAL RESEARCH INSTITUTE FOR MACHINE BUILDING
+  - name6: FEDERAL STATE UNITARY ENTERPRISE CENTRAL RESEARCH INSTITUTE FOR MACHINE
+      BUILDING
     name_type: Primary Name Variation
   - name6: JSC Central Research Institute of Mechanical Engineering
     name_type: Primary Name Variation
@@ -18,7 +20,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -34,10 +37,14 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
-   Central Research Institute of Machine Building JSC (TsNIIMash) is an involved person under the Russia (Sanctions) (EU Exit) Regulation 2019 because: it obtains a benefit from or supports the Government of Russia by carrying on business as a Government of Russia-affiliated entity. Central Research Institute of Machine Building JSC (TsNIIMash) is owned or controlled directly or indirectly by the Government of Russia, namely via the State Corporation Roscosmos. The Russian State, or Roscosmos, is currently the sole shareholder of The Central Research Institute of Machine Building JSC (TsNIIMash).  
-   The trust services sanctions were imposed on 21/03/2023.
+uk_statement_of_reasons: "\n Central Research Institute of Machine Building JSC (TsNIIMash)
+  is an involved person under the Russia (Sanctions) (EU Exit) Regulation 2019 because:
+  it obtains a benefit from or supports the Government of Russia by carrying on business
+  as a Government of Russia-affiliated entity. Central Research Institute of Machine
+  Building JSC (TsNIIMash) is owned or controlled directly or indirectly by the Government
+  of Russia, namely via the State Corporation Roscosmos. The Russian State, or Roscosmos,
+  is currently the sole shareholder of The Central Research Institute of Machine Building
+  JSC (TsNIIMash).  \n The trust services sanctions were imposed on 21/03/2023."
 addresses:
   addresses:
   - address_line1: 4 Ulitsa Pionerskaya

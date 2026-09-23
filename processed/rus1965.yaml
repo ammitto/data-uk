@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2023-08-08'
 unique_id: RUS1965
@@ -10,7 +11,8 @@ names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -27,7 +29,7 @@ sanctions_imposed_indicators:
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
 uk_statement_of_reasons: |2
-  
+
   ASHOT MKRTYCHEV is an involved person within the meaning of the Russia (Sanctions) (EU Exit) Regulations 2019 as he is or has been involved in obtaining a benefit from or supporting the government of Russia by carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian Defence Sector.
 addresses:
   addresses:

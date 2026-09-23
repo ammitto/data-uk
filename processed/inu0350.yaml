@@ -1,3 +1,4 @@
+---
 last_updated: '2025-09-29'
 date_designated: '2025-09-29'
 unique_id: INU0350
@@ -29,6 +30,7 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  Ali Reza KHANCHI is an involved person under the Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019 on the basis of the following ground: Ali Reza KHANCHI is or has been responsible for engaging in, providing support for and facilitating a relevant nuclear activity in, or for use in, Iran. 
+uk_statement_of_reasons: "\nAli Reza KHANCHI is an involved person under the Iran
+  (Sanctions) (Nuclear) (EU Exit) Regulations 2019 on the basis of the following ground:
+  Ali Reza KHANCHI is or has been responsible for engaging in, providing support for
+  and facilitating a relevant nuclear activity in, or for use in, Iran. \n"

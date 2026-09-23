@@ -1,3 +1,4 @@
+---
 last_updated: '2025-10-01'
 date_designated: '2023-10-18'
 unique_id: INU0217
@@ -29,9 +30,15 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: 'Amin Industrial Complex was listed pursuant to paragraph 12 of resolution 1737 (2006), as read with resolutions 1747, 1803 and 1929, as: Amin Industrial Complex sought temperature controllers which may be used in nuclear research and operational/production facilities. Amin Industrial Complex is owned or controlled by, or acts on behalf of, the Defense Industries Organization (DIO), which was designated in resolution 1737 (2006). The Director Disqualification Sanction was imposed on 09/04/2025.'
-uk_statement_of_reasons: |-2
-  
+other_information: 'Amin Industrial Complex was listed pursuant to paragraph 12 of
+  resolution 1737 (2006), as read with resolutions 1747, 1803 and 1929, as: Amin Industrial
+  Complex sought temperature controllers which may be used in nuclear research and
+  operational/production facilities. Amin Industrial Complex is owned or controlled
+  by, or acts on behalf of, the Defense Industries Organization (DIO), which was designated
+  in resolution 1737 (2006). The Director Disqualification Sanction was imposed on
+  09/04/2025.'
+uk_statement_of_reasons: |2-
+
   Amin Industrial Complex is an involved person within the meaning of the Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019. Amin Industrial Complex is or has been involved in a relevant nuclear activity, in particular Amin Industrial Complex is or has been responsible for the proliferation or development of nuclear weapons in, or for use in, Iran, or an activity that could lead to the development of nuclear weapons in, or for use in, Iran.
 addresses:
   addresses:

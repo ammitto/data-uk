@@ -1,3 +1,4 @@
+---
 last_updated: '2023-08-17'
 date_designated: '2022-09-28'
 unique_id: YEM0011
@@ -29,6 +30,8 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-uk_statement_of_reasons: |2
-  
-  Former Deputy Head of the Houthi National Security Bureau (NSB), oversaw detainees of the NSB who were subjected to torture and other mistreatment while detained, planned and directed illegal arrests and detention of humanitarian workers and the unlawful diversion of humanitarian assistance in violation of international humanitarian law. 
+uk_statement_of_reasons: "\nFormer Deputy Head of the Houthi National Security Bureau
+  (NSB), oversaw detainees of the NSB who were subjected to torture and other mistreatment
+  while detained, planned and directed illegal arrests and detention of humanitarian
+  workers and the unlawful diversion of humanitarian assistance in violation of international
+  humanitarian law. \n"

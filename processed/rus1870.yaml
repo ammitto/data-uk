@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2023-05-18'
 unique_id: RUS1870
@@ -6,7 +7,8 @@ names:
   names:
   - name6: TRINITI
     name_type: Primary Name
-  - name6: Joint Stock Company State Research Center of the Russian Federation Troitsk Institute for Innovation and Fusion Research (JSC SRC RF TRINITI)
+  - name6: Joint Stock Company State Research Center of the Russian Federation Troitsk
+      Institute for Innovation and Fusion Research (JSC SRC RF TRINITI)
     name_type: Primary Name Variation
   - name6: SRC RF TRINITI
     name_type: Primary Name Variation
@@ -17,7 +19,8 @@ names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -33,9 +36,11 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  TRINITI is an involved entity under the Russia (Sanctions) (EU Exit) Regulations 2019 because it is or has been involved in obtaining a benefit from or supporting the Government of Russia by (i) carrying on business as a Government of Russia-affiliated entity and (ii) carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian defence sector. 
+uk_statement_of_reasons: "\nTRINITI is an involved entity under the Russia (Sanctions)
+  (EU Exit) Regulations 2019 because it is or has been involved in obtaining a benefit
+  from or supporting the Government of Russia by (i) carrying on business as a Government
+  of Russia-affiliated entity and (ii) carrying on business in a sector of strategic
+  significance to the Government of Russia, namely the Russian defence sector. \n"
 addresses:
   addresses:
   - address_line1: Ow. 12

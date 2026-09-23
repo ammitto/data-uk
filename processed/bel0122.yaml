@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2022-03-24'
 unique_id: BEL0122
@@ -31,9 +32,9 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  Minotor-Service Enterprise is supporting the government of Belarus by operating in a sector of strategic significance, namely the defence sector. 
+uk_statement_of_reasons: "\nMinotor-Service Enterprise is supporting the government
+  of Belarus by operating in a sector of strategic significance, namely the defence
+  sector. \n"
 addresses:
   addresses:
   - address_line1: ul. Karvata

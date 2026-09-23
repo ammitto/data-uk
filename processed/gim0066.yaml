@@ -1,3 +1,4 @@
+---
 last_updated: '2026-05-05'
 date_designated: '2026-05-05'
 unique_id: GIM0066
@@ -7,7 +8,8 @@ names:
     name_type: Primary Name
   - name6: BABAVLOGS
     name_type: Primary Name Variation
-regime_name: The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025
+regime_name: The Global Irregular Migration and Trafficking in Persons Sanctions Regulations
+  2025
 individual_entity_ship: Entity
 designation_source: UK
 sanctions_imposed: Asset freeze|Director Disqualification Sanction
@@ -25,11 +27,17 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  The Secretary of State considers that there are reasonable grounds to suspect that BABA VLOGS OVERSEAS RECRUITMENT SOLUTIONS PRIVATE LIMITED is or has been an involved person under the Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025 as it has been involved in a relevant activity, namely 
-  trafficking in persons. 
-  Specifically, BABA VLOGS OVERSEAS RECRUITMENT SOLUTIONS PRIVATE LIMITED engaged in the recruitment of Indian nationals using deception and then exploited them. In its public communications, it advertised well paid roles within “the Russian security sector” but, upon the Indian nationals’ arrival in Russia, they were forced to fight on the front line of Russia’s war of aggression against Ukraine under the menaces of penalty, namely verbal abuse, threats and physical violence.
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that BABA VLOGS OVERSEAS RECRUITMENT SOLUTIONS PRIVATE LIMITED
+  is or has been an involved person under the Global Irregular Migration and Trafficking
+  in Persons Sanctions Regulations 2025 as it has been involved in a relevant activity,
+  namely \ntrafficking in persons. \nSpecifically, BABA VLOGS OVERSEAS RECRUITMENT
+  SOLUTIONS PRIVATE LIMITED engaged in the recruitment of Indian nationals using deception
+  and then exploited them. In its public communications, it advertised well paid roles
+  within “the Russian security sector” but, upon the Indian nationals’ arrival in
+  Russia, they were forced to fight on the front line of Russia’s war of aggression
+  against Ukraine under the menaces of penalty, namely verbal abuse, threats and physical
+  violence.\n"
 addresses:
   addresses:
   - address_line1: FNo.9, Sai Ashirwad Chsl

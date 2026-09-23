@@ -1,3 +1,4 @@
+---
 last_updated: '2026-05-11'
 date_designated: '2026-05-11'
 unique_id: RUS3580
@@ -13,7 +14,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -29,7 +31,7 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 uk_statement_of_reasons: |2
-  
+
   The Secretary of State considers that there are reasonable grounds to suspect that SONGDOWON INTERNATIONAL CHILDREN’S CAMP is an “involved person” under the Russia (Sanctions) (EU Exit) Regulation 2019 because it is and has been responsible for and provides support for policies or actions which undermine or threaten the territorial integrity, sovereignty or independence of Ukraine, by engaging in and providing support for the Government of Russia’s programme for the forced deportation and re-education of Ukrainian children.
 addresses:
   addresses:

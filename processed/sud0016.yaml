@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2023-07-20'
 unique_id: SUD0016
@@ -34,9 +35,10 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  Al-Solag Mining Company Ltd is an involved person under The Sudan (Sanctions) (EU Exit) Regulations 2020 as it is associated with a person, Meroe Gold (part of the Wagner Group of Companies) which is involved in a policy or activity which threatens the peace, stability and security of Sudan. 
+uk_statement_of_reasons: "\nAl-Solag Mining Company Ltd is an involved person under
+  The Sudan (Sanctions) (EU Exit) Regulations 2020 as it is associated with a person,
+  Meroe Gold (part of the Wagner Group of Companies) which is involved in a policy
+  or activity which threatens the peace, stability and security of Sudan. \n"
 addresses:
   addresses:
   - address_country: Sudan

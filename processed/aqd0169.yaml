@@ -1,3 +1,4 @@
+---
 last_updated: '2021-12-18'
 date_designated: '2017-06-16'
 unique_id: AQD0169
@@ -17,7 +18,8 @@ names:
     name6: Lugmaan
     name_type: Alias
     alias_strength: Low quality a.k.a
-regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019
+regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Individual
 designation_source: UN
 sanctions_imposed: Asset freeze|Arms embargo|Travel Ban
@@ -35,5 +37,9 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'German foreign terrorist fighter for Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq (QDe.115). Physical description: eye colour: brown; hair colour: black; height: 178cm; weight: 80kg. European arrest warrant issued by the investigating judge of the German Federal Supreme Court on 13 Aug. 2014. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/6104049'
+other_information: 'German foreign terrorist fighter for Islamic State in Iraq and
+  the Levant, listed as Al-Qaida in Iraq (QDe.115). Physical description: eye colour:
+  brown; hair colour: black; height: 178cm; weight: 80kg. European arrest warrant
+  issued by the investigating judge of the German Federal Supreme Court on 13 Aug.
+  2014. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/6104049'
 uk_statement_of_reasons: "\n"

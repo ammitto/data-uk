@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2023-02-08'
 unique_id: RUS1701
@@ -18,7 +19,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -34,7 +36,13 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
-  Alexander REPIK is an involved person within the meaning of the Russia (Sanctions) (EU Exit) Regulations 2019 because he is the Chairman of the Board of R-Pharm, one of Russia’s largest pharmaceutical companies. R-Pharm receives financing from the Russian Direct Investment Fund, meaning it is a Government of Russia-affiliated entity. Therefore, REPIK is the director or equivalent of an entity that is both carrying on business in a sector of strategic significance to the Government of Russia, namely, the chemicals sector, and carrying on business as a Government of Russia-affiliated entity. REPIK is also associated to an involved person in destabilising Ukraine, namely, President Putin, through his close working relationship with Putin. 
-   The trust services sanctions were imposed on 21/03/2023.
+uk_statement_of_reasons: "\nAlexander REPIK is an involved person within the meaning
+  of the Russia (Sanctions) (EU Exit) Regulations 2019 because he is the Chairman
+  of the Board of R-Pharm, one of Russia’s largest pharmaceutical companies. R-Pharm
+  receives financing from the Russian Direct Investment Fund, meaning it is a Government
+  of Russia-affiliated entity. Therefore, REPIK is the director or equivalent of an
+  entity that is both carrying on business in a sector of strategic significance to
+  the Government of Russia, namely, the chemicals sector, and carrying on business
+  as a Government of Russia-affiliated entity. REPIK is also associated to an involved
+  person in destabilising Ukraine, namely, President Putin, through his close working
+  relationship with Putin. \n The trust services sanctions were imposed on 21/03/2023."

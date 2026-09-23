@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2024-02-21'
 unique_id: GHR0118
@@ -30,9 +31,15 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  Lieutenant Colonel Sergey Nikolaevich KORZHOV (‘KORZHOV’) is and/or has been responsible for activities that amount to serious violations of the right not to be subjected to cruel, inhuman or degrading treatment or punishment, and the right to life. Namely, KORZHOV as Deputy Head of the Arctic Penal Colony IK-3, is responsible for the mistreatment of prisoners through the operations and conditions at Arctic Penal Colony IK-3. This mistreatment likely contributed to the death of Alexei Navalny, including the failure to ensure the provision of adequate medical treatment and/or the failure to provide, timely access for emergency services to provide treatment. 
+uk_statement_of_reasons: "\nLieutenant Colonel Sergey Nikolaevich KORZHOV (‘KORZHOV’)
+  is and/or has been responsible for activities that amount to serious violations
+  of the right not to be subjected to cruel, inhuman or degrading treatment or punishment,
+  and the right to life. Namely, KORZHOV as Deputy Head of the Arctic Penal Colony
+  IK-3, is responsible for the mistreatment of prisoners through the operations and
+  conditions at Arctic Penal Colony IK-3. This mistreatment likely contributed to
+  the death of Alexei Navalny, including the failure to ensure the provision of adequate
+  medical treatment and/or the failure to provide, timely access for emergency services
+  to provide treatment. \n"
 addresses:
   addresses:
   - address_line1: Gagarin St 1

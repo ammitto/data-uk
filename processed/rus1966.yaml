@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2023-09-29'
 unique_id: RUS1966
@@ -14,7 +15,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -30,6 +32,13 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  Natalya Alekseevna BUDARINA is an "involved person" under the Russia (Sanctions) (EU Exit) Regulations 2019 because she is the Secretary of the Central Election Commission of the Russian Federation. Therefore, she is or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine through being responsible for, engaging in, providing support for, or promoting a policy or action which destabilises Ukraine or undermines or threatens the territorial integrity, sovereignty or independence of Ukraine (namely the conduct of Russian elections in illegally annexed Ukrainian territory), through her role of the Secretary of the Central Election Commission of the Russian Federation.  
+uk_statement_of_reasons: "\nNatalya Alekseevna BUDARINA is an \"involved person\"
+  under the Russia (Sanctions) (EU Exit) Regulations 2019 because she is the Secretary
+  of the Central Election Commission of the Russian Federation. Therefore, she is
+  or has been involved in destabilising Ukraine or undermining or threatening the
+  territorial integrity, sovereignty or independence of Ukraine through being responsible
+  for, engaging in, providing support for, or promoting a policy or action which destabilises
+  Ukraine or undermines or threatens the territorial integrity, sovereignty or independence
+  of Ukraine (namely the conduct of Russian elections in illegally annexed Ukrainian
+  territory), through her role of the Secretary of the Central Election Commission
+  of the Russian Federation.  \n"

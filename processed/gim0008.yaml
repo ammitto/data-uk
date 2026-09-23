@@ -1,3 +1,4 @@
+---
 last_updated: '2025-07-23'
 date_designated: '2025-07-23'
 unique_id: GIM0008
@@ -7,7 +8,8 @@ names:
   - name1: Almir
     name6: Jahovic
     name_type: Primary Name
-regime_name: The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025
+regime_name: The Global Irregular Migration and Trafficking in Persons Sanctions Regulations
+  2025
 individual_entity_ship: Individual
 designation_source: UK
 sanctions_imposed: Asset freeze|Travel Ban|Director Disqualification Sanction
@@ -26,5 +28,5 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 uk_statement_of_reasons: |2
-  
+
   Almir Jahović is an involved person under the Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025 as he is a member of, or associated with an involved person, namely the Kavač Gang. By procuring the issuance of passports based on false identities, and with a view of obtaining any gain or benefit, the gang engages in facilitating the unlawful entry of its gang members into different countries in the Balkans and Turkey of which the gang members are not citizens and in which they are not permanent residents.

@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: RUS0062
@@ -36,7 +37,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -51,11 +53,17 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: 'Relatives/business associates or partners/links to listed individuals: Husband – Geran Hayrapetyan aka Ayrapetyan The Director Disqualification Sanction was imposed on 09/04/2025.'
-uk_statement_of_reasons: |-2
-  
-  Former so-called “Health Minister’ of the so called ‘Luhansk People's Republic’. Stood as a candidate in the so called ‘elections’ of 2 November 2014 to the post of the ‘Head’ of the so called ‘Luhansk People's Republic’. These ‘elections’ are in breach of Ukrainian law and therefore illegal. In taking on and acting in this capacity, and in participating formally as a candidate in the illegal ‘elections’, she has therefore actively supported actions and policies which undermine the territorial integrity, sovereignty and independence of Ukraine, and to further destabilised Ukraine. 
-   The trust services sanctions were imposed on 21/03/2023.
+other_information: 'Relatives/business associates or partners/links to listed individuals:
+  Husband – Geran Hayrapetyan aka Ayrapetyan The Director Disqualification Sanction
+  was imposed on 09/04/2025.'
+uk_statement_of_reasons: "\nFormer so-called “Health Minister’ of the so called ‘Luhansk
+  People's Republic’. Stood as a candidate in the so called ‘elections’ of 2 November
+  2014 to the post of the ‘Head’ of the so called ‘Luhansk People's Republic’. These
+  ‘elections’ are in breach of Ukrainian law and therefore illegal. In taking on and
+  acting in this capacity, and in participating formally as a candidate in the illegal
+  ‘elections’, she has therefore actively supported actions and policies which undermine
+  the territorial integrity, sovereignty and independence of Ukraine, and to further
+  destabilised Ukraine. \n The trust services sanctions were imposed on 21/03/2023."
 addresses:
   addresses:
   - address_country: Ukraine

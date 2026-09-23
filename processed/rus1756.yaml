@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2023-02-23'
 unique_id: RUS1756
@@ -17,7 +18,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -33,7 +35,10 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
-  Alexey KOZAK is an involved person within the under the Russia (Sanctions) (EU Exit) Regulations 2019 (“Russia Regulations”) because he is the son of Dmitry Kozak, who was designated by the UK Government on 31 December 2020. Accordingly, as his son (and thereby being an "immediate family member" for purposes of the Russia Regulations: regulation 6(6) and 7(d) of the Russia Regulations), Alexey KOZAK meets designation criteria pursuant to regulation 6(2)(d) of the Russia Regulations. 
-   The trust services sanctions were imposed on 21/03/2023.
+uk_statement_of_reasons: "\nAlexey KOZAK is an involved person within the under the
+  Russia (Sanctions) (EU Exit) Regulations 2019 (“Russia Regulations”) because he
+  is the son of Dmitry Kozak, who was designated by the UK Government on 31 December
+  2020. Accordingly, as his son (and thereby being an \"immediate family member\"
+  for purposes of the Russia Regulations: regulation 6(6) and 7(d) of the Russia Regulations),
+  Alexey KOZAK meets designation criteria pursuant to regulation 6(2)(d) of the Russia
+  Regulations. \n The trust services sanctions were imposed on 21/03/2023."

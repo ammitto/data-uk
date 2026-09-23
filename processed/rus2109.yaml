@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2024-02-22'
 unique_id: RUS2109
@@ -16,7 +17,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -33,7 +35,7 @@ sanctions_imposed_indicators:
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
 uk_statement_of_reasons: |2
-  
+
   PRIVATE MILITARY COMPANY REDUT is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 on the following ground: PRIVATE MILITARY COMPANY REDUT provides support for policies and actions which destabilise Ukraine or undermine or threaten the territorial integrity, sovereignty or independence of Ukraine.
 addresses:
   addresses:

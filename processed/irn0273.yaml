@@ -1,3 +1,4 @@
+---
 last_updated: '2026-05-11'
 date_designated: '2026-05-11'
 unique_id: IRN0273
@@ -32,8 +33,10 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  The Secretary of State considers that there are reasonable grounds to suspect that the Berelian Exchange is an involved person under The Iran (Sanctions) Regulations 2023 on the basis of the following ground:   
-   
-  Berelian Exchange is or has been involved in conduct which facilitates hostile activity by the Government of Iran, namely providing financial services to individuals and entities involved in activity which is intended to cause the destabilisation of the United Kingdom or any other country. 
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that the Berelian Exchange is an involved person under The Iran
+  (Sanctions) Regulations 2023 on the basis of the following ground:   \n \nBerelian
+  Exchange is or has been involved in conduct which facilitates hostile activity by
+  the Government of Iran, namely providing financial services to individuals and entities
+  involved in activity which is intended to cause the destabilisation of the United
+  Kingdom or any other country. \n"

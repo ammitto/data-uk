@@ -1,3 +1,4 @@
+---
 last_updated: '2022-01-13'
 date_designated: '2001-10-17'
 unique_id: AQD0104
@@ -26,7 +27,8 @@ names:
 non_latin_names:
   names:
   - name_non_latin_script: عبد المنان آغا
-regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019
+regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Individual
 designation_source: UN
 sanctions_imposed: Asset freeze|Arms embargo|Travel Ban
@@ -44,5 +46,8 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Pakistan. Review pursuant to Security Council resolution 1822 (2008) was concluded on 15 Jun. 2010.Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019.INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1423806'
+other_information: 'Pakistan. Review pursuant to Security Council resolution 1822
+  (2008) was concluded on 15 Jun. 2010.Review pursuant to Security Council resolution
+  2253 (2015) was concluded on 21 Feb. 2019.INTERPOL-UN Security Council Special Notice
+  web link: https://www.interpol.int/en/notice/search/un/1423806'
 uk_statement_of_reasons: "\n"

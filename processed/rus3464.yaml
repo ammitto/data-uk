@@ -1,3 +1,4 @@
+---
 last_updated: '2026-03-17'
 date_designated: '2026-02-24'
 unique_id: RUS3464
@@ -11,13 +12,15 @@ names:
     name_type: Primary Name Variation
 non_latin_names:
   names:
-  - name_non_latin_script: 'Акционерный коммерческий банк "ФОРА-БАНК" (Акционерное общество) '
+  - name_non_latin_script: 'Акционерный коммерческий банк "ФОРА-БАНК" (Акционерное
+      общество) '
   - name_non_latin_script: 'ФОРА БАНК '
   - name_non_latin_script: ОАО «ФОРА-БАНК»
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction|Prohibition on correspondent banking relationships and processing payments
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction|Prohibition on correspondent banking relationships and processing payments
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -32,9 +35,11 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  The Secretary of State considers that there are reasonable grounds to suspect that JOINT-STOCK COMMERCIAL BANK “FORA-BANK” (JOINT-STOCK COMPANY) is or has been obtaining a benefit from or supporting the Government of Russia by carrying on business in a sector of strategic significance to the Government of Russia; namely, the Russian financial services sector. 
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that JOINT-STOCK COMMERCIAL BANK “FORA-BANK” (JOINT-STOCK COMPANY)
+  is or has been obtaining a benefit from or supporting the Government of Russia by
+  carrying on business in a sector of strategic significance to the Government of
+  Russia; namely, the Russian financial services sector. \n"
 addresses:
   addresses:
   - address_line1: 25 Zubovsky Boulevard

@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: RUS0210
@@ -15,7 +16,8 @@ names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -31,6 +33,6 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
+uk_statement_of_reasons: |2-
+
   Head of the Service of the Control Point in the "Republic of Crimea and Sevastopol" of the Federal Security Service of the Russian Federation, 1st rank captain. He actively participated in coordinating the actions of the Russian Federation forces against Ukrainian vessels and their crews on 25 November 2018 and thus actively contributed to the consolidation of the illegal annexation of the Crimean peninsula into the Russian Federation, which in turn further undermines the territorial integrity of Ukraine. The trust services sanctions were imposed on 21/03/2023.

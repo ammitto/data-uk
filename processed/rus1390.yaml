@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2022-05-04'
 unique_id: RUS1390
@@ -18,7 +19,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -33,11 +35,12 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: 'Linked To: PUBLIC JOINT STOCK COMPANY BANK FINANCIAL CORPORATION OTKRITIE The Director Disqualification Sanction was imposed on 09/04/2025.'
-uk_statement_of_reasons: |-2
-  
-   Mikhail Mikhaylovich ZADORNOV is the Chairman of the Management Board of OTKRITIE BANK. In his role, ZADORNOV is a member of and associated with OTKRITIE BANK. OTKRITIE BANK is an involved person under the Russian (EU Exit) (Sanctions) regulations 2019. 
-   The trust services sanctions were imposed on 21/03/2023.
+other_information: 'Linked To: PUBLIC JOINT STOCK COMPANY BANK FINANCIAL CORPORATION
+  OTKRITIE The Director Disqualification Sanction was imposed on 09/04/2025.'
+uk_statement_of_reasons: "\n Mikhail Mikhaylovich ZADORNOV is the Chairman of the
+  Management Board of OTKRITIE BANK. In his role, ZADORNOV is a member of and associated
+  with OTKRITIE BANK. OTKRITIE BANK is an involved person under the Russian (EU Exit)
+  (Sanctions) regulations 2019. \n The trust services sanctions were imposed on 21/03/2023."
 addresses:
   addresses:
   - address_line1: 8 29

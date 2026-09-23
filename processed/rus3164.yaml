@@ -1,3 +1,4 @@
+---
 last_updated: '2025-12-18'
 date_designated: '2025-12-18'
 unique_id: RUS3164
@@ -10,7 +11,8 @@ names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -26,7 +28,7 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 uk_statement_of_reasons: |2
-  
+
   The Secretary of State has reasonable grounds to suspect that Chingiz ALIYEV is an involved individual under the Russia (Sanctions) (EU Exit) Regulations 2019 because he is or has been involved in: obtaining a benefit from or supporting the Government of Russia, through working as a director or equivalent of an entity carrying on business in a sector of strategic significance, namely, Litasco Middle East DMCC and Litasco SA, which carry on business in the Russian energy sector.
 addresses:
   addresses:

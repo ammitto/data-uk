@@ -1,3 +1,4 @@
+---
 last_updated: '2021-12-18'
 date_designated: '2008-12-10'
 unique_id: AQD0342
@@ -35,7 +36,8 @@ names:
     name6: Ur-Rehman
     name_type: Alias
     alias_strength: Good quality a.k.a
-regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019
+regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Individual
 designation_source: UN
 sanctions_imposed: Asset freeze|Arms embargo|Travel Ban
@@ -53,7 +55,11 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Chief of operations of Lashkar-e-Tayyiba (listed under permanent reference number QDe.118). Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1543499. Pakistan (location as at May 2008)'
+other_information: 'Chief of operations of Lashkar-e-Tayyiba (listed under permanent
+  reference number QDe.118). Review pursuant to Security Council resolution 2253 (2015)
+  was concluded on 21 Feb. 2019. INTERPOL-UN Security Council Special Notice web link:
+  https://www.interpol.int/en/notice/search/un/1543499. Pakistan (location as at May
+  2008)'
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2023-07-12'
 unique_id: SUD0008
@@ -25,6 +26,9 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  Defense Industries System (‘DIS’) is an involved person under the Sudan (Sanctions) (EU Exit) Regulations 2020 as it is associated with the SAF (an involved person), supports the activity the SAF is involved in, is involved in the supply to Sudan (specifically the SAF) of military goods or military technology or of material related to such goods or technology, and thereby engages in activity which threatens the peace, stability and security of Sudan. 
+uk_statement_of_reasons: "\nDefense Industries System (‘DIS’) is an involved person
+  under the Sudan (Sanctions) (EU Exit) Regulations 2020 as it is associated with
+  the SAF (an involved person), supports the activity the SAF is involved in, is involved
+  in the supply to Sudan (specifically the SAF) of military goods or military technology
+  or of material related to such goods or technology, and thereby engages in activity
+  which threatens the peace, stability and security of Sudan. \n"

@@ -1,3 +1,4 @@
+---
 last_updated: '2025-12-04'
 date_designated: '2025-12-04'
 unique_id: CYB0110
@@ -30,7 +31,7 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 uk_statement_of_reasons: |2
-  
+
   The Secretary of State considers that there are reasonable grounds to suspect that Russian GRU 29155 Officer Senior Lieutenant Denis Igorevich DENISENKO is or has been responsible for, engaging in, providing support for, or promoting the commission, planning or preparation of relevant cyber activity.
   Additionally, DENISENKO remains associated with a GRU unit, which is a person who is or has been so involved in such activity.
   The activity that DENISENKO is or has been involved in undermines, or is intended to undermine, the integrity, prosperity or security of the United Kingdom or a country other than the United Kingdom.

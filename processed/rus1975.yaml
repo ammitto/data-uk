@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2023-09-29'
 unique_id: RUS1975
@@ -12,7 +13,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -29,7 +31,7 @@ sanctions_imposed_indicators:
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
 uk_statement_of_reasons: |2
-  
+
   The Central Election Commission of the Russian Federation (the Russian CEC) is an involved person within the meaning of the Russia (Sanctions) (EU Exit) Regulations 2019 because it arranged the illegitimate referendums held by Russia in September 2022 in the illegally temporarily controlled Ukrainian regions (‘the regions’) and attempted to legitimise the results. Further, the Russian CEC arranged illegitimate regional elections in the regions in September 2023 and attempted to legitimise the results. Therefore, the Russian CEC is or has engaged in policies or actions which destabilise Ukraine and undermine or threaten the territorial integrity, sovereignty, or independence of Ukraine.
 addresses:
   addresses:

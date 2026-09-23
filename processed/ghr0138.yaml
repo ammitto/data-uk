@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2024-10-15'
 unique_id: GHR0138
@@ -25,10 +26,12 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  Od Yosef Chai yeshiva (hereafter “OD YOSEF CHAI”) is an involved person within the meaning of the Global Human Rights Sanctions Regulations 2020 on the basis of the following ground: OD YOSEF CHAI 
-  is and/or has been facilitating, inciting or providing support for activity which amounts to a serious abuse of the right of individuals not to be subjected to cruel, inhuman or degrading treatment or punishment.
+uk_statement_of_reasons: "\nOd Yosef Chai yeshiva (hereafter “OD YOSEF CHAI”) is an
+  involved person within the meaning of the Global Human Rights Sanctions Regulations
+  2020 on the basis of the following ground: OD YOSEF CHAI \nis and/or has been facilitating,
+  inciting or providing support for activity which amounts to a serious abuse of the
+  right of individuals not to be subjected to cruel, inhuman or degrading treatment
+  or punishment.\n"
 addresses:
   addresses:
   - address_line1: Yitzhar settlement

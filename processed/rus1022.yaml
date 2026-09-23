@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2022-05-04'
 unique_id: RUS1022
@@ -14,7 +15,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -31,6 +33,6 @@ sanctions_imposed_indicators:
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
 uk_statement_of_reasons: |2
-  
+
   Oleg Alexandrovich MASHTALYAR has been involved in obtaining a benefit from or supporting the Government of Russia by working as a director (whether executive or non-executive), trustee, or other manager or equivalent of Sovcombank, an entity which is carrying on business in sectors of strategic significance to the Government of Russia, namely the Russian financial services sector.
   The trust services sanctions were imposed on 21/03/2023.

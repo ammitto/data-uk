@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: RUS0220
@@ -14,7 +15,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -30,7 +32,8 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
-  As the former Vice-Chair of the Sevastopol City Electoral Commission, Basova organised local elections under Russian law and in violation of the Constitution and law of Ukraine, Basova undermined Ukrainian sovereignty and territorial integrity, helping facilitate the integration of Sevastopol into Russia. 
-   The trust services sanctions were imposed on 21/03/2023.
+uk_statement_of_reasons: "\nAs the former Vice-Chair of the Sevastopol City Electoral
+  Commission, Basova organised local elections under Russian law and in violation
+  of the Constitution and law of Ukraine, Basova undermined Ukrainian sovereignty
+  and territorial integrity, helping facilitate the integration of Sevastopol into
+  Russia. \n The trust services sanctions were imposed on 21/03/2023."

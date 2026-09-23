@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2022-04-21'
 unique_id: RUS1353
@@ -12,7 +13,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -28,10 +30,12 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
-   Promtech-Dubna JSC is a leading Russian manufacturer of marine, aircraft and spacecraft equipment. They have obtained a benefit from the Government of Russia in the transport sector through their salient role in the Russian transport industry, and their close association to the Government of Russia, and are therefore an involved person. 
-   The trust services sanctions were imposed on 21/03/2023.
+uk_statement_of_reasons: "\n Promtech-Dubna JSC is a leading Russian manufacturer
+  of marine, aircraft and spacecraft equipment. They have obtained a benefit from
+  the Government of Russia in the transport sector through their salient role in the
+  Russian transport industry, and their close association to the Government of Russia,
+  and are therefore an involved person. \n The trust services sanctions were imposed
+  on 21/03/2023."
 addresses:
   addresses:
   - address_line1: 14 Nauki Avenue

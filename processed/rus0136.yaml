@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: RUS0136
@@ -31,7 +32,8 @@ names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -47,6 +49,6 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
+uk_statement_of_reasons: |2-
+
   Member of the ‘Parliament’ of the so called ‘Donetsk People's Republic’ and Chairman of the public association Union of Veterans of the Donbass Berkut and a member of the public movement ‘Free Donbass’. Stood as a candidate in the so called ‘elections’ of 2 November 2014 to the post of the Head of the so called ‘Donetsk People's Republic’. These elections are in breach of Ukrainian law and therefore illegal. In taking on and acting in this capacity, and in participating formally as a candidate in the illegal ‘elections’, he has therefore actively supported actions and policies which undermine the territorial integrity, sovereignty and independence of Ukraine, and to further destabilise Ukraine. He remains a member of the so-called “people’s council of the Donetsk People’s Republic The trust services sanctions were imposed on 21/03/2023.

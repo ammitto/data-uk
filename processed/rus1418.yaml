@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2022-05-04'
 unique_id: RUS1418
@@ -8,11 +9,13 @@ names:
     name_type: Primary Name
 non_latin_names:
   names:
-  - name_non_latin_script: Всероссийская государственная телевизионная и радиовещательная компания (ВГТРК)
+  - name_non_latin_script: Всероссийская государственная телевизионная и радиовещательная
+      компания (ВГТРК)
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -28,8 +31,8 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
+uk_statement_of_reasons: |2-
+
   The All-Russian State Television and Radio Broadcasting Company (VGTRK) is a Russian unitary state enterprise and broadcaster of federal and regional television and radio. As a wholly  state-owned entity, VGTRK is involved in obtaining a benefit from or supporting the Government of Russia by carrying on business as a Government of Russia-affiliated entity.
    The trust services sanctions were imposed on 21/03/2023.
 addresses:

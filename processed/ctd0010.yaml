@@ -1,3 +1,4 @@
+---
 last_updated: '2025-11-06'
 date_designated: '2025-11-06'
 unique_id: CTD0010
@@ -28,9 +29,11 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-uk_statement_of_reasons: |2
-  
-  HMT has reasonable grounds to suspect that the New Irish Republican Army (“NIRA”) is an involved person under the Counter-Terrorism (Sanctions) (EU Exit) Regulations 2019 on the basis that NIRA has been, and is, involved in terrorist activity on the basis that: 
-  (1) NIRA has been responsible for, engaged in and provided support for, the commission, preparation and instigation of acts of terrorism. 
-  (2) NIRA has facilitated, promoted and encouraged terrorism.  
-  (3) NIRA has carried out recruitment activities for a person involved in terrorism. 
+uk_statement_of_reasons: "\nHMT has reasonable grounds to suspect that the New Irish
+  Republican Army (“NIRA”) is an involved person under the Counter-Terrorism (Sanctions)
+  (EU Exit) Regulations 2019 on the basis that NIRA has been, and is, involved in
+  terrorist activity on the basis that: \n(1) NIRA has been responsible for, engaged
+  in and provided support for, the commission, preparation and instigation of acts
+  of terrorism. \n(2) NIRA has facilitated, promoted and encouraged terrorism.  \n(3)
+  NIRA has carried out recruitment activities for a person involved in terrorism.
+  \n"

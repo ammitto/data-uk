@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: RUS0171
@@ -11,7 +12,8 @@ names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -26,9 +28,10 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: 'Names of Director(s)/Management: GORBUNOV 1: Vladimir 2: Pavlovich (General Director) The Director Disqualification Sanction was imposed on 09/04/2025.'
-uk_statement_of_reasons: |-2
-  
+other_information: 'Names of Director(s)/Management: GORBUNOV 1: Vladimir 2: Pavlovich
+  (General Director) The Director Disqualification Sanction was imposed on 09/04/2025.'
+uk_statement_of_reasons: |2-
+
   Dobrolet was a subsidiary of a Russian state-owned airline. Since the annexation of Crimea Dobrolet exclusively operated flights between Moscow and Simferopol. It therefore facilitated the integration of the annexed Autonomous Republic of Crimea into the Russian Federation and undermines Ukrainian sovereignty and territorial integrity The trust services sanctions were imposed on 21/03/2023.
 addresses:
   addresses:

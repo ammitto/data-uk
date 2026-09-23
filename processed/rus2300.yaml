@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2024-11-07'
 unique_id: RUS2300
@@ -12,7 +13,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -28,9 +30,15 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  SINO HOLDINGS GROUP CO., LTD. is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 on the following ground: it is or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by providing financial services, or making available funds, economic resources, goods or technology, to a person who is responsible for, engages in, provides support for, or promotes any policy or action which destabilises Ukraine or undermines or threatens the territorial integrity, sovereignty or independence of Ukraine, namely JSC KAMENSKVOLOKNO, which is a producer of body armour. 
+uk_statement_of_reasons: "\nSINO HOLDINGS GROUP CO., LTD. is an involved person under
+  the Russia (Sanctions) (EU Exit) Regulations 2019 on the following ground: it is
+  or has been involved in destabilising Ukraine or undermining or threatening the
+  territorial integrity, sovereignty or independence of Ukraine by providing financial
+  services, or making available funds, economic resources, goods or technology, to
+  a person who is responsible for, engages in, provides support for, or promotes any
+  policy or action which destabilises Ukraine or undermines or threatens the territorial
+  integrity, sovereignty or independence of Ukraine, namely JSC KAMENSKVOLOKNO, which
+  is a producer of body armour. \n"
 addresses:
   addresses:
   - address_line1: XIFAN VILLAGE, XINQIAN SUB-DISTRICT

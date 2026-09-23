@@ -1,3 +1,4 @@
+---
 last_updated: '2026-08-03'
 date_designated: '2022-04-11'
 unique_id: BIH0001
@@ -28,10 +29,20 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: Previously 11th Prime Minister of Republika Srpska. She is a member of the Alliance of Independent Social Democrats party (SNSD/СНСД), also a member of the party’s Executive Board and its Main Board The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  Zeljka Cvijanovic, as President of Republika Srpska, is working with Milorad Dodik (also designated under the Bosnia and Herzegovina (Sanctions) (EU Exit) Regulations 2020) to undermine the territorial integrity,  international personality or constitutional order of Bosnia and Herzegovina, through enacting the unilateral transfer of state competencies from the Government of Bosnia and Herzegovina to Republika Srpska, signing into law the legislative steps to begin to degrade/destroy state institutions as well as establishing an independent tax authority, medical agency, and army in the Republika Srpska. Cvijanovic’s actions are unconstitutional and go against the central tenets of the Dayton Peace Agreement as well as undermine the state’s competences in security. 
+other_information: Previously 11th Prime Minister of Republika Srpska. She is a member
+  of the Alliance of Independent Social Democrats party (SNSD/СНСД), also a member
+  of the party’s Executive Board and its Main Board The Director Disqualification
+  Sanction was imposed on 09/04/2025.
+uk_statement_of_reasons: "\nZeljka Cvijanovic, as President of Republika Srpska, is
+  working with Milorad Dodik (also designated under the Bosnia and Herzegovina (Sanctions)
+  (EU Exit) Regulations 2020) to undermine the territorial integrity,  international
+  personality or constitutional order of Bosnia and Herzegovina, through enacting
+  the unilateral transfer of state competencies from the Government of Bosnia and
+  Herzegovina to Republika Srpska, signing into law the legislative steps to begin
+  to degrade/destroy state institutions as well as establishing an independent tax
+  authority, medical agency, and army in the Republika Srpska. Cvijanovic’s actions
+  are unconstitutional and go against the central tenets of the Dayton Peace Agreement
+  as well as undermine the state’s competences in security. \n"
 addresses:
   addresses:
   - address_line1: Bana Milosavljevica 4

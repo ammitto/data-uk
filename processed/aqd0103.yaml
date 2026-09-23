@@ -1,3 +1,4 @@
+---
 last_updated: '2025-06-17'
 date_designated: '2009-04-15'
 unique_id: AQD0103
@@ -83,7 +84,8 @@ names:
 non_latin_names:
   names:
   - name_non_latin_script: 阿不都·哈克
-regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019
+regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Individual
 designation_source: UN
 sanctions_imposed: Asset freeze|Arms embargo|Travel Ban
@@ -101,7 +103,11 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: " Overall leader and commander of the Eastern Turkistan Islamic Movement (QDe.088). Involved in fundraising and recruitment for this organization. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link:  https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals."
+other_information: " Overall leader and commander of the Eastern Turkistan Islamic
+  Movement (QDe.088). Involved in fundraising and recruitment for this organization.
+  Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November
+  2020. Photo available for inclusion in the INTERPOL-UN Security Council Special
+  Notice. INTERPOL-UN Security Council Special Notice web link:  https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals."
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

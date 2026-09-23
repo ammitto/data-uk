@@ -1,3 +1,4 @@
+---
 last_updated: '2025-09-29'
 date_designated: '2025-09-29'
 unique_id: INU0359
@@ -43,9 +44,14 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  Industrial Development & Renovation Organization of Iran is an involved person under the Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019 on the basis of the following ground: (1) Industrial Development & Renovation Organization of Iran is associated with Machine Sazi Arak, who is or has been responsible for, engaging in, providing support for, or promoting, or facilitating, a relevant nuclear activity, namely the proliferation or development of nuclear weapons in, or for use in, Iran; an activity that could lead to the development of nuclear weapons in, or for use in, Iran. 
+uk_statement_of_reasons: "\nIndustrial Development & Renovation Organization of Iran
+  is an involved person under the Iran (Sanctions) (Nuclear) (EU Exit) Regulations
+  2019 on the basis of the following ground: (1) Industrial Development & Renovation
+  Organization of Iran is associated with Machine Sazi Arak, who is or has been responsible
+  for, engaging in, providing support for, or promoting, or facilitating, a relevant
+  nuclear activity, namely the proliferation or development of nuclear weapons in,
+  or for use in, Iran; an activity that could lead to the development of nuclear weapons
+  in, or for use in, Iran. \n"
 addresses:
   addresses:
   - address_line1: Jam e Jam St

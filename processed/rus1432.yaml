@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2022-05-04'
 unique_id: RUS1432
@@ -18,7 +19,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -33,11 +35,18 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: 'KPP: 780601001 The Director Disqualification Sanction was imposed on 09/04/2025.'
-uk_statement_of_reasons: |-2
-  
-   INTEGRAL SPB is an electronics company based in St Petersburg servicing the military and civilian markets. It is an appointed representative and distributor for JSC INTEGRAL, a Minsk based company designated by the UK on 1 March 2022. As a representative and distributor of JSC INTEGRAL, and benefiting through the selling of JSC INTEGRAL products in the Russian market, INTEGRAL SPB is associated with an involved person and therefore INTEGRAL SPB is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019. Further, by selling electronics products to military customers, INTEGRAL SPB is also carrying on business in a sector of strategic significance to the Government of Russia, namely the electronics and defence sectors. 
-   The trust services sanctions were imposed on 21/03/2023.
+other_information: 'KPP: 780601001 The Director Disqualification Sanction was imposed
+  on 09/04/2025.'
+uk_statement_of_reasons: "\n INTEGRAL SPB is an electronics company based in St Petersburg
+  servicing the military and civilian markets. It is an appointed representative and
+  distributor for JSC INTEGRAL, a Minsk based company designated by the UK on 1 March
+  2022. As a representative and distributor of JSC INTEGRAL, and benefiting through
+  the selling of JSC INTEGRAL products in the Russian market, INTEGRAL SPB is associated
+  with an involved person and therefore INTEGRAL SPB is an involved person under the
+  Russia (Sanctions) (EU Exit) Regulations 2019. Further, by selling electronics products
+  to military customers, INTEGRAL SPB is also carrying on business in a sector of
+  strategic significance to the Government of Russia, namely the electronics and defence
+  sectors. \n The trust services sanctions were imposed on 21/03/2023."
 addresses:
   addresses:
   - address_line1: Irinovsky pr-kt, 21

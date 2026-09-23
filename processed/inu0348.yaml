@@ -1,3 +1,4 @@
+---
 last_updated: '2025-09-29'
 date_designated: '2025-09-29'
 unique_id: INU0348
@@ -26,9 +27,14 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  National Iranian Oil Company PTE Limited is an involved person under the Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019 on the basis of the following ground: National Iranian Oil Company PTE Limited is or has been providing financial services, or making available funds or economic resources, that could contribute to a relevant nuclear activity, namely the proliferation or development of nuclear weapons in, or for use in, Iran; an activity that could lead to the development of nuclear weapons in, or for use in, Iran; and the development of a nuclear weapon delivery system in, or for use in, Iran. 
+uk_statement_of_reasons: "\nNational Iranian Oil Company PTE Limited is an involved
+  person under the Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019 on the basis
+  of the following ground: National Iranian Oil Company PTE Limited is or has been
+  providing financial services, or making available funds or economic resources, that
+  could contribute to a relevant nuclear activity, namely the proliferation or development
+  of nuclear weapons in, or for use in, Iran; an activity that could lead to the development
+  of nuclear weapons in, or for use in, Iran; and the development of a nuclear weapon
+  delivery system in, or for use in, Iran. \n"
 addresses:
   addresses:
   - address_line1: 7 Temasek Boulevard

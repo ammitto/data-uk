@@ -1,3 +1,4 @@
+---
 last_updated: '2025-05-20'
 date_designated: '2025-05-20'
 unique_id: GHR0159
@@ -29,12 +30,23 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  LIBI CONSTRUCTION AND INFRASTRUCTURE LTD is an involved person under the Global Human Rights Sanctions Regulations 2020 on the basis of the following ground:  
-   
-  LIBI CONSTRUCTION AND INFRASTRUCTURE LTD provides financial services, or makes available funds, economic resources, goods or technology, knowing or having reasonable cause to suspect that those financial services, funds, economic resources, goods or technology will or may contribute to an activity which amounts to a serious abuse of the right of an individual not to be subjected to cruel, inhuman or degrading treatment or punishment.  LIBI CONSTRUCTION AND INFRASTRUCTURE LTD has been involved in providing financial services, or making available funds, economic resources, goods or technology to persons responsible for or engaging in an activity which amounts to a serious abuse of the right of an individual not to be subjected to cruel, inhuman or degrading treatment or punishment.  
-  Specifically, LIBI CONSTRUCTION AND INFRASTRUCTURE LTD has provided logistical and financial support for the establishment of illegal outposts resulting in the forced displacement of Palestinians in Israel and the Occupied Palestinian Territories, activities which cause the psychological suffering of Palestinians, and which often leads to violence perpetrated against Palestinians.
+uk_statement_of_reasons: "\nLIBI CONSTRUCTION AND INFRASTRUCTURE LTD is an involved
+  person under the Global Human Rights Sanctions Regulations 2020 on the basis of
+  the following ground:  \n \nLIBI CONSTRUCTION AND INFRASTRUCTURE LTD provides financial
+  services, or makes available funds, economic resources, goods or technology, knowing
+  or having reasonable cause to suspect that those financial services, funds, economic
+  resources, goods or technology will or may contribute to an activity which amounts
+  to a serious abuse of the right of an individual not to be subjected to cruel, inhuman
+  or degrading treatment or punishment.  LIBI CONSTRUCTION AND INFRASTRUCTURE LTD
+  has been involved in providing financial services, or making available funds, economic
+  resources, goods or technology to persons responsible for or engaging in an activity
+  which amounts to a serious abuse of the right of an individual not to be subjected
+  to cruel, inhuman or degrading treatment or punishment.  \nSpecifically, LIBI CONSTRUCTION
+  AND INFRASTRUCTURE LTD has provided logistical and financial support for the establishment
+  of illegal outposts resulting in the forced displacement of Palestinians in Israel
+  and the Occupied Palestinian Territories, activities which cause the psychological
+  suffering of Palestinians, and which often leads to violence perpetrated against
+  Palestinians.\n"
 addresses:
   addresses:
   - address_line1: 2 AVNEI HACHOSHEN

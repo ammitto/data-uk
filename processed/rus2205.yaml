@@ -1,3 +1,4 @@
+---
 last_updated: '2024-09-11'
 date_designated: '2024-09-11'
 unique_id: RUS2205
@@ -23,7 +24,11 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Shipping sanctions: a specified ship is prohibited from being provided with access to or having its master or pilot cause it to enter a port in the UK, may have its registration on the UK Ship Register terminated, and a master or pilot of a specified ship may be given a port barring direction, a detention direction, and a port entry direction or a movement direction.'
+other_information: 'Shipping sanctions: a specified ship is prohibited from being
+  provided with access to or having its master or pilot cause it to enter a port in
+  the UK, may have its registration on the UK Ship Register terminated, and a master
+  or pilot of a specified ship may be given a port barring direction, a detention
+  direction, and a port entry direction or a movement direction.'
 uk_statement_of_reasons: |2
-  
+
   NS CLIPPER (IMO 9341081) is involved in activity whose object or effect is to destabilise Ukraine or undermine or threaten the territorial integrity, sovereignty or independence of Ukraine or to obtain a benefit from or support the Government of Russia. Namely, NS CLIPPER is involved in carrying oil or oil products that originated in Russia from a place in Russia to a third country.

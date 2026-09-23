@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: LIB0016
@@ -24,9 +25,10 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: Based on British Virgin Islands The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
+other_information: Based on British Virgin Islands The Director Disqualification Sanction
+  was imposed on 09/04/2025.
+uk_statement_of_reasons: |2-
+
   Subsidiary of the Libyan Arab Foreign Investment Company, which is itself a subsidiary of the Libyan Investment Authority.
 addresses:
   addresses:

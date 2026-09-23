@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2021-07-21'
 unique_id: BEL0109
@@ -25,11 +26,25 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  JSC AGAT - Electromechanical Plant is named as one of a number of Belarusian defence companies on the website of the government authority, The State Authority for Military Industry of the Republic of Belarus (SAMI).  
-  JSC AGAT – Electromechanical Plant manufactures the ‘Rubezh’ (Frontier), a barrier system designed for riot control which was deployed during the demonstrations that have taken place in the wake of the August 9 2020 Presidential elections in Belarus.  JSC AGAT - Electromechanical Plant therefore provided support for, and made available equipment to police and security forces of the Ministry of Internal Affairs, which have contributed to, the repression of civil society and of democratic opposition following the August 9 elections.    
-  Furthermore, JSC AGAT - Electromechanical Plant is named as one of a number of Belarusian defence companies on the SAMI website.  SAMI was established by the Belarusian President’s Decree of 30 December 2003 and is described on its website as being “subordinate to the Council of Ministers of the Republic of Belarus and in certain aspects of its activity, in accordance with the current legislation, is subordinate to the President of the Republic of Belarus.” It is therefore reasonable to conclude that JSC AGAT - Electromechanical Plant is responsible for, engaging in, providing support for, and promoting the wider efforts directed by the Belarussian regime to repress civil society and the democratic opposition. 
+uk_statement_of_reasons: "\nJSC AGAT - Electromechanical Plant is named as one of
+  a number of Belarusian defence companies on the website of the government authority,
+  The State Authority for Military Industry of the Republic of Belarus (SAMI).  \nJSC
+  AGAT – Electromechanical Plant manufactures the ‘Rubezh’ (Frontier), a barrier system
+  designed for riot control which was deployed during the demonstrations that have
+  taken place in the wake of the August 9 2020 Presidential elections in Belarus.
+  \ JSC AGAT - Electromechanical Plant therefore provided support for, and made available
+  equipment to police and security forces of the Ministry of Internal Affairs, which
+  have contributed to, the repression of civil society and of democratic opposition
+  following the August 9 elections.    \nFurthermore, JSC AGAT - Electromechanical
+  Plant is named as one of a number of Belarusian defence companies on the SAMI website.
+  \ SAMI was established by the Belarusian President’s Decree of 30 December 2003
+  and is described on its website as being “subordinate to the Council of Ministers
+  of the Republic of Belarus and in certain aspects of its activity, in accordance
+  with the current legislation, is subordinate to the President of the Republic of
+  Belarus.” It is therefore reasonable to conclude that JSC AGAT - Electromechanical
+  Plant is responsible for, engaging in, providing support for, and promoting the
+  wider efforts directed by the Belarussian regime to repress civil society and the
+  democratic opposition. \n"
 addresses:
   addresses:
   - address_line1: Nezavisimosti ave. 115

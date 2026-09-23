@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2024-11-07'
 unique_id: RUS2278
@@ -17,7 +18,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -33,11 +35,12 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  Stanislav 
-  Alexandrovich ORLOV is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 on the following ground: ORLOV is destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine because 
-  ORLOV engages in and provides support for polices and actions which destabilise Ukraine or undermine or threaten the territorial integrity, sovereignty or independence of Ukraine.
+uk_statement_of_reasons: "\nStanislav \nAlexandrovich ORLOV is an involved person
+  under the Russia (Sanctions) (EU Exit) Regulations 2019 on the following ground:
+  ORLOV is destabilising Ukraine or undermining or threatening the territorial integrity,
+  sovereignty or independence of Ukraine because \nORLOV engages in and provides support
+  for polices and actions which destabilise Ukraine or undermine or threaten the territorial
+  integrity, sovereignty or independence of Ukraine.\n"
 addresses:
   addresses:
   - address_line1: 4 Fomichevoi Street

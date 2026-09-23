@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2024-01-22'
 unique_id: CTI0062
@@ -23,10 +24,12 @@ names:
 non_latin_names:
   names:
   - name_non_latin_script: إسماعيل برهوم
-regime_name: The Counter-Terrorism (International Sanctions) (EU Exit) Regulations 2019
+regime_name: The Counter-Terrorism (International Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Arms embargo|Travel Ban|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Arms embargo|Travel Ban|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: false
@@ -42,9 +45,10 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  Ismail BARHOUM (hereafter “BARHOUM”) is an involved person within the meaning of the Counter-Terrorism (International Sanctions) (EU Exit) Regulations 2019 on the basis that BARHOUM is a member of, or associated with Hamas, an entity which is and/or has been involved in terrorist activity.  
+uk_statement_of_reasons: "\nIsmail BARHOUM (hereafter “BARHOUM”) is an involved person
+  within the meaning of the Counter-Terrorism (International Sanctions) (EU Exit)
+  Regulations 2019 on the basis that BARHOUM is a member of, or associated with Hamas,
+  an entity which is and/or has been involved in terrorist activity.  \n"
 addresses:
   addresses:
   - address_line6: Rafah, Gaza Strip

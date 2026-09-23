@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-14'
 date_designated: '2025-04-14'
 unique_id: IRN0242
@@ -24,6 +25,8 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  The Foxtrot Network is an involved person within the meaning of the Iran (Sanctions) Regulations 2023 on the basis of the following ground: The Foxtrot Network is or has been involved in hostile activity by an armed group backed by the Government of Iran, namely activity which aids or facilitates serious organised crime in the United Kingdom or any other country. 
+uk_statement_of_reasons: "\nThe Foxtrot Network is an involved person within the meaning
+  of the Iran (Sanctions) Regulations 2023 on the basis of the following ground: The
+  Foxtrot Network is or has been involved in hostile activity by an armed group backed
+  by the Government of Iran, namely activity which aids or facilitates serious organised
+  crime in the United Kingdom or any other country. \n"

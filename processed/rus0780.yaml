@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2022-03-15'
 unique_id: RUS0780
@@ -14,7 +15,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -30,7 +32,8 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
-  Sergey Alexandrovich KULIKOV has been Head and Chairman of the Management Board at Rusnano, a Russian investment entity affiliated to the Government of Russia. In his position, KULIKOV was working as a director or equivalent in a Government of Russia-affiliated entity. 
-   The trust services sanctions were imposed on 21/03/2023.
+uk_statement_of_reasons: "\nSergey Alexandrovich KULIKOV has been Head and Chairman
+  of the Management Board at Rusnano, a Russian investment entity affiliated to the
+  Government of Russia. In his position, KULIKOV was working as a director or equivalent
+  in a Government of Russia-affiliated entity. \n The trust services sanctions were
+  imposed on 21/03/2023."

@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2022-04-13'
 unique_id: RUS1285
@@ -14,7 +15,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -30,10 +32,14 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
-   The individual is an involved person under the Russia (Sanctions) (EU Exit) Regulation 2019 on the basis that they have been, and are, involved in destabilising Ukraine and undermining and threatening the territorial integrity, sovereignty and independence of Ukraine. In particular, the individual is engaging in actions which destabilise Ukraine and which undermine and threaten the territorial integrity, sovereignty and independence of Ukraine by participating in the illegal separatist ‘People’s Council of the Luhansk People’s Republic’ within the territory of Ukraine. 
-   The trust services sanctions were imposed on 21/03/2023.
+uk_statement_of_reasons: "\n The individual is an involved person under the Russia
+  (Sanctions) (EU Exit) Regulation 2019 on the basis that they have been, and are,
+  involved in destabilising Ukraine and undermining and threatening the territorial
+  integrity, sovereignty and independence of Ukraine. In particular, the individual
+  is engaging in actions which destabilise Ukraine and which undermine and threaten
+  the territorial integrity, sovereignty and independence of Ukraine by participating
+  in the illegal separatist ‘People’s Council of the Luhansk People’s Republic’ within
+  the territory of Ukraine. \n The trust services sanctions were imposed on 21/03/2023."
 addresses:
   addresses:
   - address_line1: 9 Square of Heroes of the Great Patriotic War

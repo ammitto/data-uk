@@ -1,3 +1,4 @@
+---
 last_updated: '2023-08-21'
 date_designated: '2016-03-02'
 unique_id: DPR0224
@@ -8,7 +9,8 @@ names:
   - name1: KANG
     name6: RYONG
     name_type: Primary name
-regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019
+regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Individual
 designation_source: UN
 sanctions_imposed: Asset freeze|Travel Ban

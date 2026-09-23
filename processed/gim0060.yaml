@@ -1,3 +1,4 @@
+---
 last_updated: '2026-05-05'
 date_designated: '2026-05-05'
 unique_id: GIM0060
@@ -16,7 +17,8 @@ names:
 non_latin_names:
   names:
   - name_non_latin_script: Михаил Сергеевич Ляпин
-regime_name: The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025
+regime_name: The Global Irregular Migration and Trafficking in Persons Sanctions Regulations
+  2025
 individual_entity_ship: Individual
 designation_source: UK
 sanctions_imposed: Asset freeze|Travel Ban|Director Disqualification Sanction
@@ -34,10 +36,14 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  The Secretary of State considers that there are reasonable grounds to suspect that Mikhail LYAPIN is an involved person under the Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025 as he is or has been involved in a relevant activity, namely 
-  trafficking in persons. Specifically, Mikhail LYAPIN engaged in the deception and recruitment of Kenyan nationals into Russia through his associations with Global Face Human Resources and the Russian Embassy but, upon the Kenyan nationals’ arrival in Russia, they were forced to fight on the front line of Russia’s war of aggression against Ukraine under coercion.
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that Mikhail LYAPIN is an involved person under the Global Irregular
+  Migration and Trafficking in Persons Sanctions Regulations 2025 as he is or has
+  been involved in a relevant activity, namely \ntrafficking in persons. Specifically,
+  Mikhail LYAPIN engaged in the deception and recruitment of Kenyan nationals into
+  Russia through his associations with Global Face Human Resources and the Russian
+  Embassy but, upon the Kenyan nationals’ arrival in Russia, they were forced to fight
+  on the front line of Russia’s war of aggression against Ukraine under coercion.\n"
 addresses:
   addresses:
   - address_country: Kenya

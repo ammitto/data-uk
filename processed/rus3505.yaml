@@ -1,3 +1,4 @@
+---
 last_updated: '2026-05-05'
 date_designated: '2026-05-05'
 unique_id: RUS3505
@@ -13,7 +14,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -28,8 +30,10 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  The Secretary of State considers that there are reasonable grounds to suspect that Mikhail Yurievich VOLOVIK is or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine, by 
-  owning or controlling directly or indirectly a person 
-  making available goods, technology or funds that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine. 
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that Mikhail Yurievich VOLOVIK is or has been involved in destabilising
+  Ukraine or undermining or threatening the territorial integrity, sovereignty or
+  independence of Ukraine, by \nowning or controlling directly or indirectly a person
+  \nmaking available goods, technology or funds that could contribute to destabilising
+  Ukraine or undermining or threatening the territorial integrity, sovereignty or
+  independence of Ukraine. \n"

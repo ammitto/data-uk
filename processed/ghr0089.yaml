@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2022-12-08'
 unique_id: GHR0089
@@ -30,9 +31,15 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  Valentin Aleksandrovich OPARIN is an involved person under the Global Human Rights (Sanctions) Regulations 2020 because he was responsible for the investigation of conduct which if carried out by or on behalf of a State within the territory of that State, would amount to a serious violation by that State of an individual’s right not to be subjected to torture or cruel, inhuman or degrading treatment or punishment, and intentionally or recklessly failed to fulfil that responsibility in relation to allegations that Oleg Senstov and Oleksandr Kolchenko were subjected to torture or cruel, inhuman or degrading treatment whilst in custody in 2014 and 2015 respectively. 
+uk_statement_of_reasons: "\nValentin Aleksandrovich OPARIN is an involved person under
+  the Global Human Rights (Sanctions) Regulations 2020 because he was responsible
+  for the investigation of conduct which if carried out by or on behalf of a State
+  within the territory of that State, would amount to a serious violation by that
+  State of an individual’s right not to be subjected to torture or cruel, inhuman
+  or degrading treatment or punishment, and intentionally or recklessly failed to
+  fulfil that responsibility in relation to allegations that Oleg Senstov and Oleksandr
+  Kolchenko were subjected to torture or cruel, inhuman or degrading treatment whilst
+  in custody in 2014 and 2015 respectively. \n"
 addresses:
   addresses:
   - address_line1: MILITARY INVESTIGATION DEPARTMENT OF THE IC RUSSIA

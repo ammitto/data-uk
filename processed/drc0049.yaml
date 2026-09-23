@@ -1,3 +1,4 @@
+---
 last_updated: '2021-12-18'
 date_designated: '2018-02-01'
 unique_id: DRC0049
@@ -15,7 +16,8 @@ names:
 non_latin_names:
   names:
   - name_non_latin_script: André Kalume
-regime_name: The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019
+regime_name: The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Individual
 designation_source: UN
 sanctions_imposed: Asset freeze|Travel Ban
@@ -33,5 +35,7 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'He is a threat to the peace, stability and security of the DRC under UNSCR 2293 paragraph 7(j). INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/6194815'
+other_information: 'He is a threat to the peace, stability and security of the DRC
+  under UNSCR 2293 paragraph 7(j). INTERPOL-UN Security Council Special Notice web
+  link: https://www.interpol.int/en/notice/search/un/6194815'
 uk_statement_of_reasons: "\n"

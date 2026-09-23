@@ -1,3 +1,4 @@
+---
 last_updated: '2026-05-05'
 date_designated: '2026-05-05'
 unique_id: GIM0067
@@ -5,7 +6,8 @@ names:
   names:
   - name6: O.S.D BROS TRAVELS & VISA SERVICES PRIVATE LIMITED
     name_type: Primary Name
-regime_name: The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025
+regime_name: The Global Irregular Migration and Trafficking in Persons Sanctions Regulations
+  2025
 individual_entity_ship: Entity
 designation_source: UK
 sanctions_imposed: Asset freeze|Director Disqualification Sanction
@@ -23,11 +25,16 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  The Secretary of State considers that there are reasonable grounds to suspect that O.S.D BROS TRAVELS & VISA SERVICES PRIVATE LIMITED is or has been an involved person under the Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025 as it has been involved in a relevant activity, namely 
-  trafficking in persons. 
-  Specifically, O.S.D BROS TRAVELS & VISA SERVICES PRIVATE LIMITED engaged in the recruitment of Indian nationals using deception and then exploited them. In its public communications, it advertised the provision of student visas to Russia but, upon the Indian nationals’ arrival in Russia, their passports were seized they were forced to fight on the front line of Russia’s war of aggression against Ukraine against their will.
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that O.S.D BROS TRAVELS & VISA SERVICES PRIVATE LIMITED is or
+  has been an involved person under the Global Irregular Migration and Trafficking
+  in Persons Sanctions Regulations 2025 as it has been involved in a relevant activity,
+  namely \ntrafficking in persons. \nSpecifically, O.S.D BROS TRAVELS & VISA SERVICES
+  PRIVATE LIMITED engaged in the recruitment of Indian nationals using deception and
+  then exploited them. In its public communications, it advertised the provision of
+  student visas to Russia but, upon the Indian nationals’ arrival in Russia, their
+  passports were seized they were forced to fight on the front line of Russia’s war
+  of aggression against Ukraine against their will.\n"
 addresses:
   addresses:
   - address_line1: Flt No - Nutan, Society Akashwani

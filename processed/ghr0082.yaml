@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2021-12-10'
 unique_id: GHR0082
@@ -38,12 +39,16 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: affiliated with ISIS-K The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  Furqan Bangalzai was commander of the militant wing of the terror organisation Lashkar-e-Jhangvi. In this capacity, he was involved in an activity which, if carried out by or on behalf of a State within the territory of that State, would amount to a serious violation by that State of an individual’s right to life by his role in facilitating the bombing of the Lal Shahbaz Qalandar shrine in Sehwan, Pakistan, in which at least 70 people were killed.  
-   
-  Additional information: In May 2020, Bangalzai was convicted of70 counts of murder for his involvement in the bombing.  
+other_information: affiliated with ISIS-K The Director Disqualification Sanction was
+  imposed on 09/04/2025.
+uk_statement_of_reasons: "\nFurqan Bangalzai was commander of the militant wing of
+  the terror organisation Lashkar-e-Jhangvi. In this capacity, he was involved in
+  an activity which, if carried out by or on behalf of a State within the territory
+  of that State, would amount to a serious violation by that State of an individual’s
+  right to life by his role in facilitating the bombing of the Lal Shahbaz Qalandar
+  shrine in Sehwan, Pakistan, in which at least 70 people were killed.  \n \nAdditional
+  information: In May 2020, Bangalzai was convicted of70 counts of murder for his
+  involvement in the bombing.  \n"
 addresses:
   addresses:
   - address_line1: Karachi central prison

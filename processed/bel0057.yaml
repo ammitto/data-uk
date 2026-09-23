@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: BEL0057
@@ -19,7 +20,8 @@ non_latin_names:
 regime_name: The Republic of Belarus (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Technical assistance related to aircraft|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Technical assistance related to aircraft|Director
+  Disqualification Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: false
@@ -36,7 +38,7 @@ sanctions_imposed_indicators:
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
 uk_statement_of_reasons: |2
-  
+
   Ivan Tertel was appointed Chairman of the State Security Committee (KGB) on 3 September 2020. He was formerly the Chairman of the State Control Committee and before that Deputy Chairman of the KGB. In his role as Chairman of the State Security Committee, he has overall responsibility for the State Security Committee including the involvement of KGB officers in serious human rights violations and abuses against detained protestors and journalists, which were carried out after the election of 9 August 2020. Furthermore, in his former capacity as Chairman of the State Control Committee, Tertel was involved in a campaign of intimidation and harassment of a leading opponent of Lukashenko, and therefore involved in the repression of democratic opposition.
 addresses:
   addresses:

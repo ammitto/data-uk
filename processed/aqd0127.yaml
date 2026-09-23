@@ -1,3 +1,4 @@
+---
 last_updated: '2021-12-18'
 date_designated: '2015-10-02'
 unique_id: AQD0127
@@ -31,7 +32,8 @@ non_latin_names:
   - name_non_latin_script: Однорукий
   - name_non_latin_script: Эльмир Сене
   - name_non_latin_script: Ахмад Шишани
-regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019
+regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Individual
 designation_source: UN
 sanctions_imposed: Asset freeze|Arms embargo|Travel Ban
@@ -49,7 +51,15 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'As at Aug. 2015, one of the leaders of the Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq (QDe.115), commanding directly 130 militants. Physical description: eye colour: brown, hair colour: black, build: solid; distinguishing marks: oval face, beard, missing a right hand and left leg, speaks Russian, Chechen and possibly German and Arabic. Wanted by the authorities of the Russian Federation for terrorist crimes committed in its territory. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5899829. Address country Syria, located in as at August 2015'
+other_information: 'As at Aug. 2015, one of the leaders of the Islamic State in Iraq
+  and the Levant (ISIL), listed as Al-Qaida in Iraq (QDe.115), commanding directly
+  130 militants. Physical description: eye colour: brown, hair colour: black, build:
+  solid; distinguishing marks: oval face, beard, missing a right hand and left leg,
+  speaks Russian, Chechen and possibly German and Arabic. Wanted by the authorities
+  of the Russian Federation for terrorist crimes committed in its territory. Photo
+  available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN
+  Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5899829.
+  Address country Syria, located in as at August 2015'
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

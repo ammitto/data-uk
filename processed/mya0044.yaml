@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2022-06-16'
 unique_id: MYA0044
@@ -28,11 +29,12 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2
-  
-  The Myanmar Armed Forces have a track record of committing serious human rights violations and violations of international humanitarian law in Myanmar for decades.
-   
-  JSC Gorizont is a Russian company which has been responsible for the supply and upkeep of aircraft for the Myanmar Armed Forces since the coup in February 2021. Therefore, JSC Gorizont has been and is involved in the supply of dual-use goods for the use of the Myanmar Armed Forces.
+uk_statement_of_reasons: "\nThe Myanmar Armed Forces have a track record of committing
+  serious human rights violations and violations of international humanitarian law
+  in Myanmar for decades.\n \nJSC Gorizont is a Russian company which has been responsible
+  for the supply and upkeep of aircraft for the Myanmar Armed Forces since the coup
+  in February 2021. Therefore, JSC Gorizont has been and is involved in the supply
+  of dual-use goods for the use of the Myanmar Armed Forces.\n"
 addresses:
   addresses:
   - address_line1: 2 "J", Omskaya str.

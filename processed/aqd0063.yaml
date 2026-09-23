@@ -1,3 +1,4 @@
+---
 last_updated: '2024-01-08'
 date_designated: '2018-03-29'
 unique_id: AQD0063
@@ -9,7 +10,8 @@ names:
     name_type: Primary name
   - name6: Khataib al-Imam al-Bukhari
     name_type: Alias
-regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019
+regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Entity
 designation_source: UN
 sanctions_imposed: Asset freeze|Arms embargo
@@ -27,7 +29,13 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Associated with Al-Nusrah Front for the People of the Levant (QDe.137). Committed terrorist attacks in the Syrian Arab Republic. Since 2016 redeployed to Northern Afghanistan to project attacks against Central Asia countries. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/une/6210802. Khan-Shaykhun (53 km south of Idlib, location as of Mar. 2018). Operation zones: Idlib, Aleppo and Khama, Syrian Arab Republic and Faryab, Badghis and Jawzjan Provinces, Afghanistan.'
+other_information: 'Associated with Al-Nusrah Front for the People of the Levant (QDe.137).
+  Committed terrorist attacks in the Syrian Arab Republic. Since 2016 redeployed to
+  Northern Afghanistan to project attacks against Central Asia countries. INTERPOL-UN
+  Security Council Special Notice web link: https://www.interpol.int/en/notice/search/une/6210802.
+  Khan-Shaykhun (53 km south of Idlib, location as of Mar. 2018). Operation zones:
+  Idlib, Aleppo and Khama, Syrian Arab Republic and Faryab, Badghis and Jawzjan Provinces,
+  Afghanistan.'
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

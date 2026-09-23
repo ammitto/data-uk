@@ -1,3 +1,4 @@
+---
 last_updated: '2023-07-28'
 date_designated: '2016-04-20'
 unique_id: AQD0172
@@ -28,7 +29,8 @@ names:
 non_latin_names:
   names:
   - name_non_latin_script: فيصل احمد بن علي الزهراني
-regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019
+regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Individual
 designation_source: UN
 sanctions_imposed: Asset freeze|Arms embargo|Travel Ban
@@ -46,7 +48,12 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Reportedly deceased. Was the lead oil and gas division official of Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq (QDe.115), for Al Barakah Governorate, Syrian Arab Republic, as of May 2015. Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals click here'
+other_information: 'Reportedly deceased. Was the lead oil and gas division official
+  of Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq (QDe.115),
+  for Al Barakah Governorate, Syrian Arab Republic, as of May 2015. Review pursuant
+  to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. INTERPOL-UN
+  Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  click here'
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

@@ -1,3 +1,4 @@
+---
 last_updated: '2023-08-17'
 date_designated: '2022-09-28'
 unique_id: YEM0013
@@ -29,6 +30,7 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-uk_statement_of_reasons: |2
-  
-  Houthi Naval Forces Chief of Staff, who has masterminded lethal attacks against international shipping in the Red Sea, plays a leading role in Houthi naval efforts that directly threaten the peace, security, and stability of Yemen. 
+uk_statement_of_reasons: "\nHouthi Naval Forces Chief of Staff, who has masterminded
+  lethal attacks against international shipping in the Red Sea, plays a leading role
+  in Houthi naval efforts that directly threaten the peace, security, and stability
+  of Yemen. \n"

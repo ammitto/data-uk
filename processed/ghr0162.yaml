@@ -1,3 +1,4 @@
+---
 last_updated: '2025-05-20'
 date_designated: '2025-05-20'
 unique_id: GHR0162
@@ -31,9 +32,14 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-uk_statement_of_reasons: |2
-  
-  COCO’s FARM OUTPOST (also known as Marom Schmuel Outpost and Koko’s farm Outpost), including persons residing in the Outpost, (hereafter “COCO’s”) is an involved person under the Global Human Rights Sanctions Regulations 2020 on the basis of the following ground: COCO’s is associated with a person who is or has been involved in activity which amounts to facilitating, inciting, promoting or providing support for activity which amounts to a serious abuse of the right of individuals not to be subjected to cruel, inhuman or degrading treatment or punishment. 
+uk_statement_of_reasons: "\nCOCO’s FARM OUTPOST (also known as Marom Schmuel Outpost
+  and Koko’s farm Outpost), including persons residing in the Outpost, (hereafter
+  “COCO’s”) is an involved person under the Global Human Rights Sanctions Regulations
+  2020 on the basis of the following ground: COCO’s is associated with a person who
+  is or has been involved in activity which amounts to facilitating, inciting, promoting
+  or providing support for activity which amounts to a serious abuse of the right
+  of individuals not to be subjected to cruel, inhuman or degrading treatment or punishment.
+  \n"
 addresses:
   addresses:
   - address_line1: COCO’s FARM OUTPOST (Marom Schmuel Outpost)

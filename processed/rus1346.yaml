@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2022-04-21'
 unique_id: RUS1346
@@ -14,7 +15,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -30,7 +32,10 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
-   Anton Valerevich KUPRIN (hereafter KUPRIN) as a member of the Armed Forces of the Russian Federation holding or having held the position of Captain 1st rank, commander of the cruiser "Moskva", is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 because KUPRIN has provided support for, and/or promoted policies or actions which destabilise Ukraine or undermine or threaten the territorial integrity, sovereignty or independence of Ukraine.   
-   The trust services sanctions were imposed on 21/03/2023.
+uk_statement_of_reasons: "\n Anton Valerevich KUPRIN (hereafter KUPRIN) as a member
+  of the Armed Forces of the Russian Federation holding or having held the position
+  of Captain 1st rank, commander of the cruiser \"Moskva\", is an involved person
+  under the Russia (Sanctions) (EU Exit) Regulations 2019 because KUPRIN has provided
+  support for, and/or promoted policies or actions which destabilise Ukraine or undermine
+  or threaten the territorial integrity, sovereignty or independence of Ukraine.   \n
+  The trust services sanctions were imposed on 21/03/2023."

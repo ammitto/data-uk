@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: CTI0039
@@ -8,7 +9,8 @@ names:
     name_type: Primary name
   - name6: PFLP - General Command
     name_type: Alias
-regime_name: The Counter-Terrorism (International Sanctions) (EU Exit) Regulations 2019
+regime_name: The Counter-Terrorism (International Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Entity
 designation_source: UK
 sanctions_imposed: Asset freeze|Arms embargo|Director Disqualification Sanction
@@ -27,6 +29,6 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
+uk_statement_of_reasons: |2-
+
   The Popular Front for the Liberation of Palestine General Command (PFLP-GC) is a nationalist Palestinian organization which was founded in 1968. The PFLP-GC has carried out numerous terrorist attacks in Europe and the Middle East and has repeatedly stated that its aim is establishing a global Islamic state by violent means.

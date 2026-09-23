@@ -1,3 +1,4 @@
+---
 last_updated: '2026-05-05'
 date_designated: '2026-05-05'
 unique_id: RUS3504
@@ -17,7 +18,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -32,10 +34,14 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  The Secretary of State considers that there are reasonable grounds to suspect Sergey Nikolaevich KASHCHENKO 
-  is an “involved person” under the Russian (Sanctions) (EU Exit) Regulations 2019 because he is, or has been, involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by working as a director of a person (LLC SNK TRADE) making available goods or technology that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine.
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect Sergey Nikolaevich KASHCHENKO \nis an “involved person” under
+  the Russian (Sanctions) (EU Exit) Regulations 2019 because he is, or has been, involved
+  in destabilising Ukraine or undermining or threatening the territorial integrity,
+  sovereignty or independence of Ukraine by working as a director of a person (LLC
+  SNK TRADE) making available goods or technology that could contribute to destabilising
+  Ukraine or undermining or threatening the territorial integrity, sovereignty or
+  independence of Ukraine.\n"
 addresses:
   addresses:
   - address_line1: Tankistov St, 150A

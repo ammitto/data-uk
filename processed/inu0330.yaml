@@ -1,3 +1,4 @@
+---
 last_updated: '2025-09-29'
 date_designated: '2025-09-29'
 unique_id: INU0330
@@ -34,15 +35,16 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-    Gachsaran Oil & Gas Company is an involved person under the Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019 (“the 2019 Regulations”) on the basis of the following grounds: 
-   
-  (1)   
-  Gachsaran Oil & Gas Company (GOGC) is or has been making available funds or economic resources that could contribute to a relevant nuclear activity, namely the Islamic Revolutionary Guards Corps’ proliferation or development of nuclear weapons in, or for use in, Iran.
-  (2)   
-  Gachsaran Oil & Gas Company (GOGC) is or has been making available funds or economic resources that could contribute to a relevant nuclear activity, namely the Islamic Revolutionary Guards Corps’ development of a nuclear weapons delivery system in, or for use in, Iran
-    
+uk_statement_of_reasons: "\n  Gachsaran Oil & Gas Company is an involved person under
+  the Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019 (“the 2019 Regulations”)
+  on the basis of the following grounds: \n \n(1)   \nGachsaran Oil & Gas Company
+  (GOGC) is or has been making available funds or economic resources that could contribute
+  to a relevant nuclear activity, namely the Islamic Revolutionary Guards Corps’ proliferation
+  or development of nuclear weapons in, or for use in, Iran.\n(2)   \nGachsaran Oil
+  & Gas Company (GOGC) is or has been making available funds or economic resources
+  that could contribute to a relevant nuclear activity, namely the Islamic Revolutionary
+  Guards Corps’ development of a nuclear weapons delivery system in, or for use in,
+  Iran\n  \n"
 addresses:
   addresses:
   - address_line1: Kohgaloye and Boyer

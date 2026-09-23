@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: RUS0069
@@ -11,7 +12,8 @@ names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -27,6 +29,6 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
+uk_statement_of_reasons: |2-
+
   Former First Deputy Minister of Defence (until 17 November 2015), and was, in that capacity, involved in supporting the deployment of Russian troops in Ukraine. According to the present Russian Ministry of Defence structure, in that capacity, he participates in shaping and implementing the policy of the Russian Government. These policies threaten the territorial integrity, sovereignty and independence of Ukraine. Currently employed by Rosatom. The trust services sanctions were imposed on 21/03/2023.

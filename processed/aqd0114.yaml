@@ -1,3 +1,4 @@
+---
 last_updated: '2021-12-18'
 date_designated: '2006-04-21'
 unique_id: AQD0114
@@ -26,7 +27,8 @@ names:
     name6: Somad
     name_type: Alias
     alias_strength: Good quality a.k.a
-regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019
+regime_name: Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Individual
 designation_source: UN
 sanctions_imposed: Asset freeze|Arms embargo|Travel Ban
@@ -44,7 +46,14 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Formed Jemmah Anshorut Tauhid (JAT) (QDe.133) in 2008. In 2010, arrested for incitement to commit terrorism and fundraising with respect to a training camp in Aceh, Indonesia and sentenced to 15 years in 2011. Ba''asyir was released from prison on 8 January 2021 after serving his sentence in accordance with Indonesian laws and regulations. Review pursuant to Security Council resolution 1822 (2008) was concluded on 8 Jun. 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1428633'
+other_information: 'Formed Jemmah Anshorut Tauhid (JAT) (QDe.133) in 2008. In 2010,
+  arrested for incitement to commit terrorism and fundraising with respect to a training
+  camp in Aceh, Indonesia and sentenced to 15 years in 2011. Ba''asyir was released
+  from prison on 8 January 2021 after serving his sentence in accordance with Indonesian
+  laws and regulations. Review pursuant to Security Council resolution 1822 (2008)
+  was concluded on 8 Jun. 2010. Review pursuant to Security Council resolution 2368
+  (2017) was concluded on 24 November 2020. INTERPOL-UN Security Council Special Notice
+  web link: https://www.interpol.int/en/notice/search/un/1428633'
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

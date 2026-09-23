@@ -1,3 +1,4 @@
+---
 last_updated: '2025-08-12'
 date_designated: '2025-07-23'
 unique_id: GIM0009
@@ -7,7 +8,8 @@ names:
   - name1: Nikola
     name6: Vein
     name_type: Primary Name
-regime_name: The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025
+regime_name: The Global Irregular Migration and Trafficking in Persons Sanctions Regulations
+  2025
 individual_entity_ship: Individual
 designation_source: UK
 sanctions_imposed: Asset freeze|Travel Ban|Director Disqualification Sanction
@@ -25,11 +27,14 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-    Nikola Vein
-   is an involved person under the Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025 since he is or has been involved in a relevant activity, namely people smuggling. He facilitates the Škaljari Gang, an organised criminal group originating in Montenegro, obtain passports based on false identities with a view to obtain a benefit for himself. This procures the unlawful entry of Škaljari Gang members into different countries in the Balkans and Turkey of which they are not citizens and in which they are not permanent residents.
-    
+uk_statement_of_reasons: "\n  Nikola Vein\n is an involved person under the Global
+  Irregular Migration and Trafficking in Persons Sanctions Regulations 2025 since
+  he is or has been involved in a relevant activity, namely people smuggling. He facilitates
+  the Škaljari Gang, an organised criminal group originating in Montenegro, obtain
+  passports based on false identities with a view to obtain a benefit for himself.
+  This procures the unlawful entry of Škaljari Gang members into different countries
+  in the Balkans and Turkey of which they are not citizens and in which they are not
+  permanent residents.\n  \n"
 addresses:
   addresses:
   - address_line5: Borča

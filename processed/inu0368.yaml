@@ -1,3 +1,4 @@
+---
 last_updated: '2025-10-01'
 date_designated: '2025-09-28'
 unique_id: INU0368
@@ -25,7 +26,9 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: Owned or controlled by, or acts on behalf of, Bank Mellat. Over the last seven years, Bank Mellat has facilitated hundreds of millions of dollars in transactions for Iranian nuclear, missile, and defense entities.
+other_information: Owned or controlled by, or acts on behalf of, Bank Mellat. Over
+  the last seven years, Bank Mellat has facilitated hundreds of millions of dollars
+  in transactions for Iranian nuclear, missile, and defense entities.
 addresses:
   addresses:
   - address_line1: Unit Level 10 (B1)

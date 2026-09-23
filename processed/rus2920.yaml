@@ -1,3 +1,4 @@
+---
 last_updated: '2025-09-12'
 date_designated: '2025-09-12'
 unique_id: RUS2920
@@ -12,7 +13,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
-sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -27,9 +29,12 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  SHENZHEN BLUE HAT INTERNATIONAL TRADE CO., LTD (hereafter “SHENZHEN BLUE HAT”) is or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine, by making available goods or technology, that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine.      
+uk_statement_of_reasons: "\nSHENZHEN BLUE HAT INTERNATIONAL TRADE CO., LTD (hereafter
+  “SHENZHEN BLUE HAT”) is or has been involved in destabilising Ukraine or undermining
+  or threatening the territorial integrity, sovereignty or independence of Ukraine,
+  by making available goods or technology, that could contribute to destabilising
+  Ukraine or undermining or threatening the territorial integrity, sovereignty or
+  independence of Ukraine.      \n"
 addresses:
   addresses:
   - address_line1: 504, No.3, Xitou Industrial Zone

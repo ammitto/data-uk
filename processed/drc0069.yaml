@@ -1,3 +1,4 @@
+---
 last_updated: '2024-02-21'
 date_designated: '2024-02-21'
 unique_id: DRC0069
@@ -38,7 +39,8 @@ names:
   - name6: Punny Boy
     name_type: Alias
     alias_strength: Low quality a.k.a
-regime_name: The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019
+regime_name: The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Individual
 designation_source: UN
 sanctions_imposed: Asset freeze|Travel Ban
@@ -56,9 +58,21 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-uk_statement_of_reasons: |2
-  
-  Listed pursuant to paragraphs 7 (b), 7(d), 7(e), and 7(h) of resolution 2293 (2016) as “being political and military leaders of foreign armed groups operating in the DRC who impede the disarmament and the voluntary repatriation or resettlement of combatants belonging to those groups; or recruiting or using children in armed conflict in the DRC in violation of applicable international law; or planning, directing, committing acts in the DRC that constitute human rights violations or abuses or violations of international humanitarian law, as applicable, including those acts involving the targeting of civilians, including killing and maiming, rape and other sexual violence, abduction, forced displacement, and attacks on schools and hospitals; acting on behalf of or at the direction of a designated individual or entity, or acting on behalf of or at the direction of an entity owned or controlled by a designated individual or entity”, as reaffirmed by paragraph 2 of resolution 2688 (2023). As a leader of ADF/ISIS-DRC (CDe.001), MOHAMED ALI NKALUBO is involved in planning, promulgating and supporting the armed group’s activities. He has effective command and control over the group’s combatants. 
+uk_statement_of_reasons: "\nListed pursuant to paragraphs 7 (b), 7(d), 7(e), and 7(h)
+  of resolution 2293 (2016) as “being political and military leaders of foreign armed
+  groups operating in the DRC who impede the disarmament and the voluntary repatriation
+  or resettlement of combatants belonging to those groups; or recruiting or using
+  children in armed conflict in the DRC in violation of applicable international law;
+  or planning, directing, committing acts in the DRC that constitute human rights
+  violations or abuses or violations of international humanitarian law, as applicable,
+  including those acts involving the targeting of civilians, including killing and
+  maiming, rape and other sexual violence, abduction, forced displacement, and attacks
+  on schools and hospitals; acting on behalf of or at the direction of a designated
+  individual or entity, or acting on behalf of or at the direction of an entity owned
+  or controlled by a designated individual or entity”, as reaffirmed by paragraph
+  2 of resolution 2688 (2023). As a leader of ADF/ISIS-DRC (CDe.001), MOHAMED ALI
+  NKALUBO is involved in planning, promulgating and supporting the armed group’s activities.
+  He has effective command and control over the group’s combatants. \n"
 addresses:
   addresses:
   - address_country: Congo (Democratic Republic)

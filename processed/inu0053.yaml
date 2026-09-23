@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: INU0053
@@ -29,8 +30,8 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
+uk_statement_of_reasons: |2-
+
   Known to procure for designated Iran Centrifuge Technology Company (TESA). They have made efforts to procure designated materials which have applications in the Iranian nuclear programme.
 addresses:
   addresses:

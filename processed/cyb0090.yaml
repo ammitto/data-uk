@@ -1,3 +1,4 @@
+---
 last_updated: '2025-07-31'
 date_designated: '2025-07-18'
 unique_id: CYB0090
@@ -26,6 +27,10 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  As a member of GRU Unit 26165, Aleksey Viktorovich LUKASHEV has been involved in relevant cyber activity in that he was responsible for, engaging in, providing support for, or promoting the commissioning, planning or preparation of relevant cyber activity, including the targeting of Yuliya Skripal with X-Agent. Such activity that Aleksey Viktorovich LUKASHEV has been involved in, or is intended to undermine, the integrity, prosperity or security of the United Kingdom or a country other than the United Kingdom. 
+uk_statement_of_reasons: "\nAs a member of GRU Unit 26165, Aleksey Viktorovich LUKASHEV
+  has been involved in relevant cyber activity in that he was responsible for, engaging
+  in, providing support for, or promoting the commissioning, planning or preparation
+  of relevant cyber activity, including the targeting of Yuliya Skripal with X-Agent.
+  Such activity that Aleksey Viktorovich LUKASHEV has been involved in, or is intended
+  to undermine, the integrity, prosperity or security of the United Kingdom or a country
+  other than the United Kingdom. \n"

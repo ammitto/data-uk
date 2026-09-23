@@ -1,3 +1,4 @@
+---
 last_updated: '2025-09-29'
 date_designated: '2025-09-29'
 unique_id: INU0414
@@ -31,9 +32,11 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: |2
-  
-  Petropars Ltd is an involved person under the Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019 because it is associated with the National Iranian Oil Company, who is, and has been, making available funds or economic resources that could contribute to a relevant nuclear activity, namely the development of a nuclear weapon delivery system in, or for use in, Iran.  
+uk_statement_of_reasons: "\nPetropars Ltd is an involved person under the Iran (Sanctions)
+  (Nuclear) (EU Exit) Regulations 2019 because it is associated with the National
+  Iranian Oil Company, who is, and has been, making available funds or economic resources
+  that could contribute to a relevant nuclear activity, namely the development of
+  a nuclear weapon delivery system in, or for use in, Iran.  \n"
 addresses:
   addresses:
   - address_line1: No. 33, Farhang Blvd.,

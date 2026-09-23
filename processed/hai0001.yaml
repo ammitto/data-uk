@@ -1,3 +1,4 @@
+---
 last_updated: '2023-10-23'
 date_designated: '2022-12-28'
 unique_id: HAI0001
@@ -29,7 +30,11 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Jimmy Cherizier (AKA “Barbeque”) has engaged in acts that threaten the peace, security, and stability of Haiti and has planned, directed, or committed acts that constitute serious human rights abuses. Jimmy Cherizier is one of Haiti’s most influential gang leaders and leads an alliance of Haitian gangs known as the "G9 Family and Allies."  '
+other_information: 'Jimmy Cherizier (AKA “Barbeque”) has engaged in acts that threaten
+  the peace, security, and stability of Haiti and has planned, directed, or committed
+  acts that constitute serious human rights abuses. Jimmy Cherizier is one of Haiti’s
+  most influential gang leaders and leads an alliance of Haitian gangs known as the
+  "G9 Family and Allies."  '
 addresses:
   addresses:
   - address_line1: 16 Imp Manius

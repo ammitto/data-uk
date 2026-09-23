@@ -1,3 +1,4 @@
+---
 last_updated: '2023-07-03'
 date_designated: '2016-03-02'
 unique_id: DPR0223
@@ -16,7 +17,8 @@ names:
     name6: Wen-ji
     name_type: Alias
     alias_strength: Good quality a.k.a
-regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019
+regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Individual
 designation_source: UN
 sanctions_imposed: Asset freeze|Travel Ban
@@ -34,7 +36,8 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-other_information: Kang Mun Kil has conducted nuclear procurement activities as a representative of Namchongang, also known as Namhung.
+other_information: Kang Mun Kil has conducted nuclear procurement activities as a
+  representative of Namchongang, also known as Namhung.
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

@@ -1,3 +1,4 @@
+---
 last_updated: '2024-02-28'
 date_designated: '2024-02-21'
 unique_id: DRC0068
@@ -52,7 +53,8 @@ names:
   - name6: Saint Joyage
     name_type: Alias
     alias_strength: Low quality a.k.a
-regime_name: The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019
+regime_name: The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Individual
 designation_source: UN
 sanctions_imposed: Asset freeze|Travel Ban
@@ -70,13 +72,24 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: false
   deflag: false
-uk_statement_of_reasons: |2
-  
-  Listed pursuant to Paragraphs 7 (b), 7(e), and 7(h) of resolution 2293 (2016) and paragraph 3 of resolution 2641 (2022). Namely these are: 
-  Para 7(b) of resolution 2293 (2016): “being political and military leaders of foreign armed groups operating in the DRC who impede the disarmament and the voluntary repatriation or resettlement of combatants belonging to those groups;” 
-  Para 7(e) of resolution 2293 (2016): “planning, directing, or committing acts in the DRC that constitute human rights violations or abuses or violations of international humanitarian law, as applicable, including those acts involving the targeting of civilians, including killing and maiming, rape and other sexual violence, abduction, forced displacement, and attacks on schools and hospitals” 
-  Para 7(h) of resolution 2293 (2016): “acting on behalf of or at the direction of a designated individual or entity, or acting on behalf of or at the direction of an entity owned or controlled by a designated individual or entity” 
-  Paragraph 3 of resolution 2641 (2022): “Decides that the measures referred to in paragraph 2 above shall apply to individuals and entities as designated by the Committee for involvement in the production, manufacture or use in the DRC of improvised explosive devices, or in the commission, planning, ordering, aiding, abetting or otherwise assistance of attacks in the DRC with improvised explosive devices;” 
+uk_statement_of_reasons: "\nListed pursuant to Paragraphs 7 (b), 7(e), and 7(h) of
+  resolution 2293 (2016) and paragraph 3 of resolution 2641 (2022). Namely these are:
+  \nPara 7(b) of resolution 2293 (2016): “being political and military leaders of
+  foreign armed groups operating in the DRC who impede the disarmament and the voluntary
+  repatriation or resettlement of combatants belonging to those groups;” \nPara 7(e)
+  of resolution 2293 (2016): “planning, directing, or committing acts in the DRC that
+  constitute human rights violations or abuses or violations of international humanitarian
+  law, as applicable, including those acts involving the targeting of civilians, including
+  killing and maiming, rape and other sexual violence, abduction, forced displacement,
+  and attacks on schools and hospitals” \nPara 7(h) of resolution 2293 (2016): “acting
+  on behalf of or at the direction of a designated individual or entity, or acting
+  on behalf of or at the direction of an entity owned or controlled by a designated
+  individual or entity” \nParagraph 3 of resolution 2641 (2022): “Decides that the
+  measures referred to in paragraph 2 above shall apply to individuals and entities
+  as designated by the Committee for involvement in the production, manufacture or
+  use in the DRC of improvised explosive devices, or in the commission, planning,
+  ordering, aiding, abetting or otherwise assistance of attacks in the DRC with improvised
+  explosive devices;” \n"
 addresses:
   addresses:
   - address_country: Congo (Democratic Republic)

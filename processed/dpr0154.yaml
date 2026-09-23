@@ -1,3 +1,4 @@
+---
 last_updated: '2022-08-03'
 date_designated: '2017-06-02'
 unique_id: DPR0154
@@ -7,10 +8,13 @@ names:
   names:
   - name6: KOREA KUMSAN TRADING CORPORATION
     name_type: Primary name
-regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019
+regime_name: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Entity
 designation_source: UN
-sanctions_imposed: Asset freeze|Chartering of Ships|Closure of representative offices|Crew servicing of ships and aircraft|Prevention of business arrangements|Prohibition of port entry
+sanctions_imposed: Asset freeze|Chartering of Ships|Closure of representative offices|Crew
+  servicing of ships and aircraft|Prevention of business arrangements|Prohibition
+  of port entry
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: false
@@ -25,7 +29,10 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: true
   director_disqualification_sanction: false
   deflag: false
-other_information: 'Korea Kumsan Trading Corporation is owned or controlled by, or acting or purporting to act for or on behalf of, directly or indirectly, the General Bureau of Atomic Energy, which oversees the DPRK’s nuclear programme. Telephone: +850-2-18111-8550. Fax: +850-2-381-4410/4416. Email: mhs-ip@star-co.net.kp.  '
+other_information: 'Korea Kumsan Trading Corporation is owned or controlled by, or
+  acting or purporting to act for or on behalf of, directly or indirectly, the General
+  Bureau of Atomic Energy, which oversees the DPRK’s nuclear programme. Telephone:
+  +850-2-18111-8550. Fax: +850-2-381-4410/4416. Email: mhs-ip@star-co.net.kp.  '
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:

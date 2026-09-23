@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: CTI0019
@@ -7,10 +8,12 @@ names:
   - name1: Khalid
     name6: Mishaal
     name_type: Primary name
-regime_name: The Counter-Terrorism (International Sanctions) (EU Exit) Regulations 2019
+regime_name: The Counter-Terrorism (International Sanctions) (EU Exit) Regulations
+  2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Arms embargo|Travel Ban|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Arms embargo|Travel Ban|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: false
@@ -26,6 +29,6 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
+uk_statement_of_reasons: |2-
+
   Khalid Mishaal was the leader of Hamas from 2004 until 2014 and maintains a leadership role in the Shura Council of Hamas. He has directed the group’s violent attacks, including the targeting of civilians.

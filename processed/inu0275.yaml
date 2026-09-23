@@ -1,3 +1,4 @@
+---
 last_updated: '2025-10-01'
 date_designated: '2023-10-18'
 unique_id: INU0275
@@ -26,9 +27,14 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: 'Ahmad DERAKHSHANDEH was listed pursuant to paragraph 12 of resolution 1737 (2006), as read with resolutions 1747, 1803 and 1929, as: a person involved in nuclear or ballistic missile activities. Chairman and Managing Director of Bank Sepah, which provides support for the AIO and subordinates, including SHIG and SBIG, both of which were designated under resolution 1737 (2006). The Director Disqualification Sanction was imposed on 09/04/2025.'
-uk_statement_of_reasons: |-2
-  
+other_information: 'Ahmad DERAKHSHANDEH was listed pursuant to paragraph 12 of resolution
+  1737 (2006), as read with resolutions 1747, 1803 and 1929, as: a person involved
+  in nuclear or ballistic missile activities. Chairman and Managing Director of Bank
+  Sepah, which provides support for the AIO and subordinates, including SHIG and SBIG,
+  both of which were designated under resolution 1737 (2006). The Director Disqualification
+  Sanction was imposed on 09/04/2025.'
+uk_statement_of_reasons: |2-
+
   Ahmad DERAKHSHANDEH is an involved person within the meaning of the Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019. Ahmad DERAKHSHANDEH is or has been providing financial services, or making available funds or economic resources, that could contribute to the development of nuclear weapons in, or for use in, Iran.
 addresses:
   addresses:

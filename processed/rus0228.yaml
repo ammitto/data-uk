@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: RUS0228
@@ -69,7 +70,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -85,8 +87,8 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |-2
-  
+uk_statement_of_reasons: |2-
+
   Viktor Yanukovych was the President of Ukraine from November 2010 to February 2014 and was responsible for requesting President Putin to send Russian troops into Ukraine, therefore undermining Ukrainian independence and threatening Ukraine’s territorial integrity. Russian troops annexed Crimea shortly after this invitation was issued. Yanukovych was personally responsible for the appointment of at least one key official who continues to run the territory of Crimea and Sevastopol under the Russian annexation. Yanukovych is also suspected of supporting a policy, which reduced the defence capability of Ukraine’s Armed Forces stationed in Crimea prior to the 2014 Russian invasion. The trust services sanctions were imposed on 21/03/2023.
 addresses:
   addresses:

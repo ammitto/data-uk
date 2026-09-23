@@ -1,3 +1,4 @@
+---
 last_updated: '2025-04-09'
 date_designated: '2020-12-31'
 unique_id: RUS0147
@@ -24,7 +25,8 @@ non_latin_names:
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Individual
 designation_source: UK
-sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
 sanctions_imposed_indicators:
   asset_freeze: true
   trust_services_sanctions: true
@@ -39,9 +41,10 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: 'Town of birth: Dnepropetrovsk (now Dnipro) The Director Disqualification Sanction was imposed on 09/04/2025.'
-uk_statement_of_reasons: |-2
-  
+other_information: 'Town of birth: Dnepropetrovsk (now Dnipro) The Director Disqualification
+  Sanction was imposed on 09/04/2025.'
+uk_statement_of_reasons: |2-
+
   Former Member of the Rada, as such publicly called for the creation of the so-called Federal Republic of Novorossiya, composed of South Eastern Ukrainian regions.  Former "Speaker" of the so-called "Parliament of the Union of the People's Republics" ("Parliament of Novorossiya").
    The trust services sanctions were imposed on 21/03/2023.
 addresses:
