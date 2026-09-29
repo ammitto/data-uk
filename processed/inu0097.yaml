@@ -35,11 +35,11 @@ uk_statement_of_reasons: |2
   An Islamic Revolutionary Guard Corps (IRGC) front company which has produced weapons parts on its behalf
 addresses:
   addresses:
+  - address_line1: P.O. Box 155671311
+    address_country: Iran
   - address_line1: 4th floor
     address_line2: No 65
     address_line3: Dr Ghandi St.
     address_line4: Sohravardi Ave.
     address_line6: Tehran
-    address_country: Iran
-  - address_line1: P.O. Box 155671311
     address_country: Iran

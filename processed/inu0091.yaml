@@ -41,14 +41,14 @@ addresses:
     address_line4: Mofateh Street
     address_line6: Tehran
     address_country: Iran
+  - address_line1: Bld. No. 11
+    address_line2: Zohreh St.
+    address_line3: Mofateh Ave.
+    address_line6: Tehran
+    address_country: Iran
   - address_line1: North Dr. Moftah Street
     address_line2: Zahra Street
     address_line3: Placard 9
     address_line4: Ground floor
-    address_line6: Tehran
-    address_country: Iran
-  - address_line1: Bld. No. 11
-    address_line2: Zohreh St.
-    address_line3: Mofateh Ave.
     address_line6: Tehran
     address_country: Iran

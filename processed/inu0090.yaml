@@ -51,6 +51,13 @@ uk_statement_of_reasons: |2-
   A company run by Milad Jafari who has supplied goods, mostly metals, to UN designated Shahid Hemmat Industries Group (SHIG) through front companies.
 addresses:
   addresses:
+  - address_line1: Prof. Hifzi Ozcan Cad.
+    address_line2: Tasarim Kent Sit.
+    address_line3: No. 33 B Blk
+    address_line4: D.19
+    address_line5: Kadikoy
+    address_line6: Istanbul
+    address_country: Turkey
   - address_line1: Istasyon MH
     address_line2: Sehitler cad
     address_line3: Guldeniz Sit
@@ -63,13 +70,6 @@ addresses:
     address_line3: Argentina Square
     address_line6: Tehran
     address_country: Iran
-  - address_line1: Prof. Hifzi Ozcan Cad.
-    address_line2: Tasarim Kent Sit.
-    address_line3: No. 33 B Blk
-    address_line4: D.19
-    address_line5: Kadikoy
-    address_line6: Istanbul
-    address_country: Turkey
   - address_line1: Sehidler Caddesi
     address_line2: No 79/2
     address_line3: Tuzla

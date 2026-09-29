@@ -36,9 +36,9 @@ uk_statement_of_reasons: |2-
   JSC Zaliv Shipyard actively participated in the construction of new railway approaches to the Kerch Bridge, connecting Russian to the illegally annexed Crimean peninsula. Therefore, it is supporting the consolidation of the illegally annexed Crimean peninsula into the Russian Federation, which in turn further undermines the territorial integrity, sovereignty and independence of Ukraine. The trust services sanctions were imposed on 21/03/2023.
 addresses:
   addresses:
-  - address_line6: Location of entity headquarters, "Republic of Crimea"
   - address_line3: '4'
     address_line4: Tankistov Street
     address_line5: Kerch
     address_line6: The Autonomous Republic of Crimea and the city of Sevastopol
     address_country: Ukraine
+  - address_line6: Location of entity headquarters, "Republic of Crimea"
