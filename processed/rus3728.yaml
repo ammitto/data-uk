@@ -1,0 +1,35 @@
+---
+last_updated: '2026-10-01'
+date_designated: '2026-10-01'
+unique_id: RUS3728
+names:
+  names:
+  - name1: 'Sergey '
+    name2: 'Aleksandrovich '
+    name6: TOLMACHEV
+    name_type: Primary Name
+non_latin_names:
+  names:
+  - name_non_latin_script: 'Сергей Александрович Толмачев '
+regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
+individual_entity_ship: Individual
+designation_source: UK
+sanctions_imposed: Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification
+  Sanction
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: true
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: true
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: true
+  deflag: false
+uk_statement_of_reasons: |2
+
+  The Secretary of State considers that there are reasonable grounds to suspect that Sergey Aleksandrovich TOLMACHEV is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 on the basis of the following ground: Sergey Aleksandrovich TOLMACHEV is or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by working for the Government of Russia as a regional “Deputy Governor” of Sevastopol, installed by Russia in the temporarily occupied territory of the City of Sevastopol and as a regional “Deputy Governor” of Zaporizhzhia, installed in the temporarily occupied region of Zaporizhzhia.
