@@ -37,13 +37,13 @@ uk_statement_of_reasons: |2-
   Libyan subsidiary of the Central Bank of Libya. Owned or controlled directly or indirectly (within the meaning regulation 7) by a person who is or has been so involved.
 addresses:
   addresses:
-  - address_line1: El Ghayran Area
-    address_line2: Ganzor El Sharqya
-    address_line3: PO Box 1100
-    address_line6: Tripoli
-    address_country: Libya
   - address_line1: Al Jumhouria Street
     address_line2: East Junzour
     address_line3: Al Gheran
+    address_line6: Tripoli
+    address_country: Libya
+  - address_line1: El Ghayran Area
+    address_line2: Ganzor El Sharqya
+    address_line3: PO Box 1100
     address_line6: Tripoli
     address_country: Libya

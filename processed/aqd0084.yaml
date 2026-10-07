@@ -42,5 +42,5 @@ uk_statement_of_reasons: "\n"
 addresses:
   addresses:
   - address_country: United Arab Emirates
-  - address_country: Afghanistan
   - address_country: Kuwait
+  - address_country: Afghanistan
