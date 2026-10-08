@@ -49,13 +49,13 @@ uk_statement_of_reasons: |2-
   Qods Aeronautics Industries (QAI) is an involved person within the meaning of the Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019. Qods Aeronautics Industries (QAI) is or has been   responsible for, providing support for or facilitating a relevant nuclear activity, specifically the development of a nuclear weapon delivery system in, or for use in, Iran.
 addresses:
   addresses:
-  - address_line1: Km 5 Karaj Special Road
-    address_line2: P.O. Box 15875-1834
-    address_line6: Tehran
-    address_country: Iran
   - address_line1: Unit 207
     address_line2: Tarajit Maydane Taymori (or Teimori) Square
     address_line3: Basiri Building
     address_line4: Tarasht
+    address_line6: Tehran
+    address_country: Iran
+  - address_line1: Km 5 Karaj Special Road
+    address_line2: P.O. Box 15875-1834
     address_line6: Tehran
     address_country: Iran

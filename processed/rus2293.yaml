@@ -58,12 +58,12 @@ uk_statement_of_reasons: "\nStructura National Technologies (hereafter ‘Struct
   integrity, sovereignty or independence of Ukraine.\n"
 addresses:
   addresses:
-  - address_line1: Ulitsa Bolshaya Nikitskaya
-    address_line2: d. 12, str. 1
-    address_line6: Moscow
-    address_country: Russia
   - address_line1: Pereulok Bolshoi Kislovskiy
     address_line2: d. 1, str. 2
     address_line3: Arbat Municipal Okrug
+    address_line6: Moscow
+    address_country: Russia
+  - address_line1: Ulitsa Bolshaya Nikitskaya
+    address_line2: d. 12, str. 1
     address_line6: Moscow
     address_country: Russia

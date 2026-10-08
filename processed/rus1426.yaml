@@ -43,11 +43,11 @@ uk_statement_of_reasons: "\nThe Special Technology Centre LLC (hereafter known a
   imposed on 21/03/2023."
 addresses:
   addresses:
-  - address_line1: 12 Lit. Pom 3 N
-    address_line2: Apraksin Lane
-    address_line6: St Petersburg
-    address_country: Russia
   - address_line1: lit. B, office 53
     address_line2: 21 Gzhatskaya street
+    address_line6: St Petersburg
+    address_country: Russia
+  - address_line1: 12 Lit. Pom 3 N
+    address_line2: Apraksin Lane
     address_line6: St Petersburg
     address_country: Russia

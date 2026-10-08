@@ -1,19 +1,23 @@
 ---
 last_updated: '2026-10-08'
-date_designated: '2022-02-24'
-unique_id: RUS0238
-ofsi_group_id: '14185'
+date_designated: '2026-10-08'
+unique_id: RUS3754
 names:
   names:
-  - name6: State Corporation for the Promotion of the Development, Manufacture and
-      Export of High Technology Products "Rostec"
+  - name6: JOINT STOCK COMPANY PLANETA
     name_type: Primary Name
-  - name6: Rostec
+  - name6: JSC PLANETA
+    name_type: Primary Name Variation
+  - name6: PLANETA
+    name_type: Primary Name Variation
+  - name6: PLANETA 365
     name_type: Primary Name Variation
 non_latin_names:
   names:
-  - name_non_latin_script: Государственная корпорация по содействию разработке, производству
-      и экспорту высокотехнологичной промышленной продукции «Ростех»
+  - name_non_latin_script: АКЦИОНЕРНОЕ ОБЩЕСТВО ПЛАНЕТА
+  - name_non_latin_script: АО ПЛАНЕТА
+  - name_non_latin_script: ПЛАНЕТА
+  - name_non_latin_script: ПЛАНЕТА 365
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
@@ -34,19 +38,18 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-other_information: |2-
-
+other_information: |-
   Internet Services Sanctions: When an individual or entity is designated for the purposes of this measure, social media services, internet access services and application stores must take reasonable steps to prevent users in the UK from accessing content, sites or applications provided by designated individuals or entities.
 
   Correspondent banking relationships and processing payments: Where this prohibition applies, UK credit or financial institutions are prohibited from establishing or continuing a correspondent banking relationship with a designated person, and from processing payments to, from or via a designated person. The measures will also apply to credit or financial institutions "owned or controlled" by the designated person (as set out in the regulations).
-
-  Previous name(s): Rostekhnologii [Russian Technologies] The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: |2-
-
-  Rostec is a major Russian state owned defence conglomerate. It is a major supplier of the Russian military and related enterprises. Rostec and its subsidiaries, provide financial services or makes available funds and economic resources, goods and/or technology that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine.
-   The trust services sanctions were imposed on 21/03/2023.
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that \nJOINT STOCK COMPANY PLANETA is or has been involved in
+  obtaining a benefit from or supporting the Government of Russia by \ncarrying on
+  business in a sector of strategic significance to the Government of Russia namely,
+  the Russian financial services sector.\n"
 addresses:
   addresses:
-  - address_line1: 24 Usacheva Street
+  - address_line1: Bldg. 1 50/1
+    address_line2: Bolshaya Polyanka Str.
     address_line6: Moscow
     address_country: Russia

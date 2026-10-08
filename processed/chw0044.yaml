@@ -51,11 +51,11 @@ uk_statement_of_reasons: "\nThe Secretary of State considers that there are reas
   for, or promoting prohibited activity related to chemical weapons.  \n"
 addresses:
   addresses:
-  - address_line1: 8 Bolshaya Olenya Street
+  - address_line1: 16A Nagatinskaya Street
     address_line2: Sokolniki Municipal District
     address_line6: Moscow
     address_country: Russia
-  - address_line1: 16A Nagatinskaya Street
+  - address_line1: 8 Bolshaya Olenya Street
     address_line2: Sokolniki Municipal District
     address_line6: Moscow
     address_country: Russia

@@ -1,20 +1,16 @@
 ---
-last_updated: '2025-10-15'
-date_designated: '2025-10-15'
-unique_id: RUS3056
-ofsi_group_id: '17161'
+last_updated: '2026-10-08'
+date_designated: '2026-10-08'
+unique_id: RUS3762
 names:
   names:
-  - name6: 'IZZITION E-TECHNOLOGY CO LTD  '
+  - name6: GOODWAY MACHINE (WUJIANG) CO.,LTD
     name_type: Primary Name
-  - name6: 'Izzition Electronics  '
-    name_type: Primary Name Variation
-  - name6: IZZITION E-TECHNOLOGY CO. LTD
+  - name6: Chengtai Machinery (Wujiang) Co., Ltd
     name_type: Primary Name Variation
 non_latin_names:
   names:
-  - name_non_latin_script: '伊奇信電子科技有限公司 '
-  - name_non_latin_script: '伊奇信電子科技有限公司  '
+  - name_non_latin_script: '程泰机械（吴江）有限公司 '
 regime_name: The Russia (Sanctions) (EU Exit) Regulations 2019
 individual_entity_ship: Entity
 designation_source: UK
@@ -34,27 +30,18 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: "\nIZZITION E-TECHNOLOGY CO LTD is an \"involved person\"
-  under the Russia (Sanctions) (EU Exit) Regulations 2019 because it is, or has been,
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that GOODWAY MACHINE (WUJIANG) CO.,LTD is an “involved person”
+  under the Russian (Sanctions) (EU Exit) Regulations 2019 because it is, or has been,
   involved in destabilising Ukraine or undermining or threatening the territorial
   integrity, sovereignty or independence of Ukraine by making available economic resources,
   goods or technology that could contribute to destabilising Ukraine or undermining
   or threatening the territorial integrity, sovereignty or independence of Ukraine.
-  \n"
+  \ \n"
 addresses:
   addresses:
-  - address_line1: RM 29, 22/F, Yan's Tower, 25-27 Wong Chuk Hang Road, Aberdeen
-    address_line6: Hong Kong
-  - address_line1: Room 1001
-    address_line2: Jiahe Building A,
-    address_line3: Zhong Hang Road
-    address_line4: Huqqiang North Subdistrict
-    address_line5: Futian District
-    address_line6: Shenzhen
-    address_country: China
-  - address_line1: Flat 1506, 15/F
-    address_line2: Lucky Center,
-    address_line3: No. 166-171
-    address_line4: Wan Chai Road
-    address_line6: Hong Kong
+  - address_line1: No. 4888 Dongtaihu Ave.
+    address_line2: Wujiang Economic & Technological Development Zone
+    address_line5: Jiangsu
+    address_line6: Suzhou
     address_country: China
