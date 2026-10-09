@@ -78,12 +78,12 @@ other_information: 'Senior member of Jemaah Islamiyah (QDe.092) directly involve
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_line1: Jalan Nakula of Witana Harja Complex Block C
-    address_line2: Pamulang
-    address_line6: Banten
-    address_country: Indonesia
   - address_line1: Jalan M. Saidi
     address_line2: RT010 RW 001 Pesanggrahan
     address_line3: South Petukangan
     address_line6: South Jakarta
+    address_country: Indonesia
+  - address_line1: Jalan Nakula of Witana Harja Complex Block C
+    address_line2: Pamulang
+    address_line6: Banten
     address_country: Indonesia

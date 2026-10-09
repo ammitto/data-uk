@@ -1,5 +1,5 @@
 ---
-last_updated: '2026-10-01'
+last_updated: '2026-10-08'
 date_designated: '2026-10-01'
 unique_id: RUS3730
 names:
@@ -9,7 +9,7 @@ names:
     name_type: Primary Name
   - name1: Mamuka
     name6: PIPYA
-    name_type: Primary Name
+    name_type: Primary Name Variation
 non_latin_names:
   names:
   - name_non_latin_script: 'მამუკა ფიფია '

@@ -1,5 +1,5 @@
 ---
-last_updated: '2025-04-09'
+last_updated: '2026-10-08'
 date_designated: '2025-02-24'
 unique_id: RUS2436
 ofsi_group_id: '16799'
@@ -18,8 +18,6 @@ names:
   - name6: 'FKP GOSNIIKHP '
     name_type: Primary Name Variation
   - name6: 'Gosniikhp '
-    name_type: Primary Name Variation
-  - name6: Gosudarstvennyi Nauchno
     name_type: Primary Name Variation
   - name6: 'Gosudarstvennyi Nauchno-Issledovatelskii Institut Khimicheskikh Produktov '
     name_type: Primary Name Variation
