@@ -1,0 +1,40 @@
+---
+last_updated: '2026-10-12'
+date_designated: '2026-10-12'
+unique_id: IRN0282
+names:
+  names:
+  - name1: Ruhollah
+    name6: BAZGHANDI
+    name_type: Primary Name
+  - name1: Rouhollah
+    name6: AZIMI
+    name_type: Primary Name Variation
+non_latin_names:
+  names:
+  - name_non_latin_script: 'روح اله بازقندی '
+regime_name: The Iran (Sanctions) Regulations 2023
+individual_entity_ship: Individual
+designation_source: UK
+sanctions_imposed: Asset freeze|Travel Ban|Director Disqualification Sanction
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: false
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: true
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: true
+  deflag: false
+uk_statement_of_reasons: |2
+
+  The Secretary of State considers that there are reasonable grounds to suspect that BAZGHANDI is an involved person under The Iran (Sanctions) Regulations 2023 on the basis of the following grounds: (1) BAZGHANDI has been involved in hostile activity by the Government of Iran by planning or conducting espionage for the Government of Iran; (2) BAZGHANDI has been involved in hostile activity by the Government of Iran, namely threatening, planning or conducting attacks against persons and assets in the United Kingdom or a country other than Iran.
+addresses:
+  addresses:
+  - address_line6: Tehran
+    address_country: Iran
