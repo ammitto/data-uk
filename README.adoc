@@ -236,31 +236,7 @@ Organization:: Legal entities, companies, and organizations
 Vessel:: Ships and maritime vessels subject to sanctions
 Aircraft:: Aircraft subject to sanctions
 
-== Validation and Generation
-
-=== Rake Tasks
-
-The repository provides rake tasks for managing the knowledge graph generation:
-
-[source,shell]
-----
-# Clean all generated API files
-bundle exec rake clean
-
-# Validate source YAML files against schemas
-bundle exec rake validate
-
-# Generate API files from source YAML
-bundle exec rake generate
-
-# Validate and generate in one step
-bundle exec rake build
-
-# Clean and regenerate (recommended for updates)
-bundle exec rake regenerate
-----
-
-=== Validation
+== Validation
 
 The validation process checks all YAML files against their corresponding schemas:
 
@@ -352,56 +328,16 @@ The UK has one list type: `consolidated-list`
 
 == Knowledge Graph Integration
 
-This repository's source YAML data feeds into the Ammitto knowledge graph
-using a normalized structure.
+This repository's YAML data feeds into the Ammitto knowledge graph.
 
-=== Data Flow Architecture
-
-The harmonization process transforms source YAML data into JSON-LD knowledge graph nodes:
-
-....
-┌─────────────────────┐     ┌─────────────────────┐     ┌─────────────────────┐
-│   Source YAML       │     │   Ammitto Gem       │     │   JSON-LD Output    │
-│   (sources/)        │────▶│   Transformer       │────▶│   (api/)            │
-│                     │     │                     │     │                     │
-│ • Announcement      │     │ • UkAnnouncement    │     │ • Entity nodes      │
-│ • Sanction details  │     │ • UkEntity          │     │ • Entry nodes       │
-│ • Legal instruments │     │ • UkMeasure         │     │ • Regime nodes      │
-│ • Modifications     │     │ • Transformer       │     │ • Authority nodes   │
-└─────────────────────┘     └─────────────────────┘     └─────────────────────┘
-....
-
-=== Output Directory Structure
-
-The `api/` directory contains the generated JSON-LD knowledge graph:
-
-....
-api/
-├── node/
-│   ├── entity/
-│   │   └── uk/
-│   │       └── {local_id}.jsonld         # Entity identity data
-│   ├── entry/
-│   │   └── uk/
-│   │       └── consolidated-list/
-│   │           └── {local_id}.jsonld     # Entry data
-│   ├── regime/
-│   │   ├── uk_russia.jsonld
-│   │   └── ...
-│   └── authority/
-│       ├── uk_hmt.jsonld
-│       └── uk_ofsi.jsonld
-├── by-list/                               # Entries grouped by list
-├── by-authority/                          # Entries grouped by authority
-├── all.jsonld                             # Aggregated graph
-├── search-index.json                      # Search index
-└── stats.json                             # Statistics
-....
+Harmonized JSON-LD for this source:
+https://www.ammitto.org/api/v1/sources/uk.jsonld
 
 == Directory Structure
 
 ```
 .
+├── processed/              # One YAML file per entity, plus _index.yaml
 ├── sources/                # Source YAML data
 │   ├── sanction-lists/     # Sanction announcements
 │   ├── sanction-updates/   # Modification announcements
@@ -415,8 +351,7 @@ api/
 │   └── ammitto/
 │       └── data_uk/
 │           └── validator.rb
-├── api/                    # Generated JSON-LD output
-├── Rakefile                # Build tasks
+├── Rakefile                # Validation task
 └── README.adoc             # This file
 ```
 
@@ -426,8 +361,8 @@ Data can be updated using the ammitto gem:
 
 [source,shell]
 ----
-# From the ammitto gem directory
-bundle exec ruby exe/ammitto fetch uk --format yaml --output-dir ./sources/sanction-lists/consolidated-list
+# From the root of this repository
+bundle exec ammitto fetch uk --format yaml --output-dir processed --verbose --prune
 ----
 
 == Related Repositories
