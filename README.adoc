@@ -1,382 +1,134 @@
-= Ammitto UK Sanctions Data Repository
+= Ammitto UK sanctions data
 
-== Purpose
+image:https://github.com/ammitto/data-uk/actions/workflows/fetch.yml/badge.svg["Fetch Data", link="https://github.com/ammitto/data-uk/actions/workflows/fetch.yml"]
 
-This repository stores downloaded and processed sanctions data from the
-United Kingdom (UK) Office of Financial Sanctions Implementation (OFSI)
-Consolidated List and related legal instruments.
+This repository stores the UK Sanctions List as YAML for Ammitto. The
+Foreign, Commonwealth and Development Office (FCDO) publishes the official
+list; Ammitto generates one file per designated person, entity or ship in
+`processed/`.
 
-The data is maintained by the Ammitto project and used by the `ammitto` Ruby
-gem for querying international sanctions information.
+== Source
 
-== Legal Basis
+* Publisher: Foreign, Commonwealth and Development Office (FCDO)
+* List page: https://www.gov.uk/government/publications/the-uk-sanctions-list
+* File downloaded (XML): https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.xml
 
-The UK sanctions are implemented through:
+The list shows which people, entities and ships are designated or specified
+under regulations made under the Sanctions and Anti-Money Laundering Act 2018,
+and why. Since the OFSI Consolidated List closed on 28 January 2026, it is the
+only source for UK sanctions designations.
 
-* The Sanctions and Anti-Money Laundering Act 2018 (SAMLA)
-* The Sanctions (EU Exit) Regulations 2019
-* Various country-specific sanctions regulations
+== Contents
 
-Post-Brexit, the UK maintains its own autonomous sanctions regime separate
-from the EU, though many designations initially mirrored EU listings.
+`processed/` holds one file per designation, named after its unique ID in
+lower case: `processed/afg0001.yaml` is `AFG0001`. The letters are the regime,
+such as `rus` for Russia.
 
-== Data Source
+`processed/_index.yaml` lists every file, with the time of the last fetch.
 
-* **Authority**: Office of Financial Sanctions Implementation (OFSI), HM Treasury
-* **API Endpoint**: https://ofsistorage.blob.core.windows.net/publishlive/2022-04-06/ConList.xml
-* **Format**: XML
-* **Update Frequency**: As changes occur in UK sanctions regimes
-* **Official Source**: https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets
-
-== Source Data Structure
-
-The `sources/` directory contains raw source data organized by type:
-
-```
-sources/
-├── sanction-lists/                          # Sanction list announcements
-│   └── consolidated-list/                   # UK Consolidated List
-│       ├── rus0141.yml
-│       ├── rus0142.yml
-│       └── ...
-├── sanction-updates/                        # Measure modifications (if any)
-│   └── ...
-├── legal-instruments/                       # Legal instruments
-│   ├── russia-sanctions-regulation-2019.yml
-│   └── ...
-└── supporting/                              # Supporting data
-    ├── document-types.yml                   # Document type definitions
-    └── organizations.yml                    # Organization definitions
-```
-
-=== Schema Types
-
-Each YAML file follows one of three schema types:
-
-. **Announcement Schema** - Standard sanction announcements with `sanction_details`
-. **Modification Schema** - Temporal modifications with `measure_modifications`
-. **Legal Instrument Schema** - Laws and regulations with structured content
-
-Schema files are located in `schemas/`:
-
-* `schemas/uk-announcement.yml` - For sanction list announcements
-* `schemas/uk-measure-modification.yml` - For measure modifications
-* `schemas/uk-legal-instrument.yml` - For legal instruments (regulations, acts)
-
-=== Supporting Data
-
-The `sources/supporting/` directory contains reference data used across the repository:
-
-==== Document Types (`document-types.yml`)
-
-[cols="1,2,2"]
+[cols="1,1,3"]
 |===
-| ID | Name (English) | Name (Chinese)
+| Key | Type | Meaning
 
-| `uk/regulation`
-| Regulation
-| 法规
-
-| `uk/order`
-| Order
-| 命令
-
-| `uk/act`
-| Act
-| 法案
-
-| `uk/direction`
-| Direction
-| 指令
-
-| `uk/general-license`
-| General Licence
-| 通用许可
-
-| `uk/designation`
-| Designation
-| 指定
-
+| `unique_id` | string | UK Sanctions List unique ID, such as `AFG0001`
+| `ofsi_group_id` | string | OFSI group ID, where one exists
+| `un_reference_number` | string | UN reference number, where one exists
+| `individual_entity_ship` | string | `Individual`, `Entity` or `Ship`
+| `regime_name` | string | The sanctions regulations, such as `The Russia (Sanctions) (EU Exit) Regulations 2019`
+| `designation_source` | string | `UK`, `UN` or `UK\|UN`
+| `date_designated` | string | Date of designation, `YYYY-MM-DD`
+| `last_updated` | string | Date the entry last changed, `YYYY-MM-DD`
+| `names.names` | list | Names: `name_type` (such as `Primary Name`, `Primary Name Variation` or `Alias`, in varying case), `alias_strength` where given, and the name parts `name1` to `name6`. Usually, for individuals, `name1` to `name5` hold given and middle names and `name6` the family name, and for entities and ships `name6` holds the name. A few name entries are empty.
+| `non_latin_names.names` | list | Names in non-Latin scripts, as `name_non_latin_script`
+| `addresses.addresses` | list | `address_line1` to `address_line6` and `address_country`
+| `sanctions_imposed` | string | The sanctions, as published, such as `Asset freeze`
+| `sanctions_imposed_indicators` | map | True or false for the sanctions that have an indicator in this file: `asset_freeze`, `travel_ban`, `arms_embargo`, `targeted_arms_embargo`, `trust_services_sanctions`, `director_disqualification_sanction`, `chartering_of_ships`, `crew_servicing_of_ships_and_aircraft`, `prevention_of_chartering_of_ships_and_aircraft`, `prevention_of_business_arrangements`, `closure_of_representative_offices`, `technical_assistance_related_to_aircraft`, `deflag`
+| `uk_statement_of_reasons` | string | The UK statement of reasons
+| `other_information` | string | Further information published with the designation
 |===
 
-==== Organizations (`organizations.yml`)
+`sources/` holds a hand-curated sample entry and supporting reference data
+(document types, organisations), with their schemas in `schemas/`. The daily
+fetch does not update it; `processed/` is the list.
 
-[cols="1,2,2"]
-|===
-| ID | Name | Type
+== Using the data
 
-| `uk/hmt`
-| His Majesty's Treasury
-| ministry
+Clone or download this repository and run either example from its root
+directory. The Python example requires PyYAML
+(`python3 -m pip install PyYAML`).
 
-| `uk/ofsi`
-| Office of Financial Sanctions Implementation
-| agency
+Ruby:
 
-| `uk/fco`
-| Foreign, Commonwealth & Development Office
-| ministry
-
-| `uk/hmso`
-| His Majesty's Stationery Office
-| agency
-
-| `uk/beis`
-| Department for Business, Energy and Industrial Strategy
-| ministry
-
-|===
-
-== Source Data Format
-
-=== Sanction Announcement Schema
-
-Standard sanction announcements with `sanction_details`:
-
-[source,yaml]
+[source,ruby]
 ----
-# yaml-language-server: $schema=../../schemas/uk-announcement.yml
----
-id: uk/rus0141
-announcement:
-  title: "Asset freeze and travel ban imposed on Rustam Temirgaliev"
-  url: "https://www.gov.uk/government/publications/..."
-  publish_date: "2020-12-31"
-  publish_time: "00:01"                      # Optional: HH:MM format
-  document_type: uk/regulation
-  authority: uk/ofsi
-  publisher: uk/hmt
-  lang: en
+require "yaml"
 
-regime: russia
+Dir.glob("processed/*.yaml").sort.each do |path|
+  next if File.basename(path) == "_index.yaml"
 
-sanction_details:
-  - entity:
-      type: person                            # or organization, vessel, aircraft
-      name:
-        full_name: "Rustam Ilmirovich Temirgaliev"
-        script: Latn
-        first_name: Rustam
-        last_name: Temirgaliev
-      aliases:
-        - "Rustam Ilmyrovych Temirgaliev"
-        - "Рустам Iльмирович ТЕМIРГАЛIЄВ"
-      identifiers:
-        - type: "unique_id"
-          value: "RUS0141"
-        - type: "ofsi_group_id"
-          value: "12924"
-      addresses:
-        - country: "Ukraine"
-          country_code: UA
-          city: "Simferopol"
-
-    measures:
-      - type: asset_freeze
-        description:
-          en: "All funds and economic resources belonging to or owned by this person are frozen"
-      - type: travel_ban
-        description:
-          en: "Travel restrictions apply to this individual"
-      - type: trust_services_sanctions
-        description:
-          en: "Trust services sanctions apply"
-      - type: director_disqualification_sanction
-        description:
-          en: "Director disqualification sanction imposed on 09/04/2025"
-
-    reasons:
-      - category: "territorial_integrity"
-        description:
-          en: |
-            As former Deputy Prime Minister of Crimea, Temirgaliev played a relevant role
-            in the decisions taken by the 'Supreme Council' concerning the 'referendum'
-            of 16 March 2014 against the territorial integrity of Ukraine...
-
-    period:
-      effective_date: "2020-12-31"
-      is_indefinite: true
-
-legal_citations:
-  - legal_instrument_id: uk/russia-sanctions-regulation-2019
-    citation_type: legal_basis
-
-group_id: uk/2020-12-31-temirgaliev
+  record = YAML.safe_load_file(path)
+  name = record["names"]["names"].find { |n| n["name_type"].casecmp?("Primary Name") }
+  text = name && (1..6).map { |i| name["name#{i}"] }.compact.join(" ")
+  puts [record["unique_id"], record["individual_entity_ship"], text].join("\t")
+end
 ----
 
-=== UK-Specific Measure Types
+Python:
 
-[cols="1,3"]
-|===
-| Measure Type | Description
-
-| `asset_freeze`
-| Financial sanctions - freeze of assets
-
-| `travel_ban`
-| Travel restrictions - entry ban
-
-| `arms_embargo`
-| Restrictions on arms trade
-
-| `trust_services_sanctions`
-| Restrictions on trust services
-
-| `director_disqualification`
-| Disqualification from director positions
-
-|===
-
-=== Entity Types
-
-The UK sanctions list contains the following entity types:
-
-Person:: Individual persons subject to sanctions
-Organization:: Legal entities, companies, and organizations
-Vessel:: Ships and maritime vessels subject to sanctions
-Aircraft:: Aircraft subject to sanctions
-
-== Validation
-
-The validation process checks all YAML files against their corresponding schemas:
-
-[source,shell]
+[source,python]
 ----
-bundle exec rake validate
+import glob
+import os
+import yaml
+
+for path in sorted(glob.glob("processed/*.yaml")):
+    if os.path.basename(path) == "_index.yaml":
+        continue
+    with open(path, encoding="utf-8") as f:
+        record = yaml.safe_load(f)
+    names = record["names"]["names"]
+    name = next((n for n in names if n["name_type"].lower() == "primary name"), None)
+    text = " ".join(name[f"name{i}"] for i in range(1, 7) if name.get(f"name{i}")) if name else ""
+    print(record["unique_id"], record["individual_entity_ship"], text, sep="\t")
 ----
 
-The validator determines schema type based on:
-
-. File path patterns (e.g., `sanction-lists/` → announcement schema)
-. Data structure (e.g., presence of `sanction_details`)
-
-== Harmonized Data Format
-
-After harmonization, entities are transformed into JSON-LD format using the
-Ammitto gem's harmonized models.
-
-=== Entity (JSON-LD)
-
-[source,json]
-----
-{
-  "@context": "https://www.ammitto.org/schema/v1/context.jsonld",
-  "@id": "https://www.ammitto.org/entity/uk/rus0141",
-  "@type": "PersonEntity",
-  "names": [
-    {
-      "@type": "NameVariant",
-      "fullName": "Rustam Ilmirovich Temirgaliev",
-      "script": "Latn",
-      "isPrimary": true
-    }
-  ],
-  "sanctionEntries": [
-    {
-      "@id": "https://www.ammitto.org/entry/uk/consolidated-list/rus0141",
-      "@type": "SanctionEntry",
-      "authority": {
-        "@id": "https://www.ammitto.org/authority/uk/ofsi",
-        "name": "Office of Financial Sanctions Implementation"
-      },
-      "regime": {
-        "@type": "SanctionRegime",
-        "name": "Russia Sanctions"
-      },
-      "effects": [
-        {
-          "@type": "SanctionEffect",
-          "effectType": "asset_freeze",
-          "scope": "full"
-        }
-      ],
-      "status": "active",
-      "period": {
-        "@type": "TemporalPeriod",
-        "effectiveDate": "2020-12-31",
-        "isIndefinite": true
-      }
-    }
-  ]
-}
-----
-
-=== IRI Structure
-
-All resources use normalized IRIs:
-
-```
-# Entity (list-agnostic)
-https://www.ammitto.org/entity/uk/{local_id}
-
-# Entry (list-specific)
-https://www.ammitto.org/entry/uk/{list_type}/{local_id}
-
-# List
-https://www.ammitto.org/list/uk/{list_type}
-
-# Legal Instrument
-https://www.ammitto.org/legal-instrument/uk/{instrument_id}
-
-# Authority
-https://www.ammitto.org/authority/uk/{authority_id}
-```
-
-=== Available List Types
-
-The UK has one list type: `consolidated-list`
-
-== Knowledge Graph Integration
-
-This repository's YAML data feeds into the Ammitto knowledge graph.
-
-Harmonized JSON-LD for this source:
+The same list, harmonized with the other sources into JSON-LD:
 https://www.ammitto.org/api/v1/sources/uk.jsonld
 
-== Directory Structure
+== Updates
 
-```
-.
-├── processed/              # One YAML file per entity, plus _index.yaml
-├── sources/                # Source YAML data
-│   ├── sanction-lists/     # Sanction announcements
-│   ├── sanction-updates/   # Modification announcements
-│   ├── legal-instruments/  # Legal instruments
-│   └── supporting/         # Reference data
-├── schemas/                # JSON Schema definitions
-│   ├── uk-announcement.yml
-│   ├── uk-legal-instrument.yml
-│   └── uk-measure-modification.yml
-├── lib/                    # Ruby libraries
-│   └── ammitto/
-│       └── data_uk/
-│           └── validator.rb
-├── Rakefile                # Validation task
-└── README.adoc             # This file
-```
+The `Fetch Data` workflow (`.github/workflows/fetch.yml`) downloads the list
+every day at 06:00 UTC and commits any change to `processed/`. It runs with
+`--prune`, so a designation the FCDO has removed is deleted here on the next
+fetch.
 
-== Updating Data
+== Maintaining the data
 
-Data can be updated using the ammitto gem:
+The link:.github/workflows/fetch.yml[fetch workflow] uses Ruby 3.4 and Bundler.
+To refresh `processed/` locally, install the link:Gemfile[Gemfile] dependencies
+and run the same command from the repository root:
 
 [source,shell]
 ----
-# From the root of this repository
+bundle install
 bundle exec ammitto fetch uk --format yaml --output-dir processed --verbose --prune
 ----
 
-== Related Repositories
+This regenerates `processed/` and removes entries absent from the fetched
+list. Fetching and parsing are implemented in the
+https://github.com/ammitto/ammitto[Ammitto gem].
 
-* https://github.com/ammitto/ammitto[ammitto] - Main Ruby gem with harmonization
-* https://github.com/ammitto/data[data] - Harmonized knowledge graph output
-* https://github.com/ammitto/ammitto.github.io[ammitto.github.io] - Website with search
-* https://github.com/ammitto/data-cn[data-cn] - China sanctions data
-* https://github.com/ammitto/data-eu[data-eu] - EU sanctions data
-* https://github.com/ammitto/data-un[data-un] - UN sanctions data
-* https://github.com/ammitto/data-us[data-us] - US OFAC sanctions data
+For edits to the curated samples and reference data in `sources/`, run
+`bundle exec rake validate`. The link:Rakefile[Rakefile] checks only those
+source files against `schemas/`.
 
 == License
 
 Data in this repository is sourced from official UK government publications
 and is subject to UK Open Government Licence terms. The data processing
 code is part of the Ammitto project.
+
+== Related
+
+* https://www.ammitto.org[ammitto.org]: search across all sources
+* https://github.com/ammitto/ammitto[ammitto]: the Ruby gem that fetches and harmonizes this data
