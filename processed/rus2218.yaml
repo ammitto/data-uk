@@ -17,6 +17,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -35,3 +36,17 @@ uk_statement_of_reasons: "\nNORTH SKY (IMO 9953523) \nis involved in activity wh
   in carrying a good from a place in Russia to a third country that could contribute
   to destabilising Ukraine or undermining or threatening the territorial integrity,
   sovereignty or independence of Ukraine. \n"
+ship_details:
+  ship:
+    imo_numbers:
+    - IMO9953523
+    current_owner_operators:
+    - White Fox Ship Management FZCO
+    current_believed_flags:
+    - Panama
+    types_of_ship:
+    - LNG Tanker
+    tonnages:
+    - '115519'
+    years_built:
+    - '2024'

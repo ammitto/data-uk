@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,17 @@ addresses:
     address_line2: Azov German National District
     address_line6: Omsk Oblast
     address_country: Russia
+individual_details:
+  individual:
+    dobs:
+    - '1991-04-28'
+    positions:
+    - Chief of staff and deputy battalion commander, 2nd Motor Rifle Battalion, 4th
+      Guards Military Base, military unit 66421, 58th Combined Arms Army, Southern
+      Military District; rank of major; call sign “Kadet”
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Omsk Oblast
+        country_of_birth: Russia

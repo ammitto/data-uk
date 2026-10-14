@@ -55,6 +55,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -73,3 +74,23 @@ other_information: 'Former RCD-G General. Founder, National Congress for the Peo
   Nkunda’s lawyers appealed with the Rwandan Military Court. INTERPOL-UN Security
   Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5270703'
 uk_statement_of_reasons: "\n"
+titles:
+- General
+individual_details:
+  individual:
+    dobs:
+    - '1967-02-06'
+    - '1967-02-02'
+    nationalities:
+    - Congo (Democratic Republic)
+    positions:
+    - Former RCD-G General
+    - Founder of the National Congress for the People’s Defense
+    - Officer for the Rwandan Patriotic Front (RPF)
+    - Senior Officer for the Rally for Congolese Democracy-Goma (RCD-G)
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: North Kivu/Rutshuru
+        country_of_birth: Congo (Democratic Republic)

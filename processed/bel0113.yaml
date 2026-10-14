@@ -41,6 +41,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -61,3 +62,13 @@ uk_statement_of_reasons: "\nIn her former position as assistant prosecutor at th
   therefore is or has been involved in undermining democracy and the rule of law in
   Belarus, repressing civil society and the democratic opposition in Belarus, and
   for serious human rights violations.   \n"
+individual_details:
+  individual:
+    dobs:
+    - '1998-03-12'
+    nationalities:
+    - Belarus
+    positions:
+    - Former Assistant Prosecutor at the Frunzensky District Court in Minsk
+    genders:
+    - Female

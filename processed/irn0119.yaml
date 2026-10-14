@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,11 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Gholamreza Ziyayi, in his former positions as Director of Evin Prison and Director of Raja’i Shahr prison is an involved person under the Iran (Sanctions) Regulations 2023 because he has been involved in the commission of serious human rights violations in Iran including being involved in, responsible for, supporting and facilitating conduct that amounts to serious violations of the right to life, and the right not to be subjected to torture and cruel, inhuman or degrading treatment or punishment.
+individual_details:
+  individual:
+    nationalities:
+    - Iran
+    positions:
+    - Former Director of Evin Prison
+    genders:
+    - Male

@@ -17,6 +17,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -35,3 +36,15 @@ uk_statement_of_reasons: "\nVELIKIY NOVGOROD (IMO 9630004) is involved in activi
   in carrying a good from a place in Russia to a third country that could contribute
   to destabilising Ukraine or undermining or threatening the territorial integrity,
   sovereignty or independence of Ukraine. \n"
+ship_details:
+  ship:
+    imo_numbers:
+    - IMO9630004
+    current_believed_flags:
+    - Barbados
+    types_of_ship:
+    - LNG Tanker
+    tonnages:
+    - '113876'
+    years_built:
+    - '2014'

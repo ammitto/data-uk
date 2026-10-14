@@ -31,6 +31,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -45,3 +46,13 @@ other_information: Important employee at Scientific Studies and Research Centre 
 uk_statement_of_reasons: |2-
 
   Walid Zughaib is the Director of Institute 2000, the division of the Scientific Studies and Research Centre (SSRC) responsible for mechanical development and production for Syria’s chemical weapons programme. As a result of his senior position within Institute 2000, he is also associated with the designated entity SSRC.
+titles:
+- Doctor
+individual_details:
+  individual:
+    nationalities:
+    - Syria
+    positions:
+    - Head of Institute 2000 of the SSRC
+    genders:
+    - Male

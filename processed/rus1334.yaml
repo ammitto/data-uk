@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -44,3 +45,19 @@ other_information: 'Transport sanction: where transport sanctions apply, a ship 
 uk_statement_of_reasons: |2-
 
   Vagit Yusufovich ALEKPEROV is President and CEO and an executive member of the Board of Directors of Lukoil, Russia’s second largest oil producer. Through his directorship of Lukoil, ALEKPEROV continues to obtain a benefit from and/or continues to support the Government of Russia by working as a director (whether executive or non-executive), trustee, or equivalent, of entities carrying on business in sectors of strategic significance to the Government of Russia, namely the Russian energy sector. The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1950-01-09'
+    nationalities:
+    - Russia
+    positions:
+    - PJSC LUKOIL President and CEO
+    - Executive Member of PJSC LUKOIL Board of Directors
+    - Chairman of PJSC LUKOIL Management Committee
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Baku
+        country_of_birth: Azerbaijan

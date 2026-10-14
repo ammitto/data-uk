@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -49,3 +50,23 @@ other_information: Injai was listed on 18 May 2012 pursuant to paragraph 4 of re
 uk_statement_of_reasons: |2
 
   António Injai was personally involved in planning and leading the mutiny of 1 April 2010, culminating with the illegal apprehension of the Prime Minister, Carlo Gomes Junior, and the then Chief of Staff of the Armed Forces, José Zamora Induta; during the 2012 electoral period, in his capacity as Chief of Staff of the Armed Forces, Injai made statements threatening to overthrow the elected authorities and to put an end to the electoral process; António Injai has been involved in the operational planning of the coup d'état of 12 April 2012. In the aftermath of the coup, the first communiqué by the ‘Military Command’ was issued by the Armed Forces General Staff, which was led by General Injai.
+individual_details:
+  individual:
+    dobs:
+    - '1955-01-20'
+    nationalities:
+    - Guinea-Bissau
+    positions:
+    - Lieutenant General
+    - Chief of Staff of the Armed Forces
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Encheia, Sector de Bissorá, Região de Oio
+        country_of_birth: Guinea-Bissau
+    passport_details:
+      passports:
+      - number: AAID00435
+        additional_information: Diplomatic Passport Issued 18 February 2010 in Guinea-Bissau.
+          Expires 18 February 2013

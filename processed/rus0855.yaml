@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,8 @@ uk_statement_of_reasons: "\nTatyana KOVALCHUK is the wife of Yuri KOVALCHUK (RUS
   from her husband. Accordingly, there are reasonable grounds to suspect that she
   is herself an “involved person” under the Russia (Sanctions) (EU Exit) Regulations
   2019 \n The trust services sanctions were imposed on 21/03/2023."
+individual_details:
+  individual:
+    passport_details:
+      passports:
+      - number: 51N0128733

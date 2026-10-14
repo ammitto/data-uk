@@ -38,6 +38,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -63,3 +64,23 @@ addresses:
     address_line5: 'P.O. Box: 1149'
     address_line6: Damascus
     address_country: Syria
+phone_numbers:
+- "+963 11 4474579"
+- "+963 11 5810718"
+- "+963 11 5810719"
+- "+963(11)5810718"
+- "+963(11)5810719"
+- '113781'
+- '113788'
+- 434399-434001
+- '4525965'
+- '4526032'
+- '4529991'
+- "+963 011 5810719"
+- "+963-11-5810718"
+email_addresses:
+- shaamco@mail.sy
+- info@metallic-sy.com
+websites:
+- www.metallic-sy.org
+- www.metallic-sy.com

@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -42,3 +43,12 @@ addresses:
     address_line2: Altai Territory
     address_line3: City of Barnaul
     address_line4: St. Pushkin 40
+individual_details:
+  individual:
+    positions:
+    - Military Commissar of Altai Territory 
+    genders:
+    - Male
+    national_identifier_details:
+      national_identifiers:
+      - additional_information: TIN 2225028954 

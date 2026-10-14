@@ -34,6 +34,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -63,3 +64,29 @@ addresses:
     address_line3: Jumeirah Lake Towers
     address_line4: Dubai
     address_country: United Arab Emirates
+phone_numbers:
+- "-4874878"
+websites:
+- http://www.amangroupco.com
+individual_details:
+  individual:
+    dobs:
+    - dd/05/1973
+    nationalities:
+    - Syria
+    - Turkey
+    positions:
+    - CEO of Aman Group
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Latakia
+        country_of_birth: Syria
+    passport_details:
+      passports:
+      - number: U 09471711
+        additional_information: 'Turkish Passport. Expiry date: 21 July 2024'
+    national_identifier_details:
+      national_identifiers:
+      - number: '784197341865828 - 06010274705 '

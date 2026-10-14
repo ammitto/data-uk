@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -33,3 +34,14 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Mohammad KARAMI is an involved person within the meaning of the Iran (Sanctions) Regulations 2023 as in his former role as the Islamic Revolutionary Guard Corps (IRGC) Ground Forces Commander for the Quds Operational Base, he is or has been responsible for, engaging in, providing support for, or promoting serious human rights violations in Iran through the repression of recent protests in Iran, leading to violations of the right of life and violations of the right to freedom of expression and peaceful assembly.
+individual_details:
+  individual:
+    dobs:
+    - '1966-01-27'
+    nationalities:
+    - Iran
+    positions:
+    - Former IRGC Ground Forces Commander (Quds Operational Base)
+    - Governor of Sistan and Baluchestan Province
+    genders:
+    - Male

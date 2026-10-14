@@ -29,6 +29,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -49,3 +50,21 @@ uk_statement_of_reasons: "\nYevgeniy Viktorovich Prigozhin is or has been involv
   its activities in Libya in support of Khalifa Haftar’s Libyan National Army, threatens
   the peace, stability and security of Libya or undermines its transition to a democratic,
   peaceful and independent country.\n"
+individual_details:
+  individual:
+    dobs:
+    - '1961-06-01'
+    nationalities:
+    - Russia
+    positions:
+    - Responsible for and support to the Wagner Group; funder and former director
+      of Internet Research Agency
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Leningrad (St Petersburg)
+        country_of_birth: Russia
+    passport_details:
+      passports:
+      - number: 40 07 136936

@@ -37,6 +37,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -49,3 +50,26 @@ other_information: 'Chief of finance of Lashkar-e-Tayyiba (QDe.118). His fatherâ
   was concluded on 21 Feb. 2019. INTERPOL-UN Security Council Special Notice web link:
   https://www.interpol.int/en/notice/search/un/1543491'
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - '1965-03-01'
+    - dd/mm/1955
+    nationalities:
+    - Pakistan
+    birth_details:
+      locations:
+      - town_of_birth: Faisalabad
+        country_of_birth: Pakistan
+    passport_details:
+      passports:
+      - number: AT0712501
+        additional_information: Pakistani number issued on 12 Mar. 2008 (expired 11
+          Mar 2013)
+      - number: A-374184
+        additional_information: Pakistani number
+    national_identifier_details:
+      national_identifiers:
+      - number: '6110125312507'
+        additional_information: Pakistani
+      - number: '24492025390'

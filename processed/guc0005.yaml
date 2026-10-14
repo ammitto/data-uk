@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -34,3 +35,16 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Person identified as responsible for the violent repression and events in Guinea on 28 September 2009 or the aftermath of that violent repression and providing support for, or promoting the violent repression including through the use or threat of violence during the violent repression or in its aftermath.
+individual_details:
+  individual:
+    dobs:
+    - '1968-01-01'
+    nationalities:
+    - Guinea
+    positions:
+    - Commander of the Anti-Drug and Anti-Organized Crime unit
+    genders:
+    - Male
+    passport_details:
+      passports:
+      - number: '710'

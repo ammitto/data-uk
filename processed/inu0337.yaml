@@ -19,6 +19,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -29,3 +30,7 @@ sanctions_imposed_indicators:
 uk_statement_of_reasons: |2
 
   Massoud AKHAVAN-FARD is an involved person under the Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019 on the basis of the following ground: Massoud AKHAVAN-FARD is or has been responsible for, engaging in, providing support for, promoting, or facilitating a relevant nuclear activity, namely the proliferation or development of nuclear weapons in, or for use in, Iran, or an activity that could lead to the development of nuclear weapons in, or for use in, Iran.
+individual_details:
+  individual:
+    nationalities:
+    - Iran

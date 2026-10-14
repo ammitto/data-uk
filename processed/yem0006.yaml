@@ -35,6 +35,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: true
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -58,3 +59,25 @@ addresses:
   addresses:
   - address_line6: Sana'a
     address_country: Yemen
+individual_details:
+  individual:
+    dobs:
+    - '1986-02-05'
+    nationalities:
+    - Yemen
+    positions:
+    - Director, or General Manager of the Criminal Investigation Department (CID),
+      Sana'a based ministry of interior, in Sana'a, Yemen
+    - Brigadier
+    birth_details:
+      locations:
+      - town_of_birth: Razih District, Sa'dah Governorate
+        country_of_birth: Yemen
+    national_identifier_details:
+      national_identifiers:
+      - number: '10010095104'
+        additional_information: "(Yemen National Identification number, issued 26
+          December 2013)"
+      - number: '20432'
+        additional_information: "(Yemen military identification number, issued in
+          2018)"

@@ -29,6 +29,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -49,3 +50,21 @@ addresses:
     address_line3: Domodedovo City
     address_line6: Moscow
     address_country: Russia
+phone_numbers:
+- "+7 485 770-91-49"
+- "+7 496 644-70-00"
+- "+7 916 795-34-16"
+- "+7 985 164-31-37"
+- "+7 495 598-50-00"
+email_addresses:
+- info@cmk-group.com
+- info@smk.ru
+websites:
+- cmk-group.ru
+entity_details:
+  entity:
+    business_registration_numbers:
+    - INN - 5045023416
+    - 'OGRN: 1025005917551'
+    types_of_entity:
+    - Joint Stock Company

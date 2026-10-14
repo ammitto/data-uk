@@ -18,6 +18,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: true
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -32,3 +33,11 @@ other_information: Pursuant to paragraph 6 of Security Council Resolution 2371 (
   a Belize-flagged vessel, is now operating as a DPRK-flagged vessel named the KUMJINGANG3
   or Kum Jin Gang 3.
 uk_statement_of_reasons: "\n"
+ship_details:
+  ship:
+    imo_numbers:
+    - '8791667'
+    current_believed_flags:
+    - North Korea
+    previous_flags:
+    - Belize

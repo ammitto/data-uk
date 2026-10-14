@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: true
   chartering_of_ships: true
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,16 @@ uk_statement_of_reasons: "\n"
 addresses:
   addresses:
   - address_country: North Korea
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1948
+    nationalities:
+    - DPRK
+    positions:
+    - Former Secretary of the Worker’s Party and Member of the Political Bureau
+    - Former Alternate Member of the Political Bureau of the Workers’ Party of Korea
+      and First Vice Director of the Munitions Industry Department
+    - Vice Chairman of the Workers’ Party of Korea (WPK) Central Military  Commission
+    genders:
+    - Male

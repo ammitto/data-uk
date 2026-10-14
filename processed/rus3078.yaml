@@ -29,6 +29,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -47,3 +48,16 @@ addresses:
     address_line3: Primorsky region
     address_line6: VLADIVOSTOK
     address_country: Russia
+phone_numbers:
+- "+7 (423) 242-42-42 "
+- " +7 (423) 242-13-09"
+email_addresses:
+- bank@pskb.com
+websites:
+- Pskb.com
+entity_details:
+  entity:
+    business_registration_numbers:
+    - "Russian TIN 2539013067 \nRussia KPP – 254001001 \nCentral Bank Licence - 2733"
+    types_of_entity:
+    - Financial Institution

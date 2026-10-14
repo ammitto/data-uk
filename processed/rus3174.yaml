@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -37,3 +38,10 @@ addresses:
   - address_line1: Volgogradsky Prospekt, 45a
     address_line6: Moscow
     address_country: Russia
+entity_details:
+  entity:
+    business_registration_numbers:
+    - |-
+      Russia INN - 7743444827
+      Russia OGRN - 1247700239270
+      Russia KPP - 772201001

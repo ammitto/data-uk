@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -44,3 +45,27 @@ addresses:
     address_line2: 10-1-58
     address_line3: MOSCOW
     address_country: Russia
+phone_numbers:
+- 9562236 (08 Apr 2010 - ) 74955098211 (29 Aug 2007 - )  5098211 (14 Jun 2006 - )
+email_addresses:
+- ELENA@VIPMASTER.RU
+individual_details:
+  individual:
+    dobs:
+    - '1969-03-23'
+    nationalities:
+    - Russia
+    positions:
+    - Deputy Prime Minister and Minister of Industry and Trade
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Murmansk
+        country_of_birth: Russia
+    passport_details:
+      passports:
+      - number: '511787479'
+        additional_information: '0221634 (Expiry: 04 Jun 2003)   1787479 (Expiry:
+          07 May 2008)   512584601 (Expiry: 07 May 2008)   513699494 (Expiry: 07 May
+          2008)   513962978 (Expiry: 27 Mar 2013) '

@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,17 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   As Head of the Belarusian State Television and Radio Company, Ivan Eismont is responsible for the dissemination of state propaganda in public media. This includes using media channels to support the President’s continuation of his term in office, despite the fraudulent presidential elections that took place on 9 August 2020, and the subsequent and repeated violent crackdown on peaceful and legitimate protests. Eismont made public statements criticising the peaceful protesters and refused to provide media coverage of the protests.
+individual_details:
+  individual:
+    dobs:
+    - '1977-01-20'
+    nationalities:
+    - Belarus
+    positions:
+    - Chairman of the National State Television and Radio Company since February 2018
+      and Head of Beltelradio Company
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Grodno

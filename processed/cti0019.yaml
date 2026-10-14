@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -32,3 +33,15 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Khalid Mishaal was the leader of Hamas from 2004 until 2014 and maintains a leadership role in the Shura Council of Hamas. He has directed the group’s violent attacks, including the targeting of civilians.
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1956
+    positions:
+    - Senior Hamas Official
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Silwad, Ramallah, West Bank (Palestinian Authority)
+        country_of_birth: Occupied Palestinian Territories

@@ -71,6 +71,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -85,3 +86,14 @@ other_information: 'Responsible for Usama bin Laden’s (deceased) security. Hai
   concluded on 21 Feb. 2019. INTERPOL-UN Security Council Special Notice web link:
   https://www.interpol.int/en/notice/search/un/4681065 click here'
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - '1960-04-11'
+    - '1963-04-11'
+    nationalities:
+    - Egypt
+    birth_details:
+      locations:
+      - town_of_birth: Monufia Governate
+        country_of_birth: Egypt

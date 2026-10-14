@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -40,3 +41,13 @@ uk_statement_of_reasons: "\nVladimir Vladislavovich KOVALENKO is an “involved 
   re-education of Ukrainian children; and 2) obtaining a benefit from or supporting
   the Government of Russia in his role as the Chief of Staff of Yunarmia, an organisation
   responsible for a number of children’s camps in Sevastopol, Crimea. \n"
+individual_details:
+  individual:
+    dobs:
+    - '1962-02-04'
+    nationalities:
+    - Russia
+    positions:
+    - Chief of Staff of Yunarmia in Sevastopol, Crimea
+    genders:
+    - Male

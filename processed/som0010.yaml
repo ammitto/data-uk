@@ -44,6 +44,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -58,3 +59,22 @@ uk_statement_of_reasons: "\n"
 addresses:
   addresses:
   - address_country: Somalia
+individual_details:
+  individual:
+    dobs:
+    - '1986-05-06'
+    nationalities:
+    - United States
+    - Syria
+    birth_details:
+      locations:
+      - town_of_birth: Alabama
+        country_of_birth: United States
+    passport_details:
+      passports:
+      - number: '403062567'
+        additional_information: "(US)"
+    national_identifier_details:
+      national_identifiers:
+      - number: 423-31-3021
+        additional_information: Social Security Number (US)

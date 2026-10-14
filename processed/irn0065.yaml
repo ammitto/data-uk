@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -34,3 +35,11 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Prosecutor-General of Qom (2008-2017), now head of the directorate general for prisons. He was responsible for the arbitrary detention and maltreatment of dozens of offenders in Qom. He was complicit in a grave violation of the right to due process, contributing to the excessive and increasing use of the death penalty and a sharp increase in executions in 2009/2010.
+individual_details:
+  individual:
+    positions:
+    - Head of the Directorate General for prisons Prosecutor-General of Qom (2008-17)
+    - Director General of Supervision of Courts and Officers of the Attorney General’s
+      Office; Assistant Prosecutor in Supreme Court
+    genders:
+    - Male

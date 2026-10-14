@@ -19,6 +19,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -32,3 +33,9 @@ uk_statement_of_reasons: "\nHamid FAZELI is an involved person within the meanin
   is or has been involved in hostile activity by the Government of Iran, namely giving
   support or assistance to armed groups threatening, planning or conducting activity
   intended to cause the destabilisation of Israel. \n"
+titles:
+- Doctor
+individual_details:
+  individual:
+    positions:
+    - Commander, IRGC Unit 340

@@ -27,6 +27,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -41,3 +42,21 @@ other_information: 'Pursuant to paragraphs 8(d) of Security Council resolution 1
   DPRK goods. Listed as asset of Hapjanggang Shipping Corp, (OFSI ID: 13629, UN Reference
   Number: UN Ref KPe.058)'
 uk_statement_of_reasons: "\n"
+ship_details:
+  ship:
+    imo_numbers:
+    - '9066540'
+    current_owner_operators:
+    - Hapjanggang Shipping Corp
+    current_believed_flags:
+    - North Korea
+    previous_flags:
+    - Cambodia
+    types_of_ship:
+    - General Cargo / Multi Purpose
+    tonnages:
+    - '1497'
+    lengths:
+    - '75'
+    years_built:
+    - '1993'

@@ -37,6 +37,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -48,3 +49,11 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Colonel Khazalbek Atabekov is one of four Deputy Commanders of the Internal Troops of the Ministry of Internal Affairs of Belarus. In his role as Deputy Commander, he is responsible for the actions of the Internal Troops and therefore responsible for the serious human rights violations and abuses against detained protestors and journalists, which they carried out following the election of 9 August.
+individual_details:
+  individual:
+    dobs:
+    - '1967-03-18'
+    positions:
+    - Deputy Commander of Internal Troops of the Ministry of Internal Affairs of Belarus
+    genders:
+    - Male

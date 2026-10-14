@@ -70,6 +70,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -93,3 +94,19 @@ addresses:
   addresses:
   - address_country: Iraq
   - address_country: Syria
+titles:
+- Doctor
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1971
+    nationalities:
+    - Iraq
+    birth_details:
+      locations:
+      - town_of_birth: Samarra
+        country_of_birth: Iraq
+    national_identifier_details:
+      national_identifiers:
+      - number: '0134852'
+        additional_information: Ration card no.

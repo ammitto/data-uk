@@ -39,6 +39,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -56,3 +57,23 @@ addresses:
   - address_line1: Sarana Zadran Village
     address_line6: Paktia Province
     address_country: Afghanistan
+titles:
+- Haji
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1960
+    - dd/mm/1961
+    - dd/mm/1962
+    - dd/mm/1963
+    - dd/mm/1964
+    - '1966-01-01'
+    - dd/mm/1958
+    - dd/mm/1959
+    nationalities:
+    - Afghanistan
+    birth_details:
+      locations:
+      - town_of_birth: Sarana village, Garda Saray area, Waza Zadran District, Paktia
+          Province
+        country_of_birth: Afghanistan

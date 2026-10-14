@@ -42,6 +42,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -57,3 +58,18 @@ other_information: 'Appointed commander of the Sudan People’s Liberation Army 
   policemen allied with the government. INTERPOL-UN Security Council Special Notice
   web link: https://www.interpol.int/en/notice/search/un/5879069'
 uk_statement_of_reasons: "\n"
+titles:
+- Major General
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1961
+    nationalities:
+    - South Sudan
+    positions:
+    - Commander of the Sudan People’s Liberation Army in Opposition (SPLAIO) Special
+      Division
+    passport_details:
+      passports:
+      - number: R00012098
+        additional_information: South Sudan

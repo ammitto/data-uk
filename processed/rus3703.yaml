@@ -18,6 +18,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -51,3 +52,16 @@ addresses:
     address_line3: Vashi
     address_line6: Mumbai
     address_country: India
+phone_numbers:
+- "+91 8655874597"
+email_addresses:
+- management@frionshipmanagement.com
+websites:
+- https://www.frionshipmanagement.com
+entity_details:
+  entity:
+    business_registration_numbers:
+    - 0427410 (IMO Company Number)
+    - ACU-3032 (Indian Ministry of Corporate Affairs ID Number)
+    types_of_entity:
+    - Limited Liability Partnership

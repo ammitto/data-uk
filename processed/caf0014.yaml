@@ -46,6 +46,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -68,3 +69,33 @@ addresses:
     address_country: Chad
   - address_line5: Am Dafock
     address_line6: Vakaga prefecture
+individual_details:
+  individual:
+    dobs:
+    - '1965-10-05'
+    - '1965-03-03'
+    nationalities:
+    - Chad
+    - Central African Republic
+    positions:
+    - President of the Conseil National de Défense et de Sécurité (CNDS) and military
+      leader of the Front Populaire pour la Renaissance de la Centrafrique
+    birth_details:
+      locations:
+      - town_of_birth: Ndinaba
+        country_of_birth: Chad
+      - town_of_birth: Kobo
+        country_of_birth: Central African Republic
+      - town_of_birth: Kabo
+        country_of_birth: Central African Republic
+    passport_details:
+      passports:
+      - number: 06FBO2262
+        additional_information: CAR diplomatic passport. Issued on 22 February 2007,
+          expired on 21 February 2012.
+      - number: 06FBO2262
+        additional_information: CAR diplomatic passport. Issued on 22 February 2007,
+          expired on 21 February 2012.
+      - number: SA0020249
+        additional_information: Congo service passport. Issued on 22 January 2019,
+          expires on 21 January 2022

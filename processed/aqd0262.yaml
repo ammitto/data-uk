@@ -42,6 +42,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -70,3 +71,22 @@ addresses:
     address_line5: Sukoharjo
     address_line6: Jawa Tengah
     address_country: Indonesia
+titles:
+- Ustad
+individual_details:
+  individual:
+    dobs:
+    - dd/09/1958
+    nationalities:
+    - Indonesia
+    - Indonesia
+    birth_details:
+      locations:
+      - town_of_birth: Demak
+        country_of_birth: Indonesia
+    national_identifier_details:
+      national_identifiers:
+      - number: " 3311092409580002"
+        additional_information: 'National Identity Card '
+      - number: '3311092409580003'
+        additional_information: National Identity Card

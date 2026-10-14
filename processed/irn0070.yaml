@@ -19,6 +19,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -30,3 +31,15 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Member of the Supreme Cyberspace Council. Member of the City Council of Tehran. Former Minister for Information and Communications (2009-2012). As Minister for Information, he was one of the top officials in charge of censorship and control of internet activities and also all types of communications (in particular mobile phones). During interrogations of political detainees, the interrogators make use of the detainees' personal data, mail and communications. On several occasions following the 2009 presidential election and during street demonstrations, mobile lines and text messaging were blocked, satellite TV channels were jammed and the internet locally suspended or at least slowed down.
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1957
+    positions:
+    - Member of the Supreme Cyberspace Council, Member of Parliament for Tehran
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Maragheh
+        country_of_birth: Iran

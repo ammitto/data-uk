@@ -39,6 +39,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -60,3 +61,17 @@ addresses:
     address_line3: Sumber Agung Magetan
     address_line4: East Java
     address_country: Indonesia
+individual_details:
+  individual:
+    dobs:
+    - '1974-01-31'
+    nationalities:
+    - Indonesia
+    birth_details:
+      locations:
+      - town_of_birth: Sukoharjo
+        country_of_birth: Indonesia
+    national_identifier_details:
+      national_identifiers:
+      - number: '1127083101740003'
+        additional_information: Indonesian. Under name Abdul Rosyid Ridho Ba’asyir.

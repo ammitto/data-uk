@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -33,3 +34,20 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Prosecutor General of Tehran from August 2009 until May 2019. Dolatabadi's office indicted a large number of protesters, including individuals who took part in the December 2009 Ashura Day protests. He ordered the closure of Karroubi's office in September 2009 and the arrest of several reformist politicians, and he banned two reformist political parties in June 2010. His office charged protesters with the charge of Muharebeh, or enmity against God, which carries a death sentence, and denied due process to those facing the death sentence. His office also targeted and arrested reformists, human rights activists, and members of the media, as part of a broad crackdown on the political opposition. In October 2018 he announced to the media that four detained Iranian environmental activists were to be charged with “sowing corruption on earth”, a charge which carries the death penalty. In October 2018 he announced to the media that four detained Iranian environmental activists were to be charged with “sowing corruption on earth”, a charge which carries the death penalty
+individual_details:
+  individual:
+    dobs:
+    - dd/10/1957
+    - dd/mm/1953
+    nationalities:
+    - Iran
+    positions:
+    - Former prosecutor general of Tehran ( Aug 2009-Apr 2019)
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Yazd
+        country_of_birth: Iran
+      - town_of_birth: Isfahan
+        country_of_birth: Iran

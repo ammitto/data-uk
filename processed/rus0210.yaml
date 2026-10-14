@@ -25,6 +25,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,20 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Head of the Service of the Control Point in the "Republic of Crimea and Sevastopol" of the Federal Security Service of the Russian Federation, 1st rank captain. He actively participated in coordinating the actions of the Russian Federation forces against Ukrainian vessels and their crews on 25 November 2018 and thus actively contributed to the consolidation of the illegal annexation of the Crimean peninsula into the Russian Federation, which in turn further undermines the territorial integrity of Ukraine. The trust services sanctions were imposed on 21/03/2023.
+titles:
+- Captain 1st Rank
+individual_details:
+  individual:
+    dobs:
+    - '1976-06-15'
+    nationalities:
+    - Russia
+    positions:
+    - Head of Service of the Control Point in the 'Republic of Crimea and City of
+      Sevastopol' of the Federal Security Service of the Russian Federation
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Ruzaevka, Mordovia
+        country_of_birth: Russia

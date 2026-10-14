@@ -19,6 +19,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -30,3 +31,13 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Myanmar Border Guard Police Officer Tun Naing, commanding officer of the Border Guard Police base in Taung Bazar, during the most intense months of the Rohingya ‘clearance operations’, which commenced on 25 August 2017 and were at their most intense during the following two months.  Tun Naing directly and through his position of command, is responsible for serious human rights violations committed against ethnic minorities in Rakhine state. This includes physical abuse, torture and sexual violence against and detention of Rohingya people.
+titles:
+- Officer
+individual_details:
+  individual:
+    nationalities:
+    - Myanmar
+    positions:
+    - Commanding officer of the Border Guard Police (BGP) base in Taung Bazar
+    genders:
+    - Male

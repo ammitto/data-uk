@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -38,3 +39,17 @@ addresses:
   addresses:
   - address_line5: Prospect Zasyadko.13.
     address_line6: Donetsk
+phone_numbers:
+- "+38 094-912-96-60"
+- "+7 (926) 428-99-51"
+- "+7 (967) 171-27-09"
+- "-287"
+- "-323"
+- "-647"
+- "-774"
+email_addresses:
+- novoross24@mail.ru
+- voenkom.dnr@mail.ru
+- mobilisation@novorossia.co
+websites:
+- http://vk.com/polkdonbassa

@@ -64,6 +64,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -87,3 +88,28 @@ addresses:
     address_line2: Pamulang
     address_line6: Banten
     address_country: Indonesia
+individual_details:
+  individual:
+    dobs:
+    - '1980-08-08'
+    - '1979-03-03'
+    - '1980-08-08'
+    - '1984-05-28'
+    - '1979-12-03'
+    nationalities:
+    - Indonesia
+    birth_details:
+      locations:
+      - town_of_birth: East Lombok, West Nusa Tenggara
+        country_of_birth: Indonesia
+    passport_details:
+      passports:
+      - additional_information: "(information derived from forged Indonesia passport
+          No.S335026)"
+      - number: S335026
+        additional_information: Indonesia number S335026 (forged Indonesian passport).
+    national_identifier_details:
+      national_identifiers:
+      - number: '3219222002.2181558'
+        additional_information: 'Indonesian national identity card number '
+      - number: '2181558'

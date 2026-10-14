@@ -50,6 +50,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -72,3 +73,22 @@ addresses:
     address_line2: Al-Dahima alley
     address_line6: Al-Hudaydah
     address_country: Yemen
+individual_details:
+  individual:
+    dobs:
+    - '1971-11-19'
+    nationalities:
+    - Yemen
+    birth_details:
+      locations:
+      - town_of_birth: Medina
+        country_of_birth: Saudi Arabia
+    passport_details:
+      passports:
+      - number: '541939'
+        additional_information: 'issue date: 31/07/2000, issued in Al-Hudaydah Yemen,
+          name of: Muhammad Muhammad Abdullah Al-Ahdal'
+    national_identifier_details:
+      national_identifiers:
+      - number: '216040'
+        additional_information: 'Yemeni identity card number '

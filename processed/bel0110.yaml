@@ -35,6 +35,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -65,3 +66,22 @@ uk_statement_of_reasons: "\nMikail \nSafarbekovich GUTSERIEV (hereafter GUTSERIE
 addresses:
   addresses:
   - address_country: Russia
+individual_details:
+  individual:
+    dobs:
+    - '1958-03-09'
+    nationalities:
+    - Cyprus
+    - Russia
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Almaty
+        country_of_birth: Kazakhstan
+    passport_details:
+      passports:
+      - number: K00162033
+        additional_information: 'Cypriot Passport, Expiry: 11 Feb 2024'
+      - number: " 55 0344417 "
+        additional_information: 'Russian Passport, Expiry: 20 Feb 2030'

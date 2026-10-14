@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -34,3 +35,18 @@ uk_statement_of_reasons: |2
 
   The Secretary of State considers that there are reasonable grounds to suspect that Elena Igorevna MILSKAYA is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 on the grounds that she is or has been involved in
    destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine as a person who is  responsible for, engages in, provides support for, or promotes policies or actions which destabilise Ukraine or undermine or threaten the territorial integrity, sovereignty or independence of Ukraine. Namely, engaging in, promoting, and providing support for the Government of Russia’s programme for the forced deportation and re-education of Ukrainian children.
+individual_details:
+  individual:
+    dobs:
+    - '1980-12-20'
+    nationalities:
+    - Russia
+    positions:
+    - Chair of the Board of Trustees of the National Centre for Assistance to Missing
+      and Injured Children
+    genders:
+    - Female
+    birth_details:
+      locations:
+      - town_of_birth: Moscow
+        country_of_birth: Russia

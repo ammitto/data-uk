@@ -26,6 +26,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: true
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,23 @@ other_information: Pursuant to paragraph 6 of Security Council Resolution 2371 (
   in a ship-to-ship transfer, likely for oil, with the DPRK vessel MYONG RYU 1 on
   June 2, 2018.
 uk_statement_of_reasons: "\n"
+ship_details:
+  ship:
+    imo_numbers:
+    - '8312497'
+    current_owner_operators:
+    - Ocean Grow International Shipmanagement
+    current_believed_flags:
+    - Panama
+    previous_flags:
+    - Panama
+    - Sierra Leone
+    - South Korea
+    types_of_ship:
+    - Oil Tanker
+    tonnages:
+    - '2998'
+    lengths:
+    - '119'
+    years_built:
+    - '1983'

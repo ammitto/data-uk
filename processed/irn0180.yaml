@@ -31,6 +31,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -42,3 +43,16 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Khaled QADDOUMI is an involved person within the meaning of the Iran (Sanctions) Regulations 2023 on the basis of the following ground: QADDOUMI is or has been involved in hostile activity by an armed group backed by the Government of Iran, namely threatening, planning or conducting activity which is intended to cause the destabilisation of Israel.
+individual_details:
+  individual:
+    dobs:
+    - '1970-10-08'
+    nationalities:
+    - Jordan
+    positions:
+    - Hamas Representative to Iran
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Jordan

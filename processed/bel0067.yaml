@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -40,3 +41,14 @@ addresses:
     address_line2: Orsha Rayon
     address_line6: Vitebsk region
     address_country: Belarus
+individual_details:
+  individual:
+    dobs:
+    - '1959-01-12'
+    nationalities:
+    - Russia
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Bolshoe Babino, Orsha Rayon, Vitebsk region

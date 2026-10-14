@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,9 @@ uk_statement_of_reasons: "\nOleg Yevgenyevich AKSYUTIN (hereafter AKSYUTIN) is t
   in an entity carrying on business in the Russian energy sector, a sector of strategic
   significance to the Government of Russia.  \n The trust services sanctions were
   imposed on 21/03/2023."
+individual_details:
+  individual:
+    dobs:
+    - '1967-05-05'
+    positions:
+    - Deputy Chairman of the Management Board, Gazprom PJSC

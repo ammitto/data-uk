@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,17 @@ uk_statement_of_reasons: |2-
 
   Maksim Borisovich KRASOVSKIY (hereafter KRASOVSKIY) is an editor at InfoRos, an organisation linked to the Government of Russia which spreads disinformation. In his role as an editor at InfoRos, KRASOVSKIY has provided support for and promoted actions and policies which destabilise Ukraine or undermine or threaten the territorial integrity, sovereignty or independence of Ukraine.
    The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1970-01-28'
+    nationalities:
+    - Russia
+    positions:
+    - Editor at InfoRos 
+    genders:
+    - Male
+    passport_details:
+      passports:
+      - number: '4514985443'
+        additional_information: Russian passport

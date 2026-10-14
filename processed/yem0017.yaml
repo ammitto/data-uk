@@ -30,6 +30,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: true
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -41,3 +42,7 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2
 
   Muhammad Fadl Abd Al-NABI, in his role as Commander of Houthi Naval Forces is and has been involved in acts which threaten the peace, security and stability of Yemen, namely being responsible for and engaging in attacks against shipping in the Red Sea.
+individual_details:
+  individual:
+    positions:
+    - Commander of Houthi Naval Forces

@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -43,3 +44,24 @@ addresses:
   addresses:
   - address_line6: The Autonomous Republic of Crimea and the city of Sevastopol
     address_country: Ukraine
+individual_details:
+  individual:
+    dobs:
+    - '1980-03-18'
+    nationalities:
+    - Ukraine
+    - Russia
+    positions:
+    - Former Member of the State Duma of the Russian Federation elected from the illegally
+      annexed Autonomous Republic of Crimea
+    - First Deputy Chairperson of the Committee for Security and countering corruption
+      of the State Duma of the Russian Federation
+    - Former Prosecutor of the so-called Republic of Crimea”
+    genders:
+    - Female
+    birth_details:
+      locations:
+      - town_of_birth: Mikhailovka, Voroshilovgrad region
+        country_of_birth: Ukrainian SSR (now Ukraine)
+      - town_of_birth: Yevpatoria
+        country_of_birth: Ukrainian SSR (now Ukraine)

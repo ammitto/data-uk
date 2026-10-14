@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -38,3 +39,25 @@ uk_statement_of_reasons: "\nThere are reasonable grounds to suspect that Brian S
   involved in terrorist activity by facilitating terrorism. 4. SHERIDAN is associated
   with persons who are or have been involved in terrorist activity, namely the New
   IRA, and various supporters thereof. \n"
+titles:
+- Mr
+individual_details:
+  individual:
+    dobs:
+    - '1976-11-15'
+    nationalities:
+    - United Kingdom
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Armagh
+        country_of_birth: United Kingdom
+    passport_details:
+      passports:
+      - number: '651415140'
+        additional_information: UK Passport
+    national_identifier_details:
+      national_identifiers:
+      - number: JG837377B
+        additional_information: National Insurance number

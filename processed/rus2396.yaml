@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -50,3 +51,27 @@ addresses:
     address_line5: Jiangsu
     address_line6: Suzhou City
     address_country: China
+phone_numbers:
+- "+86 0512-66936931"
+- "+86 512 6621 2797"
+email_addresses:
+- ps_bod@parsun.com.cn
+- liuying@parsun.com.cn
+- sales@parsun.com.cn
+websites:
+- www.parsun.tmall.com
+- www.parsun-endumax.com
+- www.parsun.com.cn
+- www.parsunpower.com
+entity_details:
+  entity:
+    business_registration_numbers:
+    - Unified Social Credit Code - 913205007615052498; Company Registration Number
+      -  320500400020269
+    types_of_entity:
+    - Limited Liability Company
+    parent_companies:
+    - SUZHOU SHUNYI INVESTMENT CO., LTD
+    subsidiaries:
+    - 苏州百胜动力科技有限公司 – SUZHOU YUM POWER TECHNOLOGY CO., LTD.; 苏州佰昇国际贸易有限公司 - SUZHOU
+      BAISHENG INTERNATIONAL TRADE CO., LTD.

@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -37,3 +38,10 @@ addresses:
   - address_line1: 44 Zakharova Str.
     address_line6: Minsk
     address_country: Belarus
+phone_numbers:
+- "+ 375 17 3238401"
+- "+ 375 17 3237805"
+email_addresses:
+- tae@transaviaexport.com 
+websites:
+- www.transaviaexport.com 

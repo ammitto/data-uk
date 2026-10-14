@@ -27,6 +27,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,19 @@ uk_statement_of_reasons: |2-
 
   Igor Ivanovich SECHIN (hereafter referred to as SECHIN) is a prominent Russian businessman with close personal ties to Vladimir Putin. SECHIN is Chief Executive Officer, Chairman of the Management Board and Deputy Chairman of the Board of Directors at Rosneft. Rosneft is the leading company in the Russian oil sector and the largest publicly owned oil and gas corporation in the world. Its main shareholder is ROSNEFTEGAZ JSC, which is 100% owned by the Government of Russia. It is therefore a Government of Russia-affiliated entity. Therefore, as a result of his positions above, SECHIN is involved in obtaining a benefit from and supporting the Government of Russia as he holds the position of a director in a Government of Russia-affiliated entity, and one that carries on business in a sector of strategic significance to the Government of Russia.
    The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1960-09-07'
+    nationalities:
+    - Russia
+    positions:
+    - Chief Executive Officer
+    - Chairman of the Management Board
+    - Deputy Chairman of the Board of Directors, Rosneft
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Leningrad / St. Petersburg
+        country_of_birth: Russia

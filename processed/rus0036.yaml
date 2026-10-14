@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,15 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Former Speaker of the State Duma. Publicly supported the deployment of Russian forces in Ukraine. Publicly supported the Russia-Crimea unification treaty and the related federal constitutional law. Currently Director of the Foreign Intelligence Service of the Russian Federation as of October 2016. Permanent member of the Security Council of the Russian Federation. The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1954-10-27'
+    nationalities:
+    - Russia
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: St Petersburg (formerly Leningrad)
+        country_of_birth: Russia

@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -45,3 +46,21 @@ addresses:
   - address_line1: 25 Zubovsky Boulevard
     address_line6: Moscow
     address_country: Russia
+phone_numbers:
+- 8 (495) 775-65-55
+email_addresses:
+- broker@forabank.ru
+websites:
+- https://www.forabank.ru
+- www.forabank.ru
+- https://forabank.ru
+- http://vk.com/forabank
+entity_details:
+  entity:
+    business_registration_numbers:
+    - 'INN: 7704113772'
+    - 'OGRN: 1027739553764'
+    - Russia Licence No. – 1885
+    - 'BIK (RU): 044525341'
+    types_of_entity:
+    - JOINT-STOCK COMPANY

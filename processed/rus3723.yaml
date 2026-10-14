@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -40,3 +41,13 @@ addresses:
     address_line3: Vasylivka district
     address_line6: Zaporizhzhia region
     address_country: Ukraine
+individual_details:
+  individual:
+    dobs:
+    - '1988-01-20'
+    nationalities:
+    - Russia
+    positions:
+    - Head of the occupation police in Kamianka-Dniprovska, Zaporizhzhia region
+    genders:
+    - Male

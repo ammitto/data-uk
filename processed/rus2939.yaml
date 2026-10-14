@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,11 @@ addresses:
   - address_line1: 305 Ramą 2 Alley, 38 Alley, Bang Mot Sub-district, Chom Thong District
     address_line6: Bangkok
     address_country: Thailand
+email_addresses:
+- info@soguzo.com
+websites:
+- https://soguzo.com/
+entity_details:
+  entity:
+    business_registration_numbers:
+    - '0105565109824'

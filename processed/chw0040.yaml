@@ -27,6 +27,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -42,3 +43,7 @@ uk_statement_of_reasons: "\nTh\ne Secretary of State considers that there are re
   to chemical weapons; (2) Antokhin is associated with SC Signal which is or has been
   responsible for, engaging in, providing support for, or promoting prohibited activity
   related to chemical weapons. Antokhin is the Deputy Director of SC Signal. \n \n"
+individual_details:
+  individual:
+    positions:
+    - Deputy Director of SC Signal

@@ -32,6 +32,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -47,3 +48,17 @@ addresses:
   - address_line1: UL. RESPUBLIKANSKAYA D.3
     address_line6: YAROSLAVL
     address_country: Russia
+phone_numbers:
+- "+7 4852 681630"
+- "+7 4852 682817"
+- "+7 4852 302543"
+websites:
+- http://www.consul-group.ru/
+entity_details:
+  entity:
+    business_registration_numbers:
+    - |-
+      INN: 7606044658
+      OGRN: 1027600845546
+    types_of_entity:
+    - Limited Liability Company

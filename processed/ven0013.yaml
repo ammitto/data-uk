@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -33,3 +34,20 @@ other_information: Minister of Urban Agriculture|Hd of the National Command and 
 uk_statement_of_reasons: |2-
 
   Head of the National Control Centre of the Committee for Local Supply and Production (CLAP) and Protector of Táchira State. Also a Commissioner General of SEBIN and place of birth - San Cristobal, Tachira State, Venezuela
+individual_details:
+  individual:
+    dobs:
+    - '1962-06-16'
+    nationalities:
+    - Venezuela
+    positions:
+    - Minister of Urban Agriculture
+    - Head of the National Command and Control Centre for Local Committees of Supply
+      and Production (CLAP)
+    - Commissioner General of SEBIN
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: San Cristobal, Tachira State
+        country_of_birth: Venezuela

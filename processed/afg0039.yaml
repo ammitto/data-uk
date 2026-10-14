@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -40,3 +41,27 @@ addresses:
   addresses:
   - address_line6: Kabul
     address_country: Afghanistan
+titles:
+- Maulavi
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1968
+    - '1965-08-28'
+    nationalities:
+    - Afghanistan
+    positions:
+    - Minister of Higher Education under the Taliban regime (1996-2001)
+    - Mayor of Kabul City under the Taliban regime (1996-2001)
+    birth_details:
+      locations:
+      - town_of_birth: Sipayaw village, Andar District, Ghazni Province
+        country_of_birth: Afghanistan
+      - town_of_birth: Ghazni
+        country_of_birth: Afghanistan
+    passport_details:
+      passports:
+      - number: D0010694,
+        additional_information: 'Afghanistan number D0010694, issued on 7 Apr. 2026,
+          issued in Kabul, Afghanistan, expires 7 Apr. 2031 (Name in Latin script:
+          HAMDULLAH NUMANI'

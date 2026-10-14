@@ -19,6 +19,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -30,3 +31,21 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Pavel Lapshov was the Head of the Investigative Department of the Ministry of Internal Affairs in December 2011 after Sergei Magnitsky’s death in detention on 16 November 2009. In this role, Lapshov was responsible for the investigation into the mistreatment and death of Sergei Magnitsky in detention and intentionally or recklessly failed to fulfil that responsibility, in particular by concealing evidence of the circumstances surrounding his death.
+individual_details:
+  individual:
+    dobs:
+    - '1976-07-07'
+    nationalities:
+    - Russia
+    positions:
+    - Head of the Organised Crime and Corruption Directorate in the Investigative
+      Committee in the Ministry of the Interior in Russia
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Russia
+    passport_details:
+      passports:
+      - number: '726615040'
+        additional_information: "(Expiry: 01 Nov 2023)"

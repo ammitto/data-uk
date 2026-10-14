@@ -25,6 +25,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,17 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2
 
   Marina TAUBER (“TAUBER”) is an involved person under the Global Anti-Corruption Sanctions Regulations 2021 on the basis of the following grounds: (1) TAUBER is associated with Ilan Shor, an involved person under the Global Anti-Corruption Sanctions Regulations 2021 on the basis that he has been involved in serious corruption, namely being responsible for or engaging in serious corruption with respect to bribery of foreign public officials; (2) TAUBER is acting on behalf of or at the direction of Ilan Shor.
+individual_details:
+  individual:
+    dobs:
+    - '1986-05-01'
+    nationalities:
+    - Moldova
+    positions:
+    - Member of Parliament
+    genders:
+    - Female
+    birth_details:
+      locations:
+      - town_of_birth: Chișinău
+        country_of_birth: Moldova

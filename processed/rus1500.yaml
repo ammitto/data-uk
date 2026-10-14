@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,24 @@ uk_statement_of_reasons: |2-
 
   Mikhail SINELIN (hereafter referred to as SINELIN) is the co-founder and 50% shareholder of Newsfront. Newsfront is a Russian news organisation known for publishing disinformation about the war against Ukraine, thus supporting and promoting actions which destabilise Ukraine. By virtue of his role as the co-founder and 50% shareholder of Newsfront, SINELIN is engaged in and/or supporting and/or promoting the company which, through its actions, is involved in destabilising Ukraine.
    The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1959-11-24'
+    nationalities:
+    - Russia
+    positions:
+    - Cofounder of Newsfront. Deputy Chairman of the State Corporation “Bank for Development
+      and Foreign Economic activity”, Fmr. Head of the Secretariat of the First Deputy
+      Prime Minister of the Russian Federation, Fmr. First Deputy Chief of Staff of
+      the government of the Russian Federation, Fmr. General Director of United Services
+      Company, LLC
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Reutov, Moscow Oblast
+        country_of_birth: Russia
+    national_identifier_details:
+      national_identifiers:
+      - number: '772805709397'

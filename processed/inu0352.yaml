@@ -26,6 +26,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -38,3 +39,17 @@ uk_statement_of_reasons: "\nReza Aghazadeh is an involved person under the Iran 
   Organization of Iran, Reza Aghazadeh has been responsible for engaging in, providing
   support for, and facilitating a relevant nuclear activity in, or for use in, Iran.
   \ \n"
+individual_details:
+  individual:
+    dobs:
+    - '1949-03-15'
+    positions:
+    - Aghazadeh served as the president of the Atomic Energy Organization of Iran
+      from September 1997 until his resignation in July 2009. He is or has been a
+      member of the Expediency Discernment Council.
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: 'Khoy '
+        country_of_birth: Iran

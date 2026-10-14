@@ -32,6 +32,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -46,3 +47,19 @@ uk_statement_of_reasons: "\nIgor Vasilyevich KARPENKO is an involved person unde
   support for, and promoting:\n (1) the repression of civil society and democratic
   opposition in Belarus and (2) actions and activities which undermine democracy and
   the rule of law in Belarus. \n"
+individual_details:
+  individual:
+    dobs:
+    - '1964-04-28'
+    nationalities:
+    - Russia
+    - Belarus
+    positions:
+    - Chairman of the Central Commission of the Republic of Belarus on Elections and
+      Holding Republican Referenda
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Novokuznetsk, Kemerovo Oblast
+        country_of_birth: Russia

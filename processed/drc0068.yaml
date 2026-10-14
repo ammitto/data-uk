@@ -65,6 +65,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -93,3 +94,25 @@ uk_statement_of_reasons: "\nListed pursuant to Paragraphs 7 (b), 7(e), and 7(h) 
 addresses:
   addresses:
   - address_country: Congo (Democratic Republic)
+titles:
+- Mr
+individual_details:
+  individual:
+    dobs:
+    - '1997-07-21'
+    nationalities:
+    - Tanzania
+    - Tanzania
+    positions:
+    - Lieutenant general
+    - Senior leader of the Allied Democratic Forces (ADF)
+    birth_details:
+      locations:
+      - country_of_birth: Tanzania
+      - country_of_birth: Tanzania
+    passport_details:
+      passports:
+      - number: AB850901
+        additional_information: 'Expiration date: 2026-12-11'
+      - number: AB187304
+        additional_information: Expired 28 Nov. 2016

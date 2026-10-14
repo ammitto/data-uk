@@ -30,6 +30,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -41,3 +42,13 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Mufleh Al Musleh was a member of staff in the Saudi Consulate in Istanbul. He was involved in the unlawful killing of Jamal Khashoggi in Istanbul on 2 October 2018, in that he provided support to the 15 man team sent to Turkey by Saudi authorities.
+individual_details:
+  individual:
+    dobs:
+    - '1952-02-12'
+    nationalities:
+    - Saudi Arabia
+    positions:
+    - Consulate staff
+    genders:
+    - Male

@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -34,3 +35,7 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   The Prizrak Brigade is an armed separatist group which has actively supported actions which undermine the territorial integrity, sovereignty and independence of Ukraine and further destabilise Ukraine. They form part of the so-called ‘2nd Army Corps’ of the ‘Lugansk People’s Republic’ and are also referred to as the 14th Motorized Rifle Battalion which have taken part in territorial defence in the Luhansk region. The trust services sanctions were imposed on 21/03/2023.
+phone_numbers:
+- "+8985 130 9920"
+email_addresses:
+- mail@prizrak.info

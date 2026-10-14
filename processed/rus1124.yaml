@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,16 @@ uk_statement_of_reasons: |2-
 
   Sergey Kogogin is the Director General of Kamaz PJSC, which produces heavy vehicles used, inter alia, by the Russian military. Kogogin has therefore been involved in obtaining a benefit from or supporting the Government of Russia by working as a director of a company carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian defence sector.
    The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1957-11-16'
+    positions:
+    - Director General of PJSC “KAMAZ”
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Bolshie Klyuchi village, Zelenodolsk Region, the Republic of
+          Tatarstan
+        country_of_birth: Russia

@@ -52,6 +52,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -70,3 +71,19 @@ addresses:
     address_line2: Komplek Witana Harja III Blok C 106-107
     address_line6: Tangerang
     address_country: Indonesia
+individual_details:
+  individual:
+    dobs:
+    - '1957-08-17'
+    - '1958-08-17'
+    nationalities:
+    - Indonesia
+    birth_details:
+      locations:
+      - town_of_birth: Korleko-Lombok Timur
+        country_of_birth: Indonesia
+      - town_of_birth: Tirpas-Selong Village, East Lombok
+        country_of_birth: Indonesia
+    national_identifier_details:
+      national_identifiers:
+      - number: '3603251708570001'

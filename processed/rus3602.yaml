@@ -33,6 +33,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -61,3 +62,18 @@ addresses:
   - address_line1: 2 Kingdom Street
     address_line6: LONDON
     address_country: United Kingdom
+phone_numbers:
+- '02080682555'
+websites:
+- https://exmo.com/
+entity_details:
+  entity:
+    business_registration_numbers:
+    - |-
+      UK Company number - 11655602
+      EVA ID (IP Identification) - EEA90DD050C635EC8F637E8DB2F69969
+      Legal Entity Identifier - 984500B899H9EED3B354
+    types_of_entity:
+    - Limited Company
+    subsidiaries:
+    - EXMO POLAND SP Z.O.O.

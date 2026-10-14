@@ -40,6 +40,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -76,3 +77,27 @@ addresses:
   - address_line1: Shahih Shar Industrial Zone
     address_line6: Isfahan
     address_country: Iran
+phone_numbers:
+- "(98329)324903 (Fax)"
+- 031252273 (Fax)
+- 98(21)8806478
+- 98(21)8892488
+- 98(21)8904388
+- 98(311)22214219 (Fax)
+- 98(311)2222204
+- '98218807565'
+- '98218828355'
+- 98(311)2220101
+- "(312)5224910 20"
+- 0312 5227368
+- 98(311)2222028
+- "(9831)229737"
+- "(9831)229738"
+email_addresses:
+- info@hesaco.com
+entity_details:
+  entity:
+    types_of_entity:
+    - Enterprise
+    parent_companies:
+    - Iran Aviation Industries Organisation (IAIO) (a subsidiary of MODAFL)

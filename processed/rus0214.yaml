@@ -27,6 +27,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -44,3 +45,20 @@ uk_statement_of_reasons: "\nCommander of the border partrol boat “Izumrud”, 
   to the consolidation of the illegal annexation of the Crimean peninsula into the
   Russian Federation, which in turn further undermines the territorial integrity of
   Ukraine. \n The trust services sanctions were imposed on 21/03/2023."
+titles:
+- Captain 3rd Rank
+- Captain 2nd Rank
+individual_details:
+  individual:
+    dobs:
+    - '1969-12-25'
+    nationalities:
+    - Russia
+    positions:
+    - Commander of the Border Patrol Boat ‘Izumrud’
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Astrakhan
+        country_of_birth: Russia (USSR)

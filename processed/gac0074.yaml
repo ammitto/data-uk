@@ -32,6 +32,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -47,3 +48,20 @@ uk_statement_of_reasons: "\nNelli Alekseyevna PARUTENKO (“PARUTENKO”) is an 
   person under the Global Anti-Corruption Sanctions Regulations 2021 on the basis
   that he has been involved in serious corruption, namely being responsible for or
   engaging in serious corruption with respect to bribery of foreign public officials.\n"
+individual_details:
+  individual:
+    dobs:
+    - '1962-03-21'
+    nationalities:
+    - Moldova
+    positions:
+    - Director of Evrazia
+    genders:
+    - Female
+    passport_details:
+      passports:
+      - number: '0970403899047'
+    national_identifier_details:
+      national_identifiers:
+      - number: '504322957620'
+        additional_information: Russian INN Tax Number

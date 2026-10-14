@@ -33,6 +33,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -63,3 +64,36 @@ addresses:
   - address_line1: Reyhanli
     address_line2: Hatay
     address_country: Turkey
+individual_details:
+  individual:
+    dobs:
+    - '1986-02-22'
+    nationalities:
+    - Trinidad and Tobago
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Mount Hope
+        country_of_birth: Trinidad and Tobago
+    passport_details:
+      passports:
+      - number: TA959547
+        additional_information: Trinidad and Tobago number. Issued on 19 Nov. 2013.
+          Issued by Immigration Division of Trinidad and Tobago. Expiration date 18
+          Nov. 2018.
+      - number: T1071839
+        additional_information: Trinidad and Tobago number. Issued on 8 Nov. 2004.
+          Issued by Immigration Division of Trinidad and Tobago. Expiration date 7
+          Nov. 2014
+    national_identifier_details:
+      national_identifiers:
+      - number: '19860222007'
+        additional_information: Trinidad and Tobago identity card. Issued on 16 June
+          2011. Expiration date 16 June 2016.
+      - number: 892124B
+        additional_information: 'Trinidad and Tobago Driver''s Permit. Issued on 30
+          August 2007. Expiration date: 30 August 2010.'
+      - number: B394445
+        additional_information: Trinidad and Tobago Birth Certificate, issued on 23
+          Jan 2007

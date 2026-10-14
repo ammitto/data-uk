@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -33,3 +34,25 @@ sanctions_imposed_indicators:
 uk_statement_of_reasons: |2
 
   The Secretary of State considers that there are reasonable grounds to suspect that Igor Olegovich GORIN is or has been involved in obtaining a benefit from (4) the Government of Russia because he is working as a manager or equivalent of A7 Limited Liability Company, an entity which is carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian financial services sector.
+individual_details:
+  individual:
+    dobs:
+    - '1978-12-07'
+    nationalities:
+    - Russia
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Russia
+    passport_details:
+      passports:
+      - number: '752752464'
+        additional_information: Issued in Russia- expired 20/01/2026
+      - number: '717814286'
+      - number: '633728063'
+      - number: '3841643'
+      - number: '511832649'
+    national_identifier_details:
+      national_identifiers:
+      - additional_information: 'Russian TIN: 774309889756'

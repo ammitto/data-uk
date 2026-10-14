@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -37,3 +38,7 @@ uk_statement_of_reasons: "\nALEVKURP OJSC is an \n“involved person” under th
   Belarus, namely the Belarusian defence sector and; (2) ALEVKURP OJSC is or has been
   obtaining a benefit from or supporting the Government of Belarus through carrying
   on business as a Government of Belarus affiliated entity. \n"
+entity_details:
+  entity:
+    types_of_entity:
+    - Open Joint Stock Company

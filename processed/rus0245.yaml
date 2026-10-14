@@ -27,6 +27,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,20 @@ uk_statement_of_reasons: |2-
 
   Kirill Nikolaevich SHAMALOV, hereafter SHAMALOV is a major Russian businessman, with close links to President Putin and the Kremlin. SHAMALOV is a shareholder and Deputy Chair of the Management Board at PAO SIBUR Holding, hereafter Sibur. SHAMALOV is or has been involved in obtaining a benefit from or supporting the Government of Russia through his role 'working as a director (whether executive or non-executive), trustee, or equivalent', as Deputy Chairman on the Management Board and as former member of the Board of Directors of Sibur, which is a Government of Russia-affiliated entity which receives, or has received, financing, directly or indirectly, from the Russian Direct Investment Fund or the National Wealth Fund, or which otherwise obtains a financial benefit or other material benefit from the Government of Russia and/or is carrying on business in a sector of strategic significance to the Government of Russia, namely, the Russian chemicals sector.
    The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1982-03-22'
+    nationalities:
+    - Russia
+    positions:
+    - Deputy Chairman on the Management Board at PAO SIBUR Holding
+    - Shareholder at PAO SIBUR Holding
+    - Former Vice President at PAO SIBUR Holding
+    - Former member of the Board of Directors at PAO Sibur Holding
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: St Petersburg
+        country_of_birth: Russia

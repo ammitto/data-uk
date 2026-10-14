@@ -25,6 +25,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,19 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Former Minister of Intelligence (2009-2013). Under his leadership, the Ministry of Intelligence continued the practices of widespread arbitrary detention and persecution of protesters and dissidents. The Ministry of Intelligence runs Ward 209 of Evin Prison, where many activists have been held on account of their peaceful activities in opposition to the government in power. Interrogators from the Ministry of Intelligence have subjected prisoners in Ward 209 to beatings and mental and sexual abuse.
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1956
+    positions:
+    - Deputy Head of the Political and Ideological Office of the Supreme Leader
+    - Representative of the Ideological -Political Bureau of the Commander in Chief
+      of Iran's Armed Forces (since 2018)
+    - Head of the organisation for publications on the role of the clergy at war
+    - Former Minister of Intelligence (2009-2013)
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Isfahan
+        country_of_birth: Iran

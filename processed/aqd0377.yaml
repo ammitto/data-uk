@@ -31,6 +31,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -47,3 +48,7 @@ other_information: Khatiba al-Tawhid wal-Jihad (formerly known as Jannat Oshikla
   is about 500. KTJ also cooperates with such terrorist organizations as Khatiba Imam
   al-Bukhari (QDe.158) and the Islamic Jihad Group (QDe.119).
 uk_statement_of_reasons: "\n"
+entity_details:
+  entity:
+    types_of_entity:
+    - Terrorist Group

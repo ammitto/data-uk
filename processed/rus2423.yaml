@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -42,3 +43,20 @@ addresses:
     address_line2: 26 v, bldg. 1, Room 403
     address_line6: Moscow
     address_country: Russia
+phone_numbers:
+- 8(4912) 77-87-02
+- 8(4912) 99-47-82
+- "+7 495 2617889"
+email_addresses:
+- Tm.tech.buch@gmail.com
+- tm-tech.rzn@mail.ru
+- tm-tech@tm-tech.ru
+websites:
+- www.tm-tech.ru
+entity_details:
+  entity:
+    business_registration_numbers:
+    - "INN: 7719898900 \nOGRN: 5147746464234"
+    - |-
+      INN: 7720603527
+      OGRN: 1077764566373

@@ -48,6 +48,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -62,3 +63,16 @@ uk_statement_of_reasons: |2-
 addresses:
   addresses:
   - address_country: Belarus
+individual_details:
+  individual:
+    dobs:
+    - '1966-06-21'
+    positions:
+    - Former Minister of Internal Affairs of the Republic of Belarus, Major-General
+      of Militia
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Ordzhonikidze
+        country_of_birth: Former USSR

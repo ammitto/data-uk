@@ -37,6 +37,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -48,3 +49,11 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Judge at the Tehran Provincial Criminal Court. He was involved in several trials of demonstrators, inter alia, that of Abdol-Reza Ghanbari, a teacher arrested in January 2010 and sentenced to death for his political activities.
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1948
+    positions:
+    - Judge at the Tehran Provincial Criminal Court
+    genders:
+    - Male

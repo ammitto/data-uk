@@ -26,6 +26,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: true
   chartering_of_ships: true
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -37,3 +38,17 @@ uk_statement_of_reasons: "\n"
 addresses:
   addresses:
   - address_country: North Korea
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1967
+    - dd/mm/1968
+    - dd/mm/1969
+    nationalities:
+    - North Korea
+    - North Korea
+    positions:
+    - A leading official guiding the DPRK’s WMD development efforts. Serving as Deputy
+      Director of the Workers’ Party of Korea Munitions Industry Department
+    genders:
+    - Male

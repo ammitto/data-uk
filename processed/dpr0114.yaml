@@ -26,6 +26,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: true
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,22 @@ other_information: 'Pursuant to paragraph 6 of Security Council Resolution 2371 
   likely for oil, with M/V RYE SONG GANG in January 2018. Listed as asset of Yuk Tung
   Energy PTE Ltd (OFSI ID: 13646, UN Reference Number: UN Ref KPe.075)'
 uk_statement_of_reasons: "\n"
+ship_details:
+  ship:
+    imo_numbers:
+    - '9030591'
+    current_owner_operators:
+    - Yuk Tung Energy PTE Ltd
+    current_believed_flags:
+    - Dominica
+    previous_flags:
+    - Italy
+    - Panama
+    types_of_ship:
+    - Oil Tanker
+    tonnages:
+    - '20200'
+    lengths:
+    - '179'
+    years_built:
+    - '1994'

@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -34,3 +35,17 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2
 
   Igor KAZAREZOV is an “involved person” under the Russia (Sanctions) (EU Exit) Regulations 2019 because he is or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by (1) engaging in and providing support for the Government of Russia’s programme for the forced deportation and re-education of Ukrainian children; and (2) obtaining a benefit from or supporting the Government of Russia by working as a director of a Government of Russia-affiliated entity, namely in his role as Director of the ‘Warrior Centres’.
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1965
+    nationalities:
+    - Russia
+    positions:
+    - Director of the Warrior Centres
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Azov
+        country_of_birth: Russia

@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -33,3 +34,17 @@ sanctions_imposed_indicators:
 uk_statement_of_reasons: |2
 
   The Secretary of State considers that there are reasonable grounds to suspect that Mikhail Vladimirovich GRISHCHENKO is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 on the following ground: GRISHCHENKO is or has been in obtaining a benefit from or supporting the Government of Russia by working as a director of an entity carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian electronics sector. Specifically, GRISHCHENKO is the director of LIMITED LIABILITY COMPANY “MIDAX GROUP”, which is an involved person.
+individual_details:
+  individual:
+    dobs:
+    - '1978-10-09'
+    nationalities:
+    - Russia
+    positions:
+    - Director of LLC MIDAX GROUP
+    genders:
+    - Male
+    national_identifier_details:
+      national_identifiers:
+      - number: '722019835988'
+        additional_information: INN

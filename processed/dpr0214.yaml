@@ -30,6 +30,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: true
   chartering_of_ships: true
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -41,3 +42,15 @@ other_information: 'Pursuant to Resolution 2371(2017) the Security Council added
   following information: New AKA: Jang Hyon U with date of birth 22 February 1958
   and diplomatic passport number 836110034, which expires on 1 January 2020.'
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - '1958-02-22'
+    - '1957-04-15'
+    positions:
+    - Tanchon Commercial Bank Representative in Syria
+    passport_details:
+      passports:
+      - number: '836110034'
+        additional_information: diplomatic passport number 836110034, which expires
+          on 1 January 2020.

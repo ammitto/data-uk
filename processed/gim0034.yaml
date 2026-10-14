@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -51,3 +52,14 @@ addresses:
   - address_line1: Rr Fehmi Lladrovci, lagjija Spitalit
     address_line6: Ferizaj
     address_country: Kosovo
+phone_numbers:
+- '00383 045630'
+individual_details:
+  individual:
+    dobs:
+    - '1988-06-14'
+    nationalities:
+    - Kosovo
+    national_identifier_details:
+      national_identifiers:
+      - number: '1172966230'

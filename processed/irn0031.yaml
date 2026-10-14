@@ -19,6 +19,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -30,3 +31,19 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Former Prosecutor General of Iran and Deputy Head and spokesman of the Judiciary. Former Intelligence minister during the 2009 elections. While he was Intelligence minister during the 2009 election, intelligence agents under his command were responsible for detention, torture and extraction of false confessions under pressure from hundreds of activists, journalists, dissidents, and reformist politicians. In addition, political figures were coerced into making false confessions under unbearable interrogations, which included torture, abuse, blackmail, and the threatening of family members.
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1956
+    positions:
+    - Chief Justice of Iran
+    - Member of the Expediency Council
+    - Former Minister of Intelligence
+    - Former Prosecutor General of Iran
+    - Former Deputy Head and spokesman of the Judiciary
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Ejiyeh, Isfahan
+        country_of_birth: Iran

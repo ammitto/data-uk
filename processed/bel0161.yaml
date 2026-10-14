@@ -35,6 +35,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -58,3 +59,20 @@ addresses:
     address_line4: Gomel Oblast
     address_line6: Gomel
     address_country: Belarus
+individual_details:
+  individual:
+    dobs:
+    - '1977-08-17'
+    nationalities:
+    - Belarus
+    positions:
+    - Commanding Officer, Penal Colony 4
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: 'Orsha '
+        country_of_birth: Belarus
+    national_identifier_details:
+      national_identifiers:
+      - number: 3170877M000PB9

@@ -37,6 +37,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -48,3 +49,15 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2
 
   There are reasonable grounds to suspect that they are an involved person under the Syria (Sanctions) (EU Exit) Regulations 2019 because they are or have been involved in activities carried out on behalf of the Assad regime, implementing or connected to the repressive police of that regime and/or involved in supporting or benefitting from the Assad regime.
+individual_details:
+  individual:
+    nationalities:
+    - Syria
+    positions:
+    - Former Head of the Political Security Directorate in Dara'a.
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Jablah
+        country_of_birth: Syria

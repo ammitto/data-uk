@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -33,3 +34,16 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2
 
   Ilan SHOR is an involved person under the Global Anti-Corruption Sanctions Regulation 2021 because: he is and has been involved in serious corruption, namely being responsible for or engaging in serious corruption with respect to bribery of foreign public officials.
+individual_details:
+  individual:
+    dobs:
+    - '1987-03-06'
+    nationalities:
+    - Moldova
+    - Israel
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Tel Aviv
+        country_of_birth: Israel

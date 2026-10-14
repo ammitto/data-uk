@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -46,3 +47,71 @@ addresses:
     address_line5: Ahlone
     address_line6: Yangon
     address_country: Myanmar
+entity_details:
+  entity:
+    types_of_entity:
+    - Military Holding Company
+    subsidiaries:
+    - Ahlone International Port Terminal 1
+    - Amber International Company Ltd.
+    - Anhydrous Ethanol Plant (Taungzinaye)
+    - Aung Myint Moh Min Insurance Company Ltd.
+    - Bagwa Gone Company Ltd.
+    - Bagwa Gone Gems Company Ltd.
+    - Dagon Beverages Company Ltd.
+    - Dagon FC Company Ltd.;
+    - Innwa Bank Ltd
+    - Myanmar Economic Corporation Telecommunication (MECTel)
+    - Myanmar Mobile Money Services Company Ltd.
+    - Mytel Wallet International Myanmar Company
+    - Nan Myaing Coffee (Pyin Oo Lwin); Okkala Golf Resort
+    - Sandaku Myint Mo Co., Ltd.
+    - Star High Co., Ltd.
+    - Star High Group Company Ltd
+    - Tristar Tyre Manufacturing Company Ltd
+    - Agro Pack Co., Ltd.; Aung Myint Mo Min Securities
+    - Aung Zayya Oo Co., Ltd.
+    - Golden Majestic Star Mobile Company Limited
+    - Cannery
+    - Cement plant (Myaingglay)
+    - Coal Mine (Maw Taung)
+    - Coal Mine and Power Plant (Mai Khot)
+    - Container Transport and Port Clearance Yard (Ywama) Cotton Ginning Factory (Myitthar)
+    - Dagon Dairy Farm, Dairy Factory and Cannery (Pyinmabin)
+    - Dagon Rum Factory (Shwe Pyi Thar)
+    - Disposable Syringe Factory (Hwambi)
+    - Galvanized Iron Sheet Factory (Than Hlyin)
+    - Gas plant (Botahthaung)
+    - Gas plant (Mandalay)
+    - Gems Extraction Mine (Mine Shu – Loi Saung Htauk)
+    - Glass Factory (Than Hlyin)
+    - Granite Mine and Processing Plant (Balin)
+    - GSM Mobil Phone (438,000) Allocation (Ayeyarwadi Division)
+    - Gypsum Mine and Transportation Plant (Htone Bo)
+    - High Tension Steel Bolts, Nuts and Washers Manufacturing Plant (Ywama)
+    - Hteedan Port (Kyeemyindine)
+    - Indoor Skydiving
+    - Jade Extraction Mine (Lone Khin – Hpakan)
+    - Kan Thar Yar International Specialist Hospital
+    - Marble mine and processing plant (Mandalay)
+    - Myanmar Mobile Money Services Company Ltd.;
+    - Myanmar Sigma Cable Wire Factory (Hlaing Thar Yar);
+    - Nay Pyi Taw Ye Pyar Drinking Water Plant (Naypyitaw)
+    - No. 1 Steel Rolling Mill in Kyauk Swae Kyowe on site of Pinpet Iron Ore Mine
+    - No. 2 Steel Mill and Fabrication Shop (Myaungdagar)
+    - No. 3 Steel Mill 3 (Ywama)
+    - Oxygen Plant (Mindama)
+    - Paper Factory (Myainggalay)
+    - Printing Factory (Yangon)
+    - Refractory Plant (Aung Lan)
+    - Remote sensing ground station
+    - Rice Mills and Rice Storage (Hteedan Port)
+    - Ship Breaking Yard (Thilawa)
+    - Sugar Mill (Du Yin Gabo)
+    - Sugar mill (Kanbalu)
+    - Sugar Mill (Kanhla)
+    - Tea factory (Kan Yeik Thar)
+    - Tea powder and tea mix factory (Pyinmabin)
+    - Tyre Retreading Plant (Ywama)
+    - Virgin Coconut Oil Factory (Pathein)
+    - Wolfram Mine (Dawei)

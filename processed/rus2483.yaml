@@ -17,6 +17,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -34,3 +35,15 @@ uk_statement_of_reasons: "\nIMO 9290335 (“JUMBO”) is involved in activity wh
   sovereignty or independence of Ukraine or to obtain a benefit from or support the
   Government of Russia. Namely, IMO 9290335 is involved in carrying oil or oil products
   that originated in Russia from Russia to a third country. \n"
+ship_details:
+  ship:
+    imo_numbers:
+    - IMO9290335
+    current_owner_operators:
+    - Rahad Maritime Corp
+    current_believed_flags:
+    - Gabon
+    types_of_ship:
+    - Oil Tanker
+    years_built:
+    - '2004'

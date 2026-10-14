@@ -41,6 +41,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -52,3 +53,13 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Member of the ‘Parliament’ of the so called ‘Donetsk People's Republic’ and Chairman of the public association Union of Veterans of the Donbass Berkut and a member of the public movement ‘Free Donbass’. Stood as a candidate in the so called ‘elections’ of 2 November 2014 to the post of the Head of the so called ‘Donetsk People's Republic’. These elections are in breach of Ukrainian law and therefore illegal. In taking on and acting in this capacity, and in participating formally as a candidate in the illegal ‘elections’, he has therefore actively supported actions and policies which undermine the territorial integrity, sovereignty and independence of Ukraine, and to further destabilise Ukraine. He remains a member of the so-called “people’s council of the Donetsk People’s Republic The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1957-08-07'
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Stalino City (now Donetsk)
+        country_of_birth: Ukraine

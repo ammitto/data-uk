@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -35,3 +36,13 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Former Governor of the Krasnodar Krai. He was awarded the medal ‘for the liberation of Crimea’ by the Acting head of the Autonomous Republic of Crimea for the support he provided to the unlawful annexation of Crimea. At that occasion, the Acting Head of the Autonomous Republic of Crimea said that Tkachyov was one of the first to express his support to the new ‘leadership’ of Crimea. Was Minister of Agriculture of the Russian Federation (from 22 April 2015 to 7 May 2018). The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1960-12-23'
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Vyselki, Krasnodar region
+        country_of_birth: Russia

@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -35,3 +36,20 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Deputy Head of Border Directorate – Head of Coast Guard Unit of the Federal Security Service of the Russian Federation for “Republic of Crimea and City of Sevastopol.” In this capacity, he actively participated and was in control of operations against Ukrainian ships and their crew during the actions of the Russian Federation against Ukraine on 25 November 2018 and thus actively contributed to the consolidation of the illegal annexation of the Crimean peninsula into the Russian Federation, which in turn further undermines the territorial integrity of Ukraine. The trust services sanctions were imposed on 21/03/2023.
+titles:
+- Captain 1st Rank
+individual_details:
+  individual:
+    dobs:
+    - '1971-06-10'
+    nationalities:
+    - Russia
+    positions:
+    - Deputy Head of Department, Head of the Coast Guard of the FSB Border Control
+      in Crimea
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Ivanovskaya Oblast
+        country_of_birth: Russia (USSR)

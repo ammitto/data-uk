@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,16 @@ uk_statement_of_reasons: "\nDmitry Kulikov is a prominent TV presenter and publi
   intellectual in Russia. In broadcasts and interviews he has promoted actions and
   policies which undermine or threaten the territorial integrity, sovereignty or independence
   of Ukraine. \n The trust services sanctions were imposed on 21/03/2023."
+email_addresses:
+- dkulikov@gmail.com  
+individual_details:
+  individual:
+    dobs:
+    - '1967-11-18'
+    positions:
+    - Presenter of ‘Who is Against?’ on Russia-1; presenter on Vesti radio; academic
+      and political scientist 
+    birth_details:
+      locations:
+      - town_of_birth: Shakhtersk
+        country_of_birth: Ukraine

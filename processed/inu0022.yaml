@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -34,3 +35,19 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Former Iranian Minister of Defence 2005 2009, responsible for all military programmes, including ballistic missiles programmes
+individual_details:
+  individual:
+    dobs:
+    - '1956-02-12'
+    nationalities:
+    - Iran
+    positions:
+    - Former Minister of Defence, 2005-2009
+    - Former Minister of Interior, 2009-2013
+    - Senior advisor to the Chief of General Staff of the Armed Forces
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Tehran
+        country_of_birth: Iran

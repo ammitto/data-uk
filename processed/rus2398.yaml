@@ -40,6 +40,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -68,3 +69,20 @@ uk_statement_of_reasons: "\nDenis Gennadevich POPOV, hereafter POPOV, is an invo
   the territorial integrity, sovereignty or independence of Ukraine by working for
   the Government of Russia as Deputy Minister of the Russian Federation for the Ministry
   of Civil Defence, Emergencies and Disaster Relief. \n"
+titles:
+- Mr
+individual_details:
+  individual:
+    dobs:
+    - '1972-01-12'
+    nationalities:
+    - Russia
+    positions:
+    - Deputy Minister of the Russian Federation for Civil Defence, Emergencies and
+      Elimination of Consequences of Natural Disasters
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Sverdlovsk, Sverdlovsk Oblast
+        country_of_birth: Russia

@@ -33,6 +33,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -56,3 +57,16 @@ addresses:
     address_line5: North Waziristan Agency
     address_line6: Federal Administered Tribal Areas
     address_country: Pakistan
+titles:
+- Qari
+- Alhaj
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1966
+    - dd/mm/1964
+    - dd/mm/1969
+    - dd/mm/1971
+    nationalities:
+    - Uzbekistan
+    - Afghanistan

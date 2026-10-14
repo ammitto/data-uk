@@ -32,6 +32,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -47,3 +48,18 @@ addresses:
   - address_line1: 3rd line of Vasilievsky Island, 62, lit. A, room 35-N.
     address_line2: St. Petersburg
     address_country: Russia
+phone_numbers:
+- "+7 (812) 324-3806"
+- "+7 (812) 655-74-30"
+- "+7 (812) 655-74-31"
+email_addresses:
+- prc@spsc.ru
+websites:
+- www.spsc.ru
+entity_details:
+  entity:
+    business_registration_numbers:
+    - |-
+      BIN: 1027800000931
+      INN: 7831001704
+      PPC: 784101001

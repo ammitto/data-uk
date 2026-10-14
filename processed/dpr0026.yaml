@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -34,3 +35,19 @@ other_information: Associations with Pan Systems, Reconnaissance General Bureau,
 uk_statement_of_reasons: |2-
 
   Pae Won Chol has been identified by the UN Panel of Experts as a DPRK national operating Pan Systems Pyongyang. Pan Systems Pyongyang has been designated by the European Union for assisting in the evasion of sanctions imposed by the United Nations Security Council through the attempted sale of arms and related materiel to Eritrea. Pan Systems is also controlled by and works on behalf of the Reconnaissance General Bureau which has been designated by the United Nations.
+individual_details:
+  individual:
+    dobs:
+    - '1969-08-30'
+    nationalities:
+    - North Korea
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Pyongyang
+        country_of_birth: North Korea
+    passport_details:
+      passports:
+      - number: '654310150'
+        additional_information: Diplomatic Passport

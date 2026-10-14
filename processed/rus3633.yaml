@@ -25,6 +25,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -40,3 +41,17 @@ addresses:
   - address_line1: UL. SPORTIVNAYA D. 33, POMESHCH. 1218
     address_line6: Kazan City
     address_country: Russia
+phone_numbers:
+- 8 843 278 38 38
+- 8 800 250 06 79
+email_addresses:
+- stanki@pegas.company
+websites:
+- pegas.company
+entity_details:
+  entity:
+    business_registration_numbers:
+    - 'OGRN: 1165275076031'
+    - 'INN: 1658159962'
+    types_of_entity:
+    - Limited Liability Company

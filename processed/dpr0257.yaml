@@ -30,6 +30,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: true
   chartering_of_ships: true
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -42,3 +43,11 @@ other_information: Pak To Chun is a former Secretary of Munitions Industry Depar
   He is a former State Affairs Commission member and is a member Workers’ Party of
   Korea Political Bureau. Died on 27 July 2022.
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - '1944-03-09'
+    positions:
+    - Former Secretary of Munitions Industry Department (MID)|Adviser on nuclear and
+      missile programmes|Former State Affairs Commission member|Member of the Workers’
+      Party of Korea Political Bureau

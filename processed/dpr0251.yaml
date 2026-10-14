@@ -26,6 +26,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: true
   chartering_of_ships: true
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -37,3 +38,14 @@ other_information: Paek Se Bong is a former Chairman of the Second Economic Comm
   a former member of the National Defense Commission, and a former Vice Director of
   Munitions Industry Department (MID)
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - '1938-03-21'
+    nationalities:
+    - North Korea
+    - North Korea
+    positions:
+    - Former Chairman of the Second Economic Committee
+    - Former Vice Director of Munitions Industry Department (MID)
+    - Former member of the National Defense Commission

@@ -40,6 +40,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -61,3 +62,11 @@ addresses:
     address_line2: SEPAHBOD GHARANI STREET
     address_line3: KARIM KHAN ZAND AVENUE
     address_line6: TEHRAN
+phone_numbers:
+- "+98 2188802662"
+websites:
+- www.kalanaft-tehran.com
+entity_details:
+  entity:
+    subsidiaries:
+    - Kala Limited

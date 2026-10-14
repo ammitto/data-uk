@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,14 @@ other_information: 'He is a threat to the peace, stability and security of the D
   under UNSCR 2293 paragraph 7(j). INTERPOL-UN Security Council Special Notice web
   link: https://www.interpol.int/en/notice/search/un/6194815'
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1966
+    nationalities:
+    - Rwanda
+    birth_details:
+      locations:
+      - town_of_birth: Cellule Nyagitabire, Sector Ruvune, Commune Kinyami, Prefecture
+          Byumba
+        country_of_birth: Rwanda

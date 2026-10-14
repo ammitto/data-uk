@@ -33,6 +33,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -53,3 +54,24 @@ addresses:
     address_line3: Manubah
     address_line6: Tunis
     address_country: Tunisia
+individual_details:
+  individual:
+    dobs:
+    - '1968-02-10'
+    nationalities:
+    - Tunisia
+    birth_details:
+      locations:
+      - town_of_birth: Menzel Jemil, Bizerte
+        country_of_birth: Tunisia
+    passport_details:
+      passports:
+      - number: K929139
+        additional_information: Tunisia number, issued on 14 Feb. 1995 (expired on
+          13 Feb. 2000)
+    national_identifier_details:
+      national_identifiers:
+      - number: SSDSBN68B10Z352F
+        additional_information: Italian Fiscal Code
+      - number: '00319547'
+        additional_information: 'Tunisian. Issue date: 08/12/1994'

@@ -30,6 +30,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: true
   chartering_of_ships: true
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -40,3 +41,24 @@ sanctions_imposed_indicators:
 other_information: Senior official and head of the satellite control center of Korean
   Committee for Space Technology.
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - '1964-06-18'
+    nationalities:
+    - North Korea
+    - North Korea
+    positions:
+    - Senior official and head of the satellite control center of Korean Committee
+      for Space Technology
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Kaesong
+        country_of_birth: North Korea
+    national_identifier_details:
+      national_identifiers:
+      - number: '381420754'
+        additional_information: Date of Issue 7 December 2011. Date of Expiration
+          7 December 2016

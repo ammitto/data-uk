@@ -25,6 +25,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -35,3 +36,20 @@ sanctions_imposed_indicators:
 uk_statement_of_reasons: |2
 
   The Secretary of State considers that there are reasonable grounds to suspect that Babak ZANJANI is an involved person under The Iran (Sanctions) Regulations 2023 on the basis of the following ground: ZANJANI is or has provided financial services, or made available funds or economic resources, to those responsible for the commission of serious human rights abuses in Iran
+individual_details:
+  individual:
+    dobs:
+    - '1974-03-12'
+    - '1971-03-12'
+    nationalities:
+    - Iran
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Tehran
+        country_of_birth: Iran
+    passport_details:
+      passports:
+      - number: L18597666
+      - number: L95279398

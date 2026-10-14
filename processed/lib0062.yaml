@@ -27,6 +27,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -42,3 +43,23 @@ addresses:
   addresses:
   - address_country: Egypt
   - address_country: Oman
+individual_details:
+  individual:
+    dobs:
+    - '1953-01-01'
+    - dd/mm/1952
+    nationalities:
+    - Oman
+    birth_details:
+      locations:
+      - town_of_birth: Al Bayda
+        country_of_birth: Libya
+    passport_details:
+      passports:
+      - number: '03825239'
+        additional_information: Oman passport no. date of issue 4 May 2014, expiry
+          3 May 2024.
+    national_identifier_details:
+      national_identifiers:
+      - number: '98606491'
+        additional_information: Oman

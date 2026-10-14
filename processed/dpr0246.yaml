@@ -34,6 +34,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: true
   chartering_of_ships: true
   crew_servicing_of_ships_and_aircraft: true
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -44,3 +45,15 @@ sanctions_imposed_indicators:
 addresses:
   addresses:
   - address_country: North Korea
+individual_details:
+  individual:
+    dobs:
+    - '1948-08-10'
+    nationalities:
+    - North Korea
+    positions:
+    - Member of the Workers' Party of Korea’s Organization and Guidance Department,
+      which directs key personnel appointments for the Workers’ Party of Korea and
+      the DPRK’s military
+    genders:
+    - Male

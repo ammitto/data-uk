@@ -37,6 +37,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -52,3 +53,21 @@ uk_statement_of_reasons: |2-
 addresses:
   addresses:
   - address_country: Russia
+individual_details:
+  individual:
+    dobs:
+    - '1961-06-13'
+    nationalities:
+    - Russia
+    positions:
+    - Elected "People's Mayor of Sevastopol" on 23 February 2014.
+    - Acting "Governor" of Sevastopol. (1 to 14 April 2014).
+    - Chair of the Legislative Assembly of Sevastopol
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Moscow
+        country_of_birth: Russia
+      - town_of_birth: Sevastopol
+        country_of_birth: Ukraine

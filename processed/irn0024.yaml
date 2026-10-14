@@ -19,6 +19,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -30,3 +31,13 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Judge of an ordinary court of northern Tehran. Former Supervisor of Public Prosecution Office in Tehran. Deputy Head of the Office of Prison Affairs of Tehran Province. Former Deputy Prosecutor in Tehran until 2013. He ran Evin prosecution centre. Was responsible for the denial of rights, including visits and other prisoner's rights, to human rights defenders and political prisoners.
+individual_details:
+  individual:
+    positions:
+    - Deputy Head of the Office of Prison Affairs of Tehran Province.
+    - Judge of an ordinary court of northern Tehran
+    - Former Chief of Iran’s National Police (2005-2015)
+    - Former Supervisor of Public Prosecution Office in Tehran
+    - Former Deputy Prosecutor in Tehran
+    genders:
+    - Male

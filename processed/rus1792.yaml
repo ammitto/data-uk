@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,17 @@ uk_statement_of_reasons: |2-
 
   Pavel SOZINOV is an “involved person” under the Russia (Sanctions) (EU Exit) Regulations 2019 because he has been, or is, involved in obtaining a benefit from or supporting the Government of Russia by working as a director or manager, or equivalent position or higher, of a Government of Russia-affiliated entity, namely Almaz-Antey, which is owned by the Government of Russia. 
    The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1959-10-26'
+    nationalities:
+    - Russia
+    positions:
+    - Deputy General Director - General Designer 
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Yurino, Yurinskiy district 
+        country_of_birth: Russia

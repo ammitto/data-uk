@@ -19,6 +19,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -30,3 +31,20 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Remigio Ceballos Ichaso was appointed as Head of the Strategic Command Operations of the Bolivarian National Armed Forces (CEOFANB) in June 2017. There is reliable evidence that the GNB has committed serious human rights violations during Ceballos’s period in command of CEOFANB including extrajudicial killings and incidences of people subjected to cruel, inhuman and degrading treatment or punishment and torture. In addition to human rights violations carried out by the GNB under the overall strategic command of CEOFANB, the CEOFANB was involved in directing multiple cases of extrajudicial executions, which amount to serious violations of the right to life. Ceballos bears command responsibility for the serious human rights violations carried out by CEOFANB under his command.
+individual_details:
+  individual:
+    dobs:
+    - '1963-05-01'
+    nationalities:
+    - Venezuela
+    positions:
+    - Head of the Strategic Command Operations of the Bolivarian National Armed Forces
+      (CEOFANB)
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Venezuela
+    national_identifier_details:
+      national_identifiers:
+      - number: V-6.557.495

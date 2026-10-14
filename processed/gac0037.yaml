@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,20 @@ addresses:
   - address_line1: 7 Nezabravka Street, Floor 7, Ap. 28,
     address_line6: Sofia
     address_country: Bulgaria
+email_addresses:
+- delyan.peevski@parliament.bg 
+individual_details:
+  individual:
+    dobs:
+    - '1980-07-27'
+    nationalities:
+    - Bulgaria
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: 'Sofia '
+        country_of_birth: Bulgaria
+    passport_details:
+      passports:
+      - number: '383862880'

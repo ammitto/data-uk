@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -44,3 +45,17 @@ addresses:
     address_line5: Shenzhen
     address_line6: Hong Kong
     address_country: China
+phone_numbers:
+- "+86 135 7082 0886"
+email_addresses:
+- office@bluehat.hk
+websites:
+- Bluehat.hk
+entity_details:
+  entity:
+    business_registration_numbers:
+    - 91440300MA5H0TP85J
+    - 91440300MA5H0TP85J
+    types_of_entity:
+    - Limited Liability Company
+    - Limited Liability Company

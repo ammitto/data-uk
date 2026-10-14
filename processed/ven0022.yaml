@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,21 @@ uk_statement_of_reasons: "\nChief in Charge of the National Office Against Organ
   Military Intelligence officials on 14 September on charges of embezzlement, money
   laundering, criminal association and “violent outrage” against public officials.
   \n"
+individual_details:
+  individual:
+    dobs:
+    - '1962-10-12'
+    nationalities:
+    - Venezuela
+    positions:
+    - Current Chief in Charge of the National Office Against Organized Crime and Terrorist
+      Financing (ONCDOFT). Former National Commander of CONAS and Deputy Minister
+      of Prevention and Public Security.
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Venezuela
+    national_identifier_details:
+      national_identifiers:
+      - number: 7.786.260

@@ -18,6 +18,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -28,3 +29,11 @@ sanctions_imposed_indicators:
 uk_statement_of_reasons: |2
 
    The Secretary of State considers that there are reasonable grounds to suspect that Mohammad GHANBARI is an involved person under The Iran (Sanctions) Regulations 2023 on the basis of the following ground: GHANBARI is or has been responsible for, engaging in, or providing support a serious human rights violation or abuse in Iran, namely torture, sexual violence and violent crackdowns against protesters.
+titles:
+- Brigadier General
+individual_details:
+  individual:
+    nationalities:
+    - Iran
+    genders:
+    - Male

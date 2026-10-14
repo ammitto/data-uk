@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -47,3 +48,9 @@ uk_statement_of_reasons: "\nThe Secretary of State considers that there are reas
   against Palestinians. ARTZENU has fundraised for tactical military equipment including
   bulletproof vests, security drones and thermal cameras for armed settler rapid response
   squads.\n \n"
+phone_numbers:
+- '058-4134499'
+email_addresses:
+- office@artzenu.org.il
+websites:
+- https://artzenu.org.il/%d7%a6%d7%95%d7%a8-%d7%a7%d7%a9%d7%a8/

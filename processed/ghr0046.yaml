@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -31,3 +32,21 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Senior General Min Aung Hlaing is Commander in Chief of the Myanmar Armed Forces (Tatmadaw). In this role, he was responsible for military operations carried out in Rakhine State in 2017 and in 2019 and is responsible for atrocities and serious human rights violations committed against the Rohingya population in Rakhine state by the Tatmadaw. These include unlawful killings, including through systematic burning of Rohingya houses and buildings, massacre, torture, forced labour, systematic rape and other forms of targeted sexual violence, and enforced labour.
+individual_details:
+  individual:
+    dobs:
+    - '1956-07-03'
+    nationalities:
+    - Myanmar
+    positions:
+    - Commander-in-Chief of the Myanmar Armed Forces (Tatmadaw)
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Tavoy
+        country_of_birth: Myanmar
+    national_identifier_details:
+      national_identifiers:
+      - number: 12/SAKHANA(N)020199
+        additional_information: 'NRC number '

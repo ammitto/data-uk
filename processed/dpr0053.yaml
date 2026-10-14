@@ -25,6 +25,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,13 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Deputy Director of the Satellite Control Centre, National Aerospace Development Administration (NADA). NADA is subject to sanctions under UNSCR 2270 (2016) for involvement in the DPRK’s development of space science and technology, including satellite launches and carrier rockets. UNSCR 2270 (2016) condemned the DPRK’s satellite launch of 7 February 2016 for using ballistic missile technology and being in serious violations of resolutions 1718 (2006), 1874 (2009), 2087 (2013) and 2094 (2013).
+individual_details:
+  individual:
+    dobs:
+    - '1965-08-09'
+    nationalities:
+    - North Korea
+    positions:
+    - Deputy Director, National Aerospace Development Administration
+    genders:
+    - Male

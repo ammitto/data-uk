@@ -33,6 +33,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -51,3 +52,31 @@ addresses:
   - address_line1: Darul Aman
     address_line2: Kabul
     address_country: Afghanistan
+titles:
+- Maulavi
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1968
+    - '1967-11-12'
+    - '1967-11-12'
+    nationalities:
+    - Afghanistan
+    positions:
+    - Minister of Agriculture under the previous Taliban regime  (1996-2001)
+    birth_details:
+      locations:
+      - town_of_birth: Zurmat District, Paktia Province
+        country_of_birth: Afghanistan
+      - town_of_birth: Garda Saray District, Paktia Province
+        country_of_birth: Afghanistan
+      - country_of_birth: Afghanistan
+    passport_details:
+      passports:
+      - number: " D0009720"
+        additional_information: 'Afghanistan diplomatic passport number D0009720,
+          issued on 12 Oct. 2021 issued in Kabul, Afghanistan, expires 12 Oct. 2026
+          (Name in Latin script: ABDUL LATIF MANSOOR)'
+      - number: D0010442
+        additional_information: Afghanistan diplomatic passport D0010442, issued on
+          13 Nov. 2024, expires 13 Nov. 2029

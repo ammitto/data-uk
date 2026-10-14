@@ -27,6 +27,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -38,3 +39,15 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Dr Salah Muhammed Tubaigy held the position of Forensic doctor with the Ministry of Interior in Saudi Arabia and Professor in the Department of Criminal Evidence at Naif Arab University. He was involved in the unlawful killing of Jamal Khashoggi in the Saudi Consulate in Istanbul on 2 October 2018 as part of the 15 man team sent to Turkey by Saudi authorities. Dr Tubaigy was present at the time of Jamal Khashoggi’s death and held a direct role in Jamal Khashoggi’s killing and in the concealment of evidence relating to his death.
+individual_details:
+  individual:
+    dobs:
+    - '1971-08-20'
+    positions:
+    - Head of Forensics- Ministry of Interior.
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Jazan
+        country_of_birth: Saudi Arabia

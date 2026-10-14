@@ -38,6 +38,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -50,3 +51,19 @@ uk_statement_of_reasons: |2-
 
   Maria Vladimirovna VORONSTOVA is widely reported to be the daughter of the President of the Russian Federation Vladimir Vladimirovich PUTIN, with whom she is closely associated and from whom she has obtained a financial benefit or other material benefit. Vladimir Vladimirovich PUTIN is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019.
    The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1985-04-28'
+    nationalities:
+    - Russia
+    genders:
+    - Female
+    birth_details:
+      locations:
+      - town_of_birth: Leningrad
+        country_of_birth: Russia
+    national_identifier_details:
+      national_identifiers:
+      - number: '320304191830'
+        additional_information: taxpayer ID

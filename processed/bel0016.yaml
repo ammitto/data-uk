@@ -36,6 +36,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -50,3 +51,12 @@ uk_statement_of_reasons: "\nIn Aliashkevich’s position as First Deputy Head of
   intimidation campaign in that district against peaceful protesters in the wake of
   the 2020 presidential election, in particular arbitrary arrests, excessive use of
   force and ill‐treatment, including torture. \n"
+individual_details:
+  individual:
+    positions:
+    - Head of the Leninsky District Internal Affairs Directorate of Misk.
+    - ormer First Deputy Head of the District Department of Internal Affairs in Moskovski
+      District, Minsk
+    - Former Head of Criminal Police.
+    genders:
+    - Male

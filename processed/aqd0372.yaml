@@ -48,6 +48,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -66,3 +67,30 @@ addresses:
     address_country: Turkey
   - address_line6: Raqqa
     address_country: Syria
+individual_details:
+  individual:
+    dobs:
+    - '1983-10-01'
+    - '1983-03-15'
+    - '1980-01-01'
+    nationalities:
+    - Syria
+    birth_details:
+      locations:
+      - town_of_birth: Raqqa
+        country_of_birth: Syria
+    passport_details:
+      passports:
+      - number: '00814L001424'
+        additional_information: Syrian Arab Republic number
+    national_identifier_details:
+      national_identifiers:
+      - number: '10716775'
+        additional_information: Syrian Arab Republic national identification card
+          number
+      - number: '2020316097'
+        additional_information: Syrian Arab Republic national identification card
+          number
+      - number: '2020409266'
+        additional_information: Syrian Arab Republic national identification card
+          number

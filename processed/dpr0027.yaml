@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,18 @@ other_information: Associations with Korea National Insurance Corporation (KNIC)
 uk_statement_of_reasons: |2-
 
   Director in the reinsurance department of the Korea National Insurance Corporation (KNIC) based in the headquarters in Pyongyang at least until December 2015 and former authorised chief representative of KNIC in Hamburg, continues to act for or on behalf of KNIC or at its direction.
+individual_details:
+  individual:
+    dobs:
+    - '1953-12-18'
+    nationalities:
+    - North Korea
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Pyongyang
+        country_of_birth: North Korea
+    passport_details:
+      passports:
+      - number: PS472220097

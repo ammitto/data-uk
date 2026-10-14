@@ -29,6 +29,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -40,3 +41,19 @@ other_information: 'Pursuant to Resolution 2371(2017) the Security Council added
   following information: New AKA: Jon Yong Sang with date of birth 25 August 1976
   and diplomatic passport number 836110035, which expires on 1 January 2020.'
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - '1976-08-25'
+    - '1976-10-18'
+    nationalities:
+    - North Korea
+    - North Korea
+    positions:
+    - Tanchon Commercial Bank Representative in Syria
+    passport_details:
+      passports:
+      - number: '4721202031'
+      - number: '836110035'
+        additional_information: Diplomatic passport number, which expires on 1 January
+          2020.

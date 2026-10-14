@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -43,3 +44,19 @@ uk_statement_of_reasons: "\nThe Secretary of State considers that there are reas
   Republic of Tatarstan. These individuals assist in the production of military drones
   within the Alabuga Special Economic Zone which are then deployed as attack and reconnaissance
   vehicles in Ukraine. \n"
+individual_details:
+  individual:
+    dobs:
+    - '1997-09-27'
+    nationalities:
+    - Russia
+    genders:
+    - Female
+    passport_details:
+      passports:
+      - number: '9217/276222 '
+        additional_information: 'Russian Passport '
+    national_identifier_details:
+      national_identifiers:
+      - number: '165721179731 '
+        additional_information: Tax ID

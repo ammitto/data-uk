@@ -26,6 +26,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -37,3 +38,13 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2
 
   Dalokay Şanli has held a leadership position in the Kurdistan Workers' Party (PKK) in Europe, and manages recruitment and financing activities for the PKK in Europe. The PKK are a proscribed terrorist organisation in the UK and are listed under the EU’s CP931 Regime.
+individual_details:
+  individual:
+    dobs:
+    - '1976-10-13'
+    nationalities:
+    - Turkey
+    birth_details:
+      locations:
+      - town_of_birth: Pülümür
+        country_of_birth: Turkey

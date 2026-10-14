@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -32,3 +33,20 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Member of the State Duma, elected from the illegally annexed Autonomous Republic of Crimea. Member of the Duma Committee for CIS Affairs, Eurasian Integration and Relations with Compatriots. By taking an active part in separatist activity – including as a member of the self-defence forces of Crimea - he supported actions which undermine the territorial integrity, sovereignty and independence of Ukraine and further destabilise Ukraine. In September 2014 Shperov was elected to the State Council of the so-called 'Republic of Crimea.' He has publicly admitted, including in an interview published on ldpr-rk.rk website on 3 September 2016, his role in the events of 2014 that led to the illegal annexation of Crimea and Sevastopol and in particular his role in the organisation of the illegal referendum of the peninsula. The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1971-07-04'
+    nationalities:
+    - Ukraine
+    positions:
+    - Member of the State Duma, elected from the illegally annexed Autonomous Republic
+      of Crimea. Member of Duma Committee on Commonwealth of Independent States (CIS)
+      Affairs, Eurasian Integration and links with compatriots.
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Simferopol, The Autonomous Republic of Crimea and the city
+          of Sevastopol
+        country_of_birth: Ukraine

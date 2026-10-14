@@ -27,6 +27,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -47,3 +48,26 @@ uk_statement_of_reasons: "\n"
 addresses:
   addresses:
   - address_country: Syria
+individual_details:
+  individual:
+    dobs:
+    - '1984-12-09'
+    nationalities:
+    - France
+    birth_details:
+      locations:
+      - town_of_birth: Ploemeur
+        country_of_birth: France
+    passport_details:
+      passports:
+      - number: 05AT521433
+        additional_information: Issued on 30/11/2005 by the sous-prefecture of police
+          of Lorient, France
+    national_identifier_details:
+      national_identifiers:
+      - number: '050456101445'
+        additional_information: French national identity card. Issued on 19/05/2005
+          by the sous-prefecture of police of Lorient, France,
+      - number: '0205561020089'
+        additional_information: French identity card. Issued on 30 May 2002 under
+          name Emilie Edwige Konig

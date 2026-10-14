@@ -43,6 +43,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -55,3 +56,23 @@ other_information: 'Abdul Rahman Yasin is in Iraq. Review pursuant to Security C
   Council resolution 2368 (2017) was concluded on 4 Dec. 2019. INTERPOL-UN Security
   Council Special Notice web link: www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals.'
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - '1960-04-10'
+    nationalities:
+    - United States
+    birth_details:
+      locations:
+      - town_of_birth: Bloomington, Indiana
+        country_of_birth: United States
+    passport_details:
+      passports:
+      - number: '27082171'
+        additional_information: USA. Issued 21 June 1992 in Amman, Jordan.
+      - number: MO887925
+        additional_information: Iraq
+    national_identifier_details:
+      national_identifiers:
+      - number: 156-92-9858
+        additional_information: United States Social Security Number

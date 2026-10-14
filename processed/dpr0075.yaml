@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: true
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -34,3 +35,21 @@ sanctions_imposed_indicators:
 other_information: Pursuant to paragraph 6 of Security Council Resolution 2371 (2017)
   and paragraph 6 of Security Council Resolution 2375 (2017)
 uk_statement_of_reasons: "\n"
+ship_details:
+  ship:
+    imo_numbers:
+    - IMO9562233
+    current_owner_operators:
+    - Global United Shipping India
+    current_believed_flags:
+    - Comoros
+    previous_flags:
+    - India
+    types_of_ship:
+    - Bulk Carrier
+    tonnages:
+    - '7078'
+    lengths:
+    - '134.5'
+    years_built:
+    - '2011'

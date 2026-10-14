@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -41,3 +42,24 @@ other_information: 'Member of the Taliban Quetta Shura as at 2009. Taliban membe
   Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
   click here'
 uk_statement_of_reasons: "\n"
+titles:
+- Mullah
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1958
+    - dd/mm/1959
+    - dd/mm/1960
+    - dd/mm/1961
+    - dd/mm/1962
+    - dd/mm/1963
+    - dd/mm/1970
+    nationalities:
+    - Afghanistan
+    positions:
+    - Commander of Central Corp under the Taliban regime
+    birth_details:
+      locations:
+      - town_of_birth: Azan village, Kajaki District,Helmand Province
+        country_of_birth: Afghanistan
+      - town_of_birth: Spin Boldak District, Kandahar Province

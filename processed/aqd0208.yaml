@@ -29,6 +29,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -46,3 +47,22 @@ uk_statement_of_reasons: "\n"
 addresses:
   addresses:
   - address_country: Mali
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1958
+    nationalities:
+    - Mali
+    birth_details:
+      locations:
+      - town_of_birth: Abeibara, Kidal Region
+        country_of_birth: Mali
+    passport_details:
+      passports:
+      - number: A1037434
+        additional_information: Mali number, issued on 10 Aug. 2001 (expired 31 Dec.
+          2014)
+    national_identifier_details:
+      national_identifiers:
+      - number: '012546 '
+        additional_information: Malian birth certificate

@@ -38,6 +38,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -54,3 +55,32 @@ addresses:
   addresses:
   - address_line6: Kabul
     address_country: Afghanistan
+titles:
+- Mullah
+- Haji
+- Maulavi
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1963
+    - '1956'
+    - '1969-07-30'
+    - '1955'
+    nationalities:
+    - Afghanistan
+    positions:
+    - Minister of Justice under the Taliban regime (1996-2001)
+    birth_details:
+      locations:
+      - town_of_birth: Spin Boldak District, Kandahar Province
+        country_of_birth: Afghanistan
+      - town_of_birth: Chora District, Uruzgan Province
+        country_of_birth: Afghanistan
+      - town_of_birth: Dehrawood District, Uruzgan Province
+        country_of_birth: Afghanistan
+    passport_details:
+      passports:
+      - number: P00429243
+        additional_information: 'Afghanistan P00429243, issued on 15 Dec. 2021, issued
+          in Kabul, Afghanistan, expires 15 Aug. 2031 (Name in Latin  script: MULLAH
+          NOORDIN TORABI)'

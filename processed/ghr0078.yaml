@@ -19,6 +19,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -34,3 +35,21 @@ addresses:
   addresses:
   - address_line6: Xinjiang
     address_country: China
+individual_details:
+  individual:
+    dobs:
+    - dd/01/1958
+    nationalities:
+    - China
+    positions:
+    - Former Deputy Secretary and Deputy Director of the Party Leadership Group of
+      the Standing Committee of the People's Congress of Xinjiang Uyghur Autonomous
+      Region (XUAR). Previously Deputy Secretary of the Party Committee of XUAR (March
+      2016 - January 2019), Secretary of the Political and Legal Affairs Committee
+      (November 2016 - January 2019).
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Lianshui, Jangsu
+        country_of_birth: China

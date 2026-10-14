@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: true
   chartering_of_ships: true
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -38,3 +39,11 @@ other_information: In 2016, Ch’oe So’k-min was the deputy representative at 
   located overseas in an effort to evade sanctions. in response to the DPRK test of
   an ICBM on 28 November 2017
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - '1978-07-25'
+    positions:
+    - Former overseas Foreign Trade Bank representative
+    genders:
+    - Male

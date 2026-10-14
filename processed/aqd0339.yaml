@@ -52,6 +52,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -73,3 +74,18 @@ addresses:
     address_line2: 4 Lake Road
     address_line6: Lahore
     address_country: Pakistan
+individual_details:
+  individual:
+    dobs:
+    - '1953-10-04'
+    nationalities:
+    - Pakistan
+    passport_details:
+      passports:
+      - number: DG5149481
+        additional_information: Pakistan. Issued 22.8.2006, expired on 21.8.2011.
+          Passport booklet number A2815665.
+    national_identifier_details:
+      national_identifiers:
+      - number: '29553654234'
+      - number: 35202-4135948-7

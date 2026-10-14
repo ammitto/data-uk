@@ -19,6 +19,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -30,3 +31,17 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Aleksei Droganov was an officer in the Tax Crimes Department in the Moscow directorate of the Interior Ministry and was involved in the detention and mistreatment of Sergei Magnitsky, which contributed significantly to his death. Droganov was part of the ‘team’ of investigators, led by Artem Kuznetsov, the Deputy Head of the Tax Crimes Department, who were allegedly involved in the initial fraud exposed by Sergei Magnitsky and who falsified evidence to justify his arrest and detention. As part of this investigation team Aleksei Droganov facilitated the mistreatment of Sergei Magnitsky whilst in detention which was designed to force Magnitsky to retract his earlier testimony.
+individual_details:
+  individual:
+    dobs:
+    - '1975-10-11'
+    nationalities:
+    - Russia
+    positions:
+    - Operative of Tax Crimes Department in the Moscow directorate of the Interior
+      Ministry
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Russia

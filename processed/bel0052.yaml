@@ -36,6 +36,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -47,3 +48,17 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   In his former position as State Secretary of the Security Council, Andrei Raukou, is responsible for its coordination of the repression and intimidation campaign carried out by the State apparatus in the wake of the 2020 Presidential elections.
+individual_details:
+  individual:
+    dobs:
+    - '1967-06-25'
+    nationalities:
+    - Belarus
+    positions:
+    - Former State Secretary of the Security Council (Jan-Sept 2020)
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Village of Revyaki, Vitebsk / Viciebsk Oblast
+        country_of_birth: Former USSR Currently Belarus

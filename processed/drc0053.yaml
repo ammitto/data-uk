@@ -34,6 +34,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -49,3 +50,21 @@ addresses:
   - address_line5: Rutshuru Territory
     address_line6: North Kivu
     address_country: Congo (Democratic Republic)
+titles:
+- Colonel
+individual_details:
+  individual:
+    dobs:
+    - '1964-01-01'
+    nationalities:
+    - Rwanda
+    positions:
+    - FDLR-FOCA “SONOKI” Sector Commander
+    - FDLR-FOCA Brigadier General
+    - former commander of the First Division of FOCA
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Gaseke, Gisenyi Province
+        country_of_birth: Rwanda

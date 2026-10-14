@@ -26,6 +26,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -55,3 +56,27 @@ addresses:
   - address_line1: Guayaguayare Road
     address_line6: Rio Claro
     address_country: Trinidad and Tobago
+individual_details:
+  individual:
+    dobs:
+    - '1967-07-04'
+    nationalities:
+    - Trinidad and Tobago
+    - United States
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Rio Claro
+        country_of_birth: Trinidad and Tobago
+    passport_details:
+      passports:
+      - number: TB162181
+        additional_information: Trinidad and Tobago (issued on 27 January 2015, expired
+          26 January 2020)
+      - number: '420985453'
+        additional_information: United States of America (expired 6 February 2017)
+    national_identifier_details:
+      national_identifiers:
+      - number: '19670704052'
+        additional_information: Trinidad and Tobago

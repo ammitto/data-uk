@@ -50,6 +50,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: true
   chartering_of_ships: true
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -61,3 +62,18 @@ other_information: Kim Tong My’ong is the President of Tanchon Commercial Bank
   has held various positions within Tanchon Commercial bank since at least 2002. He
   has also played a role in managing Amroggang’s affairs.
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1964
+    - '1962-08-28'
+    nationalities:
+    - North Korea
+    - North Korea
+    - North Korea
+    positions:
+    - President of Tanchon Commercial Bank
+    passport_details:
+      passports:
+      - number: '290320764'
+        additional_information: "(issued by the Democratic People's Republic of Korea)"

@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,17 @@ uk_statement_of_reasons: |2-
 
   Dmitry Anatolyevich STESHIN (hereafter STESHIN) is a Russian journalist and special correspondent for Komsomolskaya Pravda (KP). Through his reporting with KP since Russia invaded Ukraine, STESHIN has promoted and supported the actions of the Russian army in invading Ukraine, and has actively sought to legitimise the justifications that the Russian government has provided for the invasion. Therefore, STESHIN is involved in engaging in, providing support for, and promoting the policies and actions which destabilises Ukraine and undermines or threatens the territorial integrity, sovereignty or independence of Ukraine.
    The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1972-09-12'
+    nationalities:
+    - Russia
+    positions:
+    - Journalist and Editor
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: St Petersburg
+        country_of_birth: Russia

@@ -33,6 +33,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -55,3 +56,21 @@ addresses:
     address_line2: Ul. Baumanskaya, 54
     address_line6: Moscow
     address_country: Russia
+phone_numbers:
+- "+7 (495) 229-00-50"
+websites:
+- https://open.capitalkredit.ru
+- http://bankck.ru
+- http:// bankstolichnykredit.rf
+- http:// kbstolichnycredit.rf
+- http://www.bankintegral.ru
+- http://www.capitalkredit.ru
+entity_details:
+  entity:
+    business_registration_numbers:
+    - |-
+      Russia INN - 7718103767
+      Russia OGRN - 1027739199927
+      Registration number - 2853
+    types_of_entity:
+    - Limited Liability Company

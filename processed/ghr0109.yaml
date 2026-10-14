@@ -25,6 +25,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -42,3 +43,14 @@ uk_statement_of_reasons: "\nDong Lecheng is an involved person under the Global 
   of Golden Sun Sky Entertainment Co., Ltd. is involved in the entrapment of people
   and forcing them to working online scam operations in the Jinshui compounds in Sihanoukville,
   Cambodia.  \n"
+individual_details:
+  individual:
+    nationalities:
+    - Cambodia
+    positions:
+    - Chairman of the Board of Directors of Golden Sun Sky Entertainment Co Ltd.
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: China

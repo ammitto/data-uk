@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,15 @@ uk_statement_of_reasons: "\nFormer deputy general director for infrastructure pr
   of the illegally annexed Crimean peninsula into the Russian Federation, which in
   turn further undermines the territorial integrity, sovereignty and independence
   of Ukraine. \n The trust services sanctions were imposed on 21/03/2023."
+individual_details:
+  individual:
+    dobs:
+    - '1967-11-10'
+    positions:
+    - Former deputy general director for infrastructure projects at Strogazmontazh
+      (SGM)
+    genders:
+    - Male
+    passport_details:
+      passports:
+      - number: '722706177'

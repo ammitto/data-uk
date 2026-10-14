@@ -27,6 +27,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,21 @@ uk_statement_of_reasons: "\nThe Secretary of State considers that there are reas
   (Sanctions) (EU Exit) Regulations 2019 on the basis of the following ground: AL-JASIM
   is or has been involved in repressing the civilian population of Syria and, during
   the civil war, the commission of violations of International Humanitarian Law.  \n"
+titles:
+- Brigadier General
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1985
+    - dd/mm/1986
+    - dd/mm/1987
+    - dd/mm/1988
+    nationalities:
+    - Syria
+    - Turkey
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: 'Jousa, Hama Governorate '
+        country_of_birth: Syria

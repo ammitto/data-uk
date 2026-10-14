@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -48,3 +49,12 @@ addresses:
     address_line5: District 12
     address_line6: Tehran
     address_country: Iran
+individual_details:
+  individual:
+    nationalities:
+    - Iran
+    positions:
+    - Head of the Organisation for the Registration of Deeds and Property; Former
+      Deputy Minister of Planning and Information Technology of the Judiciary of Tehran
+    genders:
+    - Male

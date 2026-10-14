@@ -52,6 +52,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -68,3 +69,25 @@ uk_statement_of_reasons: "\n"
 addresses:
   addresses:
   - address_country: Italy
+individual_details:
+  individual:
+    dobs:
+    - '1969-12-18'
+    - '1968-05-25'
+    - '1968-12-18'
+    - '1969-07-14'
+    nationalities:
+    - Tunisia
+    birth_details:
+      locations:
+      - town_of_birth: Asima-Tunis
+        country_of_birth: Tunisia
+      - town_of_birth: Naples
+        country_of_birth: Italy
+      - country_of_birth: Algeria
+      - country_of_birth: Tunisia
+    passport_details:
+      passports:
+      - number: G737411
+        additional_information: Tunisian number, issued on 24 Oct. 1990 (expired on
+          20 Sep. 1997)

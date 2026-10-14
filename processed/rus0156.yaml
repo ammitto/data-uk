@@ -33,6 +33,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -44,3 +45,17 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Acting Head of the ‘Central Electoral Commission’ of the so-called ‘Donetsk People’s Republic’. Former “Secretary” of the ‘Central Election Committee’ of the so-called ‘Donetsk People’s Republic’. In this capacity, he participated in the organisation of the so-called ‘elections’ of 11 November 2018 in the so-called ‘Donetsk People’s Republic’, and thereby actively supported and implemented actions and policies which undermine the territorial integrity, sovereignty and independence of Ukraine. The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1985-04-07'
+    nationalities:
+    - Ukraine
+    positions:
+    - Secretary of the so-called Donetsk People’s Republic Central Election Commission
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: The Autonomous Republic of Crimea and the city of Sevastopol
+        country_of_birth: Ukraine

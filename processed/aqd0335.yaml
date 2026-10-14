@@ -61,6 +61,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -73,3 +74,13 @@ other_information: 'At large as at Dec. 2003. Review pursuant to Security Counci
   Council resolution 2253 (2015) was concluded on 21 Feb. 2019. INTERPOL-UN Security
   Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1424789'
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - '1962-09-03'
+    nationalities:
+    - Indonesia
+    birth_details:
+      locations:
+      - town_of_birth: Makassar
+        country_of_birth: Indonesia

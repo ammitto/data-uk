@@ -26,6 +26,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: true
   chartering_of_ships: true
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -41,3 +42,9 @@ uk_statement_of_reasons: "\n"
 addresses:
   addresses:
   - address_line1: Democratic People's Republic of Korea
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1950
+    positions:
+    - Former Member of the Workers’ Party of Korea Central Military Commission

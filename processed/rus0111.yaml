@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -44,3 +45,17 @@ uk_statement_of_reasons: "\nFormer First deputy Chairman of the Committee on For
   adopted, would undermine the territorial integrity of Ukraine.  Chairman of the
   Russian State Duma Committee for CIS Affairs, Eurasian Integration and Relations
   with Compatriots.  \n The trust services sanctions were imposed on 21/03/2023."
+individual_details:
+  individual:
+    dobs:
+    - '1960-08-06'
+    nationalities:
+    - Russia
+    positions:
+    - First Deputy Chairman of the Committee on Foreign Affairs of the State Durma
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Stepnoy Dvorets
+        country_of_birth: Russia

@@ -51,6 +51,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -70,3 +71,32 @@ addresses:
   - address_line1: Ibn-Sina Watt
     address_line2: Kabul
     address_country: Afghanistan
+titles:
+- Mullah
+- Haji
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1972
+    - '1976-07-27'
+    nationalities:
+    - Afghanistan
+    - Afghanistan
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Band-e-Temur, Maiwand District, Kandahar Province
+        country_of_birth: Afghanistan
+    passport_details:
+      passports:
+      - number: D0010408
+        additional_information: 'Afghanistan diplomatic passport, issued on 26 Aug.
+          2024 in Kabul, Afghanistan (Name  in Latin script: Hedayatullah Badri; name
+          in original script: ي بدر الله ھدایت ;expires 26 Aug. 2029)'
+      - number: D0010006
+        additional_information: Issued on 28 Sep. 2022, issued in Kabul, Afghanistan
+          (expires 28 Sep. 2027)
+      - number: P03318995
+        additional_information: 'Afghanistan passport, issued on 29 Jul. 2020 (Name
+          in Latin script: Hedayatullah  Hedayat, expires 29 Jul. 2025)'

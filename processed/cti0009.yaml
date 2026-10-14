@@ -34,6 +34,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -45,3 +46,14 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2
 
   Hasan Izz Al-Din is a member of Lebanese Hizballah. He is wanted by the FBI for his involvement in the hijacking of a commercial airliner on 14 June 1985 during which various passengers and crewmembers were assaulted and one US citizen murdered.
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1963
+    nationalities:
+    - Lebanon
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Lebanon

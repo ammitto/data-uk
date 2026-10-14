@@ -27,6 +27,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -38,3 +39,17 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2
 
   The Secretary of State considers that there are reasonable grounds to suspect Alisher USMANOV (hereafter USMANOV) is an “involved person” under the Russia (Sanctions) (EU Exit) Regulations 2019 on the basis of the following grounds: 1) USMANOV is associated with a person who is and has been involved in destabilising Ukraine and undermining and threatening the territorial integrity, sovereignty and independence of Ukraine, namely Putin, including through obtaining a financial benefit and other material benefit from that person. 2) USMANOV has been involved in obtaining a benefit from or supporting the Government of Russia by owning or controlling USM Holdings which is itself and through its subsidiaries Metalloinvest and Megafon, carrying on business in sectors of strategic significance to the Government of Russia, namely the Russian extractives and information, communication and digital technologies sectors. 3) USMANOV is a member of USM Holdings, which is an involved person by virtue of its ownership and control of two persons; Metalloinvest which carries on business in sectors of strategic significance to the Government of Russia, namely the Russian extractives sector and Megafon which carries on business in sectors of strategic significance to the Government of Russia, namely the Russian information, communication and digital technologies sectors. The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1953-09-09'
+    nationalities:
+    - Russia
+    positions:
+    - Founder of USM Holdings
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: 'Chust '
+        country_of_birth: Uzbekistan

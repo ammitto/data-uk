@@ -32,6 +32,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -44,3 +45,15 @@ uk_statement_of_reasons: |2-
 
   Aleksandr Nikolaevich POPOV is an “involved person” under the Russia (Sanctions) (EU Exit) Regulations 2019 because he is or has been involved in obtaining a benefit from or supporting the Government of Russia by working as a director or manager, or equivalent position, of a Government of Russia-affiliated entity, namely Rostec, which is owned by the Government of Russia and is carrying on business in a sector of strategic significance to the Government of Russia, namely the defence sector.
    The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1967-06-30'
+    positions:
+    - Director for Special Assignments at Rostec.
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Podolsk
+        country_of_birth: Russia

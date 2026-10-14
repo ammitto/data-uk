@@ -26,6 +26,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: true
   chartering_of_ships: true
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,14 @@ sanctions_imposed_indicators:
 other_information: General Manager of the Sohae Satellite Launching Station and head
   of launch center at which the 13 April and 12 December 2012 launches took place.
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - '1968-02-19'
+    - dd/mm/1965
+    - dd/mm/1966
+    positions:
+    - General Manager of the Sohae Satellite Launching Station and head of launch
+      center at which the 13 April and 12 December 2012 launches took place.
+    genders:
+    - Male

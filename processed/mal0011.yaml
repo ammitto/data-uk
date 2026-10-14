@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -31,3 +32,13 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2
 
   As head of the Wagner Group in Mali, Ivan Aleksandrovitch Maslov (MASLOV) is an involved person under the Mali (Sanctions) (EU Exit) Regulations 2020 because he has been involved in the commission of violations of international humanitarian law, in particular, he has been responsible for the deliberate targeting of civilians.
+individual_details:
+  individual:
+    dobs:
+    - '1982-07-11'
+    nationalities:
+    - Russia
+    positions:
+    - Head of the Wagner Group in Mali
+    genders:
+    - Male

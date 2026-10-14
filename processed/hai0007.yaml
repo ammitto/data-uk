@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -49,3 +50,12 @@ uk_statement_of_reasons: "\nProphane Victor was listed on 27 September 2024 purs
   to paragraph 15 of resolution 2653 (2022) for the measures listed in paragraphs
   3, 6, and 11, as further elaborated by paragraphs 16(a) and 16(b) of resolution
   2653 (2022). \n"
+individual_details:
+  individual:
+    nationalities:
+    - Haiti
+    positions:
+    - Former member of the Haitian Parliament, involved in weapons trafficking and
+      using violence to secure political gain.
+    genders:
+    - Male

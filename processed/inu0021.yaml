@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -44,3 +45,24 @@ addresses:
   - address_line1: Iranian University of Science and Technology
     address_line6: Tehran
     address_country: Iran
+phone_numbers:
+- "+98 21 77240488"
+- "'+98 21 77240540 50 Extension 2906"
+email_addresses:
+- kdaneshjo@iust.ac.ir
+individual_details:
+  individual:
+    dobs:
+    - '1956-02-02'
+    - '1957-07-05'
+    positions:
+    - Professor at the Iran University of Science and Technology
+    - Project Manager of the 111th section of the Amad Plan
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Damghan
+        country_of_birth: Iran
+      - town_of_birth: Damavand
+        country_of_birth: Iran

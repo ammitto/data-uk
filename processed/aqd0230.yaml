@@ -29,6 +29,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -48,3 +49,17 @@ addresses:
   - address_line1: Via Masina No 7
     address_line6: Milan
     address_country: Italy
+individual_details:
+  individual:
+    dobs:
+    - '1968-04-03'
+    nationalities:
+    - Tunisia
+    birth_details:
+      locations:
+      - town_of_birth: Tunis
+        country_of_birth: Tunisia
+    passport_details:
+      passports:
+      - number: M307707
+        additional_information: 'issue date: 12/04/2000, expiry date: 11/04/2005'

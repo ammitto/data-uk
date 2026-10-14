@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,15 @@ addresses:
   addresses:
   - address_line6: Surrey
     address_country: United Kingdom
+individual_details:
+  individual:
+    dobs:
+    - '1990-09-09'
+    nationalities:
+    - Russia
+    - United Kingdom
+    positions:
+    - Member of the Board of Directors at Joint-Stock Company Aero-Engine Scientific
+      and Technical Complex “Soyuz”
+    genders:
+    - Male

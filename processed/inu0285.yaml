@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -34,3 +35,12 @@ other_information: 'Mohammad ESLAMI was listed pursuant to paragraph 12 of resol
 uk_statement_of_reasons: |2-
 
   Mohammad ESLAMI is an involved person within the meaning of the Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019. Mohammad ESLAMI is or has been providing support for an activity that could lead to the development of nuclear weapons in, or for use in, Iran.
+individual_details:
+  individual:
+    nationalities:
+    - Iran
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Iran

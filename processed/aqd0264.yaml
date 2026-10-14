@@ -31,6 +31,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -42,3 +43,13 @@ other_information: 'Syria-based Al-Qaida (QDe.004) facilitator. Involved in the 
   of improvised explosive devices for use in Afghanistan and Syrian Arab Republic
   since at least 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5930722'
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - '1984-05-19'
+    nationalities:
+    - Saudi Arabia
+    birth_details:
+      locations:
+      - town_of_birth: al-Duwadmi
+        country_of_birth: Saudi Arabia

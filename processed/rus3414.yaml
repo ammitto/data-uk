@@ -25,6 +25,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -44,3 +45,20 @@ addresses:
     address_line4: Guangdong
     address_line6: Shenzhen
     address_country: China
+phone_numbers:
+- "+86 755-29874501"
+- "+86 755- 23405269"
+- "+86 755- 27175156"
+- "+86 512-36825901"
+- "+86 0755-29874500"
+email_addresses:
+- hr@sowincnc.com
+- overseas@sowincnc.com
+- market@sowincnc.com
+websites:
+- http://www.sowin-ks.com/
+- https://www.sowincnc.com/
+entity_details:
+  entity:
+    business_registration_numbers:
+    - 'USCC: 91440300555437169C'

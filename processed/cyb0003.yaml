@@ -32,6 +32,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -43,3 +44,9 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Huaying Haitai, known in cyber security circles as APT10 (Advanced Persistent Threat 10), Red Apollo, CVNX, Stone Panda, MenuPass and Potassium, was involved in relevant cyber activity Operation Cloud Hopper, one of the most significant and widespread cyber instructions to date. They conducted data interference through the theft of intellectual property and sensitive commercial data over many years. Huaying Haitai targeted companies across six continents and sectors banking and finance, government, aviation, space, and satellite technology, manufacturing technology, medical, oil and gas, mining, communications technology, computer processing technology, and defence technology. This activity undermined the prosperity of the United Kingdom and countries other than the United Kingdom
+websites:
+- huayinghaitai.com
+entity_details:
+  entity:
+    types_of_entity:
+    - Company

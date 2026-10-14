@@ -27,6 +27,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -38,3 +39,18 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Mohammed Hossein KHOSRAVI is an "involved person" under the Iran (Sanctions) Regulations 2023 because he is or has been involved in the commission of a serious human rights violation or abuse in Iran through his position as the Director-General of Sistan and Baluchestan Province Prisons and the former Warden of Zahedan Central Prison.
+individual_details:
+  individual:
+    dobs:
+    - '1974-09-23'
+    positions:
+    - Director-General of Sistan and Baluchestan Province Prisons
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Birjand
+        country_of_birth: Iran
+    national_identifier_details:
+      national_identifiers:
+      - number: '653027761'

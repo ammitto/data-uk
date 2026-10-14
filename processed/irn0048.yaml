@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -35,3 +36,9 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Head of section VI of the police, investigation department. Former Head of the Intelligence Services within the Iranian Police. Former Head of the Computer Crimes Unit of the Iranian Police. He was responsible for thousands of investigations and indictments of reformists and political opponents using the Internet. He was thus responsible for grave human rights violations in the repression of persons who speak out in defence of their legitimate rights, including freedom of expression during and after the 2009 Green Movement.
+individual_details:
+  individual:
+    positions:
+    - Head of section VI of the police, investigation department.
+    genders:
+    - Male

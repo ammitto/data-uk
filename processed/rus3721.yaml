@@ -27,6 +27,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -37,3 +38,15 @@ sanctions_imposed_indicators:
 uk_statement_of_reasons: |2
 
   The Secretary of State considers there are reasonable grounds to suspect that Nikolay Ivanovich DEREZA (hereafter “DEREZA”) is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 because he is or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine as a person who is responsible for, engages in, provides support for, or promotes policies or actions which destabilise Ukraine or undermine or threaten the territorial integrity, sovereignty or independence of Ukraine, namely by serving as an officer in the occupation detention system in Tokmak, Zaporizhzhia region, and participating in the detention, forced labour and mistreatment of civilians held under Russian occupation.
+individual_details:
+  individual:
+    dobs:
+    - '1971-10-04'
+    nationalities:
+    - Ukraine
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Tokmak
+        country_of_birth: Ukraine

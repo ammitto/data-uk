@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,13 @@ addresses:
   addresses:
   - address_line1: Dubai
     address_country: United Arab Emirates
+entity_details:
+  entity:
+    business_registration_numbers:
+    - |-
+      Unknown commercial register ID: 1489833
+      Unknown chamber of commerce ID: 337486
+      Cedar Rose internal identifier: AEC222397594
+      Alternative Cedar rose number: 0119786794
+    types_of_entity:
+    - Limited Liability Company

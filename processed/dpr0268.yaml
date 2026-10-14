@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: true
   chartering_of_ships: true
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -32,3 +33,16 @@ sanctions_imposed_indicators:
 other_information: Served as Korea Ryonbong General Corporation representative in
   Cuba.
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - '1968-06-25'
+    positions:
+    - Official for Korea Ryonbong General Corporation, specializes in acquisition
+      for DPRK’s defence industries and support to Pyongyang’s military-related sales.
+      Its procurements also probably support the DPRK’s chemical weapons programme
+    genders:
+    - Male
+    passport_details:
+      passports:
+      - number: '654310175'

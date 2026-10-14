@@ -29,6 +29,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -46,3 +47,21 @@ addresses:
   - address_line1: Novy Arbat Street, 29
     address_line6: Moscow
     address_country: Russia
+phone_numbers:
+- 8-800-2008-600
+- "+7 (495) 967-8182"
+- "+7 (499) 300-9832"
+- Fax +7 (495) 967-8133
+email_addresses:
+- info@evrofinance.ru
+entity_details:
+  entity:
+    business_registration_numbers:
+    - OGRN 1027700565970
+    - 'Correspondent account: 30101810900000000204 in OCC No 1 of the Main Directorate
+      of the Bank of Russia for the Central Federal District,'
+    - BIC 044525204
+    - TIN 7703115760
+    - KPP 997950001 / 770401001
+    types_of_entity:
+    - Bank

@@ -96,6 +96,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -121,3 +122,24 @@ uk_statement_of_reasons: "\n"
 addresses:
   addresses:
   - address_country: Egypt
+individual_details:
+  individual:
+    dobs:
+    - '1964-01-01'
+    - '1964-02-01'
+    nationalities:
+    - Egypt
+    birth_details:
+      locations:
+      - town_of_birth: Cairo
+        country_of_birth: Egypt
+    passport_details:
+      passports:
+      - number: '6487'
+        additional_information: Egypt number, issued on 30 Jan. 1986 issued under
+          name Muhammad Jamal Abdu
+      - number: '388181'
+        additional_information: Yemen number issued under name Muhammad Jamal Abd-Al
+          Rahim Al-Kashif
+      - additional_information: Egypt issued in 1993, under name Muhammad Jamal Abd-Al
+          Rahim Ahmad Al-Kashif

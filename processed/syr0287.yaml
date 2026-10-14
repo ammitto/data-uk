@@ -30,6 +30,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -47,3 +48,19 @@ addresses:
     address_line2: Daraa Highway
     address_line3: Ashrafiyat Sahnaya Rif Dimashq
     address_line5: P.O. Box 9525
+phone_numbers:
+- "+963 11 668 14000"
+- "+963 11 673 1044"
+- "+963 11 9962"
+email_addresses:
+- info@chamholding.sy
+websites:
+- www.chamholding.sy
+entity_details:
+  entity:
+    types_of_entity:
+    - Private
+    - Investment
+    subsidiaries:
+    - Bena Properties (subsidiary), Cham Holding Building, Daraa Highway, Ashrafiyat
+      Sahnaya Rif Dimashq, Syria, P.O. Box 9525

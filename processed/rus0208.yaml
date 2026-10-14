@@ -57,6 +57,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -68,3 +69,20 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Commanding officer of the border patrol boat “Don” (side markings 353) of the Border Guard Service of the Federal Security Service of the Russian Federation, 2nd rank captain. He was in command of the vessel that actively participated in actions of the Russian Federation against Ukrainian vessels and their crew on 25 November 2018 and conducted ramming of the estuary tug, “Yany Kapu”, of the Ukrainian Navy and thus actively contributed to the consolidation of the illegal annexation of the Crimean peninsula into the Russian Federation, which in turn further undermines the territorial integrity of Ukraine. The trust services sanctions were imposed on 21/03/2023.
+titles:
+- Captain 2nd Rank
+individual_details:
+  individual:
+    dobs:
+    - '1975-12-04'
+    - '1978-08-22'
+    nationalities:
+    - Russia
+    positions:
+    - Commander of the Border Patrol Boat ‘Don’
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: The Autonomous Republic of Crimea and the city of Sevastopol
+        country_of_birth: Ukraine

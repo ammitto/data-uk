@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -41,3 +42,18 @@ addresses:
     address_line2: Golubinskay Street
     address_line6: Moscow
     address_country: Russia
+individual_details:
+  individual:
+    dobs:
+    - '1965-09-25'
+    - '1969-09-25'
+    nationalities:
+    - Russia
+    positions:
+    - General Director of Global Project LLC
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Moscow
+        country_of_birth: Russia

@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -37,3 +38,13 @@ uk_statement_of_reasons: "\nNO KWANG CHOL is or has been involved in destabilisi
   independence of Ukraine, as he is responsible for, engages in, provides support
   for, or promotes any policy or action which destabilises Ukraine or undermines or
   threatens the territorial integrity, sovereignty or independence of Ukraine. \n"
+titles:
+- General
+individual_details:
+  individual:
+    nationalities:
+    - DPRK
+    positions:
+    - Minister of National Defence
+    genders:
+    - Male

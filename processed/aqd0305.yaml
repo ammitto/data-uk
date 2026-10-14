@@ -42,6 +42,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -60,3 +61,23 @@ addresses:
   - address_line1: Bab Ben Ghasheer
     address_line6: Tripoli
     address_country: Libya
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1963
+    nationalities:
+    - Libya
+    birth_details:
+      locations:
+      - town_of_birth: Tripoli
+        country_of_birth: Libya
+    passport_details:
+      passports:
+      - number: 1990/345751
+        additional_information: 'Libya '
+      - number: '345741'
+        additional_information: 'Libya '
+    national_identifier_details:
+      national_identifiers:
+      - number: '220334'
+        additional_information: Libya

@@ -43,6 +43,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -59,3 +60,36 @@ addresses:
   - address_country: Sudan
   - address_line6: Birao
     address_country: Central African Republic
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1970
+    - dd/mm/1969
+    - dd/mm/1971
+    - '1971-01-01'
+    - '1970-01-01'
+    nationalities:
+    - Central African Republic
+    - South Sudan
+    positions:
+    - General
+    - Minister for Security
+    - Director General of the Extraordinary Committee for the Defence of Democratic
+      Achievements
+    birth_details:
+      locations:
+      - town_of_birth: Ndele
+        country_of_birth: Central African Republic
+      - town_of_birth: Algenana
+        country_of_birth: Sudan
+    passport_details:
+      passports:
+      - number: D00001184
+        additional_information: CAR passport
+      - number: P04838205
+        additional_information: Issued on 10 June 2018, (issued in Bahri, Sudan. Expires
+          on 9 June 2023. Passport issued under the name of Mohamed Adam Brema Abdallah)
+    national_identifier_details:
+      national_identifiers:
+      - number: '20227088368'
+        additional_information: Sudan

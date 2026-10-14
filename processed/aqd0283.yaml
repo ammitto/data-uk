@@ -75,6 +75,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -91,3 +92,19 @@ uk_statement_of_reasons: "\n"
 addresses:
   addresses:
   - address_country: Yemen
+individual_details:
+  individual:
+    dobs:
+    - '1979-05-27'
+    - dd/mm/1973
+    nationalities:
+    - Saudi Arabia
+    birth_details:
+      locations:
+      - country_of_birth: Saudi Arabia
+      - town_of_birth: Shabwa
+        country_of_birth: Yemen
+    national_identifier_details:
+      national_identifiers:
+      - number: '1089516791'
+        additional_information: Saudi Arabia National Identification Number

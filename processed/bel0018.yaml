@@ -36,6 +36,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -51,3 +52,17 @@ uk_statement_of_reasons: "\nVasilieu was Head of the Department of Internal Affa
   the serious human rights violations carried out by police officers following the
   election of 9 August, in particular arbitrary arrests and ill‐treatment, including
   torture, of peaceful demonstrators. \n"
+individual_details:
+  individual:
+    dobs:
+    - '1975-03-24'
+    nationalities:
+    - Belarus
+    positions:
+    - Head of the Academy of the Ministry of Internal Affairs of the Republic of Belarus.
+    - ormer Head of the Department of Internal Affairs of Gomel Oblast Executive Committee.
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Mahilou/Mogilev

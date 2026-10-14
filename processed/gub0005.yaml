@@ -19,6 +19,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -30,3 +31,18 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Member of the ‘Military Command’ which has assumed responsibility for the coup d'état of 12 April 2012. Former Air Force Chief of Staff. His presence in a delegation which met with ECOWAS on April 26th confirms his participation in the ‘Military Command’
+titles:
+- Colonel
+individual_details:
+  individual:
+    dobs:
+    - '1955-06-14'
+    nationalities:
+    - Guinea-Bissau
+    positions:
+    - Minister of National Defence
+    genders:
+    - Male
+    passport_details:
+      passports:
+      - number: DA0002166

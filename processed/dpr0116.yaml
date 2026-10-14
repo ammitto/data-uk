@@ -26,6 +26,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: true
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,21 @@ other_information: 'Pursuant to paragraph 6 of Security Council Resolution 2371 
   3 June 2017, for export in violation of UN sanctions. Listed as asset of Shen Zhong
   International Shipping (OFSI ID: 13644, UN Reference Number: UN Ref KPe.073)'
 uk_statement_of_reasons: "\n"
+ship_details:
+  ship:
+    imo_numbers:
+    - '8747604'
+    current_owner_operators:
+    - Shen Zhong International Shipping
+    current_believed_flags:
+    - St Kitts and Nevis
+    previous_flags:
+    - Kiribati
+    types_of_ship:
+    - General Cargo / Multi Purpose
+    tonnages:
+    - '7928'
+    lengths:
+    - '135'
+    years_built:
+    - '2006'

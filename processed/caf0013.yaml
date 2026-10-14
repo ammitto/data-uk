@@ -50,6 +50,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -82,3 +83,33 @@ addresses:
   - address_line5: Ndjari
     address_line6: Ndjamena
     address_country: Chad
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1967
+    - '1967-01-01'
+    nationalities:
+    - Central African Republic
+    - Chad
+    positions:
+    - President
+    - "“general”"
+    birth_details:
+      locations:
+      - town_of_birth: Ndele, Bamingui-Bangoran
+        country_of_birth: Central African Republic
+      - town_of_birth: Haraze Mangueigne
+        country_of_birth: Chad
+    passport_details:
+      passports:
+      - number: D00000897
+        additional_information: "(CAR diplomatic). Issued on 5 April 2013, valid until
+          4 April 2018"
+      - number: D00004262
+        additional_information: CAR Diplomatic. Issued on 11 March 2014. Expires on
+          10 March 2019.
+    national_identifier_details:
+      national_identifiers:
+      - number: 103-00653129-22
+        additional_information: Chad national identity card issued on 21 April 2009
+          (expires on 21 April 2019)

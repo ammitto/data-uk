@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -44,3 +45,20 @@ addresses:
     address_line5: Kowloon
     address_line6: Hong Kong
     address_country: China
+phone_numbers:
+- "+852 6745 7255"
+- "+852 6131 1855"
+email_addresses:
+- sales.hk@m9logistics.com
+websites:
+- m9logistics.com
+- m9logisitcs.cn
+entity_details:
+  entity:
+    business_registration_numbers:
+    - 'CR number: 2469563'
+    - Business Registration Number - 67092371
+    types_of_entity:
+    - Limited Liability Company
+    subsidiaries:
+    - M9 LOGISTICS CO., LTD.

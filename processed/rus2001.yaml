@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -48,3 +49,12 @@ other_information: 'Transport sanctions: where transport sanctions apply, a ship
 uk_statement_of_reasons: |2
 
   Marina Aleksandrovna Mordashova is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 on the following ground: Marina Mordashova is associated with a person who is or has been involved in obtaining a benefit from the Government of Russia, namely Alexey Alexandrovich MORDASHOV.
+individual_details:
+  individual:
+    dobs:
+    - '1979-05-17'
+    genders:
+    - Female
+    birth_details:
+      locations:
+      - country_of_birth: Russia

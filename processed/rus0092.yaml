@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -34,3 +35,18 @@ uk_statement_of_reasons: "\nFirst Deputy-Chairman of the Foreign Affairs Committ
   on behalf of the Foreign Affairs Committee of the Federation Council, publicly supported
   in the Federation Council the deployment of Russian forces in Ukraine.  \n The trust
   services sanctions were imposed on 21/03/2023."
+individual_details:
+  individual:
+    dobs:
+    - '1952-09-29'
+    nationalities:
+    - Russia
+    positions:
+    - First Deputy-Chairman of the Foreign Affairs Committee of the Federation Council
+      of the Russian Federation
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Samarkand
+        country_of_birth: Uzbekistan

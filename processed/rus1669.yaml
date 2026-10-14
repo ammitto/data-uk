@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -43,3 +44,24 @@ uk_statement_of_reasons: "\nElla PAMFILOVA is an involved person within the mean
 addresses:
   addresses:
   - address_line1: MOSCOW
+individual_details:
+  individual:
+    dobs:
+    - '1953-09-12'
+    nationalities:
+    - Russia
+    positions:
+    - Chairperson of the Central Election Committee
+    genders:
+    - Female
+    birth_details:
+      locations:
+      - town_of_birth: Olmaliq, Tashkent Region
+        country_of_birth: Uzbekistan
+    passport_details:
+      passports:
+      - number: '0012902'
+      - number: '100061035'
+        additional_information: '100061035 (Expiry: 26 Aug 2007)'
+      - number: '610318077'
+        additional_information: '610318077 (Expiry: 24 Apr 2007)'

@@ -37,6 +37,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -65,3 +66,20 @@ addresses:
     address_line5: Zamboanga City
     address_line6: Western Mindanao
     address_country: Philippines
+individual_details:
+  individual:
+    dobs:
+    - '1990-03-03'
+    nationalities:
+    - Philippines
+    birth_details:
+      locations:
+      - town_of_birth: Zamboanga City, Zamboanga del Sur
+        country_of_birth: Philippines
+    passport_details:
+      passports:
+      - number: XX3966391
+        additional_information: Philippines. Issued on 25 February 2015 by the Department
+          of Foreign Affairs of Philippines. Expiration date 24 February 2020
+      - number: EC3524065
+        additional_information: Philippines

@@ -35,6 +35,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -53,3 +54,25 @@ uk_statement_of_reasons: "\n"
 addresses:
   addresses:
   - address_country: Tunisia
+individual_details:
+  individual:
+    dobs:
+    - '1970-07-14'
+    nationalities:
+    - Tunisia
+    birth_details:
+      locations:
+      - town_of_birth: Tunis
+        country_of_birth: Tunisia
+    passport_details:
+      passports:
+      - number: M408665
+        additional_information: Tunisian. Issued on 4 October 2000. Expired on 3 October
+          2005
+    national_identifier_details:
+      national_identifiers:
+      - number: BNSDLA70L14Z352B
+        additional_information: Italian fiscal code
+      - number: W334061
+        additional_information: Tunisian National Identity number Issued on 9 March
+          2011

@@ -26,6 +26,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: true
   chartering_of_ships: true
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -34,3 +35,19 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: false
   deflag: false
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - '1966-01-28'
+    nationalities:
+    - DPRK
+    positions:
+    - Former overseas Foreign Trade Bank representative
+    genders:
+    - Male
+    passport_details:
+      passports:
+      - number: '927234267'
+      - number: '108120258'
+        additional_information: "(issued by the Democratic People's Republic of Korea
+          on 14 Feb. 2018; expiration date 14 Feb. 2023)"

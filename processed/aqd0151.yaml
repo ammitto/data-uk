@@ -30,6 +30,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -44,3 +45,13 @@ other_information: 'May use a fake passport of a Syrian or Iraqi citizen. Member
   2268 (2017) was concluded on 15 November 2021. INTERPOL-UN Security Council Special
   Notice web link: https://www.interpol.int/en/notice/search/un/5966088'
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - '1977-03-27'
+    nationalities:
+    - Russia
+    birth_details:
+      locations:
+      - town_of_birth: Naberezhnye Chelny, Republic of Tatarstan
+        country_of_birth: Russia

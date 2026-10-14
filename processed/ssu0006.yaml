@@ -30,6 +30,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -49,3 +50,38 @@ other_information: As Chief of General Staff of the SPLA, Malong expanded or ext
   UNMISS, the Joint Monitoring and Evaluation Commission (JMEC), and CTSAMM access
   to sites to investigate and document abuses.
 uk_statement_of_reasons: "\n"
+titles:
+- General
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1962
+    - '1960-12-04'
+    - '1960-04-12'
+    - '1962-01-01'
+    nationalities:
+    - South Sudan
+    - Uganda
+    positions:
+    - ormer Chief of Staff of the Sudan People’s Liberation Army (SPLA)
+    - Former Governor, Northern Bahr el-Ghazal State
+    birth_details:
+      locations:
+      - town_of_birth: Malualkon
+        country_of_birth: South Sudan
+      - town_of_birth: Kotido
+        country_of_birth: Uganda
+    passport_details:
+      passports:
+      - number: S00004370
+        additional_information: South Sudan number
+      - number: D00001369
+        additional_information: South Sudan number
+      - number: DA025963
+        additional_information: Uganda.
+      - number: '003606'
+        additional_information: Sudan number
+      - number: '00606'
+        additional_information: Sudan number
+      - number: B002606
+        additional_information: Sudan number

@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -33,3 +34,17 @@ uk_statement_of_reasons: "\nFormer Commander of the Black Sea Fleet, Admiral. Ch
   of Staff and First Deputy Commander in Chief of the Russian Navy. Responsible for
   commanding Russian forces that have occupied Ukrainian sovereign territory.  \n
   The trust services sanctions were imposed on 21/03/2023."
+individual_details:
+  individual:
+    dobs:
+    - '1961-09-13'
+    nationalities:
+    - Russia
+    positions:
+    - Former Commander of the Black Sea Fleet
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Vitebsk
+        country_of_birth: Belarusian SSR, (now Belarus)

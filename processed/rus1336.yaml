@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -44,3 +45,23 @@ addresses:
     address_line2: Stafford Place
     address_line6: London
     address_country: United Kingdom
+individual_details:
+  individual:
+    dobs:
+    - '1987-11-14'
+    nationalities:
+    - Uzbekistan
+    - United Kingdom
+    positions:
+    - Director  of Athlone House Limited 
+    - Director of Reashon Holding Ltd 
+    genders:
+    - Female
+    birth_details:
+      locations:
+      - town_of_birth: Tashkent
+        country_of_birth: Uzbekistan
+    passport_details:
+      passports:
+      - number: 534907879 
+        additional_information: UK Passport

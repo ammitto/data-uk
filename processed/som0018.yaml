@@ -42,6 +42,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -66,3 +67,14 @@ addresses:
   - address_line5: Badamadow
     address_line6: Lower Juba Region
     address_country: Somalia
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1973
+    - dd/mm/1983
+    positions:
+    - Founder and leader of Jaysh Ayman, an al-Shabaab unit conducting attacks and
+      operations in Kenya and Somalia
+    birth_details:
+      locations:
+      - country_of_birth: Kenya

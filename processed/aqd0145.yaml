@@ -25,6 +25,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -44,3 +45,19 @@ addresses:
   addresses:
   - address_country: United Kingdom
   - address_country: Syria
+individual_details:
+  individual:
+    dobs:
+    - '1994-05-11'
+    nationalities:
+    - United Kingdom
+    genders:
+    - Female
+    birth_details:
+      locations:
+      - town_of_birth: Glasgow, Scotland
+        country_of_birth: United Kingdom
+    passport_details:
+      passports:
+      - number: '720134834'
+        additional_information: British. Issued 27.06.2012. Expires 27.06.2022.

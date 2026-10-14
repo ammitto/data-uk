@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -33,3 +34,18 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Minister of the Interior until August 2009. As Interior Minister, Mahsouli had authority over all police forces, interior ministry security agents, and plainclothes agents. The forces under his direction were responsible for attacks on the dormitories of Tehran University on 14 June 2009 and the torture of students in the basement of the Ministry (the notorious basement level 4). Other protestors were severely abused at the Kahrizak Detention Centre, which was operated by police under Mahsouli's control.
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1959
+    - dd/mm/1960
+    positions:
+    - Advisor to Former President Mahmoud Ahmadinejad and current member of the Expediency
+      Council and Secretary General of the Perseverance Front
+    - Deputy Chief of the Perseverance Front
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Oroumieh
+        country_of_birth: Iran

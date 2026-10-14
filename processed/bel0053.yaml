@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,17 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Siarhei Azemsha is Deputy Chairman of the Investigative Committee of the Republic of Belarus. Azemsha is responsible for the actions of the Investigative Committee, including pursuing criminal investigations against protestors and opposition leaders, and therefore undermining democracy in Belarus.
+individual_details:
+  individual:
+    dobs:
+    - '1974-07-17'
+    nationalities:
+    - Belarus
+    positions:
+    - Deputy Chairman of the Investigative Committee of the Republic of Belarus
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Rechitsa, Gomel Oblast
+        country_of_birth: Former USSR Currently Belarus

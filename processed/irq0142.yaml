@@ -59,6 +59,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -73,3 +74,20 @@ addresses:
     address_country: Syria
   - address_line6: Mosul
     address_country: Iraq
+individual_details:
+  individual:
+    dobs:
+    - '1968-05-15'
+    - dd/mm/1970
+    nationalities:
+    - Iraq
+    birth_details:
+      locations:
+      - town_of_birth: Al-Owja
+        country_of_birth: Iraq
+      - town_of_birth: Baghdad
+        country_of_birth: Iraq
+    passport_details:
+      passports:
+      - number: '284158'
+        additional_information: Expires 21 Aug 2005 (Iraq).

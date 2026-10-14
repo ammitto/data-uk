@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,18 @@ uk_statement_of_reasons: |2-
 
   Former so called "Prime Minister of the Council of Ministers of the People's Republic of Luhansk, confirmed on 8 July 2014. Responsible for the separatist "governmental" activities of the so called "government of the People's Republic of Luhansk." Continues activites of supporting LNR separatist structures.
    The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1964-01-20'
+    nationalities:
+    - Russia
+    positions:
+    - Former so-called "Prime Minister of the Council of Ministers of the Lugansk
+      People's Republic."
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Izhevsk
+        country_of_birth: Russia

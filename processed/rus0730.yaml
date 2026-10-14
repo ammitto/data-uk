@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,19 @@ uk_statement_of_reasons: |2-
 
   Major General Leonid Viktorovich KASINSKY has been involved in engaging in and providing support for policies and actions that have destabilised Ukraine or undermined or threatened the territorial integrity, sovereignty and independence of Ukraine, namely the Government of Belarus’s policy of support for Russia’s invasion of Ukraine, and the involvement of the Belarusian military in a joint exercise with the Russian military ahead of Russia’s invasion of Ukraine which: (1) threatened Ukraine; and (2) provided cover for Russian military preparations to invade Ukraine.
    The trust services sanctions were imposed on 21/03/2023.
+titles:
+- Major General
+individual_details:
+  individual:
+    dobs:
+    - '1972-06-29'
+    nationalities:
+    - Belarus
+    positions:
+    - Assistant to the Minister of Defence for Ideological Work
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Grodno
+        country_of_birth: Belarus

@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -44,3 +45,27 @@ addresses:
     address_line5: commune de las Gombe
     address_line6: Kinshasa
     address_country: Congo (Democratic Republic)
+titles:
+- Commander-in-Chief
+individual_details:
+  individual:
+    dobs:
+    - '1973-03-08'
+    nationalities:
+    - Congo (Democratic Republic)
+    positions:
+    - Former Commander in Chief of Legion Nationale d’Intervention (LENI), Co-ordinator,
+      Anti-Riot Police (PNC) , Former Commander of the unit responsible for the protection
+      of institutions and high-ranking officials (PNC), President of the Congolese
+      Boxing Federation
+    - Co-ordinator, Anti Riot Police (PNC)
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Lubumbashi
+        country_of_birth: Congo (Democratic Republic)
+    passport_details:
+      passports:
+      - number: OB0260335
+        additional_information: iss 15 April 2011, exp 14 April 2016

@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -30,3 +31,11 @@ sanctions_imposed_indicators:
 uk_statement_of_reasons: |2
 
   Aleksandr Vladimirovich OSADCHUK is or has been an involved person in relevant cyber activity commissioned by GRU Unit 74455. In this capacity, Aleksandr Vladimirovich OSADCHUK is or has been responsible for, engaging in, providing support for, or promoting the commission, planning or preparation of relevant cyber activity. Such activity that Aleksandr Vladimirovich OSADCHUK is or has been involved in undermines, or is intended to undermine, the integrity, propsperity or security of the United Kingdom or a country other than the United Kingdom.
+individual_details:
+  individual:
+    dobs:
+    - '1962-11-17'
+    nationalities:
+    - Russia
+    genders:
+    - Male

@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -47,3 +48,15 @@ addresses:
     address_line3: Priuralisky District
     address_line4: Yamalo-Nenets Autonomous Okrug
     address_country: Russia
+titles:
+- Lieutenant Colonel
+phone_numbers:
+- 8(34992) 7-20-72
+individual_details:
+  individual:
+    nationalities:
+    - Russia
+    positions:
+    - Deputy Head of Arctic Penal Colony IK-3
+    genders:
+    - Male

@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -38,3 +39,24 @@ uk_statement_of_reasons: "\nNational Assembly Deputy (2021-2026) and Vice Presid
 addresses:
   addresses:
   - address_country: Venezuela
+titles:
+- First Vice President of the National Constituent Assembly
+individual_details:
+  individual:
+    dobs:
+    - '1963-06-18'
+    nationalities:
+    - Venezuela
+    positions:
+    - National Assembly Deputy
+    - Vice President of the National Assembly’s People’s Power and Media Commission
+    - Former First Vice President of the National Constituent Assembly
+    genders:
+    - Female
+    birth_details:
+      locations:
+      - town_of_birth: Caracas
+        country_of_birth: Venezuela
+    national_identifier_details:
+      national_identifiers:
+      - number: V-6432672

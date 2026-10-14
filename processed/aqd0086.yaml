@@ -81,6 +81,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -94,3 +95,14 @@ other_information: 'Senior Islamic State in Iraq and the Levant (ISIL), listed a
   in Pakistan. Review pursuant to Security Council resolution 2368 (2017) was concluded
   on 4 Dec. 2019. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals.'
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1959
+    - dd/mm/1957
+    nationalities:
+    - Iraq
+    birth_details:
+      locations:
+      - town_of_birth: Mosul, Ninawa Province
+        country_of_birth: Iraq

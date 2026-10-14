@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -35,3 +36,13 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Dmitry Borisovich Kratov, who was the chief medical officer and deputy head of Butyrka Prison where Magnitsky was detained until shortly before his death on 16 November 2009, was responsible for the mistreatment of Sergei Magnitsky, including by failing to ensure the proper administration of medical care, which contributed significantly to his death.
+individual_details:
+  individual:
+    dobs:
+    - '1964-07-19'
+    nationalities:
+    - Russia
+    positions:
+    - Chief medical officer/deputy head - Butyrka Prison
+    genders:
+    - Male

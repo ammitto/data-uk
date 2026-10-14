@@ -29,6 +29,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -41,3 +42,8 @@ uk_statement_of_reasons: |2-
 
   PJSC United Aircraft Corporation (UAC) is a Russian state owned enterprise. It contains all of Russia's major aircraft manufacturing companies and is a major supplier of aircraft to the Russian military. This includes military aircraft that have been used in Crimea. Therefore UAC provides financial services or makes available funds and economic resources that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine.
    The trust services sanctions were imposed on 21/03/2023.
+entity_details:
+  entity:
+    types_of_entity:
+    - Holding Company
+    - Public Joint Stock Company

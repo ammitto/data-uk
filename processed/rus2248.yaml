@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -49,3 +50,18 @@ addresses:
     address_line3: Vesivärava tn 50-201
     address_line6: Tallinn
     address_country: Estonia
+phone_numbers:
+- "+372 58439040"
+- "+372 602 7990"
+- "+372 712 3519"
+email_addresses:
+- natalia.khirevich@gmail.com
+- accountant@virmavia.com
+websites:
+- https://virmavia.com
+entity_details:
+  entity:
+    business_registration_numbers:
+    - '14720672'
+    types_of_entity:
+    - Private limited company

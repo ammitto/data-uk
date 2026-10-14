@@ -19,6 +19,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -33,3 +34,12 @@ addresses:
   addresses:
   - address_line1: Bargar Shambat, 1469 Khartoum
     address_country: Sudan
+phone_numbers:
+- 249-185216681
+email_addresses:
+- Y.AND.D.TRADING@GMAIL.COM
+entity_details:
+  entity:
+    parent_companies:
+    - 82% owned by Rida Engineering and 18% owned by the state-owned Sudamin Mining
+      Company.

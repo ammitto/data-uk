@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -33,3 +34,13 @@ uk_statement_of_reasons: |2-
 
   In his former capacity as so-called “Head of the Luhansk Central Election Commission” he was responsible for organising the so-called “elections of 2 November 2014 in the “Luhansk People’s Republic”. The “elections” were in breach of Ukrainian law and therefore illegal. Between October 2015 and December 2017, he was appointed as so-called “Minister of Justice” of the “Luhansk People’s Republic”. In taking on and acting in these capacities, and in organising the illegal “elections”, he has therefore actively supported actions and policies which undermine the territorial integrity, sovereignty and independence of Ukraine and further destabilised Ukraine. Continues to support and legitimise separatist policies in co-operation with separatist authorities.
    The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1982-09-29'
+    nationalities:
+    - Ukraine
+    positions:
+    - Former so-called “Minister of Justice” of the “Luhansk People’s Republic”
+    genders:
+    - Male

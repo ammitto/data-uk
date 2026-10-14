@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -37,3 +38,18 @@ uk_statement_of_reasons: "\nThe Secretary of State considers that there are reas
   has acted as financial advisor to the RSF and he has therefore contributed to the
   RSF’s siege of El Fasher in North Darfur and the RSF’s operations elsewhere in Sudan.\n
   \ \n   \n"
+individual_details:
+  individual:
+    nationalities:
+    - Sudan
+    positions:
+    - Director of Alkaleej Bank Co Ltd
+    - RSF Financial Advisor
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Sudan
+    passport_details:
+      passports:
+      - number: B CH 4930920

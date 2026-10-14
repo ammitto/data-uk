@@ -19,6 +19,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -30,3 +31,13 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Deputy head of the Ministry of Justice in the Khorasan Razavi province. Former prosecutor of Kermanshah. Has played a role in the high number of death sentences being passed in Iran, including prosecuting the cases of seven prisoners convicted of drug trafficking who were hanged on the same day on 3 January 2010 in Kermanshah's central prison.
+individual_details:
+  individual:
+    positions:
+    - Deputy head of the Ministry of Justice in the Khorasan Razavi province.
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Kuhdasht, Lorestan
+        country_of_birth: Iran

@@ -26,6 +26,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -38,3 +39,19 @@ other_information: As SPLA Deputy Chief of Staff for Logistics, Riak was one of 
   in Unity state in 2015 that resulted in widespread destruction and large population
   displacement.
 uk_statement_of_reasons: "\n"
+titles:
+- Lieutenant General
+individual_details:
+  individual:
+    dobs:
+    - '1960-01-01'
+    nationalities:
+    - South Sudan
+    positions:
+    - Deputy Chief of General Staff for Logistics
+    - Inspector General of the Army
+    - Deputy Chief of Defence Staff
+    birth_details:
+      locations:
+      - town_of_birth: Yei
+        country_of_birth: South Sudan

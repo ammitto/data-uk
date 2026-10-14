@@ -25,6 +25,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: true
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -49,3 +50,19 @@ other_information: 'Transport sanctions: ships owned, controlled, chartered or o
 uk_statement_of_reasons: |2
 
   Viktor VEKSELBERG is an involved person under the Russia (EU Exit) (Sanctions) Regulations 2019 on the following grounds: VEKSELBERG is or has been involved in obtaining a benefit from or supporting the Government of Russia by owning or controlling directly or indirectly an entity carrying on business in sectors of strategic significance to the Government of Russia, namely the Russian extractive sector, Russian energy sector, Russian chemicals sector and the Russian information, communications and digital technologies sector.
+phone_numbers:
+- "+7(495) 720 49 499"
+individual_details:
+  individual:
+    dobs:
+    - '1957-04-14'
+    nationalities:
+    - Russia
+    positions:
+    - Chairman of the Board of Directors of the Renova group of companies
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Drohobych
+        country_of_birth: Ukraine

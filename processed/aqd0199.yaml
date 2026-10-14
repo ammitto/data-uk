@@ -87,6 +87,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -103,3 +104,24 @@ uk_statement_of_reasons: "\n"
 addresses:
   addresses:
   - address_country: Yemen
+individual_details:
+  individual:
+    dobs:
+    - '1982-04-19'
+    - '1982-04-18'
+    nationalities:
+    - Saudi Arabia
+    birth_details:
+      locations:
+      - town_of_birth: Riyadh
+        country_of_birth: Saudi Arabia
+    passport_details:
+      passports:
+      - number: F654645
+        additional_information: " Saudi Arabia number, issued on 30 Apr. 2005 expired
+          on 7 Mar. 2010. Issue date in Hijri Calendar 24/06/1426. Expiry date in
+          Hijri Calendar 21/03/1431."
+    national_identifier_details:
+      national_identifiers:
+      - number: '1028745097'
+        additional_information: Saudi Arabia civil identification number

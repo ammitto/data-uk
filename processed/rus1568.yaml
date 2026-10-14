@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -35,3 +36,17 @@ uk_statement_of_reasons: |2-
 
   Ivan KUSOV is an involved person within the meaning of the Russia (Sanctions) (EU Exit) Regulations 2019 because he is the so-called Minister of Education and Science for the non-government controlled area of Ukraine known as the Luhansk People’s Republic. Through this role, KUSOV is or has engaged in policies or actions which destabilise Ukraine and undermine or threaten the territorial integrity, sovereignty or independence of Ukraine.
    The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1987'
+    nationalities:
+    - Russia
+    positions:
+    - So-called ‘Minister of Education and Science’
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Semipalatinsk
+        country_of_birth: Kazakhstan

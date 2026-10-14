@@ -18,6 +18,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -31,3 +32,23 @@ uk_statement_of_reasons: "\nZaw Min Tun is an involved person under The Myanmar 
   is and has been involved in the repression of the civilian population of Myanmar
   by making available economic resources (aviation fuel) directly or indirectly to
   or for the benefit of the Myanmar security forces.  \n"
+phone_numbers:
+- '09263840825'
+email_addresses:
+- asiasun.grouptca@gmail.com
+individual_details:
+  individual:
+    dobs:
+    - '2001-07-20'
+    nationalities:
+    - Myanmar
+    positions:
+    - Director
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Myanmar
+    national_identifier_details:
+      national_identifiers:
+      - number: 9/PABATHA(N)010135

@@ -55,6 +55,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -71,3 +72,23 @@ addresses:
   addresses:
   - address_line6: Al Kharaitiyat
     address_country: Qatar
+individual_details:
+  individual:
+    dobs:
+    - '1973-09-28'
+    nationalities:
+    - Qatar
+    passport_details:
+      passports:
+      - number: '00754833'
+        additional_information: Qatari. Issued on 20 May 2007.
+      - number: '01020802'
+        additional_information: Qatari
+      - number: '01538029'
+        additional_information: Qatar. Expires 14 March 2025.
+      - number: '00490327'
+        additional_information: Qatari. Issued on 28 July 2001.
+    national_identifier_details:
+      national_identifiers:
+      - number: '27363400684'
+        additional_information: Qatar

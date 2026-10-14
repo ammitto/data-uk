@@ -36,6 +36,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -52,3 +53,18 @@ uk_statement_of_reasons: "\n"
 addresses:
   addresses:
   - address_country: Tunisia
+individual_details:
+  individual:
+    dobs:
+    - '1964-12-04'
+    nationalities:
+    - Tunisia
+    birth_details:
+      locations:
+      - town_of_birth: Tabarka
+        country_of_birth: Tunisia
+    passport_details:
+      passports:
+      - number: L335915
+        additional_information: 'issue date: 08/11/1996, expiry date: 07/11/2001,
+          issued in Milan, Italy'

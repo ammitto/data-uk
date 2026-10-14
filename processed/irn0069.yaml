@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -33,3 +34,12 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Senior figure in the Iranian judiciary, now retired. Was previously Aadvisor to the Disciplinary Court for Judges, and former Head of Special Prosecution Office of Cyber-crime between 2007 and 2012. He was responsible for the repression of freedom of expression, including through the arrest, arbitrary detention and prosecution of bloggers and journalists, which in some cases then carried the death penalty. He promoted the violation of the right to life through his remarks, and failed to prevent the mistreatment and arbitrary detention of persons arrested on suspicion of cyber-crime.
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1967
+    positions:
+    - Retired. Formerly advisor to the Disciplinary Court for Judges and Head of the
+      Special Prosecutors Office for Cyber-crime
+    genders:
+    - Male

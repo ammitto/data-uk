@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -47,3 +48,56 @@ addresses:
     address_line2: Corner of 50th Street
     address_line6: Yangon
     address_country: Myanmar
+entity_details:
+  entity:
+    business_registration_numbers:
+    - '156387282'
+    types_of_entity:
+    - Military Holding Company
+    subsidiaries:
+    - Adipati Agricultural Produce Trading Ltd
+    - 'ASHOK (Gems and Jewellery) Co., Ltd. (alternate spelling: Thawka)'
+    - Aung Thitsa Oo General Insurance Company Limited
+    - Aung Thitsa Oo Life Insurance Company Limited
+    - Bandoola Transportation Company Inc
+    - Berger Paints Manufacturing Limited
+    - Bo Aung Kyaw Terminal
+    - 'Cancri (Gems and Jewellery) Co., Ltd. (alternate spelling: Phu Sha Star)'
+    - 'Da Na Theiddi Kyal (Jewellery) Co., Ltd. (alternate spelling: Da Na Theiddihi
+      Star and Danatheidi Star (Gems and Jewellery) Co., Ltd)'
+    - 'Du Won Kyal (Jewellery) Co., Ltd. (alternate spelling: Du Won Star and Du Won
+      Star (Gems & Jewellery) Co., Ltd.)'
+    - 'Hawk Star (Gems and Jewellery) Co., Ltd. (alternate spellings: Thine Ngat Kyal
+      (Jewellery) Co., Ltd. and Thein Nget Star)'
+    - Hlaing Inland Terminal and Logistics Co., Ltd.
+    - Inndagaw Industrial Complex; Kanpauk Oil Palm Estate and Palm Oil Mill Project
+      (KOPP)
+    - Kayah State Mineral Production Company Ltd
+    - 'Kone Yar Thi Star (alternate spelling: Aquarii (Gems & Jewellery) Co., Ltd.'
+    - Lann Pyi Marine Company Ltd; Larbathakedi Micro Finance Service Association
+      Inc.
+    - 'Lyrae (Gems and Jewellery) Co., Ltd. (alternate spelling: Saung Tar Yar Star)'
+    - 'Mon Hsu Jewellery Co., Ltd. (alternate spelling: Mine Shu)'
+    - Myanmar Imperial Jade (Gems & Jewellery) Co., Ltd.
+    - Myanmar Land and Development Ltd
+    - Myanmar Rubber Wood Co., Ltd.
+    - Myanmar Ruby Enterprise (Gems & Jewellery) Co., Ltd.
+    - Myanmar Tharkaung Finance Co., Ltd.
+    - Myawaddy Agricultural Services Col, Ltd
+    - Myawaddy Bank Ltd.
+    - Myawaddy Clean Drinking Water Service
+    - Myawaddy Trading Ltd; Myawaddy Travels and Tours Co., Ltd.
+    - Myawady Football Club
+    - Nawadae Hotel and Tourism Ltd.
+    - Ngwe Pin Lei Livestock Breedings and Fisheries Co., Ltd.
+    - Ngwe Pin Lei Premium Marine Products Co., Ltd.
+    - Ngwe Pinlae Industrial Zone
+    - 'Pone Nyet (Gems and Jewellery) Co., Ltd. (alternate spelling: Pone Nyat and
+      One Nyat (Jewellery) Co., Ltd.)'
+    - Pyinmabin Industrial Zone
+    - 'Sabai (Jewellery) Co., Ltd. (alternate spellings: Sabae (Gems and Jewellery)
+      Co., Ltd., and Jasmine)'
+    - 'Seik Ta Ya Kyal (Jewellery) Co., Ltd. (alternate spellings: Si Tra Star, Seik
+      Tra Star and Seiktra Star (Gems and Jewellery) Co., Ltd.)'
+    - Shwe Gandamar International Trading Ltd
+    - Shwe Innwa Gems

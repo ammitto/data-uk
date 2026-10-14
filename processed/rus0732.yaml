@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -41,3 +42,20 @@ uk_statement_of_reasons: "\nMajor General Oleg Leonidovich VOINOV has been invol
   involved in the Russian invasion of Ukraine through the facilitation of Russian
   freedom of movement into the north of Ukraine. \n \n The trust services sanctions
   were imposed on 21/03/2023."
+titles:
+- Major General
+individual_details:
+  individual:
+    dobs:
+    - '1967-03-26'
+    nationalities:
+    - Belarus
+    positions:
+    - Head of the International Military Cooperation Department of the Ministry of
+      Defence
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Dnipro
+        country_of_birth: Ukraine

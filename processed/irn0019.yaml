@@ -27,6 +27,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -38,3 +39,11 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Deputy head of the Unit for Social Affairs and Crime Prevention at the judiciary in the province of Khorasan-Razavi. Deputy Prosecutor of Mashhad until at least 2015. Trials under his prosecution have been conducted summarily and inside closed session, without adherence to basic rights of the accused. As execution rulings were issued en masse, death sentences were issued without proper observance of fair hearing procedures.
+individual_details:
+  individual:
+    positions:
+    - Deputy Head of the Unit for Social Affairs and Crime Prevention at the judiciary
+      in the province of Khorasan-Razavi.
+    - Former Deputy Prosecutor of Mashhad
+    genders:
+    - Male

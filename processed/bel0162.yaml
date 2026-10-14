@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -46,3 +47,23 @@ addresses:
     address_line3: Vitebsk Raion
     address_line6: Vitebsk Oblast
     address_country: Belarus
+individual_details:
+  individual:
+    nationalities:
+    - Belarus
+    - Russia
+    positions:
+    - Commanding Officer, Penal Colony 3
+    - Commanding Officer, Penal Colony 3
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: 'Chelyabinsk  '
+        country_of_birth: Russia
+      - town_of_birth: 'Chelyabinsk  '
+        country_of_birth: Russia
+    national_identifier_details:
+      national_identifiers:
+      - number: 3010177E015PB7
+      - number: 3010177E015PB7

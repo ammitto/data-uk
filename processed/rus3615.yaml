@@ -33,6 +33,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -49,3 +50,15 @@ addresses:
     address_line5: Leninsky District
     address_line6: BISHKEK
     address_country: Kyrgyzstan
+phone_numbers:
+- 0-555-954-797
+email_addresses:
+- a.beknazartegin@gmail.com
+entity_details:
+  entity:
+    business_registration_numbers:
+    - |-
+      Kyrgyzstan INN - 01211202510014
+      Kyrgyzstan Company Registration Number - 322290-3301-ОАО
+    types_of_entity:
+    - Open Joint-Stock Company

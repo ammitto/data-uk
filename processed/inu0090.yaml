@@ -38,6 +38,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -75,3 +76,18 @@ addresses:
     address_line3: Tuzla
     address_line6: Istanbul
     address_country: Turkey
+phone_numbers:
+- "+98 21 88 79 51 03"
+- "+90 216 572 65 82"
+- "+90 216 395 84 11"
+email_addresses:
+- miladjafari@gmail.com
+- cagriduransoy@gmail.com
+- kuntayduransoy@macpar.net
+websites:
+- www.macpa.net
+- www.macpar.net
+entity_details:
+  entity:
+    types_of_entity:
+    - Import/Export

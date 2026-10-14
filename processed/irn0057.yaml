@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -31,3 +32,12 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Head of the Organisation for Islamic Propaganda in the province of Khorasan-Razavi. Judge, Mashhad Revolutionary Court until 2013. Trials under his jurisdiction have been conducted summarily and inside closed session, without adherence to basic rights of the accused. As execution rulings were issued en masse, death sentences were issued without proper observance of fair hearing procedures.
+individual_details:
+  individual:
+    nationalities:
+    - Iran
+    positions:
+    - Head of the Organisation for Islamic Propaganda in the province of Khorasan-Razavi.
+      Former Judge, of Mashhad Revolutionary Court, until 2013.
+    genders:
+    - Male

@@ -26,6 +26,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: true
   chartering_of_ships: true
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -35,3 +36,19 @@ sanctions_imposed_indicators:
   deflag: false
 other_information: Served as the Tanchon Commercial Bank representative in Vietnam.
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - '1966-11-07'
+    nationalities:
+    - North Korea
+    positions:
+    - Tanchon Commercial Bank Representative
+    passport_details:
+      passports:
+      - number: '199421147'
+        additional_information: Expired 29 Dec. 2014
+      - number: '381110042'
+        additional_information: Expired 25 Jan. 2016
+      - number: '563210184'
+        additional_information: Expires 18 Jun. 2018

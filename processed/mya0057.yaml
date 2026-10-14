@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -31,3 +32,7 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2
 
   The 99th Light Infantry Division (99 LID) is an involved person under The Myanmar (Sanctions) Regulations 2021 because: 99 LID is or has been involved in the commission of serious human rights violations in Myanmar. Specifically in relation to the right of persons not to be subject to torture or cruel, inhuman or degrading treatment or punishment in Myanmar, including in the context of—rape and other forms of sexual and gender-based violence, against men, women and children of ethnic and religious minorities in Rakhine State.
+entity_details:
+  entity:
+    types_of_entity:
+    - Military Division

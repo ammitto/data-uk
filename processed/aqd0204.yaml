@@ -45,6 +45,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -64,3 +65,21 @@ addresses:
   - address_line1: 41-45 Rue Estienne d’Orves
     address_line2: Pré Saint Gervais
     address_country: France
+individual_details:
+  individual:
+    dobs:
+    - '1973-01-15'
+    - '1975-03-31'
+    - '1974-01-15'
+    nationalities:
+    - Tunisia
+    birth_details:
+      locations:
+      - town_of_birth: Tunis
+        country_of_birth: Tunisia
+      - country_of_birth: Morocco
+      - country_of_birth: Algeria
+    passport_details:
+      passports:
+      - number: M174950
+        additional_information: 'issue date: 27/04/1999, expiry date: 26/04/2004'

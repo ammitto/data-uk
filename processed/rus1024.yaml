@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,13 @@ uk_statement_of_reasons: "\n Irina Nikoalyevna KASHINA is a Vice Chairman of the
   Board of SOVCOMBANK. In her role, KASHINA is a member of and associated with SOVCOMBANK.
   SOVCOMBANK is an involved person under the Russian (EU Exit) (Sanctions) regulations
   2019. \n The trust services sanctions were imposed on 21/03/2023."
+individual_details:
+  individual:
+    dobs:
+    - '1956-07-27'
+    nationalities:
+    - Russia
+    positions:
+    - Vice Chairman of the Management Board of SOVCOMBANK 
+    genders:
+    - Female

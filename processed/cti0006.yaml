@@ -29,6 +29,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -40,3 +41,15 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Mohammed Bouyeri was a member of the (now disbanded) Islamist terrorist Hofstad Group. Bouyeri murdered the film director Theo van Gogh in the Netherlands 2004. In 2005 he was found guilty of murder and of membership of a terrorist organisation.
+individual_details:
+  individual:
+    dobs:
+    - '1978-03-08'
+    nationalities:
+    - Netherlands
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Amsterdam
+        country_of_birth: Netherlands

@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: true
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -34,3 +35,19 @@ other_information: 'Pursuant to paragraph 6 of Security Council Resolution 2371 
   involved in ship-to-ship transfer operations for oil. Listed as asset of Myohyang
   Shipping Co (OFSI ID: 13639, UN Reference Number: UN Ref KPe.068)'
 uk_statement_of_reasons: "\n"
+ship_details:
+  ship:
+    imo_numbers:
+    - '8691702'
+    current_owner_operators:
+    - Myohyang Shipping Co
+    current_believed_flags:
+    - North Korea
+    types_of_ship:
+    - Oil tanker
+    tonnages:
+    - '2228'
+    lengths:
+    - '89'
+    years_built:
+    - '2003'

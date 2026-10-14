@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -33,3 +34,9 @@ uk_statement_of_reasons: "\nAs a member of GRU Unit 26165, Artem Adreyevich MALY
   of relevant cyber activity. Such activity that Artem Andreyevich MALYSHEV has been
   involved in, or is intended to undermine, the integrity, prosperity or security
   of the United Kingdom or a country other than the United Kingdom. \n"
+individual_details:
+  individual:
+    nationalities:
+    - Russia
+    genders:
+    - Male

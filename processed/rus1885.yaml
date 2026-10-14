@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,15 @@ uk_statement_of_reasons: |2
 
   Oleg
    Evgenievich ROMANENKO is an involved person within the meaning of the Russia (Sanctions) (EU Exit) Regulations 2019 because ROMANENKO is involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by being responsible for, engaging in, providing support for, or promoting a policy or action which destabilises Ukraine or undermines or threatens the territorial integrity, sovereignty or independence of Ukraine, namely, through the seizure and occupation of the Zaporizhzhia Nuclear Power Plant.
+individual_details:
+  individual:
+    dobs:
+    - '1963-10-05'
+    positions:
+    - CEO of Operating Organization of Zaporizhzhia Nuclear Plant
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Soledar, Bakhmut District
+        country_of_birth: Ukraine

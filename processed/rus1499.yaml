@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,11 @@ uk_statement_of_reasons: |2-
 
   Yevgeniy GLOTOV (hereafter referred to as GLOTOV) is the deputy director of Newsfront. Newsfront is a news organisation known for publishing disinformation about the war against Ukraine, thus supporting and promoting actions which destabilise Ukraine. By virtue of his role and actions GLOTOV is both engaging in, supporting and promoting policies and/or actions which destabilise Ukraine.
    The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1987-09-19'
+    positions:
+    - Deputy Director of Newsfront
+    genders:
+    - Male

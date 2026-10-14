@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,21 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2
 
   Oleg Georgevich SHAPOVALOV is an "involved person" under the Russia (Sanctions) (EU Exit) Regulations 2019 because he is the Minister of Justice for the so-called Republic of Crimea. Through his role as Minister of Justice, SHAPOVALOV is or has: been responsible for, engaged in, provided support for, or promoted policies and actions which destabilise Ukraine and undermine or threaten the territorial integrity, sovereignty or independence of Ukraine.
+phone_numbers:
+- "+7(3652) 528-823"
+email_addresses:
+- Minjust@rk.gov.ru
+individual_details:
+  individual:
+    dobs:
+    - '1959-07-14'
+    nationalities:
+    - Ukraine
+    positions:
+    - Minister of Justice of the Republic of Crimea
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Nikopol, Dnepropetrovsk
+        country_of_birth: Ukraine

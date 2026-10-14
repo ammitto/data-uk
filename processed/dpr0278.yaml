@@ -26,6 +26,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: true
   chartering_of_ships: true
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -40,3 +41,12 @@ addresses:
   addresses:
   - address_line6: Pyongyang
     address_country: DPRK
+individual_details:
+  individual:
+    dobs:
+    - '1944-10-13'
+    nationalities:
+    - North Korea
+    - North Korea
+    positions:
+    - Director of Namchongang Trading Corporation

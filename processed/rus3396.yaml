@@ -17,6 +17,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -35,3 +36,19 @@ uk_statement_of_reasons: "\nThe Secretary of State considers that there are reas
   integrity, sovereignty or independence of Ukraine or to obtain a benefit from or
   support the Government of Russia. Namely, IMO 9306809 is involved in carrying oil
   or oil products that originated in Russia from Russia to a third country.\n"
+ship_details:
+  ship:
+    imo_numbers:
+    - IMO9306809
+    current_owner_operators:
+    - Hathaway Co Ltd
+    current_believed_flags:
+    - China
+    types_of_ship:
+    - Chemical/Products Tanker
+    tonnages:
+    - '45963'
+    lengths:
+    - '183.02'
+    years_built:
+    - '2006'

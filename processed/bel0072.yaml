@@ -31,6 +31,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -42,3 +43,12 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Dzmitry Kuryan is a Police Colonel, and Head of the Department of Law Enforcement of the Main Directorate for the Protection of Law and Order, in the Ministry of Internal Affairs. In this role, Kuryan is responsible for the repression and intimidation of peaceful protesters in the wake of the 2020 presidential election, in particular with arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators as well as intimidation and violence against journalists.
+individual_details:
+  individual:
+    dobs:
+    - '1974-10-03'
+    positions:
+    - Head of the Department of Law Enforcement of the Main Directorate for the Protection
+      of Law and Order, in the Ministry of Internal Affairs
+    genders:
+    - Male

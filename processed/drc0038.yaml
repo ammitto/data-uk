@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -48,3 +49,21 @@ addresses:
   - address_line5: Masisi Territory
     address_line6: North Kivu Province
     address_country: Congo (Democratic Republic)
+individual_details:
+  individual:
+    dobs:
+    - '1972-09-01'
+    - dd/mm/1975
+    - '1972-03-16'
+    nationalities:
+    - Congo (Democratic Republic)
+    positions:
+    - 'M23, Bde Comd, Rank: Colonel and in the FARDC'
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Ngungu, Masisi Territory, North Kivu Province
+        country_of_birth: Congo (Democratic Republic)
+      - town_of_birth: Masisi
+        country_of_birth: Congo

@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,21 @@ uk_statement_of_reasons: |2-
 
   Igor Yuryevich KOROTCHENKO (hereafter KOROTCHENKO) is the Editor-in-Chief of Russia’s National Defence magazine and a former officer in Russia’s Air Force. He is also the director of the Centre for the Analysis of the World’s Arms Trade. KOROTCHENKO has given numerous interviews and statements where he has supported or promoted actions and policies which undermine or threaten the territorial integrity, sovereignty or independence of Ukraine.
    The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1960-02-15'
+    nationalities:
+    - Russia
+    positions:
+    - Chairman of the Public Council under the Ministry of Defence of the Russian
+      Federation
+    - Editor-in-Chief of the National Defence Magazine
+    - Director of the Centre for Analysis of the World Arms Trade
+    - Military rank - Reserve Colonel
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Riga
+        country_of_birth: Latvia

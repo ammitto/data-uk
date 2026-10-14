@@ -33,6 +33,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -49,3 +50,21 @@ uk_statement_of_reasons: "\nThe Secretary of State considers that there are reas
   of the political council of the political party Solidarity for Peace, he joined
   a delegation of Georgian politicians who met with the head of the so-called Donetsk
   People’s Republic, and subsequently publicised the visit. \n"
+individual_details:
+  individual:
+    dobs:
+    - '1984-04-08'
+    nationalities:
+    - Georgia
+    positions:
+    - Member of the Political Council, Solidarity for Peace; Founder Union of Young
+      Eurasianists of Georgia
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Georgia
+    national_identifier_details:
+      national_identifiers:
+      - number: '01016007367 '
+        additional_information: 'National Identity Number '

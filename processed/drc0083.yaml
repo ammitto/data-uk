@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -51,3 +52,21 @@ addresses:
   - address_line1: Rutshuru
     address_line2: North Kivu
     address_country: Congo (Democratic Republic)
+titles:
+- Brigadier General
+individual_details:
+  individual:
+    dobs:
+    - '1968'
+    nationalities:
+    - Rwanda
+    positions:
+    - Leader of the Democratic Forces for the Liberation of Rwanda (FDLR)
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Rutsiro District, Western Province
+        country_of_birth: Rwanda
+      - town_of_birth: Gatoki Cell, Murunda Sector, Rutsiro Commune, Kibuye Prefecture
+        country_of_birth: Rwanda

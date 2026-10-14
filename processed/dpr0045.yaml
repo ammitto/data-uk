@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -41,3 +42,17 @@ uk_statement_of_reasons: "\nFormer deputy Chairman of the National Defence Commi
 addresses:
   addresses:
   - address_country: North Korea
+titles:
+- General
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1931
+    nationalities:
+    - North Korea
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Jilin Province
+        country_of_birth: China

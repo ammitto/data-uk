@@ -27,6 +27,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -38,3 +39,15 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2
 
   Denis GORBUNENKO is an involved person within the meaning of the Global Anti-Corruption Sanctions Regulations 2021 on the basis of the following grounds: (1) Denis GORBUNENKO has been involved in engaging in serious corruption. Specifically, Denis GORBUNENKO engaged in serious corruption for the benefit of Dmitry FIRTASH while in a controlling position at Rodovid Bank; (2) GORBUNENKO is or has been involved in transferring or converting, or facilitating the transfer or conversion of, any profit or proceeds from serious corruption. Specifically, GORBUNENKO has been involved in facilitating the transfer or conversion of the profit or proceeds of Dmitry FIRTASH's serious corruption; and (3) GORBUNENKO is acting on behalf of a person who is or has been involved in serious corruption, namely Dmitry FIRTASH.
+individual_details:
+  individual:
+    dobs:
+    - '1973-12-09'
+    nationalities:
+    - Ukraine
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Donetsk Oblast
+        country_of_birth: Ukraine

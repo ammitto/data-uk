@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -41,3 +42,24 @@ addresses:
   - address_line1: lltisstrasse 58
     address_line6: Kiel
     address_country: Germany
+individual_details:
+  individual:
+    dobs:
+    - '1969-12-20'
+    nationalities:
+    - Germany
+    - Morocco
+    birth_details:
+      locations:
+      - town_of_birth: Casablanca
+        country_of_birth: Morocco
+    passport_details:
+      passports:
+      - number: '1005552350'
+        additional_information: German. Issued on 27 March 2001 by Municipality of
+          Kiel, Germany. Expired on 26 March 2011.
+    national_identifier_details:
+      national_identifiers:
+      - number: '1007850441'
+        additional_information: German federal identity card. Issued on 27 March 2001
+          by Municipality of Kiel, Germany. Expired on 26 March 2011.

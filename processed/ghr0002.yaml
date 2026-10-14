@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -35,3 +36,15 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Aleksey Vasilyevich Anichin, as a deputy Minister in the Russian Interior Ministry and the head of the Investigative Committee, was involved in the mistreatment of Sergei Magnitsky whilst in detention, which contributed significantly to his death on 16 November 2009. Anichin oversaw a ‘team’ of investigators who failed to investigate complaints made by Magnitsky about his mistreatment and concealed evidence of Magnitsky’s deteriorating medical condition.
+individual_details:
+  individual:
+    dobs:
+    - '1949-12-01'
+    nationalities:
+    - Russia
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Sevastopol
+        country_of_birth: Ukraine

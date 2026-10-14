@@ -36,6 +36,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -47,3 +48,20 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Oleg Gaidukevich is the Deputy Chairman of the Standing Committee of International Affairs in the house of Representative of the National Assembly, and a member of the delegation of the national Assembly for contacts with the Parliamentary Assembly of the Council of Europe. In this capacity, he has made public statements in support of Alexander Lukashenko and the actions taken by the Belarusian authorities to forcibly divert passenger flight FR4978 to Minsk airport without proper justification on 21 May 2021. This politically motivated decision was aimed at arresting and detaining opposition journalist and civil society actor Roman Protasevich and Protasevich’s partner Sofia Sapega and is a form of repression against civil society and democratic opposition in Belarus. Therefore, Oleg Gaidukevich supports the Lukashenko regime and its repression of civil society and democratic opposition in Belarus and so undermined democracy and the rule of law there.
+individual_details:
+  individual:
+    dobs:
+    - '1977-03-26'
+    nationalities:
+    - Belarus
+    positions:
+    - Deputy Chairman of the Standing Committee of International Affairs in the House
+      of Representatives of the National Assembly, Member of the delegation of the
+      National Assembly for contacts with the Parliamentary Assembly of the Council
+      of Europe
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Minsk
+        country_of_birth: Belarus

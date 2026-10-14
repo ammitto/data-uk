@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -35,3 +36,11 @@ other_information: President of the National Constituent Assembly The Director D
 uk_statement_of_reasons: |2-
 
   Vice President of Venezuela, acting Minister of Economy and Finance, former President of the illegitimate Constituent Assembly, and former member of the Presidential Commission for the illegitimate National Constituent Assembly. There are reasonable grounds to suspect that her actions on the Presidential Commission and then as President of the Constituent Assembly have undermined democracy and the rule of law in Venezuela, including usurping the powers of the National Assembly and using them to target the opposition and prevent them taking part in the political process.
+individual_details:
+  individual:
+    dobs:
+    - '1969-05-18'
+    positions:
+    - Vice-President of Venezuela
+    genders:
+    - Female

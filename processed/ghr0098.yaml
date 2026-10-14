@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -38,3 +39,17 @@ uk_statement_of_reasons: "\nJoseph Pierre Richard DUPLAN is an involved person w
 addresses:
   addresses:
   - address_country: Haiti
+individual_details:
+  individual:
+    dobs:
+    - '1970-04-03'
+    nationalities:
+    - United States
+    positions:
+    - Former Departmental Delegate
+    genders:
+    - Male
+    passport_details:
+      passports:
+      - number: '545829751 '
+        additional_information: Expires 28 April 2026

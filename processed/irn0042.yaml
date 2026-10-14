@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -33,3 +34,9 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Head of Branch 22 of the Appeals Court of Shiraz from November 2011. Former Prosecutor of Shiraz until October 2011. Prosecutor during the Shiraz bombing case in 2008, which was used by the regime to sentence to death other unconnected persons. He has pursued capital charges and other severe penalties against minorities, such as to constitute, inter alia, a violation of their human rights to fair trial and freedom from arbitrary detention.
+individual_details:
+  individual:
+    positions:
+    - Head of Branch 22 of the Appeals Court of Shiraz since November 2011
+    genders:
+    - Male

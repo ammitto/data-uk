@@ -19,6 +19,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -41,3 +42,17 @@ addresses:
     address_line2: Halamish
     address_line3: West Bank
     address_country: Occupied Palestinian Territories
+individual_details:
+  individual:
+    dobs:
+    - '1992-09-20'
+    - '1992-09-20'
+    nationalities:
+    - Israel
+    - Israel
+    genders:
+    - Male
+    national_identifier_details:
+      national_identifiers:
+      - number: '204377998'
+      - number: '204377998'

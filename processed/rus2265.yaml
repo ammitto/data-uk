@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -45,3 +46,18 @@ addresses:
     address_line4: BOLSHAYA POSTOVAYA STREET
     address_line6: MOSCOW
     address_country: Russia
+email_addresses:
+- ushko.sergey@tros-stanko.ru
+individual_details:
+  individual:
+    nationalities:
+    - Russia
+    positions:
+    - Shareholder of Limited Liability Company Open Systems Development Technology
+      (LLC TROS)
+    genders:
+    - Male
+    national_identifier_details:
+      national_identifiers:
+      - number: '500103405690'
+        additional_information: INN

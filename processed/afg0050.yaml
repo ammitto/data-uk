@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,18 @@ other_information: 'Member of Taliban Supreme Council in charge of the Medical C
   https:// www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals click
   here'
 uk_statement_of_reasons: "\n"
+titles:
+- Mullah
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1963
+    nationalities:
+    - Afghanistan
+    positions:
+    - Minister of Public Health under the Taliban regime
+    - Mayor of Kandahar under the Taliban regime
+    birth_details:
+      locations:
+      - town_of_birth: Khas Uruzgan District, Uruzgan Province
+        country_of_birth: Afghanistan

@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: true
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -41,3 +42,19 @@ addresses:
     address_line2: Delmas 40 B
     address_line6: Port-au-Prince
     address_country: Haiti
+individual_details:
+  individual:
+    dobs:
+    - '1977-03-30'
+    nationalities:
+    - Haiti
+    positions:
+    - Former Police Officer
+    birth_details:
+      locations:
+      - town_of_birth: Port-au-Prince
+        country_of_birth: Haiti
+    national_identifier_details:
+      national_identifiers:
+      - number: 001-843-989-7
+        additional_information: NIF – Haiti

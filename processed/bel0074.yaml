@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,17 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   In his leadership position as Minister of Information, Ihar Lutsky is responsible for the repression of civil society, and in particular the Ministry of Information decision to cut off access to independent websites and limit internet access in Belarus in the wake of the 2020 presidential election, as a tool of repression of civil society, peaceful demonstrators and journalists.
+individual_details:
+  individual:
+    dobs:
+    - '1972-10-31'
+    nationalities:
+    - Belarus
+    positions:
+    - Minster of Information of the Republic of Belarus
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Stolin, Brest Oblast
+        country_of_birth: former USSR (now Belarus)

@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -46,3 +47,11 @@ uk_statement_of_reasons: "\nYuriy Anatolyevich KARASEV is an involved person und
   an entity, RNCO Banking Zone LLC, which is carrying on business in a sector of strategic
   significance to the Government of Russia, namely the Russian financial services
   sector. \n"
+individual_details:
+  individual:
+    dobs:
+    - '1971-10-23'
+    nationalities:
+    - Russia
+    genders:
+    - Male

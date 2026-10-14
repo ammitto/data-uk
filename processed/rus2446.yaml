@@ -25,6 +25,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -46,3 +47,7 @@ uk_statement_of_reasons: "\nGround 1: SAMUEL STANISLAV NOVAKHOV has been involve
   or independence of Ukraine, as it is or has been responsible for, engaging in, providing
   support for, or promoting any policy or action which destabilises Ukraine or undermines
   or threatens the territorial integrity, sovereignty or independence of Ukraine.\n"
+individual_details:
+  individual:
+    nationalities:
+    - Israel

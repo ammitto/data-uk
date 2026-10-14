@@ -33,6 +33,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: true
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -63,3 +64,19 @@ uk_statement_of_reasons: "\nGennadiy TIMCHENKO is an involved person under the R
   (2) TIMCHENKO is associated with a person involved in destabilising Ukraine or undermining
   or threatening the territorial integrity, sovereignty or independence of Ukraine.
   \n"
+individual_details:
+  individual:
+    dobs:
+    - '1952-11-09'
+    nationalities:
+    - Russia
+    - Finland
+    - Armenia
+    positions:
+    - Shareholder in Bank Russia
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Leninakan
+        country_of_birth: Armenia

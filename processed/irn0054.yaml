@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -31,3 +32,13 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Coordinating Deputy to the IRGC Commander, formally Deputy Chief of the IRGC for cultural and social affairs. Also former Commander of the Basij. As commander of the IRGC's Basij Forces, Naqdi was responsible for or complicit in Basij abuses occurring in late 2009, including the violent response to the December 2009 Ashura Day protests, which resulted in up to 15 deaths and the arrests of hundreds of protesters. Prior to his appointment as commander of the Basij in October 2009, Naqdi was the head of the intelligence unit of the Basij responsible for interrogating those arrested during the post-election crackdown.
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1952
+    positions:
+    - Deputy Coordinator of the IRGC
+    - Former Deputy Chief of the IRGC for cultural and social affairs
+    - Former Commander of the Basij
+    genders:
+    - Male

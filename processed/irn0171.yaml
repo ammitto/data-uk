@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -31,3 +32,11 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Ali Akbar JAVIDAN is an involved person within the meaning of the Iran (Sanctions) Regulations 2023. JAVIDAN is or has been involved in the commission of serious human rights violations or abuses in Iran. This includes being responsible for, engaging in and promoting serious violations of the right to life, the right to freedom of expression, as well as breaches of Iran’s obligation to secure the human rights of persons in Iran without discrimination including on the basis of a person’s sex, through enforcing mandatory dress codes for women.
+individual_details:
+  individual:
+    dobs:
+    - '1967-04-21'
+    nationalities:
+    - Iran
+    positions:
+    - LEF Commander for Kermanshah Province

@@ -32,6 +32,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -47,3 +48,15 @@ uk_statement_of_reasons: "\nThe Secretary of State considers that there are reas
   the peace, stability and security of Sudan. Through his positions in these companies,
   he has provided financial services and made available funds and economic resources
   to the RSF. \n"
+individual_details:
+  individual:
+    nationalities:
+    - Sudan
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Libya
+    passport_details:
+      passports:
+      - additional_information: 'Place of issue: Khartoum'

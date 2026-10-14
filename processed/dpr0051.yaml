@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -35,3 +36,21 @@ uk_statement_of_reasons: |2-
 addresses:
   addresses:
   - address_country: North Korea
+titles:
+- General
+individual_details:
+  individual:
+    dobs:
+    - '1957-12-30'
+    positions:
+    - First Vice Minister of the People's Armed Forces
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Kangwon
+        country_of_birth: North Korea
+    passport_details:
+      passports:
+      - number: PD836410105
+        additional_information: expiry date 27/11/2021

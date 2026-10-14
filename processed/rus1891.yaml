@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -43,3 +44,17 @@ addresses:
   - address_line1: TER. MURMANSK-17 D. 1
     address_line6: MURMANSK
     address_country: Russia
+phone_numbers:
+- "+7 815 2553019"
+email_addresses:
+- general@rosatomflot.ru
+websites:
+- http://rosatomflot.ru/
+entity_details:
+  entity:
+    business_registration_numbers:
+    - '5192110268'
+    types_of_entity:
+    - Federal State Unitary Enterprise
+    parent_companies:
+    - Rosatom

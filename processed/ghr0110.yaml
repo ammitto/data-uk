@@ -19,6 +19,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -40,3 +41,9 @@ addresses:
     address_line3: Baray
     address_line4: Kampong Thom
     address_country: Cambodia
+phone_numbers:
+- "(+855) 0319377770"
+individual_details:
+  individual:
+    positions:
+    - Chairman of the Board of Directors of Pacific Real Estate Management Company

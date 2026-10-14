@@ -25,6 +25,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,21 @@ other_information: 'Taliban member responsible for Nangarhar Province as at 2011
   Council Special Notice web link: https://www.interpol.int/en/Howwe-work/Notices/View-UN-Notices-Individuals
   click here'
 uk_statement_of_reasons: "\n"
+titles:
+- Maulavi
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1963
+    nationalities:
+    - Afghanistan
+    positions:
+    - Governor of Paktia Province under the Taliban regime
+    birth_details:
+      locations:
+      - town_of_birth: Nangarhar Province
+        country_of_birth: Afghanistan
+      - town_of_birth: Khost Province
+        country_of_birth: Afghanistan
+      - town_of_birth: Siddiq Khel village, Naka District, Paktia Province
+        country_of_birth: Afghanistan

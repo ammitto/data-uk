@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -43,3 +44,13 @@ uk_statement_of_reasons: "\nVladimir Vladimirovich YEZHIKOV is an \"involved per
   region of Donetsk in Ukraine. Through this role, YEZHIKOV is or has engaged in policies
   or actions which destabilise Ukraine and undermine or threaten the territorial integrity,
   sovereignty or independence of Ukraine.  \n"
+individual_details:
+  individual:
+    dobs:
+    - '1987-06-20'
+    nationalities:
+    - Russia
+    positions:
+    - Acting Deputy Chairman of the Government of the Donetsk People's Republic (DPR)
+    genders:
+    - Male

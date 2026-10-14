@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -60,3 +61,20 @@ uk_statement_of_reasons: "\nArsen Bashirovich KANOKOV (hereafter KANOKOV ) is an
   Council  which voted in favour of ratifying treaties on 4 October 2022 in relation
   to the illegal annexations of the Donetsk, Luhansk, Kherson and Zaporizhzhia regions
   of Ukraine on their so-called accession to the Russian Federation. \n"
+individual_details:
+  individual:
+    dobs:
+    - '1957-02-22'
+    nationalities:
+    - Russia
+    positions:
+    - Russian Federation Senator from the Kabardino-Balkarian Republic
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Shitkhala
+        country_of_birth: Russia
+    national_identifier_details:
+      national_identifiers:
+      - number: '773001202577'

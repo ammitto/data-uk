@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -56,3 +57,26 @@ addresses:
     address_line4: Chamkar Morn District
     address_line6: Phnom Penh
     address_country: Cambodia
+individual_details:
+  individual:
+    dobs:
+    - '1987-07-06'
+    nationalities:
+    - Vanuatu
+    - China
+    - Cambodia
+    - Cyprus
+    - St Lucia
+    - St Kitts and Nevis
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Beijing
+        country_of_birth: China
+    passport_details:
+      passports:
+      - number: RV091789
+        additional_information: Vanuatu
+      - number: N01099997
+        additional_information: Cambodia

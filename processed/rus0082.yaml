@@ -33,6 +33,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -44,3 +45,17 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Chairperson' of the so-called 'People's Council' of the so-called 'Donetsk People's Republic'. In taking on and acting in this capacity, he actively supported and implemented actions and policies which undermine the territorial integrity, sovereignty and independence of Ukraine, and further destabilised Ukraine. The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1981-03-07'
+    nationalities:
+    - Ukraine
+    positions:
+    - Chairperson of the so-called Donetsk People's Council
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Makeevka
+      - town_of_birth: Donestsk oblast

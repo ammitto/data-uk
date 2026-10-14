@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -44,3 +45,22 @@ addresses:
   - address_line1: MOZHAYSKOE SHOSSE BLD. 2
     address_line2: FLAT 99
     address_line3: MOSCOW
+email_addresses:
+- NOSOV.1961@YANDEX.RU
+individual_details:
+  individual:
+    dobs:
+    - '1961-02-17'
+    nationalities:
+    - Russia
+    positions:
+    - Governor of Magadan
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Magnitogorsk
+        country_of_birth: Russia
+    passport_details:
+      passports:
+      - number: '0308791  1099181  1505678 5743312 716956514'

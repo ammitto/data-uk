@@ -19,6 +19,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -30,3 +31,16 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   There are reasonable grounds to suspect that Gholamreza SOLEIMANI has been involved in the commission of serious human rights violations in Iran, including being responsible for, engaging in and providing support for the violent suppression of protests in Iran through his role as Head of the “Volunteer Forces” (Basij Organisation) and through participating in decisions relating to the conduct of Iranian security forces during the 2019 protests via his position in the National Security Council.
+titles:
+- Brigadier General
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1964
+    - dd/mm/1965
+    nationalities:
+    - Iran
+    positions:
+    - Head of the Basij Organisation of the Islamic Revolutionary Guard Corps
+    genders:
+    - Male

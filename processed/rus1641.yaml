@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -45,3 +46,17 @@ uk_statement_of_reasons: "\n Valeriy Valeryevich Sidorenko is an “involved per
   as a director or manager of a Government of Russia-affiliated entity, namely VTB
   Bank PJSC which is owned or controlled directly by the Government of Russia. \n
   The trust services sanctions were imposed on 21/03/2023."
+individual_details:
+  individual:
+    dobs:
+    - '1972-06-22'
+    nationalities:
+    - Russia
+    positions:
+    - Member of VTB Bank's Supervisory Board
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Bishkek
+        country_of_birth: Kyrgyzstan

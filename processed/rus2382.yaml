@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -53,3 +54,22 @@ addresses:
   - address_line1: Ul. Grigoriya Kukuyevitskogo, 1, bld.1
     address_line6: Surgut
     address_country: Russia
+phone_numbers:
+- "+7 (3462) 42-61-33"
+- "+7 (3462) 42-69-37"
+- "+7 (3462) 42-72-41"
+- "+7 (495) 698-94-14"
+- "+7 (495) 980-15-86"
+- "+7 (3462) 42-70-09"
+email_addresses:
+- press.ext@surgutneftegas.ru
+- 411555@surgutneftegas.ru
+- lr-ext@surgutneftegas.ru
+- office@surgutneftegas.ru
+websites:
+- www.surgutneftegas.ru
+entity_details:
+  entity:
+    business_registration_numbers:
+    - Russia TIN - 8602060555
+    - Russia OGRN - 1028600584540

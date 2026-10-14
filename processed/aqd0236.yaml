@@ -61,6 +61,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -95,3 +96,24 @@ addresses:
     address_line5: Kuala Lumpur
     address_line6: Wilayah Persekutuan Kuala Lumpur
     address_country: Malaysia
+individual_details:
+  individual:
+    dobs:
+    - '1966-06-03'
+    nationalities:
+    - Malaysia
+    - Indonesia
+    birth_details:
+      locations:
+      - town_of_birth: Negri Sembilan
+        country_of_birth: Malaysia
+    passport_details:
+      passports:
+      - number: A31142734
+        additional_information: Malaysia. Issued on 6 November 2013 by the Immigration
+          Department of Malaysia. Expiration date 6 November 2015.
+    national_identifier_details:
+      national_identifiers:
+      - number: " 660603-05-5267"
+        additional_information: Malaysia national identity card. Issued by National
+          Registration Department of Malaysia to Mohd Rafi bin Udin.

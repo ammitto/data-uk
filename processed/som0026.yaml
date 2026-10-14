@@ -25,6 +25,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: true
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -45,3 +46,19 @@ addresses:
     address_country: Somalia
   - address_line6: Qunyo Barrow
     address_country: Somalia
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1962
+    - dd/mm/1960
+    - dd/mm/1955
+    nationalities:
+    - Somalia
+    positions:
+    - Member of Shura of Al-Shabaab
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Kismayo
+        country_of_birth: Somalia

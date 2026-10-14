@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -32,3 +33,9 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Ahwaz Revolutionary Court judge, Branch 2, imposed death sentences on five Ahwazi Arabs, Mohammad Ali Amouri, Hashem Sha'bani Amouri, Hadi Rashedi, Sayed Jaber Alboshoka, Sayed Mokhtar Alboshoka, on 17 March 2012 for ‘activities against national security’ and ‘enmity against God’. The sentences were upheld by Iran's Supreme Court on 9 January 2013. The five were arrested without charge for over a year, tortured and sentenced without due process.
+individual_details:
+  individual:
+    positions:
+    - Ahwaz Revolutionary Court judge, Branch 2
+    genders:
+    - Male

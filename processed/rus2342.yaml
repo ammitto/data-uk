@@ -19,6 +19,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,21 @@ uk_statement_of_reasons: "\nIMO 9290309 (“THEA”) is involved in activity who
   sovereignty or independence of Ukraine or to obtain a benefit from or support the
   Government of Russia. Namely, THEA is involved in carrying oil or oil products that
   originated in Russia from Russia to a third country. \n"
+ship_details:
+  ship:
+    imo_numbers:
+    - IMO9290309
+    current_owner_operators:
+    - THEA STEWART LTD
+    current_believed_flags:
+    - Panama
+    previous_flags:
+    - Malta
+    types_of_ship:
+    - Oil Tanker
+    tonnages:
+    - '57226'
+    lengths:
+    - '243.96'
+    years_built:
+    - '2004'

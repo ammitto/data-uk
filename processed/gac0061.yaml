@@ -27,6 +27,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -47,3 +48,22 @@ addresses:
   addresses:
   - address_line6: Dubai
     address_country: United Arab Emirates
+individual_details:
+  individual:
+    dobs:
+    - '1965-03-12'
+    nationalities:
+    - United Kingdom
+    - Kenya
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Mombasa
+        country_of_birth: Kenya
+      - country_of_birth: Kenya
+    passport_details:
+      passports:
+      - number: '564196270'
+        additional_information: 'Issued 23/12/2019 '
+      - number: CK23926

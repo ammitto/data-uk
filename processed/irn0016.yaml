@@ -19,6 +19,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -30,3 +31,10 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Judge of the Supreme Court, head of the 44th section. Deputy Chief Executive Officer of Setad-e Dieh Foundation. Chief Judge, Mashhad Revolutionary Court (2001-2011). Trials under his jurisdiction have been conducted summarily and inside closed session, without adherence to basic rights of the accused. As execution rulings were issued en masse (up to 550 between summer 2009 and summer 2011), death sentences were issued without proper observance of fair hearing procedures.
+individual_details:
+  individual:
+    positions:
+    - Deputy Chief Executive Officer of Setad-e Dieh Foundation
+    - Judge of the Supreme Court, head of the 44th section
+    genders:
+    - Male

@@ -53,6 +53,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -70,3 +71,27 @@ addresses:
   - address_line5: Arsal
     address_line6: Bekaa
     address_country: Lebanon
+individual_details:
+  individual:
+    dobs:
+    - '1972-08-17'
+    - '1972-01-01'
+    nationalities:
+    - Syria
+    birth_details:
+      locations:
+      - town_of_birth: Benghazi
+        country_of_birth: Libya
+      - town_of_birth: Al Tall
+        country_of_birth: Syria
+      - town_of_birth: Tell Mnin
+        country_of_birth: Syria
+    passport_details:
+      passports:
+      - number: '3987189'
+        additional_information: Syrian Passport
+    national_identifier_details:
+      national_identifiers:
+      - number: '13080011550'
+      - number: '5877002'
+        additional_information: Syrian Identification Card issued 25 May 2011

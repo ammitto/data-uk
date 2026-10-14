@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -32,3 +33,16 @@ other_information: Went to university with Vladimir Putin The Director Disqualif
 uk_statement_of_reasons: |2-
 
   Alexander Ivanovich Bastrykin was appointed First Deputy Prosecutor General and Head of the Investigative Committee under the Prosecutor’s Office on 22 June 2007; he continued as Chairman of the Investigative Committee after it became an independent body in January 2011. In this role Bastrykin was responsible for the investigation of the mistreatment and death of Sergei Magnitsky in detention and intentionally or recklessly failed to fulfil that responsibility.
+individual_details:
+  individual:
+    dobs:
+    - '1953-08-27'
+    nationalities:
+    - Russia
+    positions:
+    - Head of the Investigative Committee of Russia
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Russia

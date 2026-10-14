@@ -50,6 +50,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -61,3 +62,13 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Oleg Nikolaevich Beliakov is the Deputy Head of the Department for the Execution of Punishments of the Ministry of Internal Affairs. In this position, he is responsible for his Department’s management of correction and detention facilities, and therefore he is responsible for the serious human rights violations and acts relating to the repression of civil society and democratic opposition which are carried out in such facilities.
+individual_details:
+  individual:
+    nationalities:
+    - Belarus
+    positions:
+    - Deputy Head of the Penal Correction Department of the Ministry of Internal Affairs/
+      Deputy Head of the Department for the Execution of Punishments of the Ministry
+      of Internal Affairs
+    genders:
+    - Male

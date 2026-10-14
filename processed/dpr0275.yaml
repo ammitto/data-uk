@@ -30,6 +30,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: true
   chartering_of_ships: true
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -40,3 +41,13 @@ sanctions_imposed_indicators:
 other_information: Tsang Yung Yuan has coordinated DPRK coal exports with a DPRK broker
   operating in a third country, and he has a history of other sanctions evasion activities.
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - '1957-10-20'
+    nationalities:
+    - North Korea
+    - North Korea
+    passport_details:
+      passports:
+      - number: '302001581'

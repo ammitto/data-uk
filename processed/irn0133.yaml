@@ -47,6 +47,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -58,3 +59,19 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Mohammed Taghi OSANLOO is an involved person within the meaning of the Iran (Sanctions) Regulations 2023 as through his role as Ground Forces Commander of the Islamic Revolutionary Guard Corps (IRGC) for the Hamzeh Sayyid al-Shohada headquarters in Northwestern Iran, he is or has been responsible for, engaging in, providing support for, or promoting serious human rights violations including violations of the right of life and violations of the right to freedom of expression and peaceful assembly. Through his role in the IRGC OSANLOO is also a member of an organisation that is responsible for the commission of serious human rights violations in Iran.
+titles:
+- Brigadier General
+individual_details:
+  individual:
+    dobs:
+    - '1962-11-30'
+    nationalities:
+    - Iran
+    positions:
+    - IRGC Ground Forces Commander (Hamzeh Sayyid al-Shohada headquarters in North-Western
+      Iran)
+    genders:
+    - Male
+    passport_details:
+      passports:
+      - number: G10512747

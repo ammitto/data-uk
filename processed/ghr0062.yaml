@@ -30,6 +30,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -41,3 +42,18 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Apti Alaudinov is the Deputy Minister of Internal Affairs of the Chechen Republic and Major General of the Police. In this position Alaudinov has presided over several waves of persecution against the LGBT community in Chechnya from 2017 to 2019. As a leading, senior official, Alaudinov is responsible for the actions of police and security forces under his command who have engaged in cruel, inhuman or degrading treatment or torture. In addition, by upholding the impunity of security forces and actively encouraging violence against LGBT persons, Alaudinov has facilitated, incited, promoted, and provided support for, the torture and murder of LGBT persons. Alaudinov is also responsible for the mistreatment of human rights defender Ruslan Kutaev.
+individual_details:
+  individual:
+    dobs:
+    - '1973-10-05'
+    nationalities:
+    - Russia
+    positions:
+    - Deputy Minister of Internal Affairs of the Chechen Republic and Major General
+      of the Police
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Stavropol
+        country_of_birth: Russia

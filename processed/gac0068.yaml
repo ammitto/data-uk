@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -50,3 +51,20 @@ uk_statement_of_reasons: "\nThere are reasonable grounds to suspect that José R
   function, he accepted a promotion to Head of the FECI. He did so in anticipation
   of him improperly performing a public function as Head of the FECI, intentionally
   undermining corruption investigations into the Guatemalan political elite.\n"
+individual_details:
+  individual:
+    dobs:
+    - '1970-07-28'
+    nationalities:
+    - Guatemala
+    positions:
+    - Head of the Special Prosecution Office Against Impunity (La Fiscalía Especial
+      contra la Impunidad)
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Guatemala
+    passport_details:
+      passports:
+      - number: '229488307'

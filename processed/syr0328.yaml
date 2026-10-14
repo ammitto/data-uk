@@ -26,6 +26,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -43,3 +44,12 @@ addresses:
   - address_line1: Adra Free Zone Area
     address_line6: Damascus
     address_country: Syria
+phone_numbers:
+- "+963-11-5316396"
+- "+963-11-5327266"
+- "+963-932-878282"
+- "+963-933-526812"
+email_addresses:
+- sorohco@gmail.com
+websites:
+- http://sites.google.com/site/sorohco

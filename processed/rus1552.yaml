@@ -25,6 +25,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: true
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -49,3 +50,17 @@ other_information: 'Transport sanctions: ships owned, controlled, chartered or o
 uk_statement_of_reasons: |2
 
   Arkady ROTENBERG is an involved person under the Russia (EU Exit) (Sanctions) Regulations 2019 on the following grounds: (1) ROTENBERG has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by being responsible for, engaging in, providing support for, or promoting any policy or action which destabilises Ukraine or undermines or threatens the territorial integrity, sovereignty or independence of Ukraine; (2) ROTENBERG has been involved in obtaining a benefit from or supporting the Government of Russia by owning or controlling directly or indirectly an entity carrying on business in the Russian construction and transport sectors, sectors of strategic significance to the Government of Russia.
+individual_details:
+  individual:
+    dobs:
+    - '1951-12-15'
+    nationalities:
+    - Russia
+    positions:
+    - Previous Chairman of House of Prosvescheniye, previous owner of Stroygazmontazh.
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Leningrad (St Petersburg)
+        country_of_birth: Russia

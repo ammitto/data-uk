@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -34,3 +35,17 @@ uk_statement_of_reasons: |2-
 
   Colonel Abbas Abdi is an involved person under the Iran (Sanctions) Regulations 2023 because: he is and has been involved in the commission of serious human rights violations in Iran, namely being responsible for, engaging in, providing support for and promoting serious violations with respect to the right to life and the right to freedom of expression and peaceful assembly in Iran in his role as the police chief in Divandarreh city, Kurdistan province
    and in the suppression of protests.
+titles:
+- Colonel
+individual_details:
+  individual:
+    nationalities:
+    - Iran
+    positions:
+    - Chief of Iran’s Law Enforcement Forces (LEF) in Divandarreh city, Kurdistan
+      province.
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Iran

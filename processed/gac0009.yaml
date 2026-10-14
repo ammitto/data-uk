@@ -35,6 +35,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -46,3 +47,15 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   In December 2007, an organised criminal group was involved in serious corruption through the misappropriation of the equivalent of $230m of Russian state property via a complex scheme involving a fraudulent tax rebate. PLAKSIN participated in the fraud through his involvement, in particular, in court processes based on fraudulent claims for damages, as the director of Instar LLC. His actions facilitated or provided support for the serious corruption.
+individual_details:
+  individual:
+    dobs:
+    - '1961-08-30'
+    positions:
+    - Former Chairman of the Universal Savings Bank
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Klin, Moscow Region,
+        country_of_birth: Russia

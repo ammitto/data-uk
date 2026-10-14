@@ -30,6 +30,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -41,3 +42,7 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2
 
   Maksim Yuryevich ERMAKOV is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 on the following ground: ERMAKOV is or has been involved in obtaining a benefit from or supporting the Government of Russia by working as a director or equivalent of an entity carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian electronics sector.
+individual_details:
+  individual:
+    genders:
+    - Male

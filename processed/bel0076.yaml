@@ -36,6 +36,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -47,3 +48,12 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   In his position as Deputy Head of the Police Department of the Sovetsky District of Minsk and Head of the Public Security Police, Viktar Stanishlauchyk is responsible for the repression and intimidation campaign led by the local police force under his command in the wake of the 2020 presidential election, in particular with arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators as well as intimidation and violence against journalists. According to witnesses, he personally supervised the detention of peaceful protesters and beatings of those unlawfully detained.
+individual_details:
+  individual:
+    dobs:
+    - '1971-01-27'
+    positions:
+    - Deputy Head of the Police Department of the Sovetsky District of Minsk; Head
+      of the Public Security Police
+    genders:
+    - Male

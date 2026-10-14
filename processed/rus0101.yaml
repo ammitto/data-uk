@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -32,3 +33,17 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Former Permanent member of the Security Council of the Russian Federation. As a member of the Security Council, which provides advice on and coordinates national security affairs, he was involved in shaping the policy of the Russian Government in threatening the territorial integrity, sovereignty and independence of Ukraine. He remains chairman of the Supreme Council of the United Russia party. Chairperson of the Board of Directors of the State-owned enterprise Tactical Missiles Corporation JSC. The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1950-12-15'
+    nationalities:
+    - Russia
+    positions:
+    - Permanant Member of the Security Council of the Russian Federation, and Chairman
+      of the Russian State Duma committee on Physical Education, Sport and Youth Affairs.
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Kuibyshev (Samara)

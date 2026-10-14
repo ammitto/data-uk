@@ -38,6 +38,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -57,3 +58,27 @@ other_information: 'Assumed multiples roles within ISIL (Da’esh) listed as Al-
 addresses:
   addresses:
   - address_country: Iraq
+titles:
+- Hajji
+individual_details:
+  individual:
+    dobs:
+    - '1974-07-01'
+    - '1973-01-01'
+    nationalities:
+    - Iraq
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Iraq
+      - town_of_birth: Albu Kamal
+        country_of_birth: Syria
+    national_identifier_details:
+      national_identifiers:
+      - number: '9080002892'
+        additional_information: 'National Identification card issued by the Syrian
+          Arab Republic, mother’s name Dahiyah al-Mulhim, DOB: 1 Jan. 1973, POB: Albu
+          Kamal, Syria'
+      - number: '4118 '
+        additional_information: Turkish Residency Card issued on 15 Jan. 2019

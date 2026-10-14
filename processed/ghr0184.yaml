@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -41,3 +42,27 @@ addresses:
     address_line3: Chamkamorn District
     address_line6: Phnom Penh
     address_country: Cambodia
+phone_numbers:
+- "+855 10600000"
+email_addresses:
+- kserey87@gmail.com
+individual_details:
+  individual:
+    dobs:
+    - '1978-02-20'
+    nationalities:
+    - China
+    - Cambodia
+    positions:
+    - Director of U-Life KH Super App Company Limited
+    - Director of Tian Xu International Technology Plc
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: 'Zhejiang '
+        country_of_birth: China
+    passport_details:
+      passports:
+      - number: 'N01124709 '
+        additional_information: Cambodia

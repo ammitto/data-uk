@@ -49,6 +49,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -67,3 +68,22 @@ other_information: 'Listed pursuant to paragraphs 7(e) and 7(h) of resolution 22
   DRC (killings, recruitment of child soldiers, and sexual abuse), which constitute
   human rights abuses against civilians.'
 uk_statement_of_reasons: "\n"
+titles:
+- Colonel
+individual_details:
+  individual:
+    dobs:
+    - '1969'
+    nationalities:
+    - Rwanda
+    positions:
+    - Leader of special unit “Commando de recherche et d’action en profondeur” (CRAP)
+      of FDLR-FOCA
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Karago municipality, Gisenyi prefecture
+        country_of_birth: Rwanda
+      - town_of_birth: Nyabihu District, Western province
+        country_of_birth: Rwanda

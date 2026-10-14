@@ -26,6 +26,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: true
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -40,3 +41,21 @@ other_information: 'Pursuant to paragraph 6 of Security Council Resolution 2371 
   18 December 2017. Listed as asset of Weihai World-Shipping Freight (OFSI ID: 13645,
   UN Reference Number: UN Ref KPe.074)'
 uk_statement_of_reasons: "\n"
+ship_details:
+  ship:
+    imo_numbers:
+    - '9004700'
+    current_owner_operators:
+    - Weihai World-Shipping Freight
+    current_believed_flags:
+    - Togo
+    previous_flags:
+    - Panama
+    types_of_ship:
+    - General Cargo / Multi Purpose
+    tonnages:
+    - '5552'
+    lengths:
+    - '98'
+    years_built:
+    - '1990'

@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -42,3 +43,24 @@ addresses:
     address_line5: Port-au-Prince
     address_line6: Ouest
     address_country: Haiti
+individual_details:
+  individual:
+    dobs:
+    - '1963-08-25'
+    nationalities:
+    - Haiti
+    positions:
+    - Former Director General of the Ministry of the Interior
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: 'Anse-A-Veau  '
+        country_of_birth: Haiti
+    passport_details:
+      passports:
+      - number: PP3955929
+      - number: PPF006455
+    national_identifier_details:
+      national_identifiers:
+      - number: '0030787210 '

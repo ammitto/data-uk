@@ -34,6 +34,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -48,3 +49,21 @@ uk_statement_of_reasons: "\nEvgeny Kopot is an involved person under the Central
   it is or has engaged in a relevant activity namely the commission of violations
   of international humanitarian law in the Central African Republic, in particular
   the deliberate targeting of civilians. \n"
+email_addresses:
+- em.kopot@mpgu.su
+individual_details:
+  individual:
+    dobs:
+    - '1985-11-17'
+    nationalities:
+    - Russia
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Bryansk
+        country_of_birth: Russia
+    national_identifier_details:
+      national_identifiers:
+      - number: '323302972898'
+        additional_information: INN

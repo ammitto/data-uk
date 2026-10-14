@@ -25,6 +25,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -45,3 +46,17 @@ addresses:
     address_line2: Tekstilchikov Street
     address_line6: Cheboksary
     address_country: Russia
+phone_numbers:
+- "+8 (499) 348-23-86"
+email_addresses:
+- sales@21kompozit.ru
+- overseas@21kompozit.ru
+websites:
+- 21komposit.ru
+entity_details:
+  entity:
+    business_registration_numbers:
+    - 'OGRN: 1152130010890'
+    - 'INN: 2130159236'
+    types_of_entity:
+    - Limited Liability Company

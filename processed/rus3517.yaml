@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -38,3 +39,23 @@ uk_statement_of_reasons: "\nThe Secretary of State considers there are reasonabl
   for, engages in, provides support for, or promotes policies or actions which destabilise
   Ukraine or undermine or threaten the territorial integrity, sovereignty or independence
   of Ukraine. \n"
+phone_numbers:
+- 8 (383) 238-77-94
+email_addresses:
+- em@nso.ru
+websites:
+- http://www.nskdeti.nso.ru
+individual_details:
+  individual:
+    dobs:
+    - '1957-01-29'
+    nationalities:
+    - Russia
+    positions:
+    - Commissioner for Children's Rights in the Novosibirsk Region
+    genders:
+    - Female
+    birth_details:
+      locations:
+      - town_of_birth: Donskoy
+        country_of_birth: Russia

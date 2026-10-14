@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -60,3 +61,19 @@ addresses:
     address_line2: Kutaisi Hualing Free Industrial Zone
     address_line6: Kutaisi City
     address_country: Georgia
+email_addresses:
+- mail@rapira.org
+- support@rapira.org
+- support@rapira.net
+websites:
+- Rapira.io
+- Rapira.org
+- Rapira24.ru
+- Rapiras.ru
+- Rapira.net
+entity_details:
+  entity:
+    business_registration_numbers:
+    - |-
+      Georgia MyGov Legal Code – 10703969 
+      Georgia Identification Code - 412771852 

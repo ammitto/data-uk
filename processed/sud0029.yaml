@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -59,3 +60,30 @@ addresses:
     address_line3: APT 302
     address_line6: Bogota
     address_country: Colombia
+individual_details:
+  individual:
+    dobs:
+    - '1975-04-01'
+    nationalities:
+    - Colombia
+    - Colombia
+    - Spain
+    positions:
+    - Director of Zeuz Global Ltd
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Bogota
+        country_of_birth: Colombia
+    passport_details:
+      passports:
+      - number: AS272175
+        additional_information: expired 31 Mar. 2026
+      - number: BF868819
+        additional_information: Expires 1 Mar. 2035
+      - number: XDD789846
+    national_identifier_details:
+      national_identifiers:
+      - number: '79782423'
+        additional_information: Colombia Cedula Number

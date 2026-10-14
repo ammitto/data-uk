@@ -33,6 +33,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -56,3 +57,30 @@ addresses:
     address_line2: Luzira
     address_line3: Kampala
     address_line4: Uganda
+phone_numbers:
+- "+963936016952"
+individual_details:
+  individual:
+    dobs:
+    - '1993-05-09'
+    - '1993-03-16'
+    nationalities:
+    - Uganda
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Mengo
+        country_of_birth: Uganda
+    passport_details:
+      passports:
+      - number: 'A00195974 (expires on 16 Dec. 2029) '
+        additional_information: "(Uganda)"
+    national_identifier_details:
+      national_identifiers:
+      - number: Z15105123
+        additional_information: 'Zambia Z15105123, issued on 5. Aug. 2020 (fraudulently
+          acquired under the name Isaac Mupeta, born 9 May 1993 in Lusaka, Zambia,
+          registration number 102523/29/1) '
+      - number: CM920231090NZA
+        additional_information: "(Uganda)"

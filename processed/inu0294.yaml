@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -37,3 +38,15 @@ other_information: 'Naser MALEKI was listed pursuant to paragraph 12 of resoluti
 uk_statement_of_reasons: |2-
 
   Naser MALEKI is an involved person within the meaning of the Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019. Naser MALEKI is or has been responsible for, engaging in, providing support for, or promoting, or facilitating, the development of a nuclear weapon delivery system in, or for use in, Iran; and is a member of, or associated with, a person who is or has been involved in a relevant nuclear activity.
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1960
+    passport_details:
+      passports:
+      - number: A0003039
+        additional_information: Issued in Iran
+    national_identifier_details:
+      national_identifiers:
+      - number: '35011785'
+        additional_information: Issued in Iran

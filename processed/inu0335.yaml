@@ -31,6 +31,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -52,3 +53,23 @@ addresses:
     address_line4: Marzdaran Ave
     address_line6: Tehran
     address_country: Iran
+phone_numbers:
+- "+98-21-44279775-6"
+- "+98-86- 32172908"
+- "+98-86-32172916-32172920"
+- "+98-86-32172920-32172916"
+- "+98-86-32172960-32172955"
+- "+98-86-33130031-9"
+email_addresses:
+- boiler@msa.ir
+- equipment@msa.ir
+- bridge@msa.ir
+- Info@msa.ir
+websites:
+- www.msa.ir
+entity_details:
+  entity:
+    business_registration_numbers:
+    - 'BvD ID: IR30177GN'
+    types_of_entity:
+    - Referred to as Public Joint Stock Company

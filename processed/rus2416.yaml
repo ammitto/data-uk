@@ -42,6 +42,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -63,3 +64,24 @@ addresses:
     address_line3: 7 Larina str.
     address_line6: Nizhny Novgorod
     address_country: Russia
+phone_numbers:
+- 8 (831) 211-41-20
+- 8 (831) 211-40-00
+- "+7 (831) 211-40-00"
+email_addresses:
+- salut@nppsalut.ru
+websites:
+- https://nppsalut.ru/
+entity_details:
+  entity:
+    business_registration_numbers:
+    - OGRN – 1125261000040; INN – 5261079332; KPP - 526101001
+    types_of_entity:
+    - Joint-Stock Company
+    parent_companies:
+    - Joint-Stock Company “Russian Electronics” Ruselectronics
+    subsidiaries:
+    - ZAKRYTOE AKTSIONERNOE OBSHCHESTVO NAUCHNO-PROIZVODSTVENNOE PREDPRIYATIE SALYUT-MIKRO;
+      AKTSIONERNOE OBSHCHESTVO NAUCHNO-PROIZVODSTVENNOE PREDPRIYATIE SALYUT-25;
+    - AKTSIONERNOE OBSHCHESTVO NAUCHNO-PROIZVODSTVENNOE PREDPRIYATIE SALYUT-27; ZAKRYTOE
+      AKTSIONERNOE OBSHCHESTVO GOSTINICHNYI KOMPLEKS KRONA

@@ -33,6 +33,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -49,3 +50,29 @@ addresses:
   addresses:
   - address_line6: Bangui
     address_country: Central African Republic
+titles:
+- Professor
+individual_details:
+  individual:
+    dobs:
+    - '1946-10-14'
+    - '1948-12-16'
+    nationalities:
+    - Central African Republic
+    - South Sudan
+    birth_details:
+      locations:
+      - town_of_birth: Mouila
+        country_of_birth: Gabon
+      - town_of_birth: Izo
+        country_of_birth: South Sudan
+    passport_details:
+      passports:
+      - number: D00002264
+        additional_information: Diplomatic. Issued on 11 June 2013 by the Minister
+          of Foreign Affairs in Juba, South Sudan. Expires on 11 June 2017. Issued
+          under name Samuel Peter Mudde.
+    national_identifier_details:
+      national_identifiers:
+      - number: M4800002143743
+        additional_information: Personal number on passport.

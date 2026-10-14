@@ -74,6 +74,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -91,3 +92,23 @@ addresses:
   - address_country: Afghanistan
   - address_line6: Kunduz
     address_country: Afghanistan
+titles:
+- Doctor
+individual_details:
+  individual:
+    dobs:
+    - '1994-10-28'
+    - '1990-05-24'
+    nationalities:
+    - Afghanistan
+    positions:
+    - ISIL-K Leader
+    birth_details:
+      locations:
+      - town_of_birth: Mir Bacha Kot District, Kabul Province
+        country_of_birth: Afghanistan
+    passport_details:
+      passports:
+      - number: O1503093
+        additional_information: Afghanistan passport number, issued on 25 Aug. 2016
+          in Kabul (expired on 25 Aug. 2021)

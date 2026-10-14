@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,15 @@ addresses:
     address_line3: New Territories
     address_line6: Hong Kong
     address_country: China
+phone_numbers:
+- "+86-755-2512-4873"
+- "+852 2638 7801"
+email_addresses:
+- sales@ace-chip.com
+websites:
+- https://www.ace-chip.com
+entity_details:
+  entity:
+    business_registration_numbers:
+    - 'CR: 2756979'
+    - 'BR: 69987857'

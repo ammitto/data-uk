@@ -38,6 +38,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -65,3 +66,23 @@ addresses:
   - address_line5: Koui
     address_line6: Ouham-Pendé prefecture
     address_country: Central African Republic
+titles:
+- General
+individual_details:
+  individual:
+    dobs:
+    - '1962-07-20'
+    nationalities:
+    - Central African Republic
+    positions:
+    - President and self-proclaimed “general” of the Retour, Réclamation et Réhabilitation
+      (3R)
+    birth_details:
+      locations:
+      - town_of_birth: Bocaranga
+        country_of_birth: Central African Republic
+    passport_details:
+      passports:
+      - number: N°235/MISPAT/DIRCAB/DGPC/DGAEI/SI/SP
+        additional_information: "(laissez-Passer) issued on 15 Mar. 2019 (issued by
+          the Minister of Interior of the Central African Republic )"

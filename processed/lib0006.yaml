@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -47,3 +48,24 @@ addresses:
     address_line3: PO Box 1100
     address_line6: Tripoli
     address_country: Libya
+phone_numbers:
+- 218 214870586
+- 218 214870714
+- 218 213330927
+- 218 213331533
+- 218 213333541
+- 218 213333542
+- 218 213333543
+- 218 213333544
+- 218 213333545
+- 218 213338366
+- 218 214870745
+- 218 214870747
+- 218 214870767
+- 218 214870777
+email_addresses:
+- agbank@agribankly.org
+entity_details:
+  entity:
+    parent_companies:
+    - Libyan subsidiary of the Central Bank of Libya.

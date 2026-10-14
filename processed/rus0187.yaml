@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -34,3 +35,5 @@ other_information: Name of Director Aleksandr Zakharchenko (now deceased) and Mi
 uk_statement_of_reasons: |2-
 
   Armed separatist group which has taken part in combat activity and has actively supported actions which undermine the territorial integrity, sovereignty and independence of Ukraine and to further destabilise Ukraine. These actions include occupation of City Hall in Donetsk; an assault assault on the army positions at Krasnohorivka, which took the lives of three Ukrainian soldiers; repulsion of Kiev troops in Donetsk and being reportedly part of the so-called "1st Army Corps" of the "Donetsk People's Republic". The trust services sanctions were imposed on 21/03/2023.
+websites:
+- http://vk.com/oplot_info

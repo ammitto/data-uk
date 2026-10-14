@@ -43,6 +43,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -54,3 +55,15 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Judge, Head of Tehran Revolutionary Court, Branch 15. Committing Judge in the Tehran Tribunal. In charge of the post-election cases, he was the judge presiding the ‘show trials’ in summer 2009. He condemned to death two monarchists that appeared in the show trials. He has sentenced more than a hundred political prisoners, human rights activists and demonstrators to lengthy prison sentences. In 2018, reports showed that he continued to hand down similar sentences without proper observance of fair hearing procedures.
+individual_details:
+  individual:
+    dobs:
+    - '1967-07-16'
+    nationalities:
+    - Iran
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Tuykersan
+        country_of_birth: Iran

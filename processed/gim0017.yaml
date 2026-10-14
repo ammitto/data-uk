@@ -25,6 +25,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -35,3 +36,12 @@ sanctions_imposed_indicators:
 uk_statement_of_reasons: |2
 
   Nihad Mohsin Xoshnaw is an involved person within the meaning of the Global Irregular Migration Sanctions and Trafficking in Persons Regulations 2025 ("the Regulations") as he is or has been involved in a relevant activity, namely people smuggling, by facilitating or providing support for the activity, with a view to obtaining any gain or benefit from the unlawful arrival in a country of a person who is not a national of that country or permanent resident in it. Specifically, each has supplied inflatable boats, outboard motors and other maritime equipment used by migrants to cross the English Channel from France to the United Kingdom.
+individual_details:
+  individual:
+    nationalities:
+    - Iraq
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Iraq

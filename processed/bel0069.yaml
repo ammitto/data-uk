@@ -36,6 +36,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -47,3 +48,12 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Igor Burmistrov is the Chief of Staff and First Deputy Commander of the Internal Troops of the Ministry of Internal Affairs. In this position he bears responsibility for the inhumane and degrading treatment of detainees, amounting to serious human rights violations and the repression of civil society, including torture, carried out in the detention facilities following the elections of 9 August.
+individual_details:
+  individual:
+    dobs:
+    - '1968-09-30'
+    positions:
+    - Chief of Staff and First Deputy Commander of the Internal Troops of the Ministry
+      of Internal Affairs
+    genders:
+    - Male

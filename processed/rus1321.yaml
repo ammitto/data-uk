@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -71,3 +72,22 @@ uk_statement_of_reasons: "\nGrigory Vikotorovitsj BEREZKIN (hereafter BEREZKIN) 
   Limited, which is or has been carrying on business in a sector of strategic significance
   to the Government of Russia, namely the information, communications and digital
   technologies sector. \nThe trust services sanctions were imposed on 21/03/2023.\n"
+individual_details:
+  individual:
+    dobs:
+    - '1966-08-09'
+    nationalities:
+    - Russia
+    - Croatia
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Moscow
+        country_of_birth: Russia
+    passport_details:
+      passports:
+      - number: '550559412'
+        additional_information: 'Russia, expiry date: 22/06/2031'
+      - number: '530293463'
+        additional_information: 'Russia, expiry date: 18/03/2023'

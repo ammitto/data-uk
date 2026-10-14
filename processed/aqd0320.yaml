@@ -31,6 +31,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -59,3 +60,22 @@ addresses:
   - address_line1: 18 Mediterranean Street
     address_line2: Ariana
     address_country: Tunisia
+individual_details:
+  individual:
+    dobs:
+    - '1982-05-03'
+    nationalities:
+    - Tunisia
+    birth_details:
+      locations:
+      - town_of_birth: Tunis
+        country_of_birth: Tunisia
+    passport_details:
+      passports:
+      - number: Z050399
+        additional_information: Tunisian. Issued on 9.12.2003. Expired on 8.12.2008.
+    national_identifier_details:
+      national_identifiers:
+      - number: '04711809'
+        additional_information: 'Tunisian National Identity Card number. Issued on
+          13.11.2003 '

@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -43,3 +44,18 @@ addresses:
   addresses:
   - address_line6: St Petersburg
     address_country: Russia
+email_addresses:
+- bystrovib@gmail.com
+individual_details:
+  individual:
+    dobs:
+    - '1983-07-07'
+    nationalities:
+    - Russia
+    positions:
+    - Deputy Director of MT-SYSTEMS LLC and owner of SEMIRTEK DOO
+    genders:
+    - Male
+    passport_details:
+      passports:
+      - number: '991577422'

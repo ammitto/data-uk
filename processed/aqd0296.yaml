@@ -72,6 +72,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -90,3 +91,23 @@ addresses:
   - address_line1: 10th Avenue
     address_line6: Caloocan City
     address_country: Philippines
+titles:
+- Sheik
+individual_details:
+  individual:
+    dobs:
+    - '1972-10-04'
+    nationalities:
+    - Philippines
+    birth_details:
+      locations:
+      - town_of_birth: Sitio Banga Maiti, Barangay Tranghawan, Lambunao, Iloilo
+        country_of_birth: Philippines
+    passport_details:
+      passports:
+      - number: MM611523
+        additional_information: "(Filipino). 2004"
+      - number: EE947317
+        additional_information: "(Filipino). 2000-2001"
+      - number: P421967
+        additional_information: "(Filipino). 1995-1997"

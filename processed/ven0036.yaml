@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -49,3 +50,19 @@ uk_statement_of_reasons: "\nNoriega is a National Assembly Deputy (2021-2025) ha
   Venezuelan Supreme Court of Justice (Tribunal Supremo de Justicia (TSJ)), illegitimately
   took over the leadership of the political party Voluntad Popular, thereby further
   undermining democracy in Venezuela. \n"
+individual_details:
+  individual:
+    dobs:
+    - '1969-02-21'
+    nationalities:
+    - Venezuela
+    positions:
+    - Member of the National Assembly
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Venezuela
+    national_identifier_details:
+      national_identifiers:
+      - number: V-8348784

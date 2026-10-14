@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,9 @@ uk_statement_of_reasons: |2
   Dmitry Konstantinovich SMIRNOV is a member of Evil Corp, and has been involved in relevant cyber activity, including being responsible for, engaging in and providing support for malicious cyber activity that resulted in the unauthorised access and exfiltration of sensitive data from UK infrastructure and networks. He has also provided financial services that could contribute to relevant cyber activity.
   Dmitry SMIRNOV was involved in laundering the proceeds for Evil Corp's cyber activity, and other financial activities including the coordination of payment for those involved in developing and maintaining Evil Corp’s tools and infrastructure.
   Evil Corp's malicious cyber activity involved a concerted effort to compromise UK health, government and public sector institutions, and commercial technology companies, for financial gain, which undermined or was intended to undermine the integrity, prosperity and security of the United Kingdom and its allies.
+individual_details:
+  individual:
+    dobs:
+    - '1987-11-10'
+    genders:
+    - Male

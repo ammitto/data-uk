@@ -37,6 +37,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -54,3 +55,23 @@ addresses:
     address_line2: 12 John-Skilton-Str.
     address_line6: Würzburg
     address_country: Germany
+phone_numbers:
+- "+49 931 666878-0"
+- "+49 931 666878-29"
+email_addresses:
+- info@ekc.ag
+websites:
+- www.ekc.ag
+- www.ek-company.com
+entity_details:
+  entity:
+    business_registration_numbers:
+    - 'Legal Entity Identifier: 5299008ONRYZRO61SY92; Trade Register Number: District
+      Court of Würzburg HRB 13359; Tax Number - 257/120/19983; VAT Tax Number - DE
+      258714047'
+    types_of_entity:
+    - Public Limited Company
+    parent_companies:
+    - P & P HOLDING GMBH
+    subsidiaries:
+    - EKC AG Turkey Madencilik Anonim Sirketi; EK Resources LLC

@@ -26,6 +26,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -61,3 +62,28 @@ uk_statement_of_reasons: "\nThe Secretary of State considers that there are reas
   for \naction, policy or activity which threatens the peace, stability and security
   of Sudan, namely through his involvement in enlisting Columbian mercenaries to fight
   alongside the RSF in areas of Sudan, including El Fasher. \n"
+individual_details:
+  individual:
+    dobs:
+    - '1967-08-17'
+    nationalities:
+    - Italy
+    - Colombia
+    positions:
+    - Recruiter for A4SI (INTERNATIONAL SERVICES AGENCY S.A.S)
+    - Retired Army Colonel
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Bogota
+        country_of_birth: Colombia
+    passport_details:
+      passports:
+      - number: YB7731256
+        additional_information: Expires 01 Mar 2031
+      - number: AP628498
+    national_identifier_details:
+      national_identifiers:
+      - number: '80413253'
+        additional_information: Colombian Cedula Number

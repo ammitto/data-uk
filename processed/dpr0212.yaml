@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: true
   chartering_of_ships: true
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -35,3 +36,9 @@ other_information: Director in the General Bureau of Atomic Energy (GBAE); invol
   in DPRK’s nuclear program; as Chief of the Scientific Guidance Bureau in the GBAE,
   served on the Science Committee inside the Joint Institute for Nuclear Research.
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - '1943-09-26'
+    positions:
+    - Director in the General Bureau of Atomic Energy (GBAE)

@@ -34,6 +34,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -45,3 +46,18 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Former "Minister of Internal Affairs of the Lugansk People's Republic", as such responsible for the separatist "governmental" activities of the "government of the Lugansk People's Republic." The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1954-08-13'
+    nationalities:
+    - Ukraine
+    positions:
+    - Former First Minister of the Ministry of Foreign Affairs of the Lugansk People's
+      Republic (LNR)
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Perevalsk, Luhansk Oblast
+        country_of_birth: Ukraine

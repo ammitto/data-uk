@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -40,3 +41,25 @@ uk_statement_of_reasons: "\nNational Assembly Deputy (2021-26), member of the NA
 addresses:
   addresses:
   - address_country: Venezuela
+titles:
+- Second Vice-President of the National Constituent Assembly
+individual_details:
+  individual:
+    dobs:
+    - '1952-11-09'
+    nationalities:
+    - Venezuela
+    positions:
+    - National Assembly Deputy
+    - Member of the Preliminary Commission of Electoral Nominations’ Committee
+    - Vice President of the Permanent Commission of the Family
+    - Former Second Vice President of the National Constituent Assembly
+    genders:
+    - Female
+    birth_details:
+      locations:
+      - town_of_birth: Puerto Santo, Sucre
+        country_of_birth: Venezuela
+    national_identifier_details:
+      national_identifiers:
+      - number: V-4114842

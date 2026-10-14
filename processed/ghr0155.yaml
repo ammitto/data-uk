@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -42,3 +43,15 @@ uk_statement_of_reasons: "\nGiorgi Gabitashvili is an involved person within the
   Prosecutor, Giorgi Gabitashvili is responsible for overseeing the investigation
   into, and prosecution of, law enforcement officials accountable for police violence
   and in this instance has failed to do so. \n"
+individual_details:
+  individual:
+    dobs:
+    - '1982-01-02'
+    nationalities:
+    - Georgia
+    genders:
+    - Male
+    national_identifier_details:
+      national_identifiers:
+      - number: '01020007469 '
+        additional_information: 'Georgian National ID Number '

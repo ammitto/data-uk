@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -38,3 +39,25 @@ uk_statement_of_reasons: "\nSecond-in-Command and Chief of the General Staff of 
   violations, including torture, excessive use of force and the ill-treatment of detainees
   committed by him and also by officials under his command, particularly in Boleita.
   Linked to the death of Captain Acosta. \n"
+titles:
+- Colonel
+individual_details:
+  individual:
+    dobs:
+    - '1971-01-14'
+    nationalities:
+    - Venezuela
+    positions:
+    - 'Appointed to DGCIM’s (Dirección General de Contrainteligencia Militar) (General
+      Directorate of Military Counterintelligence): Capital District'
+    - Oversees DGCIM headquarters in Boleita
+    - Second-in-Command and Chief of the General Staff of 35th Military Police Brigade
+    - Former DGCIM Director of Investigations
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Venezuela
+    national_identifier_details:
+      national_identifiers:
+      - number: '10537738'

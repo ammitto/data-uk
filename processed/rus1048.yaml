@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,18 @@ uk_statement_of_reasons: |2-
 
   Anatoly Anatolyevich SERYSHEV is a Member of the Security Council of the Russian Federation and Presidential Envoy to the Siberian Federal District. As a Member of the Security Council, SERYSHEV is or has been responsible for, engaged in, provided support for or promoted policies or actions which destabilise Ukraine and undermine or threaten the territorial integrity, sovereignty or independence of Ukraine.
    The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1965-07-19'
+    nationalities:
+    - Russia
+    positions:
+    - Presidential Envoy to the Siberian Federal District, Member of the Russian Security
+      Council
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Koblyakovo, Bratsk District, Irkutsk Region
+        country_of_birth: Russia

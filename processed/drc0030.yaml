@@ -36,6 +36,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -50,3 +51,15 @@ other_information: 'Under house arrest in Kinshasa since March 2005 for FNI invo
   he was deported from the Netherlands to DRC, where he was placed under arrest. INTERPOL-UN
   Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5776373'
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - '1971-05-23'
+    nationalities:
+    - Congo (Democratic Republic)
+    genders:
+    - Male
+    passport_details:
+      passports:
+      - number: OB 0243318
+        additional_information: Democratic Republic of the Congo number

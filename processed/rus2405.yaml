@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -43,3 +44,13 @@ addresses:
     address_line4: Bang Lamung
     address_line6: Chon Buri
     address_country: Thailand
+phone_numbers:
+- "+66 925 269 580"
+email_addresses:
+- bia@mainzm.com
+websites:
+- mainzm.com
+entity_details:
+  entity:
+    business_registration_numbers:
+    - '0105566140903'

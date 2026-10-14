@@ -30,6 +30,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -41,3 +42,19 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Former so-called “Minister of Education” of the “Donetsk People’s Republic”. In taking on and acting in this capacity, he has therefore actively supported actions and policies which undermine the territorial integrity, sovereignty and independence of Ukraine, and further destabilised Ukraine. Currently working for the Donetsk Academy of Management and Civil Service under the so called ‘Head of the Donetsk People’s Republic’. The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1961-03-15'
+    nationalities:
+    - Ukraine
+    positions:
+    - Former so-called 'Minister' of Education' of the 'Donetsk People's Republic'
+    - Currently working for the Donetsk Academy of Management and Civil Service under
+      the so called ‘Head of the Donetsk People’s Republic’.
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Vodyanske, Dobropillia Rayon, Donetsk oblast
+        country_of_birth: Ukrainian SSR (now Ukraine)

@@ -57,6 +57,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -75,3 +76,15 @@ addresses:
   - address_line1: Pasir Putih Prison
     address_line6: Nusa Kambangan Island
     address_country: Indonesia
+titles:
+- Ustadz
+individual_details:
+  individual:
+    dobs:
+    - '1972-01-05'
+    nationalities:
+    - Indonesia
+    birth_details:
+      locations:
+      - town_of_birth: Sumedang
+        country_of_birth: Indonesia

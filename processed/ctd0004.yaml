@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -53,3 +54,23 @@ addresses:
   - address_line1: Winerstrasse 20
     address_line6: Linz
     address_country: Austria
+individual_details:
+  individual:
+    dobs:
+    - '1992-09-18'
+    nationalities:
+    - Palestinian
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Gaza
+        country_of_birth: Occupied Palestinian Territories
+    passport_details:
+      passports:
+      - number: K1332951
+        additional_information: Austrian
+    national_identifier_details:
+      national_identifiers:
+      - number: 160715450-005
+        additional_information: Austrian National Identity Card

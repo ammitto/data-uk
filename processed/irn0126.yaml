@@ -32,6 +32,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -43,3 +44,18 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Hossein NEJAT is an involved person within the meaning of the Iran (Sanctions) Regulations 2023 as it is reasonable to suspect that NEJAT through his role as Deputy Commander of the Islamic Revolutionary Guard Corps (IRGC) of Sarallah HQ, is an individual responsible for, engaging in, providing support for, or promoting serious human rights violations or in Iran through the repression of recent protests in Iran, leading to violations of the right of life and violations of the right to freedom of expression and peaceful assembly. Through his role in the IRGC NEJAT is also a member of an organisation that is responsible for the commission of serious human rights violations in Iran.
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1955
+    - dd/mm/1956
+    nationalities:
+    - Iran
+    positions:
+    - Deputy Commander-in-Chief of the IRGC at Sarallah HQ
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Shiraz
+        country_of_birth: Iran

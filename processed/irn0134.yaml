@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -33,3 +34,11 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Parviz ABSALAN is an involved person within the meaning of the Iran (Sanctions) Regulations 2023 as in his role as Deputy Commander of Islamic Revolutionary Guard Corps (IRGC) Salman Corps in Sistan and Baluchestan province he is or has been responsible for, engaging in, and providing support for serious human rights violations in Iran through the repression of recent protests in Iran, leading to violations of the right of life and violations of the right to freedom of expression and peaceful assembly. Through his role in the IRGC ABSALAN is also a member of an organisation that is responsible for the commission of serious human rights violations in Iran.
+individual_details:
+  individual:
+    nationalities:
+    - Iran
+    positions:
+    - IRGC Deputy Commander Sistan and Baluchistan (Salman Corps)
+    genders:
+    - Male

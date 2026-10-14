@@ -30,6 +30,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -41,3 +42,17 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Appointed so-called “Prime Minister” of illegally-annexed Crimea in September 2019 and in this role undermined Ukrainian sovereignty over Crimea. In his previous role as so-called Deputy Chair of the Council of Ministers of Crimea, his responsibility for implementing Russian federal programmes helped facilitate the integration of Crimea into Russia. In 2015 he was given an award for protecting the “Republic of Crimea”. The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1966-07-18'
+    nationalities:
+    - Russia
+    positions:
+    - Chair, Council of Ministers, Crimea (Prime Minister)
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Novaya Derevnya, Pervomaiskii raion
+        country_of_birth: Russia (USSR)

@@ -25,6 +25,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,17 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Yelena Stashina, as a Judge at Moscow’s Tverskoi District Court, was involved in decisions to extend the detention of Sergei Magnitsky, and in particular on 12 November 2009, four days before his death. In this capacity, Stashina facilitated the mistreatment / denial of medical care to Sergei Magnitsky which contributed significantly to his death.
+individual_details:
+  individual:
+    dobs:
+    - '1963-11-05'
+    nationalities:
+    - Russia
+    positions:
+    - Former Judge at Tverskoi District Court
+    genders:
+    - Female
+    birth_details:
+      locations:
+      - town_of_birth: Tomsk
+        country_of_birth: Russia

@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,13 @@ uk_statement_of_reasons: |2-
 
   Khasan Kureyshevich TATREIV is currently a member of the management board of Rosneft and has been Director General of subsidiary of Rosneft, RN YUGANSKNEFTEGAZ OOO, a major Russian oil production company. TATRIEV therefore has been involved in obtaining a benefit from or supporting the Government of Russia as an executive director or equivalent of an entity which has been carrying on business in a sector of strategic significance to the Government of Russia (the Russian energy sector).
    The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1963
+    nationalities:
+    - Russia
+    positions:
+    - Previously held the position of Director General of oil company, Yuganskneftegaz
+    genders:
+    - Male

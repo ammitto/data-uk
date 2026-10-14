@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -47,3 +48,15 @@ addresses:
   addresses:
   - address_line1: Nilufer Ticaret Merkezi 66. Sokak No:8 Nilufar / Bursa
     address_country: Turkey
+phone_numbers:
+- "+90224 4435233"
+email_addresses:
+- info@s-mikron.com.tr
+websites:
+- www.s-mikron.com.tr
+entity_details:
+  entity:
+    business_registration_numbers:
+    - Turkey Tax Identifier - 7350759377
+    types_of_entity:
+    - Joint Stock Company

@@ -49,6 +49,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -60,3 +61,17 @@ other_information: Senior member of Islamic State in Iraq and the Levant (ISIL),
   as Al-Qaida in Iraq (QDe.115).  Recruited for ISIL and instructed individuals to
   perpetrate terrorist acts via online video.  INTERPOL-UN Security Council Special
   Notice web link: www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities
+individual_details:
+  individual:
+    dobs:
+    - '1991-10-05'
+    nationalities:
+    - Tunisia
+    birth_details:
+      locations:
+      - town_of_birth: El Gouazine, Dahmani, Governorate of Le Kef
+        country_of_birth: Tunisia
+    national_identifier_details:
+      national_identifiers:
+      - number: '13601334'
+        additional_information: Tunisia

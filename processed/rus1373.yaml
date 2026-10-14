@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -38,3 +39,18 @@ uk_statement_of_reasons: "\nMaksim ORESHKIN (henceforth ORESHKIN) is the Chairma
   Vladimir Putin. ORESHKIN has therefore obtained a benefit from or supported the
   Government of Russia by working as a director or equivalent of a Government of Russia-affiliated
   entity. \n The trust services sanctions were imposed on 21/03/2023."
+individual_details:
+  individual:
+    dobs:
+    - '1982-07-21'
+    nationalities:
+    - Russia
+    positions:
+    - Chairman of the Board of Directors of Channel One
+    - Economic Advisor to President of the Russian Federation Vladimir Putin
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Moscow
+        country_of_birth: Russia

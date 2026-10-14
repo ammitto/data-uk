@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -43,3 +44,18 @@ uk_statement_of_reasons: "\nSergei Borisovich IVANOV is a permanent member of th
 addresses:
   addresses:
   - address_line1: 12 BLD 1 Rochdelskaya Street Apt 13
+individual_details:
+  individual:
+    dobs:
+    - '1953-01-31'
+    nationalities:
+    - Russia
+    positions:
+    - Special Presidential Representative for Environmental Protection, Ecology and
+      Transport. Member of the Russian Security Council. 
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: St. Petersburg
+        country_of_birth: Russia

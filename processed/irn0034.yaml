@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -33,3 +34,10 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Keeper of Ward 1 of Radjaishahr prison, Karadj until July 2010. Several former detainees have denounced the use of torture by him, as well as orders he gave to prevent inmates receiving medical assistance. According to a transcript of one reported detainee in the Radjaishahr prison, wardens all beat him severely, with Akharian’s full knowledge. There is also at least one reported case of ill treatment and the death of a detainee, Mohsen Beikvand, under Akharian’s wardenship. Beikvand died in September 2010. Other prisoners claim credibly that he was killed by the instructions of Hassan Akharian.
+individual_details:
+  individual:
+    positions:
+    - Former keeper of Ward 1 of Radjaishahr prison (aka Rajai/Rajaei Shahr prison,
+      aka Gohardasht prison), Karadj until 2010
+    genders:
+    - Male

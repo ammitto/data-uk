@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -49,3 +50,21 @@ uk_statement_of_reasons: "\nLuis Parra Rivero is a National Assembly Deputy (202
   a person who is involved in undermining democracy in Venezuela (Nicolas Maduro),
   through aiding Maduro’s attacks on and attempts to control the National Assembly.
   \n"
+individual_details:
+  individual:
+    dobs:
+    - '1978-07-07'
+    nationalities:
+    - Venezuela
+    positions:
+    - National Assembly Deputy
+    - Vice President of the National Assembly’s Permanent Commission on the Environment
+    - Former Deputy of the democratically elected National Assembly of 2015
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Venezuela
+    national_identifier_details:
+      national_identifiers:
+      - number: V-14211633

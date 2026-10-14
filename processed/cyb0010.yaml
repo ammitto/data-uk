@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -31,3 +32,16 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Dmitry Sergevey Badin took part in a cyber attack against the German Federal Parliament (Deutscher Bundestag) with significant effect. As a military intelligence officer of the 85th Main Centre for Special Technologies (GTsSS) of the Russian General Staff of the Armed Forces of the Russian Federation (GRU), Dmitry Badin was part of a team of Russian Military intelligence officers which conducted a cyber attack against the German federal parliament (Deutscher Bundestag) in April and May 2015. This cyber attack targeted the parliament’s information system and affected its operation for several days. A significant amount of data was stolen and the email accounts of several MPs, as well as Chancellor Angela Merkel, were affected.
+individual_details:
+  individual:
+    dobs:
+    - '1990-11-15'
+    nationalities:
+    - Russia
+    positions:
+    - Military Intelligence Officer
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Kursk

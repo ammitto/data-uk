@@ -96,6 +96,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -113,3 +114,19 @@ addresses:
   addresses:
   - address_country: Afghanistan
   - address_country: Pakistan
+individual_details:
+  individual:
+    dobs:
+    - '1971-10-10'
+    nationalities:
+    - China
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Hetian Area, Xinjiang Uighur Autonomous Region, China
+        country_of_birth: China
+    national_identifier_details:
+      national_identifiers:
+      - number: '653225197110100533'
+        additional_information: Chinese

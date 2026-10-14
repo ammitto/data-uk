@@ -31,6 +31,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -44,3 +45,14 @@ other_information: 'Has led and directed military actions against opposition for
   and stole livestock as they advanced through Unity State towards Thorjath oil field.
   INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5879071'
 uk_statement_of_reasons: "\n"
+titles:
+- Major General
+individual_details:
+  individual:
+    dobs:
+    - '1962-11-09'
+    positions:
+    - Commander of the third Infantry Division Sudan People’s Liberation Army
+    birth_details:
+      locations:
+      - country_of_birth: South Sudan

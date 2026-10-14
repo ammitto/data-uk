@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -42,3 +43,16 @@ uk_statement_of_reasons: "\nValentina Gennadevna KULIK is an involved person und
   or promoting: (1) the repression of civil society or democratic opposition in Belarus
   and (2) actions, policies or activities which undermine democracy or the rule of
   law in Belarus.   \n"
+individual_details:
+  individual:
+    dobs:
+    - '1960-01-15'
+    nationalities:
+    - Belarus
+    positions:
+    - Judge of the Supreme Court of the Republic of Belarus
+    genders:
+    - Female
+    birth_details:
+      locations:
+      - country_of_birth: Belarus

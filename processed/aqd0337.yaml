@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -53,3 +54,19 @@ addresses:
   - address_line1: Taman Bukit Ampang
     address_line6: State of Selangor
     address_country: Malaysia
+individual_details:
+  individual:
+    dobs:
+    - '1964-01-20'
+    nationalities:
+    - Malaysia
+    birth_details:
+      locations:
+      - town_of_birth: Johor
+        country_of_birth: Malaysia
+    passport_details:
+      passports:
+      - number: A 10472263
+    national_identifier_details:
+      national_identifiers:
+      - number: 640120-01-5529

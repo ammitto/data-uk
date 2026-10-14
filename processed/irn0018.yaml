@@ -64,6 +64,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -75,3 +76,19 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Former Minister of Justice. Former Director of the special investigations office. Until July 2016 Deputy Minister of Interior and head of the public register. Advisor to the Disciplinary Court for Judges since April 2014. Former President of the Tehran Judiciary. As President of the Tehran Judiciary he has been responsible for human rights violations, arbitrary arrests, denials of prisoners' rights and a high number of executions.
+individual_details:
+  individual:
+    dobs:
+    - '1956-05-20'
+    positions:
+    - Deputy Interior Minister (2015-2016)
+    - Supreme Court Judge (2014-2015)
+    - Minister of Justice
+    - Director of the Presidential Inspection Office (appointed July 2016)
+    - President of the Tehran Judiciary (2005-2014)
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Dezful
+        country_of_birth: Iran

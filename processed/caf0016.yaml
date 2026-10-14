@@ -42,6 +42,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -64,3 +65,22 @@ other_information: 'Ali Darassa founded and still leads the Central African Repu
 addresses:
   addresses:
   - address_country: Central African Republic
+titles:
+- General
+individual_details:
+  individual:
+    dobs:
+    - '1978-09-22'
+    nationalities:
+    - Central African Republic
+    positions:
+    - Founder and leader of the Unité pour la Paix en Centrafrique (UPC)
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Kabo, Ouham Prefecture
+        country_of_birth: Central African Republic
+    national_identifier_details:
+      national_identifiers:
+      - number: '10978000004482'

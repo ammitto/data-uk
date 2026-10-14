@@ -37,6 +37,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -51,3 +52,20 @@ addresses:
   addresses:
   - address_line6: Zawiya
     address_country: Libya
+individual_details:
+  individual:
+    dobs:
+    - '1985-12-02'
+    nationalities:
+    - Libya
+    positions:
+    - Commander of the Shuhada al-Nasr brigade
+    - Head of the Petrol Refinery Guard of Zawiya’s refinery
+    birth_details:
+      locations:
+      - town_of_birth: Zawiya
+        country_of_birth: Libya
+    passport_details:
+      passports:
+      - number: C17HLRL3
+        additional_information: Issued in Zawiya on 30 Dec 2015

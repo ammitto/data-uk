@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -33,3 +34,17 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Former Head of Tehran Provincial Public Security Council. Former IRGC Governor-General of Tehran Province. In his capacity as governor and head of Tehran provincial Public Security Council, he bore overall responsibility for all repressive activities undertaken by the IRGC in Tehran province, including cracking down on political protests since June 2009. Currently board member at Khajeh Nasireddin Tusi University of Technology.
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1959
+    positions:
+    - Board member at Khajeh Nasireddin Tusi University of Technology Former Head
+      of Tehran provincial Public Security Council.|Former IRGC Governor-General of
+      Tehran Province.
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Shahr Kord
+        country_of_birth: Iran

@@ -35,6 +35,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -46,3 +47,19 @@ other_information: 'Head of the foreign affairs division and key outreach player
   Jemaah Islamiyah (QDe.092). Associated with Hilal Ahmar Society Indonesia (HASI)
   (QDe.147). INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5854971'
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - '1975-07-14'
+    nationalities:
+    - Indonesia
+    birth_details:
+      locations:
+      - town_of_birth: Rembang, Jawa Tengah
+        country_of_birth: Indonesia
+    passport_details:
+      passports:
+      - number: A2823222
+        additional_information: Indonesia. Issued on 28 May 2012. Expires 28 May 2017.
+          Issued under name Wiji Joko Santoso, born 14 July 1975 in Rembang, Jawa
+          Tengah, Indonesia

@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,17 @@ uk_statement_of_reasons: |2-
 
   Denis Alexandrovich BORTNIKOV (hereafter referred to as BORTNIKOV) is Deputy President and Chairman of the Management Board at VTB Bank, and has close family ties to the Kremlin. VTB Bank is a government of Russia-affiliated entity, as it is owned or controlled directly or indirectly by the Government of Russia and has obtained a financial benefit or other material benefit from the Government of Russia. Therefore, as a result of his position as Deputy President and Chairman of the Management Board at VTB Bank, BORTNIKOV is working as a director or equivalent at a Government of Russia-affiliated entity, and is therefore obtaining a benefit from or supporting the Government of Russia.
    The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1974-11-19'
+    nationalities:
+    - Russia
+    positions:
+    - Deputy President and Chairman of the Management Board, VTB Bank
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Leningrad region
+        country_of_birth: Russia

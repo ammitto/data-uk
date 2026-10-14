@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,10 @@ addresses:
     address_line6: Pyongyang
     address_country: North Korea
   - address_line1: PO BOX 416
+phone_numbers:
+- "+850-2-18111 ex 8059"
+- "+850 2 381 4410"
+email_addresses:
+- mab@silibanki.net.kp
+websites:
+- www.ma.gov.kp

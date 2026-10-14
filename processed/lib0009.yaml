@@ -18,6 +18,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -32,3 +33,8 @@ uk_statement_of_reasons: |2-
 addresses:
   addresses:
   - address_line1: Hasan al-Mashay Street (off al-Zawiyah Street)
+phone_numbers:
+- "+218 213345188"
+- "+218 213345187"
+email_addresses:
+- info@ethic.ly

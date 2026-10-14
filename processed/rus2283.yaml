@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,13 @@ uk_statement_of_reasons: "\nAnatoly Ilyich BIBILOV i\ns an involved person under
   in, provides support for, or promotes any policy or action which destabilises Ukraine
   or undermines or threatens the territorial integrity, sovereignty or independence
   of Ukraine.\n"
+individual_details:
+  individual:
+    dobs:
+    - '1970-01-13'
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Tskhinvali
+        country_of_birth: Georgia

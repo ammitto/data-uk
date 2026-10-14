@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -41,3 +42,22 @@ uk_statement_of_reasons: "\nHead (Director) of the Special Affairs Division (DAE
   civil society by members of DGCIM under his command, as well as directly involved
   in such repression. In particular, he is linked to the death of Captain Acosta.
   \n"
+titles:
+- Major
+individual_details:
+  individual:
+    dobs:
+    - '1981-03-25'
+    nationalities:
+    - Venezuela
+    positions:
+    - Director of the DAE (Special Affairs Division) of the Director General of Military
+      Counter-Intelligence
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Venezuela
+    national_identifier_details:
+      national_identifiers:
+      - number: '14970215'

@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -51,3 +52,21 @@ uk_statement_of_reasons: "\nIgor Vladimirovich KIM (hereafter KIM) is an “invo
   supporting the Government of Russia by owning or controlling an entity, Expobank,
   which is or has been carrying on business in a sector of strategic significance
   to the Government of Russia, namely the Russian financial sector.  \n"
+titles:
+- Mr
+individual_details:
+  individual:
+    dobs:
+    - '1966-01-12'
+    nationalities:
+    - Russia
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Ushtobe
+        country_of_birth: Kazakh Soviet Socialist Republic
+    passport_details:
+      passports:
+      - number: '719834338'
+        additional_information: Expired 22 June 2022

@@ -29,6 +29,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -40,3 +41,18 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Former so-called ‘First Deputy Prime Minister’ and previous ‘Prosecutor-General’ of the ‘Donetsk People’s Republic’. In taking on and acting in this capacity, he has therefore actively supported actions and policies which undermine the territorial integrity, sovereignty and independence of Ukraine, and further destabilised Ukraine. Currently ‘aide’ to the head of the Moscow branch of the Investigative Committee of Russian Federation (GSU SK). The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1969-02-23'
+    nationalities:
+    - Ukraine
+    positions:
+    - Aide' to the Head of the Moscow Branch of the Investigative Committee of Russian
+      Federation (GSU SK)
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Belozernoe village, Romodanovskiy rayon
+        country_of_birth: Russia

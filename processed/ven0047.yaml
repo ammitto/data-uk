@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -37,3 +38,20 @@ addresses:
   addresses:
   - address_line6: Carache
     address_country: Venezuela
+individual_details:
+  individual:
+    dobs:
+    - '1960-02-27'
+    nationalities:
+    - Venezuela
+    positions:
+    - Judge on the Supreme Tribunal of Justice
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Trujillo
+        country_of_birth: Venezuela
+    national_identifier_details:
+      national_identifiers:
+      - number: 'V5352190 '

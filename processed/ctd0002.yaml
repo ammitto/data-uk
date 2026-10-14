@@ -50,6 +50,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -72,3 +73,23 @@ addresses:
   - address_line1: Mteferraa From Es Semrlnd
     address_line6: Beirut
     address_country: Lebanon
+individual_details:
+  individual:
+    dobs:
+    - '1965-01-05'
+    nationalities:
+    - Lebanon
+    - Belgium
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Sierra Leone
+    passport_details:
+      passports:
+      - number: EN800609
+        additional_information: 'Issuing Country: Belgium. Date of Expiry: 19/09/2023.'
+      - number: B0873597
+        additional_information: 'Issuing Country: Uganda. Date of Expiry: 13 June
+          2021. Issued under the name Kariumu MUHAMADI. Likely issued by the Ugandan
+          Government in Kampala on 13 June 2011.'

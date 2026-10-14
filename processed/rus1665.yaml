@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -50,3 +51,26 @@ addresses:
     address_line2: 92-12,
     address_line3: MOSCOW,
     address_country: Russia
+titles:
+- Colonel
+phone_numbers:
+- 766-83-68
+email_addresses:
+- VINENDO@RF.RU
+individual_details:
+  individual:
+    dobs:
+    - '1961-02-11'
+    nationalities:
+    - Russia
+    positions:
+    - Director of the Russian Federal Penitentiary Service
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Shatsky, Ryazan
+        country_of_birth: Russia
+    passport_details:
+      passports:
+      - additional_information: '620120675'

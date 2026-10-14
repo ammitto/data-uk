@@ -19,6 +19,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -38,3 +39,27 @@ addresses:
     address_line5: Khan Chroy Changvar
     address_line6: Phnom Penh
     address_country: Cambodia
+individual_details:
+  individual:
+    dobs:
+    - '1981-09-04'
+    nationalities:
+    - Cambodia
+    positions:
+    - Director of Jin Bei Group Company Limited
+    - Director of Cambodian Heng Xin Real Estate Company Limited
+    - Director of Yuan Ke Shi Ye Investment (Cambodia) Company Limited
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Phnom Penh
+        country_of_birth: Cambodia
+    passport_details:
+      passports:
+      - number: N00453333
+        additional_information: Cambodia
+    national_identifier_details:
+      national_identifiers:
+      - number: '010929329'
+        additional_information: Cambodia

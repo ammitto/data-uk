@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,15 @@ uk_statement_of_reasons: |2-
 
   Andrey CHERTKOV is the so-called Minister of Coal and Energy of the so-called Donetsk People’s Republic. CHERTKOV is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 because he engages in and provides support for policies and actions which destabilise Ukraine and undermine or threaten the territorial integrity, sovereignty or independence of Ukraine.
    The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1969-09-04'
+    positions:
+    - The so-called "Minister of Coal and Energy" of the so-called "DPR" 
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Shatki, Nizhny Novgorod (Gorky) region 
+        country_of_birth: Russia

@@ -27,6 +27,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: true
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -42,3 +43,19 @@ other_information: 'Pursuant to paragraph 6 of Security Council Resolution 2371 
   on 16 February 2018. Listed as asset of Korea Yujong Shipping Co Ltd (OFSI ID: 13637,
   UN Reference Number: UN Ref KPe.066)'
 uk_statement_of_reasons: "\n"
+ship_details:
+  ship:
+    imo_numbers:
+    - '8604917'
+    current_owner_operators:
+    - Korea Yujong Shipping
+    current_believed_flags:
+    - North Korea
+    types_of_ship:
+    - Oil tanker
+    tonnages:
+    - '748'
+    lengths:
+    - '62'
+    years_built:
+    - '1986'

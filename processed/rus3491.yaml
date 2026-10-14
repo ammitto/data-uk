@@ -27,6 +27,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -45,3 +46,16 @@ addresses:
   - address_line1: 10 Avenue Kulakov
     address_line6: Stavropol
     address_country: Russia
+phone_numbers:
+- "+7 988 1007080"
+email_addresses:
+- info@neptunzavod.ru
+websites:
+- https://neptunzavod.ru
+entity_details:
+  entity:
+    business_registration_numbers:
+    - 'OGRN: 1022601947521'
+    - INN - 2635001120
+    types_of_entity:
+    - Joint Stock Company

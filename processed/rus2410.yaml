@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -47,3 +48,16 @@ uk_statement_of_reasons: "\nMichel LITVAK (hereafter LITVAK) is an “involved p
   the Government of Russia by owning or controlling an entity, OTEKO, which is carrying
   on business in a sector of strategic significance to the Government of Russia, namely
   the Russian transport sector. \n"
+individual_details:
+  individual:
+    dobs:
+    - '1951-08-18'
+    nationalities:
+    - Russia
+    - Belgium
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: St Petersburg
+        country_of_birth: Russia

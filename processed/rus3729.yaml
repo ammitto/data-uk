@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -33,3 +34,18 @@ sanctions_imposed_indicators:
 uk_statement_of_reasons: |2
 
   The Secretary of State considers that there are reasonable grounds to suspect that Alan Eduardovich GAGLOEV is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 on the basis of the following ground: Alan Eduardovich GAGLOEV is or has been involved in obtaining a benefit from or supporting the Government of Russia by working as an adviser to the President of the Russian Federation.
+individual_details:
+  individual:
+    dobs:
+    - '1981-02-06'
+    nationalities:
+    - Russia
+    positions:
+    - Advisor to President Vladimir Putin (2) Former De-facto “President” of South
+      Ossetia 2022-2026
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: 'Tskhinvali '
+        country_of_birth: Georgia

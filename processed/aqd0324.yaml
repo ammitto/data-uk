@@ -75,6 +75,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -92,3 +93,22 @@ uk_statement_of_reasons: "\n"
 addresses:
   addresses:
   - address_country: Syria
+individual_details:
+  individual:
+    dobs:
+    - '1986-01-11'
+    - dd/mm/1982
+    nationalities:
+    - Georgia
+    birth_details:
+      locations:
+      - town_of_birth: Akhmeta, Village Birkiani
+        country_of_birth: Georgia
+    passport_details:
+      passports:
+      - number: '09AL14455'
+        additional_information: 'Georgian. Expires 26 June 2019. '
+    national_identifier_details:
+      national_identifiers:
+      - number: '08001007864'
+        additional_information: 'issued in Georgia '

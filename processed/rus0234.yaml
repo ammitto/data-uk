@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -48,3 +49,24 @@ addresses:
     address_line3: Simferopol
     address_line6: Crimea
     address_country: Ukraine
+phone_numbers:
+- "+7 (365) 254 86 20"
+- "+7 (365) 255 02 55"
+- "+7 (495) 701 15 41"
+- "+7 (495) 701 19 42"
+- "+7 (915) 210 21 56"
+- "+7 (978) 708 79 80"
+- "+7 (978) 712 77 01"
+- "+7 (978) 740 75 94"
+- "+7 (978) 755 00 51"
+- "+7 365 225 50 25 ext 5"
+- 8 (800) 333 55 45
+- "+7 (495) 777 55 45"
+websites:
+- www.genbank.ru
+entity_details:
+  entity:
+    business_registration_numbers:
+    - 1137711000074 (Russia)
+    types_of_entity:
+    - Bank

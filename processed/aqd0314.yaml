@@ -44,6 +44,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -65,3 +66,25 @@ addresses:
     address_line3: Building 41
     address_line6: Al-Uqaylah
     address_country: Kuwait
+titles:
+- Doctor
+individual_details:
+  individual:
+    dobs:
+    - '1973-01-01'
+    nationalities:
+    - Kuwait
+    birth_details:
+      locations:
+      - town_of_birth: Warah
+        country_of_birth: Kuwait
+    passport_details:
+      passports:
+      - number: '0216155930'
+      - number: Kuwait 03111298
+        additional_information: 'Kuwait 003111298, issued in Kuwait on 16 September
+          2010, expired 15 September 2020 in the name of Shafi S M S Alajmi, Arabic
+          script   ﺷﺎﻓ ﺳﻠﻄﺎن ﻣﺤﻤﺪ ﺳﻠﻄﺎن اﻟﻌﺠﻤﻲ '
+    national_identifier_details:
+      national_identifiers:
+      - number: Kuwait 273010101204

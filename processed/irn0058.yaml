@@ -132,6 +132,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -143,3 +144,17 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Former General Commander of the IRGC. IRGC and the Sarollah Base commanded by General Aziz Jafari has played a key role in illegally interfering with the 2009 Presidential Elections, arresting and detaining political activists, as well as clashing with protestors in the streets.
+individual_details:
+  individual:
+    dobs:
+    - '1957-09-01'
+    nationalities:
+    - Iran
+    positions:
+    - Former General Commander of Islamic Revolutionary Guards Corps
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Yazd
+        country_of_birth: Iran

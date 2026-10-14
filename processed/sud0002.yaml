@@ -51,6 +51,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -65,3 +66,32 @@ addresses:
     address_country: Sudan
   - address_line6: Kutum
     address_country: Sudan
+titles:
+- Sheikh
+individual_details:
+  individual:
+    dobs:
+    - '1964-01-01'
+    - dd/mm/1959
+    nationalities:
+    - Sudan
+    positions:
+    - formerly Member of the National Assembly of Sudan from Al-Waha district
+    - formerly special adviser to the Ministry of Federal Affairs
+    - Paramount Chief of the Mahamid Tribe in North Darfur
+    birth_details:
+      locations:
+      - town_of_birth: Kutum
+        country_of_birth: Sudan
+    passport_details:
+      passports:
+      - number: 'D014433 '
+        additional_information: 'Diplomatic Passport issued on 21 Feb. 2013 (Expired
+          on 21 Feb. 2015) '
+      - number: 'D009889 '
+        additional_information: Diplomatic Passport. Issued on 17 Feb. 2011 (Expired
+          on 17 Feb. 2013)
+    national_identifier_details:
+      national_identifiers:
+      - number: A0680623
+        additional_information: 'Certificate of Nationality '

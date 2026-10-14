@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,18 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2
 
   TATYANA VALENTINOVNA KHOMENKO is an “involved person" under the Russia (Sanctions) (EU Exit) Regulations 2019: KHOMENKO is associated with LIMITED LIABILITY COMPANY OPEN SYSTEMS DEVELOPMENT TECHNOLOGY (LLC TROS) by receiving a material benefit from LLC TROS. LLC TROS is an involved person as defined in the regulations.
+individual_details:
+  individual:
+    dobs:
+    - '1969-07-06'
+    nationalities:
+    - Russia
+    positions:
+    - Shareholder of Limited Liability Company Open Systems Development Technology
+      (LLC TROS)
+    genders:
+    - Female
+    national_identifier_details:
+      national_identifiers:
+      - number: '500103405764'
+        additional_information: Russian INN

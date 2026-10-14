@@ -38,6 +38,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -56,3 +57,13 @@ addresses:
   addresses:
   - address_country: Afghanistan
   - address_country: Pakistan
+individual_details:
+  individual:
+    dobs:
+    - '1957-11-03'
+    nationalities:
+    - Egypt
+    birth_details:
+      locations:
+      - town_of_birth: Kafr Al-Shaykh
+        country_of_birth: Egypt

@@ -77,6 +77,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -90,3 +91,18 @@ other_information: Initially arrested in connection with Gonchar and Krasovski, 
 uk_statement_of_reasons: |2-
 
   Involved in the unresolved disappearances of Yuri Zakharenko, Viktor Gonchar, Anatoly Krasovski and Dmitri Zavadski in Belarus in 1999-2000. Paulichenka is associated with other Belarus Officials who have been listed for their involvement in these disappearances. Paulichenka has been linked to assassinations and kidnappings on behalf of the Government of Belarus.
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1966
+    nationalities:
+    - Belarus
+    positions:
+    - Head of ‘Honour’, the Ministry of Interior’s Association of the veterans from
+      special forces from the Minister of Interior
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Vitebsk
+        country_of_birth: Former USSR Currently Belarus

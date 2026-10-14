@@ -29,6 +29,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -49,3 +50,24 @@ addresses:
   - address_line1: Ungartenstrasse 6
     address_line6: Bonn
     address_country: Germany
+individual_details:
+  individual:
+    dobs:
+    - '1981-07-30'
+    nationalities:
+    - Germany
+    - Morocco
+    birth_details:
+      locations:
+      - town_of_birth: Bonn
+        country_of_birth: Germany
+    passport_details:
+      passports:
+      - number: '5208323009'
+        additional_information: 'Germany number, issued on 2 Feb. 2007, issued in
+          Stadt Bonn, Germany (expires on 1 Feb. 2012) '
+    national_identifier_details:
+      national_identifiers:
+      - number: '5209530116'
+        additional_information: Germany National Identification Number, issued on
+          21 Jun. 2006, issued in Stadt Bonn, Germany (expired on 20 Jun. 2011)

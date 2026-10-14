@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -37,3 +38,20 @@ uk_statement_of_reasons: "\nShalva Bedoidze is an involved person within the mea
   that occurred following the announcement of the suspension of EU accession talks,
   the Ministry of Internal Affairs of Georgia oversaw the police force's disproportionate
   use of violence against protestors. \n"
+individual_details:
+  individual:
+    dobs:
+    - '1983-06-07'
+    nationalities:
+    - Georgia
+    positions:
+    - First Deputy Minister of Internal Affairs of Georgia
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Georgia
+    national_identifier_details:
+      national_identifiers:
+      - number: '12001013992'
+        additional_information: 'Georgian National ID Number '

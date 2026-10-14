@@ -36,6 +36,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -47,3 +48,14 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Anatol Vasilieu is Deputy Head of the Department of Internal Affairs of the Gomel Regional Executive Committee and head of the Public Security Police. In this role Vasilieu bears responsibility for the actions of police officers in Gomel. Vasiliev is therefore responsible for the serious human rights violations carried out by police officers in that region following the election of 9 August, in particular arbitrary arrests and ill‐treatment, including torture, of peaceful demonstrators.
+individual_details:
+  individual:
+    dobs:
+    - '1972-01-26'
+    nationalities:
+    - Belarus
+    positions:
+    - Deputy Head of the Department of Internal Affairs of Gomel/Homyel Oblast Executive
+      Committee
+    genders:
+    - Male

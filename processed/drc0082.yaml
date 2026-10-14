@@ -30,6 +30,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -52,3 +53,16 @@ other_information: 'Listed pursuant to paragraphs 7(a), 7 (e), 7(h) and 7(j) of 
   or technological support for, or goods or services to, or in support of a designated
   entity.'
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - '1959'
+    - '1965'
+    nationalities:
+    - Uganda
+    positions:
+    - Senior Commander of the Allied Democratic Forces
+    birth_details:
+      locations:
+      - town_of_birth: Kampala District, Central Region
+        country_of_birth: Uganda

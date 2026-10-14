@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -40,3 +41,18 @@ uk_statement_of_reasons: "\nThe Secretary of State considers that there are reas
   Sudan in that those companies have played a role in the supply of money and resources
   to the Rapid Support Forces, one of the main parties to the conflict in Sudan.\n
   \n"
+titles:
+- Mr
+individual_details:
+  individual:
+    nationalities:
+    - Sudan
+    positions:
+    - Former director of GSK Advanced Company
+    - Shareholder of Aoun Commercial Brokers
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Sudan
+      - country_of_birth: Sudan

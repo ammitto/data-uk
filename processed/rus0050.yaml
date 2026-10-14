@@ -25,6 +25,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -41,3 +42,15 @@ uk_statement_of_reasons: "\nFormer \"State security minister\" of the so-called 
   active in supporting separatist actions or policies. Participated in the creation
   of the “Union of Donbas volunteers”. \n The trust services sanctions were imposed
   on 21/03/2023."
+individual_details:
+  individual:
+    dobs:
+    - '1977-12-27'
+    nationalities:
+    - Ukraine
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Tiraspol, Republic of Moldova
+        country_of_birth: USSR (now Moldova)

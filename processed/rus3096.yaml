@@ -26,6 +26,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -44,3 +45,17 @@ addresses:
     address_line3: UL GORBUNOVA
     address_line6: MOSCOW
     address_country: Russia
+phone_numbers:
+- "+7 919 7649390"
+email_addresses:
+- info@lm-sys.ru
+websites:
+- https://lm-sys.ru/
+entity_details:
+  entity:
+    business_registration_numbers:
+    - |-
+      INN – 7736321060
+      OGRN - 1197746175274
+    types_of_entity:
+    - Limited Liability Company

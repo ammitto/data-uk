@@ -38,6 +38,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -69,3 +70,27 @@ addresses:
     address_line2: Pashtunabad Area
     address_line6: Baluchistan Province
     address_country: Pakistan
+titles:
+- Haji
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1964
+    birth_details:
+      locations:
+      - town_of_birth: Mirmandaw village, Nahr-e Saraj District, Helmand Province
+        country_of_birth: Afghanistan
+      - town_of_birth: Qilla Abdullah, Baluchistan Province
+        country_of_birth: Pakistan
+      - town_of_birth: Mirmadaw village, Gereshk District, Helmand Province
+        country_of_birth: Afghanistan
+    passport_details:
+      passports:
+      - number: AM5421691
+        additional_information: Pakistan. Expired 11 August 2013
+    national_identifier_details:
+      national_identifiers:
+      - number: '5420250161699'
+        additional_information: Pakistan
+      - number: '585629'
+        additional_information: Afghan

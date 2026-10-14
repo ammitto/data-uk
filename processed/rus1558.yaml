@@ -26,6 +26,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -40,3 +41,18 @@ uk_statement_of_reasons: "\nVladimir ROGOV is a member of the so-called Military
   Regulations 2019 because he is or has engaged in policies or actions which destabilise
   Ukraine or undermine or threaten the territorial integrity, sovereignty or independence
   of Ukraine.  \n The trust services sanctions were imposed on 21/03/2023."
+individual_details:
+  individual:
+    dobs:
+    - '1976-12-01'
+    nationalities:
+    - Ukraine
+    positions:
+    - Member of the so-called Military-Civilian Administration of Russian-occupied
+      Zaporizhzhia Region
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Zaporizhzhia
+        country_of_birth: Ukraine

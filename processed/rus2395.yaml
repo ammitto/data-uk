@@ -34,6 +34,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -59,3 +60,18 @@ addresses:
     address_line4: DDP
     address_line6: Dubai
     address_country: United Arab Emirates
+phone_numbers:
+- "+971 427 69 573"
+- "+971 58 574 1883"
+email_addresses:
+- info@ekntrading.ae
+- info@prosvet.com
+- info@axiomuae.ae
+websites:
+- https://monolinkdmcc.ae
+entity_details:
+  entity:
+    business_registration_numbers:
+    - DSO-ZZCO-16068
+    types_of_entity:
+    - Limited Liability Company

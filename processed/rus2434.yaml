@@ -49,6 +49,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -65,3 +66,29 @@ addresses:
   - address_line1: 4/1 Institutskaya St.,
     address_line6: Novosibirsk
     address_country: Russia
+phone_numbers:
+- "+7 (383) 3301690"
+- "+7 (383) 3307268"
+- "+7 (383) 3304268"
+email_addresses:
+- office@itam.nsc.ru
+- admin@itam.nsc.ru
+websites:
+- http://www.itam.nsc.ru/
+entity_details:
+  entity:
+    business_registration_numbers:
+    - 'OGRN: 1025403641900; INN/TIN: 5408100018; KPP: 540801001;'
+    types_of_entity:
+    - Research Institute
+    parent_companies:
+    - Ministry of Science and Higher Education of the Russian Federation
+    subsidiaries:
+    - Public Joint Stock Company “BINBANK”; ASSOCIATION "CTT "ACADEMNOVOTECH"; NON-COMMERCIAL
+      PARTNERSHIP INNOVATION-IMPLEMENTATION CENTER; ASSOCIATION TECHNOLOGICAL PLATFORM
+      AIR MOBILITY AND AVIATION TECHNOLOGIES;
+    - CLOSED JOINT-STOCK COMPANY SCIENTIFIC AND PRODUCTION LASER-TECHNOLOGICAL CENTER;
+      ASSOCIATION FOR PROMOTING IMPROVEMENT OF HOUSING CONDITIONS OF EMPLOYEES OF
+      THE ORGANIZATION OF THE NOVOSIBIRSK SCIENTIFIC CENTER "AKADEMZHILSTROY-1";
+    - LIMITED LIABILITY COMPANY "SIBERIAN SCIENTIFIC AND INDUSTRIAL CORPORATION";
+      NP "NPK "Siberian Ceramics"

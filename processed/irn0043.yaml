@@ -19,6 +19,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -30,3 +31,12 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Political Head of the IRGC. Has made numerous attempts to suppress free speech and free discourse through his public statements supporting the arrest and punishment of protesters and dissenters. One of the first high-ranking officials to demand in 2009 Moussavi, Karroubi and Khatami's arrest. Has supported the use of techniques that breach rights to a fair trial including public confessions and he has released the contents of interrogations before trial. Evidence also indicates that he has condoned the use of violence against protesters and as an integral member of the IRGC he is highly likely to have been aware of the use of harsh interrogation techniques to force confessions.
+individual_details:
+  individual:
+    positions:
+    - IRGC Deputy Commander For Political Affairs
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Isfahan

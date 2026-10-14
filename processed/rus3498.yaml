@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -53,3 +54,21 @@ uk_statement_of_reasons: "\nThe Secretary of State considers that there are reas
   Special Economic Zone in the Republic of Tatarstan. These individuals assist in
   the production of military drones within the Alabuga Special Economic Zone which
   are then deployed as attack and reconnaissance vehicles in Ukraine.\n"
+individual_details:
+  individual:
+    dobs:
+    - '1985-04-05'
+    nationalities:
+    - Cameroon
+    - France
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Cameroon
+    passport_details:
+      passports:
+      - number: '0921768'
+    national_identifier_details:
+      national_identifiers:
+      - number: '111507186'

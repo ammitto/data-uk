@@ -44,6 +44,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -73,3 +74,18 @@ uk_statement_of_reasons: "\nThe Secretary of State has reasonable grounds to sus
   manager or equivalent of PJSC Acron, an entity carrying on business in sectors of
   strategic significance to the Government of Russia, namely the Russian chemicals
   and extractives sectors. The trust services sanctions were imposed on 21/03/2023.\n"
+individual_details:
+  individual:
+    dobs:
+    - '1953-09-08'
+    nationalities:
+    - Russia
+    - Israel
+    positions:
+    - Chairman of the Coordinating Board of PJSC Acron
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Moscow
+        country_of_birth: Russia

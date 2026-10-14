@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -49,3 +50,25 @@ addresses:
   - address_country: Turkey
   - address_line6: Grenoble
     address_country: France
+individual_details:
+  individual:
+    dobs:
+    - '1993-03-12'
+    nationalities:
+    - France
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Paris
+        country_of_birth: France
+    passport_details:
+      passports:
+      - number: 12CP63882.3FRA
+        additional_information: France, issued on 31 Jul. 2012 (valid until 30 Jul.
+          2022)
+    national_identifier_details:
+      national_identifiers:
+      - number: 070275Q007873
+        additional_information: " France national identity card issued on 16 Feb.
+          2007 (valid until 15 Feb. 2017)"

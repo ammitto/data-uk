@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -46,3 +47,15 @@ uk_statement_of_reasons: |2
 
   Andrey Igorevich MELNICHENKO is an involved person under Russia (Sanctions) (EU Exit) Regulations 2019 on the basis of the following grounds:  1) MELNICHENKO has been involved in obtaining a benefit from or supporting the Government of Russia by previously owning or controlling, directly or indirectly, and working as a director (whether executive or non-executive) of EuroChem, an entity carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian chemicals sector.; and 2) MELNICHENKO has been involved in obtaining a benefit from or supporting the Government of Russia by previously owning or controlling, directly or indirectly, and working as a director (whether executive or non-executive) of SUEK, an entity carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian energy sector. 
   The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1972-03-08'
+    birth_details:
+      locations:
+      - town_of_birth: Gomel
+        country_of_birth: Belarus
+    national_identifier_details:
+      national_identifiers:
+      - number: '773600437377'
+        additional_information: Personal Tax Number

@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -33,3 +34,7 @@ uk_statement_of_reasons: |2-
 
   SouthFront is a website which has spread disinformation relating to Ukraine and promoted the Government of Russia’s false narrative about the Russian invasion of Ukraine. SouthFront has therefore supported and promoted policies and activities which destabilise Ukraine and undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.
    The trust services sanctions were imposed on 21/03/2023.
+email_addresses:
+- info@southfront.org
+websites:
+- https://southfront.org/

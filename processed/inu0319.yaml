@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -45,3 +46,24 @@ addresses:
     address_line3: Arak St
     address_line6: Tehran
     address_country: Iran
+phone_numbers:
+- "+98 21 82840"
+email_addresses:
+- info@ioec.com
+websites:
+- www.Ioec.com
+entity_details:
+  entity:
+    business_registration_numbers:
+    - "BvD ID number: IR0000119360 \nBvD account number: IR0000119360U \nCommercial
+      register number (Trade register number): 96225 \nCedar Rose number (IP identification):
+      0000119360"
+    types_of_entity:
+    - Private Joint Stock Company
+    parent_companies:
+    - "Ahdaf Investment Company has majority ownership (51.53%)\n1. AHDAF INVESTMENT
+      COMPANY \n2. GHADR INVESTMENT DEVELOPMENT CO. \n3. SABA KARUN OIL AND GAS DEVELOPMENT
+      COMPANY \n4. SABA NAFT SUPPORT SERVICES COMPANY\n5. TOSSEE HAMI GHADR CO."
+    subsidiaries:
+    - "1. Sokan Arvand Ship Management Company \n2. Persia Telecom Co. \n3. Nilsun
+      Kish \n4. IOEC E&P"

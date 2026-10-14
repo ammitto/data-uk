@@ -32,6 +32,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -49,3 +50,22 @@ addresses:
   - address_line1: 3A Moyka River Embankment
     address_line6: St Petersburg
     address_country: Russia
+phone_numbers:
+- "+7(495) 660-40-00 "
+email_addresses:
+- ir@scf-group.ru
+- pr@scf-group.ru
+- info@scf-group.ru
+websites:
+- www.scf-group.com
+- sovcomflot.ru
+entity_details:
+  entity:
+    types_of_entity:
+    - Public Joint Stock Company
+    subsidiaries:
+    - OOO SCF Arctic; SCF Management Services (Cyprus) Ltd; PAO Novoship; SCF management
+      Services (St. Petersburg) Ltd; Sovcomflot (UK) Ltd; SCF Management Services
+      (St. Petersburg) Ltd  subdivision in Yuzhno-Sakhalinsk;
+    - Sovcomflot (Cyprus) Ltd; SCF Management Services (Novorossiysk) Ltd; SCF GEO
+       

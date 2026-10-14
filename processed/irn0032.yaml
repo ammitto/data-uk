@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -33,3 +34,20 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Member of the Assembly of Experts and representative of the Supreme Leader in Markazi, Central Province, and Head of the Supreme Administrative Court. Prosecutor General of Iran until September 2009, as well as former Intelligence minister under Khatami presidency. As Prosecutor General of Iran, he ordered and supervised the show trials following the first post-election protests, where the accused were denied their rights, and an attorney.
+individual_details:
+  individual:
+    dobs:
+    - '1950-12-03'
+    - dd/mm/1945
+    nationalities:
+    - Iran
+    positions:
+    - Member of the Assembly of Experts and representative of the Supreme Leader in
+      Markazi ('Central') Province|Former Prosecutor General of Iran until Sept 2009.|Former
+      Intelligence minister under Khatami presidency.
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Najafabad
+        country_of_birth: Iran

@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -57,3 +58,32 @@ addresses:
     address_line5: Khan Chamkar Mon
     address_line6: Phnom Penh
     address_country: Cambodia
+individual_details:
+  individual:
+    dobs:
+    - '1987-12-16'
+    nationalities:
+    - Cambodia
+    - Cyprus
+    - Vanuatu
+    positions:
+    - Chairman of Prince Global Group
+    - Director of Uni More Group Company Limited
+    - Director of Prince Vanguard Development Company Limited
+    - Owner of Prince Global Group
+    - Owner of Noble Title Limited
+    - Owner of PLI No.2 Limited
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Fujian
+        country_of_birth: China
+    passport_details:
+      passports:
+      - number: 'N00081108   '
+        additional_information: Cambodia
+    national_identifier_details:
+      national_identifiers:
+      - number: '010868617'
+        additional_information: Cambodia

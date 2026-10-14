@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -31,3 +32,19 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Major in the Bolivarian National Guard (GNB), operated alongside officials in the Directorate-General of Military Counter- Intelligence (Dirección General de Contrainteligencia Militar (DGCIM)) since at least December 2017. Responsible for serious human rights violations, including torture, the use of excessive force and the mistreatment of detainees in DGCIM facilities.
+individual_details:
+  individual:
+    dobs:
+    - '1982-09-26'
+    nationalities:
+    - Venezuela
+    positions:
+    - Major in the Bolivarian National Guard (GNB) – works alongside DGCIM
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Venezuela
+    national_identifier_details:
+      national_identifiers:
+      - number: V-15222057

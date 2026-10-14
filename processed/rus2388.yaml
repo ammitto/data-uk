@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -41,3 +42,12 @@ uk_statement_of_reasons: "\nVladimir Viktorovich SELIN, hereafter SELIN, is an i
   or service subordinate to the President of the Russian Federation, including the
   Administration of the President of the Russian Federation, namely as the head of
   the Federal Service for Technical and Export Control (FSTEK).\n"
+individual_details:
+  individual:
+    dobs:
+    - '1955-01-01'
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Russia

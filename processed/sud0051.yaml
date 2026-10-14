@@ -29,6 +29,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -49,3 +50,24 @@ addresses:
   addresses:
   - address_line2: Dubai
     address_country: United Arab Emirates
+phone_numbers:
+- '00971558941244'
+email_addresses:
+- Abozerhabib788@gmail.com
+individual_details:
+  individual:
+    dobs:
+    - '1990-01-01'
+    nationalities:
+    - Sudan
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Sudan
+    passport_details:
+      passports:
+      - number: P08160513
+    national_identifier_details:
+      national_identifiers:
+      - number: '784199097241725'

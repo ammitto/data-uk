@@ -25,6 +25,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -43,3 +44,19 @@ addresses:
   - address_line1: Per. Maikov d. 8 k. 1m lit. A
     address_line6: Saint Petersburg
     address_country: Russia
+phone_numbers:
+- "(095) 126-98-39"
+- "+7 (812) 252-62-01"
+- "+7 (921) 311-10-49"
+email_addresses:
+- elshem.elzond@spbtlg.ru
+- elzone@rambler.ru
+- elzond@ctinet.ru
+websites:
+- Elzond.ru
+- Elzond.narod.ru
+entity_details:
+  entity:
+    business_registration_numbers:
+    - INN - 7809000430
+    - OGRN - 1027810229996

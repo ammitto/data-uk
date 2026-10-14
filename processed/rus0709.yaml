@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -38,3 +39,19 @@ uk_statement_of_reasons: "\nAs Head of the Pinsk border detachment at the State 
   or threatens the territorial integrity, sovereignty or independence of Ukraine,
   namely, facilitating the movement of Russian troops across the Belarus border into
   Ukraine. \n The trust services sanctions were imposed on 21/03/2023."
+titles:
+- Colonel
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1979
+    nationalities:
+    - Belarus
+    positions:
+    - Commander/Head of the Pinsk Border Detachment 
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Adjaristskhali
+        country_of_birth: Belarus

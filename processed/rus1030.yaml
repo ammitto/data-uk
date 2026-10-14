@@ -29,6 +29,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: true
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -53,3 +54,13 @@ other_information: 'Transport sanctions: ships owned, controlled, chartered or o
 uk_statement_of_reasons: |2
 
   Alexander Alexandrovich MIKHEEV is an involved person under the Russia (Sanctions) (EU Exit) Regulation 2019 on the following grounds: MIKHEEV is or has been involved in obtaining a benefit from or supporting the Government of Russia by working as a director or equivalent of a Government of Russia-affiliated entity.
+individual_details:
+  individual:
+    dobs:
+    - '1961-11-18'
+    nationalities:
+    - Russia
+    birth_details:
+      locations:
+      - town_of_birth: Moscow
+        country_of_birth: Russia

@@ -70,6 +70,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -88,3 +89,28 @@ addresses:
   addresses:
   - address_line1: Afghanistan (as at June 2014)
     address_line6: Tripoli
+individual_details:
+  individual:
+    dobs:
+    - '1966-02-02'
+    nationalities:
+    - Libya
+    birth_details:
+      locations:
+      - town_of_birth: al Aziziyya
+        country_of_birth: Libya
+    passport_details:
+      passports:
+      - number: '203037'
+        additional_information: Libyan. Issued in Tripoli.
+      - number: '347834'
+        additional_information: Libyan. Issued under name Ibrahim Ali Tantoush. Expired
+          on 21 February 2014.
+      - number: '434021161'
+        additional_information: South African. Related to alias Abdel Ilah Sabri.
+          Confiscated.
+    national_identifier_details:
+      national_identifiers:
+      - number: '6910275240086'
+        additional_information: South African. Related to alias Abdel Ilah Sabri.
+          Confiscated.

@@ -54,6 +54,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -80,3 +81,30 @@ uk_statement_of_reasons: "\n"
 addresses:
   addresses:
   - address_country: Yemen
+individual_details:
+  individual:
+    nationalities:
+    - Yemen
+    positions:
+    - Major General
+    - Judicial Custodian of properties and funds owned by Houthis’ opponents
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Al Safrah, Sa’dah Governorate
+        country_of_birth: Yemen
+    passport_details:
+      passports:
+      - number: '05274639'
+        additional_information: 'Yemen number, issued on 7 Oct. 2013 (Expiration date:
+          7 Oct 2019)'
+      - number: '00481779'
+        additional_information: 'Yemen number , issued on 9 Dec. 2000 (Expiration
+          date: 9 Dec 2006)'
+    national_identifier_details:
+      national_identifiers:
+      - number: '1388114'
+        additional_information: Yemen
+      - number: '10010057512'
+        additional_information: Yemen

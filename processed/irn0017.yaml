@@ -19,6 +19,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -30,3 +31,12 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Former Director-General of Iran's Drug Control Headquarters (aka: Anti-Narcotics Headquarters). Former Commander of Tehran Police. Under his leadership, the police force was responsible for the use of extrajudicial force on suspects during arrest and pre-trial detention. The Tehran police were also implicated in raids on Tehran university dorms in June 2009, when according to an Iranian Majlis commission, more than 100 students were injured by the police and Basiji.
+individual_details:
+  individual:
+    positions:
+    - Former Commander of Tehran Police
+    - Former Head of the Railway Police
+    - Former Director-General of Iran's Drug Control Headquarters (aka Anti-Narcotics
+      Headquarters)
+    genders:
+    - Male

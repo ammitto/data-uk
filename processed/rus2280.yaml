@@ -32,6 +32,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -43,3 +44,7 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2
 
   We have reasonable grounds to suspect that ”BEARS” BRIGADE is an involved person under the Russia (EU Exit) (Sanctions) Regulations 2019 on the basis of the following ground: “BEARS” BRIGADE is or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity or sovereignty or independence of Ukraine as it engages in policies or actions which destabilise Ukraine or undermine or threaten the territorial integrity, sovereignty or independence of Ukraine.
+entity_details:
+  entity:
+    types_of_entity:
+    - Private Military Company

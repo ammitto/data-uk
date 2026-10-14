@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,13 @@ uk_statement_of_reasons: |2-
 
   Major-General Aleksandr Viktorovich NAUMENKO has been involved in engaging in and providing support for actions that have destabilised Ukraine or undermined or threatened the territorial integrity, sovereignty and independence of Ukraine, namely, being involved in the command of Belarusian forces who were involved in a joint exercise with the Russian military ahead of Russia’s invasion of Ukraine which: (1) threatened Ukraine; and (2) provided cover for Russian military preparations to invade Ukraine.
    The trust services sanctions were imposed on 21/03/2023.
+titles:
+- Major General
+individual_details:
+  individual:
+    nationalities:
+    - Belarus
+    positions:
+    - Commander of the Troops of the North-Western Operational Command of Belarus
+    genders:
+    - Male

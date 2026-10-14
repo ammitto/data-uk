@@ -25,6 +25,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -42,3 +43,17 @@ addresses:
   - address_line1: 7 Tallinskaya St
     address_line6: Saint Petersburg
     address_country: Russia
+phone_numbers:
+- "; +7 812 445-21-55"
+- "+7 812 445-23-60"
+- "+7 812 445-26-18"
+- "+7 812 2717494"
+email_addresses:
+- akvamarin@akvamarin-npc.ru
+websites:
+- www.akvamarin-npc.ru
+entity_details:
+  entity:
+    business_registration_numbers:
+    - INN – 7806121490
+    - OGRN - 1037816019713

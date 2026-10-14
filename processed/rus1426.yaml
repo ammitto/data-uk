@@ -25,6 +25,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -51,3 +52,13 @@ addresses:
     address_line2: Apraksin Lane
     address_line6: St Petersburg
     address_country: Russia
+phone_numbers:
+- "+6 (812) 244-33-13"
+email_addresses:
+- office@stc-spb.ru
+websites:
+- https://www.stc-spb.ru/ 
+entity_details:
+  entity:
+    business_registration_numbers:
+    - 'Tax Identification Number: INN: 7840392660'

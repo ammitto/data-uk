@@ -19,6 +19,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -30,3 +31,13 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Since 2011 Chief of the Intelligence of the Ministry of Defence. Ramezani has held a number of senior roles in Military Intelligence and security for IRGC including Commander and Deputy Commander of Intelligence of IRGC and Head of Protection and Intelligence. Involved in the suppression of freedom of expression, including by being associated with those responsible for the arrests of bloggers/journalists in 2004, and reported to have had a role in the suppression of the post-election protests in 2009.
+individual_details:
+  individual:
+    positions:
+    - Chief of the Intelligence of the Ministry of Defence since 2011
+    - Member of the Expediency Council
+    - Former Minister of Intelligence
+    - Former Prosecutor General of Iran
+    - Former Deputy Head and spokesman of the Judiciary
+    genders:
+    - Male

@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,22 @@ other_information: 'Father''s name is Ghulam Nabi, also known as Mullah Musafir.
   web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-NoticesIndividuals
   click here'
 uk_statement_of_reasons: "\n"
+titles:
+- Mullah
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1966
+    - dd/mm/1960
+    - dd/mm/1953
+    nationalities:
+    - Afghanistan
+    positions:
+    - Leader of the Faithful ('Amir ul-Mumineen'), Afghanistan
+    - Director of Administrative Affairs under the Taliban regime
+    birth_details:
+      locations:
+      - town_of_birth: Naw Deh village, Deh Rawud District, Uruzgan Province
+        country_of_birth: Afghanistan
+      - town_of_birth: Maiwand District, Kandahar Province
+        country_of_birth: Afghanistan

@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -32,3 +33,19 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2
 
   Farah Meliad has been found guilty of having participated in the bombing of Burgas Airport, which killed 6 people and injured 32 others. He is associated with the terrorist group Hizballah.
+individual_details:
+  individual:
+    dobs:
+    - '1980-11-05'
+    nationalities:
+    - Australia
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Sydney
+        country_of_birth: Australia
+    passport_details:
+      passports:
+      - number: M2719127
+        additional_information: Australia

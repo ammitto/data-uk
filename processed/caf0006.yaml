@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -43,3 +44,17 @@ addresses:
   addresses:
   - address_line6: Boda
     address_country: Central African Republic
+phone_numbers:
+- "+236 72198628"
+individual_details:
+  individual:
+    dobs:
+    - '1980-03-13'
+    nationalities:
+    - Central African Republic
+    positions:
+    - Master-corporal of the Central African Armed Forces (FACA)
+    - Coordinator of anti-Balaka for Lobaye province
+    birth_details:
+      locations:
+      - country_of_birth: Central African Republic

@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,19 @@ uk_statement_of_reasons: |2-
 
   Vadim Nikolaevich MOSHKOVICH is the founder and former Chairman of the Board of Directors of the Rusagro group of companies. Through his role in Rusagro, MOSHKOVICH is or has been involved in obtaining a benefit or supporting the Government of Russia by working as a director (whether executive or non-executive) or equivalent of an entity carrying on business in a sector of economic significance to the Government of Russia.
    The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1967-04-06'
+    nationalities:
+    - Russia
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Moscow
+        country_of_birth: Russia
+    national_identifier_details:
+      national_identifiers:
+      - number: '773100682469'
+        additional_information: Tax Identification Number (TIN)

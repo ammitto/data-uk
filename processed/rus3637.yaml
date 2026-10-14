@@ -18,6 +18,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -43,3 +44,13 @@ addresses:
     address_line3: Bang Lamung
     address_line6: Chonburi
     address_country: Thailand
+phone_numbers:
+- "+66 (93) 325-14-83"
+email_addresses:
+- sale@pktmungmee.com
+websites:
+- https://www.pktmungmee.com
+entity_details:
+  entity:
+    business_registration_numbers:
+    - 'Thai business registry no: 0845564005042'

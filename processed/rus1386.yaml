@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -44,3 +45,17 @@ uk_statement_of_reasons: "\n Pavel Nikolayevitch GUSEV is Editor-in-Chief of Mos
   has been involved in destabilising Ukraine, undermining, or threatening the territorial
   integrity, sovereignty, or independence of Ukraine. \n The trust services sanctions
   were imposed on 21/03/2023."
+individual_details:
+  individual:
+    dobs:
+    - '1949-04-04'
+    nationalities:
+    - Russia
+    positions:
+    - Editor and owner of “Moskovskiy Komsomolets”
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Moscow
+        country_of_birth: Russia

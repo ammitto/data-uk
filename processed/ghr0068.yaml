@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -31,3 +32,20 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Rafael Bastardo was Commander of FAES, the Special Action Force of the Venezuelan National Police between 2017 and 2019. There is reliable evidence that FAES committed serious human rights violations during Bastardo’s period in command. The recent UN Independent International Fact Finding Mission (IIFFM) report shows reasonable grounds to suspect that FAES was involved in multiple cases of extrajudicial executions. As FAES Commander, Bastardo is responsible for the human rights violations committed by FAES forces under his command.
+individual_details:
+  individual:
+    dobs:
+    - '1978-09-22'
+    nationalities:
+    - Venezuela
+    positions:
+    - Previous Commander of FAES (Special Action Forces) until 2019
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Coche, Libertador, Capital District
+        country_of_birth: Venezuela
+    national_identifier_details:
+      national_identifiers:
+      - number: 14.335.819

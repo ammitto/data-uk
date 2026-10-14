@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -45,3 +46,17 @@ uk_statement_of_reasons: "\nSvetlana Petrovna Yemelyanova is an “involved pers
   financial services sector; (2) working as a director, manager or equivalent of a
   Government of Russia-affiliated entity, namely Bank Otkritie Financial Corporation
   PJSC. \n The trust services sanctions were imposed on 21/03/2023."
+individual_details:
+  individual:
+    dobs:
+    - '1971-10-07'
+    nationalities:
+    - Russia
+    positions:
+    - Member of OTKRITIE Management Board
+    genders:
+    - Female
+    birth_details:
+      locations:
+      - town_of_birth: 'Novorossiysk '
+        country_of_birth: Russia

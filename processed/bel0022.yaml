@@ -38,6 +38,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -49,3 +50,13 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Leanid Zhurauski is Commander of the Special Purpose Police Unit (OMON) of Vitebsk. In his role as Commander, Zhurauski bears responsibility for the actions of OMON officers in Vitebsk. Zhuravski is therefore responsible for the serious human rights violations that were carried out by OMON officers following the election of 9 August, in particular arbitrary arrests and ill‐treatment, including torture, of peaceful demonstrators.
+individual_details:
+  individual:
+    dobs:
+    - '1975-09-20'
+    nationalities:
+    - Belarus
+    positions:
+    - Head of OMON (‘Special Purpose Police Detachment’) in Vitebsk/Viciebsk
+    genders:
+    - Male

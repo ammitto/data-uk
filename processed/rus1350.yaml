@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -44,3 +45,17 @@ addresses:
   - address_line1: st. Sushchevskaya, 22
     address_line6: Moscow
     address_country: Russia
+phone_numbers:
+- "+7 (499) 978-7803 "
+email_addresses:
+- vniia@vniia.ru 
+websites:
+- http://www.vniia.ru/eng/index.php 
+entity_details:
+  entity:
+    business_registration_numbers:
+    - '1027739646164'
+    types_of_entity:
+    - Federal State Unitary Enterprise 
+    parent_companies:
+    - Rosatom

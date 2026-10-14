@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,18 @@ uk_statement_of_reasons: "\nFormer Deputy-Commander of the Black Sea Fleet, Rear
   of the Federation Council of Russian Federation, representing the annexed City of
   Sevastopol.  Since September 2020, he is a deputy of the Legislative Assembly of
   the city of Sevastopol. \n The trust services sanctions were imposed on 21/03/2023."
+individual_details:
+  individual:
+    dobs:
+    - '1956-09-01'
+    nationalities:
+    - Russia
+    positions:
+    - Former Deputy Commander of the Black Sea Fleet
+    - A deputy of the Legislative Assembly of the city of Sevastopol
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Zaporozhye
+        country_of_birth: Ukrainian SSR (now Ukraine)

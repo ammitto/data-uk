@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -40,3 +41,28 @@ addresses:
   addresses:
   - address_line6: Dubai
     address_country: United Arab Emirates
+individual_details:
+  individual:
+    dobs:
+    - '1972-08-05'
+    nationalities:
+    - India
+    - South Africa
+    positions:
+    - Businessperson
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Saharanpur
+        country_of_birth: India
+    passport_details:
+      passports:
+      - number: M00069726
+        additional_information: 'Expiry: 13 Sep 2022'
+      - number: '462064042'
+        additional_information: 'Expiry: 26 Jul 2016'
+      - number: M00138156
+        additional_information: 'Expiry: 04 Feb 2025'
+      - number: M00006520
+        additional_information: 'Expiry: 26 Jul 2019'

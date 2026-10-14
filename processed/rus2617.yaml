@@ -32,6 +32,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -50,3 +51,20 @@ addresses:
     address_line4: Pudong New Area
     address_line6: Shanghai
     address_country: China
+phone_numbers:
+- "+8613816371485"
+- "+862150827987"
+email_addresses:
+- 1169430820@qq.com
+- marry@new-chess.com.cn
+- jessie@new-chess.com.cn
+websites:
+- https://cargaurgente.com
+- https://www.new-chess.com
+entity_details:
+  entity:
+    business_registration_numbers:
+    - 'Unified Social Credit Code: 91310115MA1H9L1M75'
+    - 'Company Registration Number: 310115003576587'
+    types_of_entity:
+    - Limited Liability Company

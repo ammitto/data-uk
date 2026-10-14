@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -35,3 +36,17 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Founder of the civil movement ‘Krassnaya Moskva- Red Moscow -Patriotic Front Aid’ which organised public demonstrations supporting separatists, thereby supporting policies which undermine the territorial integrity, sovereignty and independence of Ukraine. As a Member of the State Duma , on 20 March 2014 he voted in favour of the draft Federal Constitutional Law ‘on the acceptance into the Russian Federation of the Republic of Crimea and the formation within the Russian Federation of new federal subjects- the republic of Crimea and the City of Federal Status Sevastopol’. The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1955-03-14'
+    nationalities:
+    - Russia
+    positions:
+    - First Deputy Chairman of the State Duma Committee on Ethnicity Issues
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Zhilino, Kaliningrad region
+        country_of_birth: Russia

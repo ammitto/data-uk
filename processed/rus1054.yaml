@@ -33,6 +33,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -48,3 +49,21 @@ uk_statement_of_reasons: "\n Oleg Anatoliyovych VOLOSHYN (hereafter VOLOSHYN) is
   of Ukraine, namely by using his position of influence to promote, via the spreading
   of disinformation and pro-Russian narratives which support Russia’s actions in Ukraine.
   \ \n The trust services sanctions were imposed on 21/03/2023."
+individual_details:
+  individual:
+    dobs:
+    - '1981-04-07'
+    nationalities:
+    - Ukraine
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Nikolaev
+        country_of_birth: Ukraine
+    national_identifier_details:
+      national_identifiers:
+      - number: '2968200719'
+        additional_information: '1981040705733'
+      - number: '1981040705733'
+        additional_information: Personal Identification Number

@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -34,3 +35,19 @@ uk_statement_of_reasons: "\nMinal PATTNI is an involved person within the meanin
   of the Global Anti-Corruption Sanctions regulations 2021 on the basis of the following
   ground: PATTNI is a member of, or associated with, a person who is or has been involved
   in serious corruption, namely her husband Kamlesh Pattni.  \n"
+individual_details:
+  individual:
+    dobs:
+    - '1975-02-25'
+    nationalities:
+    - United Kingdom
+    - Kenya
+    genders:
+    - Female
+    birth_details:
+      locations:
+      - country_of_birth: Kenya
+    passport_details:
+      passports:
+      - number: '511080315'
+        additional_information: 'Issued: United Kingdom'

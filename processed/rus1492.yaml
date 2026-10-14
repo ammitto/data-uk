@@ -36,6 +36,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -56,3 +57,22 @@ addresses:
   - address_line1: Ordzhonikidze Street 5
     address_line6: Moscow
     address_country: Russia
+websites:
+- http://www.minbank.ru
+entity_details:
+  entity:
+    business_registration_numbers:
+    - "Legal Entity Number 2534006SJ05GGKETEY75 (Russia) \nRegistration Number 1027739179160
+      (Russia)"
+    - |-
+      SWIFT/BIC MINNRUMM,
+      BIK (RU) 044525600,
+      Tax ID No. 7725039953 (Russia),
+      Government Gazette Number 09317135 (Russia)
+    types_of_entity:
+    - Financial Institution
+    subsidiaries:
+    - "Azovskaya Zernovaya Kompaniya OOO \nEkspluatiruyushchaya Kompaniya Tsentr OOO"
+    - Agropromyshlenny Kompleks Voronezhski OOO, Anninskii Elevator OOO, Auditkonsalt
+      OOO, Belinveststroi OOO, Dve Stolitsy OOO, Kontrakt OOO, Ladoga OOO, Nekommercheskaya
+      Organizatsiya Fond Khimicheskoe Razoruzhenie I Konversiya

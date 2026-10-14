@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -42,3 +43,5 @@ uk_statement_of_reasons: "\nXHOST INTERNET SOLUTIONS LP ('XHOST') has been invol
   a Russian-based provider of bulletproof hosting services.\n  \nSuch activity that
   XHOST was involved in, directly or indirectly caused, or is intended to cause, economic
   loss to, or prejudice to the commercial interests of, those affected by the activity.\n"
+websites:
+- isxhost.uk

@@ -31,6 +31,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -46,3 +47,18 @@ addresses:
   addresses:
   - address_line6: Tehran
     address_country: Iran
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1961
+    positions:
+    - Adviser to the Chief of Staff of the Armed Forces
+    - Head of Iran's Headquarters in support of the Yemeni People
+    - Former Senior Advisor for Security Affairs to the Chief of the Armed Forces
+      General Staff.
+    - Former Chief of Iran's National Police from early 2005 until early 2015
+    - Former Head of the Iranian Cyber Police (listed) from January 2011 until early
+      2015
+    - Director of the University and the Higher National Defence Research Institute
+    genders:
+    - Male

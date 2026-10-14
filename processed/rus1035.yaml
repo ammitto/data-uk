@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,11 @@ uk_statement_of_reasons: "\nVladimir Valerievich RASHEVSKY is or has been involv
   business in sectors of strategic significance to the Government of Russia, namely
   the Russian chemicals sector (EuroChem) and energy sector (SUEK).  \n The trust
   services sanctions were imposed on 21/03/2023."
+individual_details:
+  individual:
+    dobs:
+    - '1973-09-29'
+    birth_details:
+      locations:
+      - town_of_birth: Moscow
+        country_of_birth: Russia

@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -31,3 +32,23 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Deputy custodian of Imam Reza shrine. Former Official of the Special Clerical Tribunal. Former Minister of Justice from 2009 to 2013. During his time as Minister of Justice, prison conditions within Iran fell well below accepted international standards, and there was widespread mistreatment of prisoners. In addition, he played a key role in threatening and harassing the Iranian diaspora by announcing the establishment of a special court to deal specifically with Iranians who live outside the country. He also oversaw a sharp increase in the number of executions in Iran, including secret executions not announced by the government, and executions for drug-related offences.
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1952
+    positions:
+    - Former Minister of Justice from 2009 to 2013
+    - Head of the Imam Khomeini Relief Foundation (since July 2019)
+    - Former Deputy custodian of Imam Reza shrine
+    - Former Official of the Special Clerical Tribunal
+    - 'Former: Deputy Prosecutor General (2014-2016)'
+    - Minister of Justice (2009-2013)
+    - Governor of Isfahan (2005-2009)
+    - Head of Khorasan Justice Dept (2004-2005)
+    - Director of State Prisons (1999-2004)
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Mashhad
+        country_of_birth: Iran

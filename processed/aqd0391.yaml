@@ -30,6 +30,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -46,3 +47,18 @@ other_information: 'Works as a mediator in financing channels for ISIL in Centra
 addresses:
   addresses:
   - address_country: Congo (Democratic Republic)
+individual_details:
+  individual:
+    dobs:
+    - '1989-02-23'
+    nationalities:
+    - Uganda
+    genders:
+    - Female
+    birth_details:
+      locations:
+      - country_of_birth: Uganda
+    national_identifier_details:
+      national_identifiers:
+      - number: CF89095102DDAE
+        additional_information: expiry on 27 March 2025

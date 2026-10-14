@@ -36,6 +36,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -47,3 +48,17 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Natalia Kochanova is responsible for overseeing the organisation of the flawed Presidential elections on 9 August 2020 and has defended the authorities’ violent and repressive response to the subsequent peaceful demonstrations.  Her leadership role is also responsible for supporting the decisions of the President in the field of domestic policy.
+individual_details:
+  individual:
+    dobs:
+    - '1960-09-25'
+    nationalities:
+    - Belarus
+    positions:
+    - Chair of the Council of the Republic of the National Assembly of Belarus
+    genders:
+    - Female
+    birth_details:
+      locations:
+      - town_of_birth: Polotsk, Vitebsk/Viciebsk Oblast
+        country_of_birth: Former USSR (now Belarus)

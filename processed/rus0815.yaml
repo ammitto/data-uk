@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -38,3 +39,29 @@ uk_statement_of_reasons: "\nDmitry Valeryevich UTKIN is a member/associate of th
   actions or policies that destabilise Ukraine or threaten the territorial integrity,
   sovereignty or independence of Ukraine.  \n The trust services sanctions were imposed
   on 21/03/2023."
+individual_details:
+  individual:
+    dobs:
+    - '1970-06-11'
+    nationalities:
+    - Russia
+    positions:
+    - Commander – Wagner Group Private Military Company 
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Asbest
+        country_of_birth: Russia
+    passport_details:
+      passports:
+      - number: '5803989141 '
+        additional_information: Russian Citizen Passport
+      - number: '3950952'
+        additional_information: Russian citizen foreign passport
+    national_identifier_details:
+      national_identifiers:
+      - number: '262404751144'
+        additional_information: Tax Identification Number
+      - number: 'M-209 '
+        additional_information: Wagner Group identification number

@@ -34,6 +34,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -54,3 +55,23 @@ addresses:
     address_line2: Ben Arous district
     address_line3: Sidi Mesoud
     address_country: Tunisia
+individual_details:
+  individual:
+    dobs:
+    - '1961-11-17'
+    nationalities:
+    - Tunisia
+    birth_details:
+      locations:
+      - town_of_birth: Manzal Tmim, Nabul
+        country_of_birth: Tunisia
+    passport_details:
+      passports:
+      - number: M788439
+        additional_information: Tunisian. Issued on 20 October 2001. Expired on 19
+          October 2006
+    national_identifier_details:
+      national_identifiers:
+      - number: '01817002'
+      - number: LBR HBB 61S17 Z352F
+        additional_information: Italian fiscal code

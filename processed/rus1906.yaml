@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -50,3 +51,13 @@ uk_statement_of_reasons: "\nVadim Vladislavovich YAKOVLEV has been and is involv
   a director or equivalent of Gazprom Neft, which is a government affiliated entity
   carrying on business in a sector of strategic significance to the Government of
   Russia (the Russian energy & extractives sector). \n"
+individual_details:
+  individual:
+    dobs:
+    - '1970-09-30'
+    nationalities:
+    - Russia
+    positions:
+    - Deputy Chairman on the Management board for Gazprom Neft
+    genders:
+    - Male

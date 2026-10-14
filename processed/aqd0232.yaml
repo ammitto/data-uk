@@ -73,6 +73,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -86,3 +87,22 @@ other_information: 'Considered a fugitive from justice by the Italian authoritie
   to Security Council resolution 1822 (2008) was concluded on 20 Jul. 2009. INTERPOL-UN
   Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1440426'
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - '1968-01-14'
+    - '1960-06-04'
+    - '1960-11-13'
+    - '1960-08-11'
+    - '1969-04-04'
+    - '1960-04-04'
+    nationalities:
+    - Libya
+    birth_details:
+      locations:
+      - town_of_birth: Bengasi
+        country_of_birth: Libya
+      - country_of_birth: Morocco
+      - town_of_birth: Bendasi
+        country_of_birth: Libya
+      - country_of_birth: Libya

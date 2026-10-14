@@ -34,6 +34,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -46,3 +47,9 @@ other_information: Former Judge, Tehran Revolutionary Court, branch 26. The Dire
 uk_statement_of_reasons: |2-
 
   Magistrate of a Criminal chamber. Former Judge, Tehran Revolutionary Court, branch 26. He was in charge of post-election cases, he issued long prison sentences during unfair trials against human rights activists and issued several death sentences for protesters.
+individual_details:
+  individual:
+    positions:
+    - Magistrate of a Criminal Chamber
+    genders:
+    - Male

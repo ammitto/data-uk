@@ -25,6 +25,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,14 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Morteza MIRZAI is an involved person under the Iran (Sanctions) Regulations 2023 because: he is and has been involved in the commission of serious human rights violations in Iran, namely being responsible for, engaging in, providing support for and promoting serious violations with respect to, the right to freedom of expression and peaceful assembly, and the right to life in Iran through his role as Law Enforcement Force (LEF) Commander in chief of the police in Mazandaran province and in the suppression of protests.
+individual_details:
+  individual:
+    nationalities:
+    - Iran
+    positions:
+    - 'Commander in chief of the police in Mazandaran province: The Law Enforcement
+      Force of Islamic Republic of Iran (LEF)'
+    birth_details:
+      locations:
+      - town_of_birth: Khorram Abad in Lorestan province 
+        country_of_birth: Iran

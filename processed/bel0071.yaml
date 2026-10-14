@@ -32,6 +32,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -43,3 +44,17 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Oleg Karazei is Head of the Prevention Department of the Main Department of Law Enforcement and Prevention of the Public Security Police of the Ministry of Internal Affairs of the Republic of Belarus. In this role, Karazei is responsible for the repression and intimidation of peaceful protesters in the wake of the 2020 presidential election, in particular with arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators as well as intimidation and violence against journalists.
+individual_details:
+  individual:
+    dobs:
+    - '1979-01-01'
+    positions:
+    - Head of the Prevention Department of the Main Department of Law Enforcement
+      and Prevention of the Public Security Police of the Ministry of Internal Affairs
+      of the Republic of Belarus
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Dzerzhinsky district of the Minsk region
+        country_of_birth: former USSR (now Belarus)

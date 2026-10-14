@@ -19,6 +19,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,18 @@ addresses:
     address_line2: Dzharkurgan str
     address_line6: Tashkent
     address_country: Uzbekistan
+phone_numbers:
+- "+998 (90) 990-13-65"
+- "+998 (71) 296-13-66"
+email_addresses:
+- info@uzstanex.uz
+websites:
+- https://uzstanex.uz
+entity_details:
+  entity:
+    business_registration_numbers:
+    - 'TIN: 305636913'
+    types_of_entity:
+    - Limited Liability Company
+    parent_companies:
+    - STANEX GROUP LLP

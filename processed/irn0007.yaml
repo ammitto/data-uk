@@ -19,6 +19,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -30,3 +31,22 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Formerly Deputy Chief of Iran's National Police until June 2014. As Deputy Chief of National Police from 2008, Radan was responsible for beatings, murder, and arbitrary arrests and detentions against protestors that were committed by the police forces.
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1963
+    nationalities:
+    - Iran
+    positions:
+    - Deputy Chief of Iran's National Police
+    - IRGC commander
+    - Head of the Centre for Strategic Studies Centre of the Iranian Law Enforcement
+      Force
+    - Former Head of the Centre for Strategic Studies of the Iranian Law Enforcement
+      Force
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Isfahan
+        country_of_birth: Iran

@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -32,3 +33,18 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Nemtsev became Chair of the “Legislative Assembly” of Sevastopol in September 2019. Nemtsev is also leader of United Russia’s Sevastopol branch and involved in the Russian-organised illegal local elections, which undermined Ukrainian sovereignty. He has also been awarded a medal for the “return of Crimea” from the Russian Defence Ministry, demonstrating his involvement in activities undermining Ukrainian territorial integrity. The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1971-11-15'
+    nationalities:
+    - Ukraine
+    - Russia
+    positions:
+    - Chair, “Legislative Assembly of Sevastopol”
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: The Autonomous Republic of Crimea and the city of Sevastopol
+        country_of_birth: Ukraine

@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -34,3 +35,7 @@ other_information: 'Director: Yang Guangqiu (XPCC PSB Director and Chief Inspect
 uk_statement_of_reasons: |2-
 
   The Xinjiang Production and Construction Corps Public Security Bureau (XPCC PSB), is a state run organisation that administers security and policing for specific cities and sub-prefecture level areas across Xinjiang. The XPCC PSB is responsible for XPCC public security work in Xinjiang areas administered by the XPCC. Consequently, it is responsible for serious violations of the right not to be subject to torture or cruel, inhuman or degrading treatment, or punishment, that have taken place in so called "training centres" in these areas.
+entity_details:
+  entity:
+    types_of_entity:
+    - Public Security Body

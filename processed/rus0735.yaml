@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,19 @@ uk_statement_of_reasons: |2-
 
   Colonel Dmitry Anatolievich MIHOLAP is a member of the Armed Forces of Belarus, he currently holds the position of Deputy Commander of the Air Force and Air Defence Forces. In this position he is deemed to have been either in direct command of or in a position to hold considerable situational awareness of troops involved in the Russian invasion of Ukraine through the facilitation of Russian freedom of movement into the north of Ukraine. He is also deemed to be in a position that provides logistical support to the Armed Forces of the Russian Federation in their ongoing military operations in Ukraine.
    The trust services sanctions were imposed on 21/03/2023.
+titles:
+- Colonel
+individual_details:
+  individual:
+    dobs:
+    - '1974-12-28'
+    nationalities:
+    - Belarus
+    positions:
+    - Deputy Commander of the Air Force and Air Defence Forces
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Bukino
+        country_of_birth: Belarus

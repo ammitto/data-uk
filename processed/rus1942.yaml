@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -48,3 +49,18 @@ uk_statement_of_reasons: "\nJudge Ekaterina DOROKHINA is an involved person unde
   is providing support for this policy. Therefore, DOROKHINA is an involved person
   because she is providing support for a policy that is destabilising Ukraine and
   undermining its territorial integrity and sovereignty.\n"
+titles:
+- Judge
+individual_details:
+  individual:
+    dobs:
+    - '1971-06-15'
+    nationalities:
+    - Russia
+    positions:
+    - Moscow City Court Judge
+    genders:
+    - Female
+    birth_details:
+      locations:
+      - country_of_birth: Russia

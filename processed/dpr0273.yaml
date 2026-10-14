@@ -26,6 +26,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: true
   chartering_of_ships: true
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,11 @@ sanctions_imposed_indicators:
 other_information: Son Jong Hyok is a KOMID official that has conducted business in
   Sudan on behalf of KOMID’s interests.
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - '1980-05-20'
+    nationalities:
+    - North Korea
+    positions:
+    - KOMID Official

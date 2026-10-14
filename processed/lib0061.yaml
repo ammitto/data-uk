@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -35,3 +36,23 @@ uk_statement_of_reasons: "\n"
 addresses:
   addresses:
   - address_country: Turkey
+individual_details:
+  individual:
+    dobs:
+    - '1973-05-27'
+    - '1975-01-01'
+    positions:
+    - Commander Special Forces
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Tripoli
+        country_of_birth: Libya
+    passport_details:
+      passports:
+      - number: '014797'
+      - number: '524521'
+      - number: AA862825
+        additional_information: 'Libya number, issued on 19 May 2021, issued in Tripoli
+          (expires 18 May 2029) '

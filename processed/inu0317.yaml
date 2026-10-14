@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,9 @@ addresses:
     address_line3: Karimkhan Boulevard
     address_line6: Tehran
     address_country: Iran
+phone_numbers:
+- "+98-21-8487-8311"
+websites:
+- http://www.edbi.ir/
+- www.nigc.org
+- www.nigc.ir

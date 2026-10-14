@@ -46,6 +46,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -71,3 +72,24 @@ addresses:
     address_line2: Spin Boldak District
     address_line6: Kandahar province
     address_country: Afghanistan
+titles:
+- Haji
+- Hajji
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1957
+    - dd/mm/1960
+    - '1963-01-01'
+    nationalities:
+    - Afghanistan
+    birth_details:
+      locations:
+      - town_of_birth: Chaman border town
+        country_of_birth: Pakistan
+      - town_of_birth: Pishin, Baluchistan Province
+        country_of_birth: Pakistan
+    national_identifier_details:
+      national_identifiers:
+      - number: 54201-247561-5
+        additional_information: Pakistani. Officially cancelled as of 2013.

@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -58,3 +59,14 @@ addresses:
   - address_line1: 2-YA FRUNZENSKAYA 12-25
     address_line6: Moscow
     address_country: Russia
+individual_details:
+  individual:
+    dobs:
+    - '1962-10-04'
+    - '1962-10-04'
+    positions:
+    - Chairman of the Board of Directors of Kirov Non-Ferrous Metal Processing Plant
+      OJSC
+    - Co-owner of Ural Mining and Metallurgical Company (UMMC)
+    genders:
+    - Male

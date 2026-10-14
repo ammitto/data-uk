@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -33,3 +34,9 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2
 
   Habibollah SAYYARI is an involved person within the meaning of the Iran (Sanctions) Regulations 2023 as through his roles as Head of the Joint Staff of the Iranian Army and is Deputy Chief of the Iranian Army for Coordination, SAYYARI is or has been involved in hostile activity by the Government of Iran, namely threatening, planning or conducting activity which is intended to undermine the integrity, prosperity or security of Israel.
+titles:
+- Rear Admiral
+individual_details:
+  individual:
+    nationalities:
+    - Iran

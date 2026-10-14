@@ -25,6 +25,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -40,3 +41,27 @@ uk_statement_of_reasons: "\n"
 addresses:
   addresses:
   - address_country: Libya
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1949
+    - dd/mm/1948
+    positions:
+    - Director Military Intelligence
+    birth_details:
+      locations:
+      - town_of_birth: Anefif (Kidal)
+        country_of_birth: Mali
+      - town_of_birth: Anefif
+        country_of_birth: Mali
+      - country_of_birth: Sudan
+    passport_details:
+      passports:
+      - number: B0515260
+        additional_information: 'Date of issue: 10 Jan 2012; Place of issue: Bamako,
+          Mali; Date of expiration: 10 Jan 2017.'
+    national_identifier_details:
+      national_identifiers:
+      - number: 073/SPICRE
+        additional_information: 'Mali ID Number Date of issue: 6 Dec 2011; Place of
+          issue: Essouck, Mali'

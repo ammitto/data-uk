@@ -19,6 +19,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -30,3 +31,7 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Judge of the Ahwaz Revolutionary Court, Branch 4, imposed death sentences on four Arab political prisoners, Taha Heidarian, Abbas Heidarian, Abd al-Rahman Heidarian (three brothers) and Ali Sharifi. They were arrested, tortured and hanged without due process. These cases and the lack of due process were referenced in a report dated 13 September 2012 by the UN Special Rapporteur on human rights in Iran, the UN Secretary General's report on Iran of 22 August 2012.
+individual_details:
+  individual:
+    positions:
+    - Judge of the Ahwaz Revolutionary Court, Branch 4

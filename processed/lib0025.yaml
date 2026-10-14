@@ -19,6 +19,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -30,3 +31,16 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Former senior role in security services and director of radio and television. Involved in activities carried out on behalf of the former regime of Muammar Qadhafi implementing or connected to the repressive policies of that regime.
+individual_details:
+  individual:
+    dobs:
+    - '1954-07-08'
+    positions:
+    - Former close collaborator of Colonel Qadhafi’s, senior role in security services
+      and former director of radio and television
+    genders:
+    - Male
+    passport_details:
+      passports:
+      - number: B/014924
+        additional_information: expired end 2013

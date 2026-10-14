@@ -42,6 +42,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -55,3 +56,11 @@ other_information: Saidi is more often referred to as the ‘Representative of t
 uk_statement_of_reasons: |2-
 
   Representative of the Supreme Leader to the IRGC
+individual_details:
+  individual:
+    positions:
+    - Representative of the Guide for the Pasdaran
+    - Currently heads the Supreme Leader’s own Ideational-Political Office
+    - Formerly served in the Intelligence Units of the IRGC
+    genders:
+    - Male

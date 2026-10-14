@@ -31,6 +31,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -42,3 +43,20 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Badr Lafi M Al Otaibi held the rank of Major and was involved in External Intelligence in Saudi Arabia. He was part of the 15 man team sent to Turkey by Saudi authorities and was present during the unlawful killing of Jamal Khashoggi at the Saudi Consulate in Istanbul on 2 October 2018.
+individual_details:
+  individual:
+    dobs:
+    - '1973-07-06'
+    nationalities:
+    - Saudi Arabia
+    positions:
+    - Major, External Intelligence
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Riyadh
+        country_of_birth: Saudi Arabia
+    passport_details:
+      passports:
+      - number: P667604

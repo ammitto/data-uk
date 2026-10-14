@@ -18,6 +18,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -35,3 +36,14 @@ addresses:
     address_line5: Hlaing Township
     address_line6: Yangon
     address_country: Myanmar
+phone_numbers:
+- "+95 1 500355"
+- "+95 1 500344"
+email_addresses:
+- info@htoo.com
+entity_details:
+  entity:
+    types_of_entity:
+    - Private Company
+    parent_companies:
+    - Htoo Group of Companies

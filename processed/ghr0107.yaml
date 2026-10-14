@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -40,3 +41,20 @@ addresses:
     address_line3: Mae Fah Luang District
     address_line6: Chiang Rai
     address_country: Thailand
+individual_details:
+  individual:
+    dobs:
+    - '1977-01-01'
+    nationalities:
+    - Thailand
+    positions:
+    - Shareholder in Kings Romans Company Limited
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Thailand
+    national_identifier_details:
+      national_identifiers:
+      - number: 5-5715-00025-50-6
+        additional_information: Thailand

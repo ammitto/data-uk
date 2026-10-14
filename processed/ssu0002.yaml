@@ -33,6 +33,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -58,3 +59,24 @@ addresses:
   - address_line1: Wau
     address_line6: Western Bahr El Ghazal
     address_country: South Sudan
+titles:
+- Lieutenant General
+individual_details:
+  individual:
+    dobs:
+    - '1966-01-01'
+    nationalities:
+    - South Sudan
+    positions:
+    - Chief of Defence Forces
+    - Former Sudan People’s Liberation Army’s (SPLA) Sector One Commander
+    birth_details:
+      locations:
+      - country_of_birth: Sudan
+    passport_details:
+      passports:
+      - number: D00008623
+        additional_information: South Sudan number
+    national_identifier_details:
+      national_identifiers:
+      - number: M6600000258472

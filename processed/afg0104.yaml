@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,23 @@ other_information: 'Reportedly deceased. Review pursuant to Security Council res
   Notice web link: https://www.interpol.int/en/ How-we-work/Notices/View-UN-Notices-Individuals
   click here'
 uk_statement_of_reasons: "\n"
+titles:
+- Alhaj
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1934
+    nationalities:
+    - Afghanistan
+    positions:
+    - Head of Afghan Trade Agency, Peshawar, Pakistan
+    birth_details:
+      locations:
+      - town_of_birth: Ghazni Province
+        country_of_birth: Afghanistan
+      - town_of_birth: Logar Province
+        country_of_birth: Afghanistan
+    passport_details:
+      passports:
+      - number: SE 011252
+        additional_information: "(Afghan)"

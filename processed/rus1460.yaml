@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,15 @@ uk_statement_of_reasons: |2-
 
   Mikhail Alekseevich KLISHIN is a member of the Board of Directors of JSC SOGAZ - a major Russian reinsurance company which services sectors of strategic importance to the Russian Government. SOGAZ, which was designated by the United Kingdom for the purposes of an asset freeze on the 15th of March 2022, operates in the Russian financial services sectors. KLISHIN is also a director of Russian financial services firm ZEST. As a director of entities carrying on business in a sector of strategic significance to the Government of Russia, KLISHIN has obtained a benefit from or supported the Government of Russia. JSC SOGAZ insured the construction of the railway infrastructure connecting the bridge over the Kerch Strait and the Port of Taman and reinsured the construction of the bridge over the Kerch Strait between the Russian mainland and the Crimean peninsula. In doing so, SOGAZ supported the illegally annexed Crimean peninsula into the Russian Federation which in turn further undermined the territorial integrity, sovereignty and independence of Ukraine. Therefore, KLISHIN, as a director of SOGAZ, has been responsible for, engaged in, provided support for, or promoted any policies or actions which have destabilised and undermined the territorial integrity, sovereignty or independence of Ukraine.
    The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1954-10-09'
+    nationalities:
+    - Russia
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: St Petersburg
+        country_of_birth: Russia

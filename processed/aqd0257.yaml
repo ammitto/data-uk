@@ -37,6 +37,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -50,3 +51,21 @@ other_information: 'Financial and foreign fighter facilitator for Islamic State 
   to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019. INTERPOL-UN
   Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals.'
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - '1973-01-04'
+    nationalities:
+    - Yemen
+    birth_details:
+      locations:
+      - town_of_birth: Jeddah
+        country_of_birth: Saudi Arabia
+    passport_details:
+      passports:
+      - number: '01055336'
+        additional_information: Yemeni
+    national_identifier_details:
+      national_identifiers:
+      - number: '2054275397'
+        additional_information: Saudi Arabian alien registration number

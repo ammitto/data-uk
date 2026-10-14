@@ -29,6 +29,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -45,3 +46,21 @@ addresses:
   - address_line1: Qasr Ahmed Street
     address_line2: Misurata
     address_country: Libya
+individual_details:
+  individual:
+    dobs:
+    - '1956-01-01'
+    nationalities:
+    - Libya
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Misurata
+        country_of_birth: Libya
+    passport_details:
+      passports:
+      - number: A005465
+        additional_information: issued 12/04/2015 expired 11/04/2017
+      - number: J690P666
+        additional_information: "(Libya) issued 12 June 2016, expires 11 June 2024"

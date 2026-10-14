@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -31,3 +32,18 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2
 
   Luis Miguel Martínez Morales (“Martínez”) is an involved person within the meaning of the Global Anti-Corruption Sanctions Regulations 2021 on the basis of the following ground: Martínez is associated with a person who is or has been involved in serious corruption, namely Alejandro Eduardo Giammattei Falla.
+individual_details:
+  individual:
+    dobs:
+    - '1989-09-12'
+    nationalities:
+    - Guatemala
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Santa Lucia Cotzumalguapa
+        country_of_birth: Guatemala
+    national_identifier_details:
+      national_identifiers:
+      - number: '2459072030502'

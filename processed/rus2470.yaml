@@ -27,6 +27,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -45,3 +46,14 @@ addresses:
     address_line3: Donetsk Peoples Republic
     address_line6: Torez City
     address_country: Ukraine
+phone_numbers:
+- "+7 (499) 709-00-00"
+- "+7 (903) 403-46-64"
+- "+7 (949) 591-54-68"
+email_addresses:
+- info@impeks-don.ru
+entity_details:
+  entity:
+    business_registration_numbers:
+    - "Russia INN – 6167128827 \nRussia OGRN – 1156196039152 \nRussia KPP – 616601001
+      \nRussia KPP - 930401001"

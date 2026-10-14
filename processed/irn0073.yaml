@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -33,3 +34,18 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Former Prosecutor General of Tehran until August 2009. As Tehran Prosecutor General, he issued a blanket order used for the detention of hundreds of activists, journalists and students. In January 2010 a parliamentary investigation held him directly responsible for the detention of three prisoners who subsequently died in custody. He was suspended from office in August 2010 after an investigation by the Iranian judiciary into his role in the deaths of the three men detained on his orders following the election. In November 2014, his role in the deaths of detainees was officially recognised by the Iranian authorities. He was acquitted by an Iranian Court on 19 August 2015, on charges connected to the torture and deaths of three young men at the Kahrizak detention centre in 2009.
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1967
+    positions:
+    - Former Prosecutor General of Tehran 2003-2009
+    - Former Prosecutor General of Tehran until August 2009
+    - Former Head of Anti-Smuggling Taskforce
+    - Former Head of Social Security Organisation
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Meybod, Yazd
+        country_of_birth: Iran

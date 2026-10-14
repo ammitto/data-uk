@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -43,3 +44,11 @@ addresses:
   - address_line1: NIOC House
     address_line2: 4 Victoria Street
     address_line6: London
+email_addresses:
+- info@nioc-intl.ir
+websites:
+- www.nioc-intl.ir
+entity_details:
+  entity:
+    parent_companies:
+    - National Iranian Oil Company

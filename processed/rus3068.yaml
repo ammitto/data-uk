@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,15 @@ addresses:
   addresses:
   - address_line1: 75 High Street
     address_country: Singapore
+individual_details:
+  individual:
+    dobs:
+    - '1982-10-20'
+    nationalities:
+    - Singapore
+    positions:
+    - Owner of ALT Capital PTE Ltd
+    - Owner of METAFLARE PTE LTD
+    - Owner of MECHEL CARBON (SINGAPORE) PTE LTD
+    genders:
+    - Female

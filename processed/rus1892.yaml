@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -38,3 +39,13 @@ addresses:
   - address_line1: Pl. Severnaya D. 3
     address_line6: Taganrog
     address_country: Russia
+phone_numbers:
+- "+7 8634 310726"
+email_addresses:
+- Kg.metrolog@gmail.com
+websites:
+- http://hpress.ttn.ru
+entity_details:
+  entity:
+    business_registration_numbers:
+    - TIN 6154082903

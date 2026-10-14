@@ -56,6 +56,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -68,3 +69,17 @@ other_information: He is subject to EU sanctions for Misappropriaton of state as
 uk_statement_of_reasons: |2-
 
   Viktor Pshonka was Prosecutor-General of Ukraine during the suppression of the Ukrainian protest movement from 2013-2014. His office was the primary organ for investigating allegations against Ukrainian law enforcement. There are reasonable grounds to suspect that he intentionally or recklessly failed to ensure that his office investigated credible allegations of torture and the illegal use of lethal force by Ukrainian law enforcement, or properly investigated cases of the torture and killings of protesters.
+individual_details:
+  individual:
+    dobs:
+    - '1954-02-06'
+    nationalities:
+    - Ukraine
+    positions:
+    - Former General Prosecutor of Ukraine
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Serhiyivka, Donetsk oblast
+        country_of_birth: Ukraine

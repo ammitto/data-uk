@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -43,3 +44,26 @@ addresses:
   addresses:
   - address_line1: 10/177 Mamina Sibiryaka street,
     address_line2: Ekaterinburg,
+phone_numbers:
+- '79857665437'
+email_addresses:
+- oleg@uralturcom.com
+individual_details:
+  individual:
+    dobs:
+    - '1971-11-30'
+    nationalities:
+    - Russia
+    positions:
+    - Chairperson of Rostov Regional Election Commission
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Rostov-on-Don
+        country_of_birth: Russia
+    passport_details:
+      passports:
+      - number: '0875723'
+        additional_information: '5392205 (Expiry: 02 Dec 2004) 628491783 (Expiry:
+          20 Jun 2011)'

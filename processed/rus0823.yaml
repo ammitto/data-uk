@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -56,3 +57,16 @@ uk_statement_of_reasons: "\nYuri Yakovlevich CHAIKA, hereafter CHAIKA, is an inv
   integrity, sovereignty or independence of Ukraine by working for the Government
   of Russia as the Presidential Plenipotentiary Envoy to the North Caucasus Federal
   District. \n"
+individual_details:
+  individual:
+    dobs:
+    - '1951-05-21'
+    positions:
+    - Presidential Plenipotentiary Envoy to North Caucasus Federal District, Member
+      of the Security Council of the Russian Federation
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Nikolayevsk-on Amur, Khabarovsk Territory
+        country_of_birth: Russia

@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: true
   chartering_of_ships: true
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -33,3 +34,13 @@ uk_statement_of_reasons: "\n"
 addresses:
   addresses:
   - address_country: North Korea
+individual_details:
+  individual:
+    dobs:
+    - '1970-02-19'
+    positions:
+    - President of Korea Kumsan Trading Corporation, a company that procures supplies
+      for General Bureau of Atomic Energy and serves as a cash route to the DPRK
+    passport_details:
+      passports:
+      - number: '563120238'

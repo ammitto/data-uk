@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -32,3 +33,11 @@ other_information: 'Listed pursuant to paragraphs 15 and 17 of resolution 1970 (
   Ban, Asset Freeze). Believed status/location: deceased. INTERPOL-UN Security Council
   Special Notice web link: https://www.interpol.int/en/notice/search/un/5525855'
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1978
+    birth_details:
+      locations:
+      - town_of_birth: Tripoli
+        country_of_birth: Libya

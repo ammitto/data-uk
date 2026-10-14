@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -57,3 +58,19 @@ uk_statement_of_reasons: "\nThere are reasonable grounds to suspect that Ángel 
   investigations into the Guatemalan political elite and pursuing meritless legal
   challenges against journalists, judges and prosecutors who revealed endemic corruption
   in Guatemala.\n"
+individual_details:
+  individual:
+    dobs:
+    - '1975-05-10'
+    nationalities:
+    - Guatemala
+    positions:
+    - Secretary General of the Public Ministry (Ministerio Público)
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Guatemala
+    passport_details:
+      passports:
+      - number: '238937186'

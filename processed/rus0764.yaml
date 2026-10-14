@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -40,3 +41,18 @@ uk_statement_of_reasons: "\nAs a prominent TV presenter in Russia, Anton Krasovs
   has provided support for and promoted actions and policies which undermine or threaten
   the territorial integrity, sovereignty or independence of Ukraine.  \n The trust
   services sanctions were imposed on 21/03/2023."
+individual_details:
+  individual:
+    dobs:
+    - '1975-07-18'
+    nationalities:
+    - Russia
+    positions:
+    - Activist, journalist, political scientist, host of a talk show named “The Antonyms”
+      on RT; he is also a director of broadcasting at RT
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Podolsk
+        country_of_birth: Russia

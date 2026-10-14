@@ -25,6 +25,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,17 @@ uk_statement_of_reasons: "\nDenis SERGEEV is an involved person under the Chemic
   to chemical weapons. Specifically, SERGEEV provided support in the preparation and
   use of the chemical weapon Novichok in Salisbury on 4 March 2018, and provided a
   coordinating role in London on the weekend of the attack.  \n"
+individual_details:
+  individual:
+    dobs:
+    - '1973-09-17'
+    nationalities:
+    - Russia
+    positions:
+    - An officer of senior rank, possibly Major General, serving in the Russian Military
+      Intelligence Service (GRU)
+    genders:
+    - Male
+    passport_details:
+      passports:
+      - number: 45 15257657

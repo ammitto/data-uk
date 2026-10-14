@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -35,3 +36,16 @@ uk_statement_of_reasons: |2-
 
   Anna TSIVILEVA is a Russian businessperson who serves as Chair of the Board of Directors of JSC Kolmar Group. JSC Kolmar Group is carrying on business in sectors of strategic significance to the Government of Russia, namely the Russian energy and extractives sector. Therefore, TSIVILEVA is or has been involved in obtaining a benefit from, or supporting, the Government of Russia.
    The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1972-05-09'
+    genders:
+    - Female
+    birth_details:
+      locations:
+      - town_of_birth: Ivanovo
+        country_of_birth: Russia
+    national_identifier_details:
+      national_identifiers:
+      - additional_information: 'Tax ID: 771921270207'

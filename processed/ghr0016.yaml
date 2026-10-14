@@ -27,6 +27,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -38,3 +39,13 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Victor Yakovlevich Grin was Deputy General Prosecutor of the Prosecutor General’s Office of the Russian Federation. In that role he was responsible for overseeing the case of Sergei Magnitsky during his detention, as well as responsible for investigating the claims of mistreatment of Magnitsky and his subsequent death on 16 November 2009. He intentionally or recklessly failed to fulfil that responsibility, including by issuing conclusions stating that there had been no violation of law by Interior Ministry investigators whilst Magnitsky was in detention which were then used to justify not prosecuting those alleged to be responsible for his mistreatment and death.
+individual_details:
+  individual:
+    dobs:
+    - '1951-01-01'
+    nationalities:
+    - Russia
+    positions:
+    - Deputy General Prosecutor in Prosecutors office
+    genders:
+    - Male

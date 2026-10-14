@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -45,3 +46,21 @@ addresses:
     address_line2: High-Tech Zone
     address_line6: Suzhou
     address_country: China
+phone_numbers:
+- "+86 512 6239 9980"
+- "+86 512 6239 2186"
+- "+86 512-6607 1116"
+- "+86 512-6607 6668"
+email_addresses:
+- cncsale@neway.com.cn
+websites:
+- http://www.newaycnc.com
+entity_details:
+  entity:
+    business_registration_numbers:
+    - CNE100005063
+    types_of_entity:
+    - Joint Stock Company
+    subsidiaries:
+    - Suzhou Neway Machine Tool Design and Research Institute Co., Ltd.; Neway Cnc
+      (USA), Inc.

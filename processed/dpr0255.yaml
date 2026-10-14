@@ -26,6 +26,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: true
   chartering_of_ships: true
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -37,3 +38,14 @@ other_information: Official for Korea Ryonbong General Corporation, which specia
   in acquisition for DPRK’s defense industries and support to Pyongyang’s military-related
   sales. Its procurements also likely support the DPRK’s chemical weapons program.
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    nationalities:
+    - North Korea
+    positions:
+    - Official for Korea Ryonbong General Corporation
+    genders:
+    - Male
+    passport_details:
+      passports:
+      - number: '563120235'

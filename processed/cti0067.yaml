@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -35,3 +36,7 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2
 
   Al Mutahadun for Exchange (hereafter “AL MUTAHADUN”) is an involved person within the meaning of the Counter-Terrorism (International Sanctions) (EU Exit) Regulations 2019 on the basis of the following ground: AL MUTAHADUN is and/or has been involved in terrorist activity by providing financial services, and/or making available funds or economic resources, for the purposes of terrorism, specifically to Hamas.
+entity_details:
+  entity:
+    types_of_entity:
+    - Currency Exchange

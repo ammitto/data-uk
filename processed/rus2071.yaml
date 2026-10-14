@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -51,3 +52,15 @@ uk_statement_of_reasons: "\nIgor Vladimirovich ZYUZIN is an involved person unde
   of Russia by working as a director or equivalent, of Mechel PAO, a business in the
   Russian extractives sector, a sector of strategic significance to the Government
   of Russia.  \n"
+individual_details:
+  individual:
+    dobs:
+    - '1960-05-29'
+    positions:
+    - Chairman of the board of directors of Mechel PAO
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Kimovsk
+        country_of_birth: Russia

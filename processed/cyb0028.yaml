@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,9 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2
 
   Ivan Vasilyevich VAKHROMEYEV is or has been involved in relevant cyber activity, including being responsible for, engaging in, providing support for, or promoting the commission, planning or preparation of relevant cyber activity; and providing technical assistance that could contribute to relevant cyber activity, namely ransomware attacks which were intended to undermine the integrity, prosperity and security of the United Kingdom and other countries, and were intended to cause economic loss to, or prejudice the commercial interests of, those companies affected by the activity. 
+individual_details:
+  individual:
+    dobs:
+    - '1988-12-29'
+    nationalities:
+    - Russia

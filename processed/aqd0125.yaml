@@ -113,6 +113,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -129,3 +130,16 @@ uk_statement_of_reasons: "\n"
 addresses:
   addresses:
   - address_country: United States
+individual_details:
+  individual:
+    dobs:
+    - '1974-03-14'
+    - '1974-04-13'
+    - '1974-04-14'
+    - '1970-08-01'
+    nationalities:
+    - Tanzania
+    birth_details:
+      locations:
+      - town_of_birth: Zanzibar
+        country_of_birth: Tanzania

@@ -26,6 +26,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -37,3 +38,23 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2
 
   As Director General of Intelligence in the Internal Security Directorate of Iran’s Ministry of Intelligence and Security (MOIS), Saeid Hashemi Moghadam was involved in the foiled terrorist attack against a meeting of the Iranian exiles in Villepinte in June 2018.
+titles:
+- Director General of Intelligence
+individual_details:
+  individual:
+    dobs:
+    - '1962-08-06'
+    nationalities:
+    - Iran
+    positions:
+    - Deputy Minister, Iranian Ministry of Intelligence and Security (Internal Security
+      Directorate)
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Tehran
+        country_of_birth: Iran
+    passport_details:
+      passports:
+      - number: N/A

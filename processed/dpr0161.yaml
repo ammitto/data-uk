@@ -48,6 +48,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: true
   chartering_of_ships: true
   crew_servicing_of_ships_and_aircraft: true
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -73,3 +74,16 @@ addresses:
   - address_line5: Mangyongdae District
     address_line6: Pyongyang
     address_country: North Korea
+phone_numbers:
+- 850-2-381-4410
+- 850 2 18111-3818642
+- 850-2-18111
+- 850-2-18111-8642
+email_addresses:
+- and millim@silibank.com
+- ryonha@silibank.com
+- sjc-117@hotmail.com
+entity_details:
+  entity:
+    parent_companies:
+    - Korea Ryonbong General Corporation

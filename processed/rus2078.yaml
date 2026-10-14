@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -54,3 +55,15 @@ addresses:
   - address_line1: RUE DE VILLEREUSE 22
     address_line6: Geneva
     address_country: Switzerland
+phone_numbers:
+- "+41 22 7187860"
+websites:
+- https://parencom.ch/
+entity_details:
+  entity:
+    business_registration_numbers:
+    - 'TIN: 260995972'
+    types_of_entity:
+    - Limited company
+    subsidiaries:
+    - PARAMOUNT ENERGY & COMMODITIES DMCC

@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -33,3 +34,15 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Sergei Podoprigorov was a judge at Moscow’s Tverskoi district court. He made two rulings in relation to Sergei Magnitsky: in November 2008 to approve Magnitsky’s arrest and in March 2009 to prolong his detention. In this capacity, Podoprigorov authorised Magnitsky’s detention, prolonging his detention without trial without subjecting to challenge the evidence originally provided to justify Magnitsky’s detention or exploring other factors relevant to the decision. Podoprigorov therefore facilitated the mistreatment and death of Magnitsky by authorising the extension of his detention.
+individual_details:
+  individual:
+    dobs:
+    - '1974-01-08'
+    nationalities:
+    - Russia
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Moscow
+        country_of_birth: Russia

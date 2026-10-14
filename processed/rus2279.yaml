@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -42,3 +43,24 @@ uk_statement_of_reasons: "\nDavor Dragolobovic SAVICIC is an involved person und
   territorial integrity, sovereignty or independence of Ukraine \nbecause he engages
   in policies and actions which \ndestabilise Ukraine or undermine or threaten the
   territorial integrity, sovereignty or independence of Ukraine.\n"
+individual_details:
+  individual:
+    dobs:
+    - '1980-10-01'
+    nationalities:
+    - Bosnia and Herzegovina
+    - Bosnia and Herzegovina
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Banovici
+        country_of_birth: Bosnia and Herzegovina
+    passport_details:
+      passports:
+      - number: A1001482
+      - number: F1001482
+    national_identifier_details:
+      national_identifiers:
+      - number: '230119523203'
+      - number: M-0335

@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -43,3 +44,21 @@ addresses:
     address_line4: Tarajit Maydane Taymori Square
     address_line6: Tehran
     address_country: Iran
+individual_details:
+  individual:
+    dobs:
+    - '1968-05-02'
+    nationalities:
+    - Iran
+    positions:
+    - Managing Director of QODS AVIATION INDUSTRIES (QAI) (also known as Light Aircraft
+      Design and Manufacturing Industries)
+    genders:
+    - Male
+    passport_details:
+      passports:
+      - number: G9336_77
+        additional_information: Expired 27 October 2019
+    national_identifier_details:
+      national_identifiers:
+      - number: '005294492'

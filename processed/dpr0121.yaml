@@ -30,6 +30,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: true
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -42,3 +43,23 @@ other_information: Pursuant to paragraph 6 of Security Council Resolution 2371 (
   Council resolution 2321 (2016). The merchant vessel M/V SHANG YUAN BAO engaged in
   a ship-to-ship transfer, likely for oil, with UN-designated DPRK vessel M/V PAEK
 uk_statement_of_reasons: "\n"
+ship_details:
+  ship:
+    imo_numbers:
+    - '8126070'
+    current_owner_operators:
+    - Fortune Maker International
+    current_believed_flags:
+    - Panama
+    previous_flags:
+    - Mongolia
+    - Panama
+    - Thailand
+    types_of_ship:
+    - Oil Tanker
+    tonnages:
+    - '3508'
+    lengths:
+    - '100'
+    years_built:
+    - '1982'

@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -32,3 +33,18 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   In taking the role of secretary of the Sevastopol City Electoral Commission, Pyrkova organised elections in Sevastopol under Russian law, thereby violating the Constitution and laws of Ukraine and undermining Ukrainian sovereignty and territorial integrity, helping facilitate the integration of Sevastopol into Russia. The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1967-08-22'
+    nationalities:
+    - Ukraine
+    - Russia
+    positions:
+    - Secretary of the Sevastopol Central Electoral Commission
+    genders:
+    - Female
+    birth_details:
+      locations:
+      - town_of_birth: The Autonomous Republic of Crimea and the city of Sevastopol
+        country_of_birth: Ukraine

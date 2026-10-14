@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -45,3 +46,16 @@ addresses:
     address_line3: Panfilov 178
     address_line6: Bishkek
     address_country: Kyrgyzstan
+phone_numbers:
+- "+996 509 606 606   +996 508 999 804   +996 706 207 401"
+email_addresses:
+- info@kifiko.kg
+websites:
+- https://kifiko.kg/
+entity_details:
+  entity:
+    business_registration_numbers:
+    - "Kyrgyzstan INN - 02909202210217 \nKyrgyzstan Company Registration Number -
+      \ \n210051-3301-ООО \nKyrgyzstan OKPO - 31572977"
+    types_of_entity:
+    - LLC

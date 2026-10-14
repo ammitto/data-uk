@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -34,3 +35,17 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Member of the National Security and Foreign policy Committee. Parliamentary deputy for Lorestan Province. Member of the Parliamentary Commission for Foreign and Security Policy. Head of Evin prison until 2012. Torture was a common practice in Evin prison while Souri was its head. In Ward 209, many activists were held for their peaceful activities in opposition to the ruling government.
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1964
+    positions:
+    - Former Head of Evin prison until 2012.
+    - Parliamentary deputy for Lorestan Province.Member of the Parliamentary Commission
+      for Foreign and Security Policy
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Selseleh
+        country_of_birth: Iran

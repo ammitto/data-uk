@@ -45,6 +45,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -60,3 +61,18 @@ addresses:
   addresses:
   - address_line6: The Autonomous Republic of Crimea and the city of Sevastopol
     address_country: Ukraine
+individual_details:
+  individual:
+    dobs:
+    - '1967-11-27'
+    nationalities:
+    - Ukraine
+    positions:
+    - Former Minister of the Interior of the Republic
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Simferopol, The Autonomous Republic of Crimea and the city
+          of Sevastopol
+        country_of_birth: Ukraine

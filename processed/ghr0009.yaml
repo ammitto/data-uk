@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -34,3 +35,17 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Ivan Pavlovitch Prokopenko was the Head of the Russian Penitentiary Service (FSIN) at Matrosskaya Tishina pre-trial detention centre where Magnitsky was detained from 28 November 2008 to 25 July 2009. The FSIN is a federal law enforcement body responsible for the supervision of sentences. Heading the FSIN service at Matrosskaya Tishina, Prokopenko was responsible for the supervision of Magnitsky’s sentence. In this role, Prokopenko facilitated the mistreatment of Sergei Magnitsky by transferring him from Matrosskaya Tishina detention centre to Butyrka Prison, ignoring Magnitsky’s medical needs which could have been provided for at Matrosskaya Tishina, and depriving Magnitsky of important medical care. This unreasonably put Magnitsky’s life in danger and contributed to his death.
+individual_details:
+  individual:
+    dobs:
+    - '1973-09-28'
+    nationalities:
+    - Russia
+    positions:
+    - Head of Russian Penitentiary Service at Matrosskaya Tishina Detention Facility
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Vinnitsa
+        country_of_birth: Ukraine

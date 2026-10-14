@@ -17,6 +17,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -32,3 +33,11 @@ other_information: 'Shipping sanctions: a specified ship is prohibited from be
 uk_statement_of_reasons: |2
 
   JALDHARA (IMO 9304825) is involved in activity whose object or effect is to destabilise Ukraine or undermine or threaten the territorial integrity, sovereignty or independence of Ukraine or to obtain a benefit from or support the Government of Russia. Namely, JALDHARA is involved in carrying oil and/or oil products that originated in Russia from Russia to a third country.
+ship_details:
+  ship:
+    imo_numbers:
+    - IMO9304825
+    current_owner_operators:
+    - Campana Shipping Inc
+    current_believed_flags:
+    - Panama

@@ -29,6 +29,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -45,3 +46,7 @@ uk_statement_of_reasons: "\nFormer so-called \"Prime Minister of the Donetsk Peo
   active in supporting separatist actions or policies; heads the “Union of Donbas
   volunteers”. \n \nInvolved actively in recruitment and training of “volunteers”
   sent to fight in Donbas.\n The trust services sanctions were imposed on 21/03/2023."
+individual_details:
+  individual:
+    dobs:
+    - '1972-07-25'

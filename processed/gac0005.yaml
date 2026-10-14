@@ -27,6 +27,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,9 @@ other_information: Husband of Olga STEPANOVA at the time of the serious corrupti
 uk_statement_of_reasons: |2-
 
   In December 2007, an organised criminal group was involved in serious corruption through the misappropriation of the equivalent of $230m of Russian state property via a complex scheme involving a fraudulent tax rebate. STEPANOV participated in the serious corruption through his involvement, in particular, owning a bank account which received misappropriated funds. His actions provided support for or facilitated the misappropriation. He transferred or converted, or facilitated the transfer or conversion of, the proceeds the serious corruption, and benefitted financially from the serious corruption. Stepanov is also associated with Olga Stepanova, his then wife, who is also a person involved in serious corruption.
+individual_details:
+  individual:
+    dobs:
+    - '1962-07-17'
+    genders:
+    - Male

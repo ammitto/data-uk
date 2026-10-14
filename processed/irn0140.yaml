@@ -27,6 +27,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -47,3 +48,22 @@ addresses:
     address_line5: Zein Aldin Municipality
     address_line6: Qom
     address_country: Iran
+individual_details:
+  individual:
+    dobs:
+    - '1962-11-11'
+    nationalities:
+    - Iran
+    positions:
+    - Chairman of the Board of Directors of the Islamic Revolutionary Guard Corps
+      (IRGC) Cooperative Foundation
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Dashtestan, Bushehr Province
+        country_of_birth: Iran
+    passport_details:
+      passports:
+      - number: Y53914915
+        additional_information: Expires 11/05/2026

@@ -29,6 +29,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -47,3 +48,21 @@ addresses:
     address_line2: District Number 5
     address_line6: Kabul
     address_country: Afghanistan
+titles:
+- Maulavi
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1970
+    nationalities:
+    - Afghanistan
+    positions:
+    - Education Attache, Taliban Consulate General, Peshawar, Pakistan
+    birth_details:
+      locations:
+      - town_of_birth: Kunduz Province
+        country_of_birth: Afghanistan
+    passport_details:
+      passports:
+      - number: 'SE-012820 '
+        additional_information: Afghan. Issued on 4 Nov 2000.

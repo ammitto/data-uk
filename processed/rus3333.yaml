@@ -30,6 +30,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -50,3 +51,21 @@ addresses:
     address_line2: 50th Anniversary of October Avenue
     address_line6: Saratov
     address_country: Russia
+phone_numbers:
+- "+7 845 230-80-51"
+- "+7 845 230-81-78"
+- "+7 845 230-81-72"
+email_addresses:
+- zem@sepo.ru
+- director@sepo.ru
+- sepo-energo@mail.ru
+websites:
+- www.sepo.ru
+entity_details:
+  entity:
+    business_registration_numbers:
+    - 'INN: 6453037698'
+    - OGRN - 1026403046702
+    types_of_entity:
+    - Limited Liability Company
+    - Limited Liability Company

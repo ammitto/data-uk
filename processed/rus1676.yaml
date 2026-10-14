@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,13 @@ uk_statement_of_reasons: "\nAlexander Vitalyevich TSYBULSKY is an involved perso
   under the Russia (Sanctions) (EU Exit) Regulations 2019 because TSYBULSKY is a regional
   governor. Specifically, TSYBULSKY is Governor of Arkhangelsk Region. \n The trust
   services sanctions were imposed on 21/03/2023."
+individual_details:
+  individual:
+    dobs:
+    - '1979-07-15'
+    nationalities:
+    - Russia
+    positions:
+    - Governor of Arkhangelsk Region
+    genders:
+    - Male

@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -40,3 +41,16 @@ addresses:
     address_line3: 1 Baharestan Square
     address_line6: Tehran
     address_country: Iran
+individual_details:
+  individual:
+    nationalities:
+    - Iran
+    positions:
+    - Former Head of Tehran Revolutionary Court; Representative of Bam at the 11th
+      Majlis and Head of the Judicial and Legal Commission
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Gonbaki, Kerman
+        country_of_birth: Iran

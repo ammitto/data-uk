@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,19 @@ uk_statement_of_reasons: |2
 
   The Secretary of State considers that there are reasonable grounds to suspect that VASILY VITALYEVICH ABRAMOV is an “involved person” under the Russia (Sanctions) (EU Exit) Regulations 2019 on the basis of the following ground: ABRAMOV has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by previously working as a director, trustee or other manager or equivalent position of KAZSTANEX LIMITED LIABILITY
    PARTNERSHIP (KAZSTANEX LLP). KAZSTANEX LLP is an involved person because it is, or has been, involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by making available economic resources, goods or technology that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine.
+email_addresses:
+- v.abramov@kazstanex.kz
+individual_details:
+  individual:
+    dobs:
+    - '1982-05-23'
+    positions:
+    - Chief Executive of KAZSTANEX LLP
+    genders:
+    - Male
+    national_identifier_details:
+      national_identifiers:
+      - number: '820523399043 '
+        additional_information: INN
+      - number: '600320653786'
+        additional_information: TRN

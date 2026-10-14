@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,17 @@ uk_statement_of_reasons: "\nMakhmud-Ali Maksharipovich KALIMATOV is an involved 
   under the Russia (Sanctions) (EU Exit) Regulations 2019 because KALIMATOV is a regional
   governor. Specifically, KALIMATOV is Head of Republic of Ingushetia. \n The trust
   services sanctions were imposed on 21/03/2023."
+individual_details:
+  individual:
+    dobs:
+    - '1959-04-09'
+    nationalities:
+    - Russia
+    positions:
+    - Head of Republic of Ingushetia
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: 'Shamalgan '
+        country_of_birth: Kazakhstan

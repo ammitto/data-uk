@@ -32,6 +32,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -51,3 +52,16 @@ addresses:
   - address_line1: Hafizabad Taluka Daharki
     address_line2: District Ghotki
     address_country: Pakistan
+titles:
+- Mr
+individual_details:
+  individual:
+    nationalities:
+    - Pakistan
+    positions:
+    - Cleric (“Pir”) of Bharchundi Sharif Shrine
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Pakistan

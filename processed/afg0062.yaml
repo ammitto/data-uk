@@ -36,6 +36,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -51,3 +52,30 @@ uk_statement_of_reasons: "\n"
 addresses:
   addresses:
   - address_country: Afghanistan
+titles:
+- Maulavi
+individual_details:
+  individual:
+    dobs:
+    - '1975'
+    - dd/mm/1971
+    - '1968-09-20'
+    nationalities:
+    - Afghanistan
+    positions:
+    - Deputy Minister of Security (Intelligence) under the Taliban regime (1996-2001)
+    - Deputy Minister of Security (Intelligence) under the Taliban regime
+    birth_details:
+      locations:
+      - town_of_birth: Gharib village, Khogyani District, Ghazni Province
+        country_of_birth: Afghanistan
+      - town_of_birth: Ghazni
+        country_of_birth: Afghanistan
+    passport_details:
+      passports:
+      - number: D0009755
+        additional_information: 'Afghanistan diplomatic passport, issued on 23 Oct.
+          2021, expires on 23 Oct. 2026 (Name in  Latin script: Abdulhaq Waseeq)'
+      - number: D0010689
+        additional_information: 'Issued on 29 Mar. 2026, expires 29 Mar. 2031 (Name
+          in Latin script: Abdulhaq Waseeq, name in original script: عبد الحق وثيق)'

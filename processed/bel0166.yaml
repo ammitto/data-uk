@@ -25,6 +25,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -43,3 +44,11 @@ addresses:
   - address_line1: 43-47 Surganova Street
     address_line6: Minsk
     address_country: Belarus
+phone_numbers:
+- "+375 17 217 64 63"
+websites:
+- www.alfabank.by
+entity_details:
+  entity:
+    types_of_entity:
+    - Closed Joint Stock Company

@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -31,3 +32,15 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Brigadier General Thura San Lwin, Commander of the Border Guard Police. He was commander of the BGP in Rakhine, during the most intense months of the Rohingya ‘clearance operations’, which commenced on 25 August 2017 and were at their most intense during the following two months. Thura San Lwin, directly and through his position of command, is responsible for overseeing the commission of serious human rights violations committed against the Rohingya in Rakhine State, including physical abuse, torture and sexual violence against and detention of Rohingya people.
+titles:
+- Brigadier General
+individual_details:
+  individual:
+    dobs:
+    - '1959-03-17'
+    nationalities:
+    - Myanmar
+    positions:
+    - Commander of the Border Guard Police
+    genders:
+    - Male

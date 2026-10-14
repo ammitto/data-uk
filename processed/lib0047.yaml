@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -41,3 +42,24 @@ uk_statement_of_reasons: "\n"
 addresses:
   addresses:
   - address_country: Oman
+individual_details:
+  individual:
+    dobs:
+    - '1978-01-01'
+    birth_details:
+      locations:
+      - town_of_birth: Tripoli
+        country_of_birth: Libya
+    passport_details:
+      passports:
+      - number: '03824970'
+        additional_information: 'Oman number, issued on 4 May 2014, issued in Muscat,
+          Oman (Date of expiration: 3 May 2024)'
+      - number: '215215'
+        additional_information: Libya Passport number
+      - number: B/011641
+      - number: '428720'
+        additional_information: Libya
+    national_identifier_details:
+      national_identifiers:
+      - number: '98606612'

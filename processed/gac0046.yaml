@@ -25,6 +25,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -40,3 +41,18 @@ uk_statement_of_reasons: "\nMarianne HOAYEK is an involved person under the Glob
   serious corruption given that she received benefit from funds over $300m improperly
   diverted, allocated or granted from the Central Bank of Lebanon whilst Riad Salameh
   was its Governor. \n"
+individual_details:
+  individual:
+    dobs:
+    - '1980-05-14'
+    nationalities:
+    - Lebanon
+    positions:
+    - Former senior adviser at the Central Bank of Lebanon
+    - Former assistant to Riad Salameh
+    genders:
+    - Female
+    birth_details:
+      locations:
+      - town_of_birth: Faytroun
+        country_of_birth: Lebanon

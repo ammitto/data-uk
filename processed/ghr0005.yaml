@@ -19,6 +19,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -30,3 +31,11 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Natalya Vinogradova, as the Deputy Head of the Ownership and Financial Crimes Department in the Investigative Committee of the Russian Interior Ministry, was involved in the mistreatment of Sergei Magnitsky, which contributed significantly to his death on 16 November 2009. Vinogradova was part of a ‘team’ of investigators, who failed to investigate complaints made by Magnitsky about his mistreatment and provided support to subordinates who were directly involved in that conduct.
+individual_details:
+  individual:
+    dobs:
+    - '1973-06-16'
+    nationalities:
+    - Russia
+    genders:
+    - Female

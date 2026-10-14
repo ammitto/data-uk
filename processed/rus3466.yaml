@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -40,3 +41,11 @@ addresses:
     address_line2: 36 Kitchener Street
     address_line6: Auckland
     address_country: New Zealand
+phone_numbers:
+- "+64 9915 1099"
+websites:
+- www.maritime-mutual.com
+entity_details:
+  entity:
+    business_registration_numbers:
+    - '1521418'

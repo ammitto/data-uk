@@ -19,6 +19,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -33,3 +34,13 @@ uk_statement_of_reasons: |2-
 addresses:
   addresses:
   - address_country: Ukraine
+email_addresses:
+- info@kpsk-ins.ru
+websites:
+- https://kpsk-ins.ru/about
+entity_details:
+  entity:
+    business_registration_numbers:
+    - 1 149 102 007 933
+    types_of_entity:
+    - Insurance

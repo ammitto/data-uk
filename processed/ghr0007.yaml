@@ -32,6 +32,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -43,3 +44,11 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Alexandra Gauss was a doctor at Matrosskaya Tishina detention centre where Sergei Magnitsky was detained during the final hours of his life on 16 November 2009. She failed to provide or ensure the proper administration of medical care which contributed to his death; she also facilitated the mistreatment of Magnitsky after his transfer to Matrosskaya Tishina, including beating by a security team.
+individual_details:
+  individual:
+    dobs:
+    - '1975-03-29'
+    positions:
+    - Doctor, Matrosskaya Tishina Prison
+    genders:
+    - Female

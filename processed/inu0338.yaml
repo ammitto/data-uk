@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -33,3 +34,17 @@ uk_statement_of_reasons: "\nMajid NAMJOO is an involved person under the Iran (S
   (Nuclear) (EU Exit) Regulations 2019. Majid Namjoo is or has been responsible for
   engaging in, providing support for, and facilitating a relevant nuclear activity
   in, or for use in, Iran. \n"
+individual_details:
+  individual:
+    dobs:
+    - '1963-01-05'
+    positions:
+    - Former Minister of Energy
+    - Member of the Supreme National Security Council, which formulates Iran's nuclear
+      policy
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Tehran
+        country_of_birth: Iran

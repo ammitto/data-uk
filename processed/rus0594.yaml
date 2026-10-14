@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,21 @@ addresses:
   addresses:
   - address_line1: 1 Okhotny Ryad str
     address_country: Russia
+individual_details:
+  individual:
+    dobs:
+    - '1959-09-06'
+    positions:
+    - Member of the State Duma of the Russian Federation
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Ulyanovsk
+        country_of_birth: Russia
+    passport_details:
+      passports:
+      - number: '602602505'
+      - number: '644286444'
+      - number: '644813919'
+      - number: '653850525'

@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -46,3 +47,15 @@ addresses:
     address_line2: Ul. Odesskaya D. 2
     address_line6: Moscow
     address_country: Russia
+phone_numbers:
+- "+74951502699"
+websites:
+- https://zenitfactor.ru/
+entity_details:
+  entity:
+    business_registration_numbers:
+    - '1187746040910'
+    types_of_entity:
+    - Financial Institution
+    parent_companies:
+    - PJSC Zenit Bank

@@ -17,6 +17,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -31,3 +32,25 @@ other_information: 'Shipping sanctions: where shipping sanctions apply, a specif
 uk_statement_of_reasons: |2
 
   IMO 9319882 (“ATALANTA”) is involved in activity whose object or effect is to destabilise Ukraine or undermine or threaten the territorial integrity, sovereignty or independence of Ukraine or to obtain a benefit from or support the Government of Russia. Namely, ATALANTA is involved in carrying oil or oil products that originated in Russia from Russia to a third country.
+ship_details:
+  ship:
+    imo_numbers:
+    - IMO9319882
+    - IMO9319882
+    current_owner_operators:
+    - Angat Shipping Inc
+    - Angat Shipping Inc
+    current_believed_flags:
+    - Gabon
+    - Gabon
+    previous_flags:
+    - St Kitts and Nevis
+    - Marshall Islands
+    - Singapore
+    - Panama
+    types_of_ship:
+    - Oil Tanker
+    - Oil Tanker
+    years_built:
+    - '2007'
+    - '2007'

@@ -127,6 +127,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -155,3 +156,54 @@ addresses:
     address_line3: Clifton
     address_line6: Karachi
     address_country: Pakistan
+titles:
+- Sheikh
+- Shaikh
+- Haji
+individual_details:
+  individual:
+    dobs:
+    - '1955-12-26'
+    nationalities:
+    - India
+    birth_details:
+      locations:
+      - town_of_birth: Kher, Ratnagiri, Maharashtra
+        country_of_birth: India
+    passport_details:
+      passports:
+      - number: A-333602
+        additional_information: India number A-333602, issued on 4 Jun. 1985, issued
+          in Bombay, India (passport subsequently revoked by the Government of India)
+      - number: M110522
+        additional_information: India number M110522, issued on 13 Nov. 1978, issued
+          in Bombay, India
+      - number: R841697
+        additional_information: India number R841697, issued on 26 Nov. 1981, issued
+          in Bombay
+      - number: F823692
+        additional_information: India number F823692 , issued on 2 Sep. 1989 ((JEDDAH)
+          issued by CGI in Jeddah)
+      - number: A501801
+        additional_information: India number A501801 , issued on 26 Jul. 1985, issued
+          in BOMBAY
+      - number: K560098
+        additional_information: India number K560098, issued on 30 Jul. 1975, issued
+          in BOMBAY
+      - number: V57865
+        additional_information: issued on 3 Oct. 1983, issued in BOMBAY
+      - number: P537849
+        additional_information: India number P537849 , issued on 30 Jul. 1979, issued
+          in BOMBAY
+      - number: A717288
+        additional_information: A717288 , issued on 18 Aug. 1985, issued in Dubai
+          (MISUSE)
+      - number: G866537
+        additional_information: 'Issued on 12 Aug. 1991, issued in Rawalpindi (MISUSE) '
+      - number: H-123259
+        additional_information: issued in Rawalpindi in Jul. 2001
+      - number: G-869537
+        additional_information: issued in Rawalpindi
+      - number: KC-285901
+      - number: C-267185
+        additional_information: Issued in Karachi in Jul.1996

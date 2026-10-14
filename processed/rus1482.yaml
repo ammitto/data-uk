@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,17 @@ uk_statement_of_reasons: |2-
 
   Sergei TSIVILEV is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 because he has been involved in in destabilizing Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine, on the basis of having been, and being, supporting and promoting actions which are destabilizing Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine.
    The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1961-09-21'
+    nationalities:
+    - Russia
+    positions:
+    - Governor of Kemerovo
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Zhdanov
+        country_of_birth: Russia

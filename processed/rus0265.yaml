@@ -27,6 +27,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,17 @@ uk_statement_of_reasons: |2-
 
   Igor Ivanovich SHUVALOV (hereafter referred to as SHUVALOV) is Chairman of the Management Board at Vnesheconombank (hereafter referred to as VEB.RF). VEB.RF is a state corporation established by the Government of Russia to function as the national development bank, and is owned or controlled directly by the Government of Russia. It is therefore a Government of Russia-affiliated entity. Therefore, as a result of his position as Chairman of the Management Board at VEB.RF, SHUVALOV is working as a director or equivalent at a Government of Russia-affiliated entity, and is obtaining a benefit from or supporting the Government of Russia.
    The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1967-01-04'
+    nationalities:
+    - Russia
+    positions:
+    - Chairman of the Management Board at VEB.RF
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Bilibino
+        country_of_birth: Russia

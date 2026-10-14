@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,19 @@ uk_statement_of_reasons: |2-
 
   Andrey Valerievich RYUMIN is Director General and Chair of the Management Board at Rosseti PJSC. Rosseti PJSC is carrying on business in a sector of strategic significance to the Government of Russia – the Russian energy sector. RYUMIN, as a Director or equivalent of Rosseti PJSC, is therefore involved in obtaining a benefit from or supporting the Government of Russia.
    The trust services sanctions were imposed on 21/03/2023.
+titles:
+- Doctor
+individual_details:
+  individual:
+    dobs:
+    - '1980-06-12'
+    nationalities:
+    - Russia
+    positions:
+    - General Director & Director of ROSSETI PJSC
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Moscow
+        country_of_birth: Russia

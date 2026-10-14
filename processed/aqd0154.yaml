@@ -29,6 +29,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -40,3 +41,15 @@ other_information: 'A senior leader of Jemaah Islamiyah (QDe.092) who has held l
   positions in Hilal Ahmar Society Indonesia (HASI) (QDe.147). INTERPOL-UN Security
   Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5854969'
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - '1975-04-05'
+    nationalities:
+    - Indonesia
+    birth_details:
+      locations:
+      - country_of_birth: Indonesia
+    passport_details:
+      passports:
+      - number: A2062513

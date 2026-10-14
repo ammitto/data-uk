@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -38,3 +39,22 @@ uk_statement_of_reasons: "\nMikhail Eduardovich Oseevsky, is or has been Preside
   of Russia as a Director or equivalent of an entity carrying on business in the information,
   communications and digital technologies sector – a sector of strategic significance
   to the Government of Russia.  \n The trust services sanctions were imposed on 21/03/2023."
+individual_details:
+  individual:
+    dobs:
+    - '1960-11-30'
+    nationalities:
+    - Russia
+    positions:
+    - President of PJSC Rostelecom Independent member of the Board оf Directors, PJSC
+      MMK Member of the supervisory board of ANO Digital Economy, LLC T2 RTK Holding
+      (Tele2) Member of the board of the Russian Union of Industrialists and Entrepreneurs
+      Member of the board of directors of LLC Votron Member of the board of trustees
+      of St. Petersburg NNAlliance Deputy Minister of Economic Development of the
+      Russian Federation (from December 2011 to June 2012)
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: St Petersburg
+        country_of_birth: Russia

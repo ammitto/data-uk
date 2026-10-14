@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -31,3 +32,13 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   ALEJOS LORENZANA is a Deputy and Vice President of the Board of Directors of the Congress of Guatemala. He has been involved in serious corruption using his position to attract clients with the offer of expediting the refund of tax credits in exchange for bribes, and benefitting from commission charges He is responsible for, and facilitated or provided support for, and benefitted from, serious corruption.
+individual_details:
+  individual:
+    dobs:
+    - '1984-10-03'
+    nationalities:
+    - Guatemala
+    positions:
+    - Deputy and Vice President of the Board of Directors of the Congress of Guatemala.
+    genders:
+    - Male

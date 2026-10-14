@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -31,3 +32,9 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Head of the Ministry of Justice office in Yazd. Former Deputy Prosecutor of Isfahan. Complicit in proceedings denying defendants a fair trial — such as Abdollah Fathi, executed in May 2011 after his right to be heard and mental health issues were ignored by Habibi during his trial in March 2010. He was, therefore, complicit in a grave violation of the right to due process, contributing to a sharp increase in executions in 2011.
+individual_details:
+  individual:
+    positions:
+    - Attorney General of Isfahan. Former Deputy Prosecutor of Isfahan
+    genders:
+    - Male

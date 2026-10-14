@@ -28,6 +28,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,18 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2
 
   Wasantha KARANNAGODA is an involved person within the meaning of the Global Human Rights Sanctions Regulations 2020 on the basis that he has been and remains responsible for an activity that amounts to a serious violation of an individual's right to life and right not to be subjected to torture or cruel, inhuman or degrading treatment or punishment. Specifically, KARANNAGODA was the Commander of the Navy between September 2005 and July 2009 and during this time the Sri Lankan Navy under KARANNAGODA’s command responsibility committed human rights violations including illegal killings and engaged in activities amounting to torture or cruel, inhuman or degrading treatment or punishment.
+titles:
+- Admiral
+individual_details:
+  individual:
+    dobs:
+    - '1952-11-22'
+    nationalities:
+    - Sri Lanka
+    positions:
+    - Admiral of the Fleet
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Sri Lanka

@@ -29,6 +29,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -42,3 +43,30 @@ other_information: Member of Taliban Supreme Council and Head of Taliban Religio
   for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security
   Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2006-26129
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - '1958'
+    - '1963-09-18'
+    - '1962-10-19'
+    nationalities:
+    - Afghanistan
+    positions:
+    - Chief Justice of Supreme Court under the Taliban regime (1996-2001)
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Bagrami District, Kabul Province
+        country_of_birth: Afghanistan
+      - town_of_birth: Tarakhel area, Deh Sabz District, Kabul Province
+        country_of_birth: Afghanistan
+    passport_details:
+      passports:
+      - number: D0009914
+        additional_information: 'Afghanistan diplomatic passport,  issued in Afghanistan,
+          issued 10 May 2022, expires 10 May 2027 (Name in Latin script: Noor Mohammed
+          Saqeb; name original script: نور  ثاقب محمد)'
+      - number: P09305451
+        additional_information: Issued on 29 April 2025, issued in Kabul, Afghanistan,
+          expires 29 Apr. 2030

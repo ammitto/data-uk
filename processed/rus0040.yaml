@@ -29,6 +29,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -48,3 +49,18 @@ uk_statement_of_reasons: "\nFormer so called \"Vice Prime Minister of the Counci
 addresses:
   addresses:
   - address_country: Russia
+individual_details:
+  individual:
+    dobs:
+    - '1971-11-25'
+    nationalities:
+    - Uzbekistan
+    positions:
+    - Former so-called "Vice Prime Minister of the Council of Ministers of the Lugansk
+      People's Republic) Also former spokesman of the "Army of the South-East".
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Shargun
+        country_of_birth: Uzbekistan

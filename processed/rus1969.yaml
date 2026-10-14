@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -35,3 +36,17 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2
 
   Alexander Gennadievich SIDYAKIN is an "involved person" under the Russia (Sanctions) (EU Exit) Regulations 2019 because he is or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by being responsible for and supporting policies and actions which undermines or threatens the territorial integrity, sovereignty or independence of Ukraine; in his role as the head of the Central Executive Committee of United Russia, the largest political party in Russia, namely by being responsible for and supporting United Russia’s participation in unlawful Russian elections in temporarily-controlled Ukrainian territory.
+individual_details:
+  individual:
+    dobs:
+    - '1977-11-17'
+    nationalities:
+    - Russia
+    positions:
+    - Head of the Central Executive Committee of United Russia
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Segezha, Karelia
+        country_of_birth: Russia

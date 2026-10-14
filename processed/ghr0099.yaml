@@ -37,6 +37,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -60,3 +61,29 @@ addresses:
   addresses:
   - address_line6: Golden Triangle Special Economic Zone
     address_country: Laos
+individual_details:
+  individual:
+    dobs:
+    - '1952-09-16'
+    nationalities:
+    - China
+    positions:
+    - Owner and President of the Kings Romans Group
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Heilongjiang Province
+        country_of_birth: China
+    passport_details:
+      passports:
+      - number: MA0269785
+        additional_information: Macau
+      - number: M0178952
+        additional_information: China
+      - number: MA01626234
+        additional_information: China
+    national_identifier_details:
+      national_identifiers:
+      - number: '12756003'
+        additional_information: Macau

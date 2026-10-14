@@ -39,6 +39,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -50,3 +51,13 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Siarhei Zubkou is the Commander of the ‘Alfa’ special forces/anti-terrorism unit of the State Security Committee (KGB) of Belarus. As Commander, he is in authority over the Alfa unit and therefore responsible for the serious human rights violations and abuses against protestors and journalists, and the repression of civil society or democratic opposition, which they carried out following the election of 9 August
+individual_details:
+  individual:
+    dobs:
+    - '1975-08-21'
+    nationalities:
+    - Belarus
+    positions:
+    - Commander of KGB ‘Alfa’ special forces unit
+    genders:
+    - Male

@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -35,3 +36,17 @@ uk_statement_of_reasons: "\nCEO of the JSC TC Grand Service Express since 28 Aug
   annexed Crimean peninsula into the Russian Federation which in turn further undermines
   the territorial integrity, sovereignty and independence of Ukraine. \n The trust
   services sanctions were imposed on 21/03/2023."
+individual_details:
+  individual:
+    dobs:
+    - '1974-10-24'
+    nationalities:
+    - Russia
+    positions:
+    - CEO of the railway company JSC TC Grand Service Express.
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Voroezh
+        country_of_birth: Russia (USSR)

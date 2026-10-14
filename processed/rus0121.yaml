@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -32,3 +33,17 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Former Moscow Representative of the ‘Donetsk People’s Republic’. In his statements he has, inter alia, talked about the militia’s readiness to conduct a guerrilla war and their seizure of weapon systems from the Ukrainian armed forces. He has therefore supported actions and policies which undermine the territorial integrity, sovereignty and independence of Ukraine. One of the former leaders of the ‘Union of Donbas volunteers. One of the former leaders of the ‘Union of Donbas Volunteers’. Remains active in supporting separatist actions or policies. The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1976-09-23'
+    nationalities:
+    - Ukraine
+    positions:
+    - Moscow Representative of the so- called ‘Donetsk People’s Republic’
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Moscow
+        country_of_birth: Russia

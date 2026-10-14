@@ -25,6 +25,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -44,3 +45,24 @@ addresses:
   - address_line1: Karl-Barth-Strasse 14
     address_line6: Bonn
     address_country: Germany
+individual_details:
+  individual:
+    dobs:
+    - '1984-12-11'
+    nationalities:
+    - Germany
+    - Morocco
+    birth_details:
+      locations:
+      - town_of_birth: Bonn
+        country_of_birth: Germany
+    passport_details:
+      passports:
+      - number: '5204893014'
+        additional_information: Germany number issued on 5 Oct. 2000, issued in Stadt
+          Bonn, Germany (expired on 5 Oct. 2005)
+    national_identifier_details:
+      national_identifiers:
+      - number: '5209445304'
+        additional_information: Germany National Identification Number. issued on
+          5 Sep. 2005, issued in Stadt Bonn, Germany (expired on 4 Sep. 2010)

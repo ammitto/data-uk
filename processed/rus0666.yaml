@@ -35,6 +35,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -46,3 +47,19 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   German Borisovich KHAN, hereafter KHAN, is a prominent Russian businessman. KHAN is obtaining a benefit from and/or supporting the Government of Russia through his positions on the Supervisory Board of the Alfa Group Consortium and the Board of Directors of ABH Holdings S.A., owner of Russia’s largest privately owned bank 'Alfa-Bank (Russia)’, and Chairman of the Supervisory Board of A1 Investment Holding S. A., entities which are carrying on business in sectors of strategic significance to the Government of Russia, KHAN is also a close associate of Vladimir Putin who has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine. The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    dobs:
+    - '1961-10-24'
+    nationalities:
+    - Russia
+    - Israel
+    positions:
+    - Co-founder and Member of Board of Directors, LetterOne Group
+    - Member of Supervisory Board, DEA Deutsche Erdoel AG
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Kyiv
+        country_of_birth: Ukraine

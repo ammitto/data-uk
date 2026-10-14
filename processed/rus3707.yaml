@@ -25,6 +25,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -40,3 +41,18 @@ addresses:
   - address_line1: 5D/3 Yuzhnaya St, Mytishchi, Cardo Lenta Village
     address_line6: Moscow
     address_country: Russia
+phone_numbers:
+- "+7 925 152 18 12"
+- "+7 9199 039650"
+- "+7 (495) 380-00-01"
+email_addresses:
+- Feropont777@gmail.com
+- Tehnoluks1@mail.ru
+websites:
+- www.tehnolux.ru
+entity_details:
+  entity:
+    business_registration_numbers:
+    - "INN: 7703438961 \nOGRN: 5177746318976"
+    types_of_entity:
+    - Limited Liability Company

@@ -40,6 +40,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -51,3 +52,14 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Aliaksandr Shepeleu is Head of the Department for Safety and Security of the Ministry of Internal Affairs. In his role as Head of the Department for Safety and Security, he is responsible for the actions of the Public Security Police and therefore bears responsibility for the serious human rights violations that were carried out following the election of 9 August, including torture or cruel, inhuman or degrading treatment or punishment.
+individual_details:
+  individual:
+    dobs:
+    - '1975-10-14'
+    nationalities:
+    - Belarus
+    positions:
+    - Head of the Department for Safety and Security of the Ministry of Internal Affairs
+      of the Republic of Belarus
+    genders:
+    - Male

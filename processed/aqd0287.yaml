@@ -45,6 +45,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -65,3 +66,13 @@ addresses:
     address_line5: Zaragosa
     address_line6: Nueva Ecija
     address_country: Philippines
+individual_details:
+  individual:
+    dobs:
+    - '1969-12-19'
+    nationalities:
+    - Philippines
+    birth_details:
+      locations:
+      - town_of_birth: Bagac, Bagamanok, Catanduanes
+        country_of_birth: Philippines

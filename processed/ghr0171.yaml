@@ -19,6 +19,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -37,3 +38,26 @@ addresses:
     address_line4: Khan Sen Sok
     address_line6: Phnom Penh
     address_country: Cambodia
+individual_details:
+  individual:
+    dobs:
+    - '1987-07-09'
+    nationalities:
+    - Cambodia
+    positions:
+    - Director of Uni More Group Company Limited
+    - Director of Belt Road Capital Management (Cambodia) Company Limited
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Phnom Penh
+        country_of_birth: Cambodia
+    passport_details:
+      passports:
+      - number: N0718897
+        additional_information: Cambodia
+    national_identifier_details:
+      national_identifiers:
+      - number: 010526344 (01)
+        additional_information: Cambodia

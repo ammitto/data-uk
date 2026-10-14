@@ -27,6 +27,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,20 @@ uk_statement_of_reasons: |2
   The Secretary of State considers that there are reasonable grounds to suspect that Stanislav Sergeyevich POPOV is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 on the basis of the following grounds:
   Stanislav Sergeyevich POPOV is, or has been, a member of THE MAIN DIRECTORATE OF THE GENERAL STAFF OF THE ARMED FORCES OF THE RUSSIAN FEDERATION (“the GRU”). Specifically, Stanislav Sergeyevich POPOV is an officer of the GRU and has been involved in supporting GRU front company LLC NEPTUNE CO LTD’s activities procuring goods and technology to support the production and development needs of the Russian defence sector.
   Stanislav Sergeyevich POPOV is, or has been, obtaining a benefit from or supporting the Government of Russia by working as a director of an entity that is, or has been, involved in obtaining a benefit from or supporting the government of Russia by operating in the Russian defence and electronics sectors. Namely, Stanislav Sergeyevich POPOV is a director of LLC NEPTUNE CO LTD.
+individual_details:
+  individual:
+    dobs:
+    - '1979-10-25'
+    nationalities:
+    - Russia
+    positions:
+    - Director of LLC MAGNUS LINK
+    - Director of LLC NEPTUNE CO LTD
+    - Owner of LLC MAGNUS LINK
+    - GRU officer
+    genders:
+    - Male
+    national_identifier_details:
+      national_identifiers:
+      - number: '292101487323'
+        additional_information: INN (tax identification number)

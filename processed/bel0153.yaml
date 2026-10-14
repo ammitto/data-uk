@@ -23,6 +23,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -37,3 +38,20 @@ uk_statement_of_reasons: "\nAnton Vladimirovich KOLYAGO is an involved person un
   or promoting (1) the repression of civil society or democratic opposition in Belarus
   and (2) other actions, policies or activities which undermine democracy or the rule
   of law in Belarus. \n"
+individual_details:
+  individual:
+    dobs:
+    - '1989-10-02'
+    nationalities:
+    - Belarus
+    positions:
+    - Chief investigator - investigator for particularly important cases of the Main
+      Directorate for the Investigation of Crimes in the Sphere of Organized Crime
+      and Corruption of the Central Apparatus of the Investigative Committee, Major
+      of Justice
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Minsk
+        country_of_birth: Belarus

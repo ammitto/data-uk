@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -41,3 +42,16 @@ addresses:
   addresses:
   - address_line6: Dubai
     address_country: United Arab Emirates
+phone_numbers:
+- "+97144013188"
+email_addresses:
+- shabilal@natwestlogistics.ae
+websites:
+- Natwestlogistics.ae
+entity_details:
+  entity:
+    business_registration_numbers:
+    - "Unknown Chamber of commerce ID: 327399 \n\nUnknown Commercial register ID:
+      1563678 \n\nOrbis ID: 482272018"
+    types_of_entity:
+    - LLC

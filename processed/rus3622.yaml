@@ -34,6 +34,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -52,3 +53,17 @@ addresses:
     address_line2: Bolshaya Ordynka Street, 40
     address_line6: Moscow
     address_country: Russia
+phone_numbers:
+- 8 800 600-60-06
+- 8 800 770-77-70
+email_addresses:
+- info@wb-bank.ru
+websites:
+- https://wb-bank.ru/
+entity_details:
+  entity:
+    business_registration_numbers:
+    - "TIN: 0102000578 \n\nOGRN: 1020100002340 \n\nCentral Bank of Russia registration
+      number 841"
+    types_of_entity:
+    - Bank

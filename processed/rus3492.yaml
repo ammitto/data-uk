@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -39,3 +40,15 @@ addresses:
   - address_line1: 88/158-159 Moo 15, Bang Sao Thong
     address_line2: Samut Prakan
     address_country: Thailand
+phone_numbers:
+- "+66 93-825-1525"
+email_addresses:
+- rfq@siam-aero.com
+- sales@siam-aero.com
+- info@siam-aero.com
+websites:
+- siam.aero
+entity_details:
+  entity:
+    business_registration_numbers:
+    - 'Thai business register number: 0105566050386'

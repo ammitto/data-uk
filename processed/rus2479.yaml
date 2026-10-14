@@ -34,6 +34,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -53,3 +54,20 @@ addresses:
   - address_line1: 40/4, Togolok Moldo
     address_line6: Bishkek
     address_country: Kyrgyzstan
+phone_numbers:
+- "+996 (312) 55 44 44/ +996 (703) 55 44 44/ +996 (997) 55 44 44/ +996 (227) 55 44
+  44/ +996 (557) 55 44 44"
+email_addresses:
+- call-center@keremetbank.kg
+websites:
+- https://keremetbank.kg
+entity_details:
+  entity:
+    business_registration_numbers:
+    - |-
+      Kyrgz BIK number: 136001
+      TIN: 02012201010017
+      OKPO: 27231453
+      SWIFT: RINBKG22
+    types_of_entity:
+    - Open Joint Stock Company

@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -44,3 +45,18 @@ addresses:
     address_line4: Sharak Ghods
     address_line6: Tehran
     address_country: Iran
+phone_numbers:
+- 98 21 88647002
+- 98 21 88647001
+email_addresses:
+- modiran@banksepah.ir
+individual_details:
+  individual:
+    dobs:
+    - '1956-08-11'
+    nationalities:
+    - Iran
+    positions:
+    - Former Chairman and Managing Director of Bank Sepah
+    genders:
+    - Male

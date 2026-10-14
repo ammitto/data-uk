@@ -62,6 +62,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -79,3 +80,20 @@ uk_statement_of_reasons: "\n"
 addresses:
   addresses:
   - address_country: Syria
+individual_details:
+  individual:
+    dobs:
+    - '1978-09-15'
+    nationalities:
+    - Saudi Arabia
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Dammam
+        country_of_birth: Saudi Arabia
+    passport_details:
+      passports:
+      - number: E126785
+        additional_information: Saudi Arabia number, issued on 27 May 2002. Expired
+          on 3 Apr. 2007.

@@ -20,6 +20,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -31,3 +32,11 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2-
 
   Elena Anatolievna Trikulya, as an investigator for the Investigative Committee in the Russian Ministry of the Interior after the death of Sergei Magnitsky on 16 November 2009, failed to properly investigate those responsible for his mistreatment in detention, which contributed significantly to his death, and concealed evidence in relation to that conduct.
+individual_details:
+  individual:
+    dobs:
+    - '1975-03-18'
+    nationalities:
+    - Russia
+    genders:
+    - Female

@@ -70,6 +70,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -91,3 +92,24 @@ addresses:
   addresses:
   - address_line1: Av Uvika 56
     address_country: Congo (Democratic Republic)
+titles:
+- Police Commissioner
+individual_details:
+  individual:
+    dobs:
+    - '1960-10-04'
+    nationalities:
+    - Congo (Democratic Republic)
+    positions:
+    - Former Kinshasa Police Commissioner (PNC) , now General of Schools and Training
+      (PNC)
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Kananga
+        country_of_birth: Congo (Democratic Republic)
+    passport_details:
+      passports:
+      - number: OB0637580
+        additional_information: "(valid from 20.5.2014 to 19.5.2019)"

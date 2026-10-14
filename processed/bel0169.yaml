@@ -32,6 +32,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -43,3 +44,17 @@ other_information: The Director Disqualification Sanction was imposed on 09/04/2
 uk_statement_of_reasons: |2
 
   Andrey Mikhailovich TSEDRIK is an involved person under the Republic of Belarus (Sanctions) (EU Exit) Regulations 2019 on the basis of the following grounds: TSEDRIK is and has been responsible for, engaging in, providing support for, and promoting: (1) the commission of a serious human rights violation in Belarus (2) the repression of civil society and democratic opposition in Belarus and (3) actions and activities which undermine democracy and the rule of law in Belarus. 
+individual_details:
+  individual:
+    dobs:
+    - '1978-04-20'
+    nationalities:
+    - Belarus
+    positions:
+    - Commanding Officer of Pre-trial Detention Centre (SIZO) No 1
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Minsk
+        country_of_birth: Belarus

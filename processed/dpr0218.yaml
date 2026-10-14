@@ -25,6 +25,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,18 @@ other_information: Deputy Representative for the Korea Kwangson Banking Corporat
   which provides financial services in support to Tanchon Commercial Bank and Korea
   Hyoksin Trading, a subordinate entity of Korea Ryonbong General Corporation.
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - '1984-09-25'
+    nationalities:
+    - North Korea
+    positions:
+    - a) Representative for the Korea Kwangson Banking Corporation b) Former Deputy
+      Representative for the Korea Kwangson Banking Corporation
+    genders:
+    - Male
+    passport_details:
+      passports:
+      - number: '654320502'
+        additional_information: expires on 16 September 2019.

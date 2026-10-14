@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -43,3 +44,14 @@ uk_statement_of_reasons: "\nSerafim Vikentevich IVANOV is an “involved person�
   of Russia in his role as Federal Coordinator and Press Secretary of the “Volunteer
   Company” of the Combat Brotherhood, and Head of the Regional Headquarters of All-Russian
   Young Army Military Patriotic Social Movement (Yunarmia) in Kherson. \n"
+individual_details:
+  individual:
+    dobs:
+    - '1996-05-19'
+    nationalities:
+    - Russia
+    positions:
+    - Press Secretary of the “Volunteer Squad” and the Head of the Head of the regional
+      headquarters of Yunarmia VVPOD in the Kherson region
+    genders:
+    - Male

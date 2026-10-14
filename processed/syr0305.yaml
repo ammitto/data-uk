@@ -26,6 +26,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -43,3 +44,14 @@ addresses:
   - address_line1: Hamsho Centre
     address_line2: Adaye Street
     address_line6: Damascus
+phone_numbers:
+- "+963 112316675"
+- "+963 112318875 (Fax)"
+email_addresses:
+- hamshogroup@yahoo.com
+- hamsho-group@inco.com.lb
+- info@hamshointl.com
+entity_details:
+  entity:
+    parent_companies:
+    - Hamsho International, Baghdad Street, PO Box 8254 Damascus

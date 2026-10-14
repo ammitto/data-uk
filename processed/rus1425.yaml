@@ -24,6 +24,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -36,3 +37,14 @@ uk_statement_of_reasons: |2-
 
   Vladimir Petrovich Kolbin (hereafter KOLBIN) is a Russian businessman and General Director of Gelendzhik Seaport LLC. Gelendzhik Seaport LLC is a company that has invested heavily into the infrastructure of the Gelendzhik Seaport. It is therefore a company that is carrying on business in a sector of strategic significance to the Government of Russia, namely the transport sector. KOLBIN is an individual who is carrying on business in a sector of strategic significance to the Government of Russia, through his position as General Director. KOLBIN is therefore obtaining a benefit from or supporting the Government of Russia.
    The trust services sanctions were imposed on 21/03/2023.
+individual_details:
+  individual:
+    nationalities:
+    - Russia
+    positions:
+    - Director
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - country_of_birth: Russia

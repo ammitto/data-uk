@@ -22,6 +22,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: true
   chartering_of_ships: true
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -33,3 +34,15 @@ uk_statement_of_reasons: "\n"
 addresses:
   addresses:
   - address_country: Vietnam
+individual_details:
+  individual:
+    dobs:
+    - '1969-08-18'
+    positions:
+    - Vietnam Representative for Tanchon Commercial Bank, which is the main DPRK financial
+      entity for weapons and missile-related sales
+    genders:
+    - Male
+    passport_details:
+      passports:
+      - number: '745310111'

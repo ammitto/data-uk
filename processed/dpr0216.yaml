@@ -21,6 +21,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -32,3 +33,17 @@ other_information: Chief of an overseas Tangun Trading Corporation branch, which
   primarily responsible for the procurement of commodities and technologies to support
   the DPRK’s defense research and development programs.
 uk_statement_of_reasons: "\n"
+individual_details:
+  individual:
+    dobs:
+    - '1970-07-14'
+    nationalities:
+    - North Korea
+    positions:
+    - Chief of an overseas Tangun Trading Corporation branch
+    genders:
+    - Male
+    passport_details:
+      passports:
+      - number: '563120368'
+        additional_information: issued on 22 March 2013 and expires on 22 March 2018.

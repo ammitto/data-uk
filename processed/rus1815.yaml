@@ -37,6 +37,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: false
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -59,3 +60,18 @@ addresses:
     address_line2: ARCHIEPISKOPOU MAKARIOU III
     address_line6: LIMASSOL
     address_country: Cyprus
+individual_details:
+  individual:
+    dobs:
+    - '1943-09-28'
+    nationalities:
+    - United Kingdom
+    - Cyprus
+    positions:
+    - Managing Director  Meritservus HC Limited
+    genders:
+    - Male
+    birth_details:
+      locations:
+      - town_of_birth: Nicosia
+        country_of_birth: Cyprus

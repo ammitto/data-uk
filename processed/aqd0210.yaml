@@ -58,6 +58,7 @@ sanctions_imposed_indicators:
   targeted_arms_embargo: false
   technical_assistance_related_to_aircraft: false
   travel_ban: true
+  prohibition_of_port_entry: false
   chartering_of_ships: false
   crew_servicing_of_ships_and_aircraft: false
   prevention_of_chartering_of_ships_and_aircraft: false
@@ -74,3 +75,24 @@ uk_statement_of_reasons: "\n"
 addresses:
   addresses:
   - address_country: Kuwait
+individual_details:
+  individual:
+    dobs:
+    - '1959-09-24'
+    nationalities:
+    - Kuwait
+    birth_details:
+      locations:
+      - town_of_birth: Al-Khitan area
+        country_of_birth: Kuwait
+    passport_details:
+      passports:
+      - number: '2541451'
+        additional_information: Kuwaiti. Expires on 16 February 2017.
+      - number: '101423404'
+      - number: '002327881 '
+        additional_information: Kuwaiti.
+    national_identifier_details:
+      national_identifiers:
+      - number: '259092401188'
+        additional_information: 'Kuwait '
