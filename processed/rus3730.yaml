@@ -49,8 +49,8 @@ individual_details:
     dobs:
     - '1977-05-23'
     nationalities:
-    - Russia
     - Georgia
+    - Russia
     positions:
     - International Secretary, Solidarity for Peace
     genders:

@@ -60,9 +60,9 @@ entity_details:
   entity:
     business_registration_numbers:
     - SWIFT/BIC - BIJORU66
-    - Russia OGRN - 1023800000124
     - Russia INN - 3801002781
     - Legal Entity Identifier - 2534007T2QFUSCHQPU36
+    - Russia OGRN - 1023800000124
     types_of_entity:
     - JOINT-STOCK COMPANY
     parent_companies:

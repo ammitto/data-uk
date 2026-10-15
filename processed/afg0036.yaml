@@ -57,15 +57,15 @@ titles:
 individual_details:
   individual:
     dobs:
-    - dd/mm/1942
     - dd/mm/1948
+    - dd/mm/1942
     nationalities:
     - Afghanistan
     positions:
     - Minister of Frontier Affairs under the Taliban regime
     birth_details:
       locations:
-      - town_of_birth: Garda Saray area, Waza Zadran District,Paktia Province
-        country_of_birth: Afghanistan
       - town_of_birth: Neka District, Paktia Province
+        country_of_birth: Afghanistan
+      - town_of_birth: Garda Saray area, Waza Zadran District,Paktia Province
         country_of_birth: Afghanistan

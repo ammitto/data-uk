@@ -1,5 +1,5 @@
 ---
-last_updated: '2025-04-09'
+last_updated: '2026-10-15'
 date_designated: '2022-09-26'
 unique_id: RUS1636
 ofsi_group_id: '15580'
@@ -33,15 +33,16 @@ sanctions_imposed_indicators:
   director_disqualification_sanction: true
   deflag: false
 other_information: The Director Disqualification Sanction was imposed on 09/04/2025.
-uk_statement_of_reasons: "\nNadia Narimanovna Cherkasova is an “involved person” under
-  the Russia (Sanctions) (EU Exit) Regulation 2019 because she has been, and is, involved
-  in obtaining a benefit from or supporting the Government of Russia by (1) working
-  as a director, manager or equivalent of an entity which is carrying on business
-  in a sector of strategic significance to the Government of Russia, namely Bank Otkritie
-  Financial Corporation PJSC which carries on business in the Russian financial services
+  The trust services sanctions were imposed on 21/03/2023.
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect Nadia Narimanovna Cherkasova is an “involved person” under the
+  Russia (Sanctions) (EU Exit) Regulations 2019 because she has been involved in obtaining
+  a benefit from or supporting the Government of Russia by (1) working as a director,
+  manager or equivalent of an entity which has been carrying on business in a sector
+  of strategic significance to the Government of Russia, namely Bank Otkritie Financial
+  Corporation PJSC, which was carrying on business in the Russian financial services
   sector; (2) working as a director, manager or equivalent of a Government of Russia-affiliated
-  entity, namely Bank Otkritie Financial Corporation PJSC. \n The trust services sanctions
-  were imposed on 21/03/2023."
+  entity, namely Bank Otkritie Financial Corporation PJSC. \n"
 individual_details:
   individual:
     dobs:

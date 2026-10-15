@@ -92,10 +92,10 @@ individual_details:
   individual:
     dobs:
     - '1980-08-08'
-    - '1979-03-03'
-    - '1980-08-08'
     - '1984-05-28'
     - '1979-12-03'
+    - '1979-03-03'
+    - '1980-08-08'
     nationalities:
     - Indonesia
     birth_details:
@@ -110,6 +110,6 @@ individual_details:
         additional_information: Indonesia number S335026 (forged Indonesian passport).
     national_identifier_details:
       national_identifiers:
+      - number: '2181558'
       - number: '3219222002.2181558'
         additional_information: 'Indonesian national identity card number '
-      - number: '2181558'
