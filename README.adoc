@@ -95,6 +95,56 @@ for path in sorted(glob.glob("processed/*.yaml")):
 The same list, harmonized with the other sources into JSON-LD:
 https://www.ammitto.org/api/v1/sources/uk.jsonld
 
+== Harmonized field mapping
+
+The https://github.com/ammitto/ammitto/blob/main/lib/ammitto/sources/uk/transformer.rb[uk transformer]
+maps the processed source fields below to canonical Ruby attributes.
+Entity classes are in `Ammitto::Ontology::Entities`, entry/regime classes in
+`Ammitto::Ontology::Sanction`, and nested values in
+`Ammitto::Ontology::ValueObjects`. JSON-LD serialization can use different keys.
+
+[cols="2,2,4",options="header"]
+|===
+| Source fields | Canonical target | Transformation
+
+| `unique_id`, `individual_entity_ship`
+| `Entity.id`, concrete entity class; `SanctionEntry.reference_number`
+| Build source-scoped IDs and select person, organization or vessel from the designation kind.
+
+| `names.names`, `non_latin_names.names`
+| `Entity.names` (`NameVariant`)
+| The source name helper prefers `name6`, falling back to `name1`; the transformer preserves `name1` separately and adds non-Latin aliases.
+
+| `addresses.addresses`
+| `PersonEntity.addresses` or `OrganizationEntity.addresses`
+| Read the source address helpers into canonical street, city, state and country.
+
+| `individual_details`
+| `PersonEntity.birth_info`, `nationalities`, `gender`, `identifications`
+| Keep partial birth years as years; map available birth locations, nationality values, passports and national IDs.
+
+| `ship_details`
+| `VesselEntity.imo_number`, `flag_state`, `previous_flags`, `vessel_type`, `build_year`
+| Use the first IMO/current flag/type/build-year value and retain the previous-flags collection.
+
+| `regime_name`, `sanctions_imposed_indicators`
+| `SanctionEntry.regime`, `effects` (`SanctionEffect`)
+| Map the regime name to a code and translate each stated indicator into effect type/scope.
+
+| `date_designated`, `last_updated`
+| `SanctionEntry.period` (`TemporalPeriod`)
+| Use the designation date for listing/effective dates; retain the update value in canonical `last_updated_timestamp`.
+
+| `other_information`, `uk_statement_of_reasons`
+| `Entity.remarks`, `SanctionEntry.remarks`
+| Keep entity background separate from the statement of reasons for the designation.
+
+| `ofsi_group_id`, `un_reference_number`, `designation_source`, `sanctions_imposed`
+| `SanctionEntry.raw_source_detail.source_specific_fields`
+| Retain these source fields and the original designation kind under `uk:` metadata keys.
+
+|===
+
 == Updates
 
 The `Fetch Data` workflow (`.github/workflows/fetch.yml`) downloads the list
