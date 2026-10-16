@@ -55,9 +55,9 @@ uk_statement_of_reasons: "\n"
 individual_details:
   individual:
     dobs:
-    - '1966-08-28'
     - '1966-01-01'
     - dd/mm/1967
+    - '1966-08-28'
     nationalities:
     - Rwanda
     positions:

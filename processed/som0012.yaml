@@ -59,8 +59,8 @@ addresses:
 individual_details:
   individual:
     dobs:
-    - dd/mm/1967
     - dd/mm/1962
+    - dd/mm/1967
     birth_details:
       locations:
       - country_of_birth: Kenya

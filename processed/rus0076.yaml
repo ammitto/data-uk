@@ -46,8 +46,8 @@ individual_details:
     dobs:
     - '1960-02-07'
     nationalities:
-    - Russia
     - Ukraine
+    - Russia
     genders:
     - Male
     birth_details:

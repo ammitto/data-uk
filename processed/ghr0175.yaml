@@ -42,8 +42,8 @@ individual_details:
     - Cyprus
     positions:
     - Director of Prince Vanguard Development Company Limited
-    - Owner of Unstoppable Bird Limited
     - Owner of Sky Sailing Limited
+    - Owner of Unstoppable Bird Limited
     genders:
     - Male
     birth_details:
@@ -53,7 +53,7 @@ individual_details:
       passports:
       - number: N01555697
         additional_information: Cambodia
-      - number: K00459432
-        additional_information: Cyprus
       - number: BXJXN
         additional_information: Hong Kong
+      - number: K00459432
+        additional_information: Cyprus

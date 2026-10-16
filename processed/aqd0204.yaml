@@ -68,16 +68,16 @@ addresses:
 individual_details:
   individual:
     dobs:
-    - '1973-01-15'
     - '1975-03-31'
+    - '1973-01-15'
     - '1974-01-15'
     nationalities:
     - Tunisia
     birth_details:
       locations:
+      - country_of_birth: Morocco
       - town_of_birth: Tunis
         country_of_birth: Tunisia
-      - country_of_birth: Morocco
       - country_of_birth: Algeria
     passport_details:
       passports:

@@ -56,8 +56,8 @@ phone_numbers:
 entity_details:
   entity:
     types_of_entity:
-    - Investment
     - Private
+    - Investment
     subsidiaries:
     - Bena Properties (subsidiary), Cham Holding Building, Daraa Highway, Ashrafiyat
       Sahnaya Rif Dimashq, Syria, P.O. Box 9525

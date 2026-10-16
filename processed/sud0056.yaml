@@ -51,7 +51,7 @@ individual_details:
     - Male
     passport_details:
       passports:
-      - number: " PU669310"
       - number: PU683987
+      - number: " PU669310"
       - number: FB793884
       - number: " FM684476"

@@ -66,5 +66,5 @@ individual_details:
     - Male
     passport_details:
       passports:
-      - number: '86449'
       - number: '842781'
+      - number: '86449'

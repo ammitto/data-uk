@@ -49,8 +49,8 @@ individual_details:
   individual:
     dobs:
     - '1961-03-12'
-    - dd/08/1961
     - dd/mm/1960
+    - dd/08/1961
     positions:
     - Chair of the Expediency Council (since Dec 2018), Member of the Assembly of
       Experts (since 1999)

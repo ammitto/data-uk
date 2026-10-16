@@ -66,8 +66,8 @@ addresses:
 individual_details:
   individual:
     dobs:
-    - '1969-06-06'
     - '1967-06-06'
+    - '1969-06-06'
     nationalities:
     - Syria
     genders:

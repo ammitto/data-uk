@@ -52,10 +52,10 @@ individual_details:
     dobs:
     - '1982-05-01'
     nationalities:
-    - Cambodia
-    - Cyprus
     - St Kitts and Nevis
     - China
+    - Cyprus
+    - Cambodia
     genders:
     - Male
     birth_details:

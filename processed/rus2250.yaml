@@ -57,7 +57,7 @@ email_addresses:
 entity_details:
   entity:
     business_registration_numbers:
-    - 'INN: 7725075060'
     - 'OGRN: 1027700456024'
+    - 'INN: 7725075060'
     types_of_entity:
     - Joint Stock Company

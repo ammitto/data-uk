@@ -42,6 +42,12 @@ uk_statement_of_reasons: |2-
   Engineering firm that has procured equipment for Iran's heavy water research reactor
 addresses:
   addresses:
+  - address_line1: '3'
+    address_line2: 2nd St.
+    address_line3: Assad Abadi Ave.
+    address_line5: Vali Asr Ave.
+    address_line6: Tehran
+    address_country: Iran
   - address_line1: Flat 3
     address_line2: no. 3
     address_line3: 2nd St.
@@ -54,12 +60,6 @@ addresses:
     address_country: Iran
   - address_line1: Km 44th of Delijan Rd.
     address_line6: Kashan
-    address_country: Iran
-  - address_line1: '3'
-    address_line2: 2nd St.
-    address_line3: Assad Abadi Ave.
-    address_line5: Vali Asr Ave.
-    address_line6: Tehran
     address_country: Iran
   - address_line1: No. 3
     address_line2: 2nd St.
@@ -78,19 +78,19 @@ addresses:
     address_line6: Tehran
     address_country: Iran
 phone_numbers:
+- "+98 21 88965964"
 - "+98 21 88957487"
 - "+98 21 8965964"
 - "+98 866 4362185"
-- "+98 21 88965964"
 - "+98 21 8968587"
 - "+98 3623362186"
 - "+98 21 8957487"
 email_addresses:
-- office@taghtiran.ir
 - hnourib@yahoo.com
+- office@taghtiran.ir
 - gtb@farhanggostar.net
 - taghtiran@gtbir.com
 websites:
-- www.taghtiran.ir
 - www.farhang gostar.net/gtb
+- www.taghtiran.ir
 - www.gtbir.com

@@ -46,14 +46,14 @@ addresses:
     address_line6: Khuzestan
     address_country: Iran
 phone_numbers:
-- "+(98) 61-32268300"
 - "+(98) 21-88724246"
+- "+(98) 61-32268300"
 email_addresses:
 - info@aogc.ir
 websites:
 - agoc.ir
-- www.arvandan.org
 - www.aogc.ir
+- www.arvandan.org
 entity_details:
   entity:
     business_registration_numbers:

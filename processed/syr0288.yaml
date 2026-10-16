@@ -53,8 +53,8 @@ phone_numbers:
 entity_details:
   entity:
     types_of_entity:
-    - Private
     - Investment
+    - Private
     parent_companies:
     - Cham Holding
     subsidiaries:

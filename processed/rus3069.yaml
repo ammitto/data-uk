@@ -56,11 +56,11 @@ addresses:
     address_line6: Moscow
     address_country: Russia
 phone_numbers:
-- "+7(495) 775-75-25"
 - "+7 812 3171120"
+- "+7(495) 775-75-25"
 email_addresses:
-- info@pergam.ru
 - vip@pergam.ru
+- info@pergam.ru
 websites:
 - https://www.pergam.ru/
 entity_details:

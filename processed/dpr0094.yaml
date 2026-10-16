@@ -48,8 +48,8 @@ ship_details:
     current_believed_flags:
     - North Korea
     previous_flags:
-    - Japan
     - Panama
+    - Japan
     types_of_ship:
     - General Cargo / Multi Purpose
     tonnages:

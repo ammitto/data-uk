@@ -59,9 +59,9 @@ individual_details:
     dobs:
     - '1974-05-28'
     nationalities:
+    - Syria
     - Iraq
     - Russia
-    - Syria
     genders:
     - Male
     national_identifier_details:

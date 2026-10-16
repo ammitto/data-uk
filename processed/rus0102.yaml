@@ -61,5 +61,5 @@ individual_details:
     birth_details:
       locations:
       - town_of_birth: Sievierodonetsk
-      - town_of_birth: Lugansk Oblast
       - town_of_birth: Severodonetsk
+      - town_of_birth: Lugansk Oblast

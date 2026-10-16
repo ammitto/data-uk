@@ -57,14 +57,14 @@ uk_statement_of_reasons: "\nThe Secretary of State considers that there are reas
 individual_details:
   individual:
     dobs:
-    - dd/mm/1971
     - dd/mm/1972
+    - dd/mm/1971
     nationalities:
     - Sudan
     positions:
-    - Senior SAF Commander
     - Head of the Sudan Shield Forces
     - Former Senior RSF Commander
+    - Senior SAF Commander
     genders:
     - Male
     birth_details:

@@ -47,13 +47,13 @@ addresses:
 individual_details:
   individual:
     dobs:
-    - dd/mm/1984
     - dd/mm/1979
+    - dd/mm/1984
     nationalities:
     - Yemen
     positions:
-    - Houthi Chief of General Staff
     - Major General
+    - Houthi Chief of General Staff
     genders:
     - Male
     birth_details:

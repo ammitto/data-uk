@@ -46,7 +46,7 @@ individual_details:
     dobs:
     - '1981-08-13'
     nationalities:
-    - United Kingdom
     - Iran
+    - United Kingdom
     genders:
     - Male

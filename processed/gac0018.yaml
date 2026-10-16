@@ -60,9 +60,9 @@ individual_details:
       passports:
       - number: M00069726
         additional_information: 'Expiry: 13 Sep 2022'
-      - number: '462064042'
-        additional_information: 'Expiry: 26 Jul 2016'
       - number: M00138156
         additional_information: 'Expiry: 04 Feb 2025'
+      - number: '462064042'
+        additional_information: 'Expiry: 26 Jul 2016'
       - number: M00006520
         additional_information: 'Expiry: 26 Jul 2019'

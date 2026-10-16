@@ -40,8 +40,8 @@ uk_statement_of_reasons: "\n"
 individual_details:
   individual:
     dobs:
-    - dd/mm/1980
     - dd/mm/1983
+    - dd/mm/1980
     nationalities:
     - Iraq
     birth_details:

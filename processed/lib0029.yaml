@@ -52,9 +52,9 @@ individual_details:
     - Male
     birth_details:
       locations:
-      - country_of_birth: Egypt
       - town_of_birth: Sirte
         country_of_birth: Libya
+      - country_of_birth: Egypt
     passport_details:
       passports:
       - number: '513519'

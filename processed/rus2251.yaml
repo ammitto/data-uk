@@ -51,8 +51,8 @@ websites:
 entity_details:
   entity:
     business_registration_numbers:
-    - 'TIN: 7806575286'
     - 'OGRN: 1207800103301'
+    - 'TIN: 7806575286'
     types_of_entity:
     - Limited Liability Company
     - Limited Liability Company

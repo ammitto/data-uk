@@ -74,8 +74,8 @@ titles:
 individual_details:
   individual:
     dobs:
-    - '1975-12-04'
     - '1978-08-22'
+    - '1975-12-04'
     nationalities:
     - Russia
     positions:

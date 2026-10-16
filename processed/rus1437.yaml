@@ -51,14 +51,14 @@ addresses:
     address_line6: Vladivostok
     address_country: Russia
 phone_numbers:
-- "+8 (423) 2-220-210"
 - "+8 (423) 2-224-010"
+- "+8 (423) 2-220-210"
 email_addresses:
-- ok@csdalzavod.ru
 - dalzavod@dcss.ru
+- ok@csdalzavod.ru
 websites:
-- https://dalzavod.vl.ru
 - https://csdalzavod.ru
+- https://dalzavod.vl.ru
 entity_details:
   entity:
     business_registration_numbers:

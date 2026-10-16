@@ -49,7 +49,7 @@ addresses:
 entity_details:
   entity:
     business_registration_numbers:
-    - 'OGRN: 1197746016049'
     - 'INN: 7751154399'
+    - 'OGRN: 1197746016049'
     types_of_entity:
     - Limited Liability Company

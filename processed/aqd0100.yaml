@@ -120,8 +120,8 @@ uk_statement_of_reasons: "\n"
 individual_details:
   individual:
     dobs:
-    - '1971-12-04'
     - dd/mm/1977
+    - '1971-12-04'
     nationalities:
     - Saudi Arabia
     birth_details:

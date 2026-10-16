@@ -99,13 +99,13 @@ addresses:
 individual_details:
   individual:
     dobs:
-    - '1974-11-16'
     - '1977-11-16'
+    - '1974-11-16'
     nationalities:
     - Indonesia
     birth_details:
       locations:
-      - town_of_birth: Sukoharjo, Central Java
-        country_of_birth: Indonesia
       - town_of_birth: Solo
+        country_of_birth: Indonesia
+      - town_of_birth: Sukoharjo, Central Java
         country_of_birth: Indonesia

@@ -53,8 +53,8 @@ individual_details:
   individual:
     dobs:
     - dd/mm/1961
-    - dd/mm/1962
     - dd/mm/1963
+    - dd/mm/1962
     positions:
     - Hamas Political Leader in Gaza
     genders:

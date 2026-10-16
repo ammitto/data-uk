@@ -56,8 +56,8 @@ uk_statement_of_reasons: "\n"
 individual_details:
   individual:
     dobs:
-    - dd/mm/1970
     - dd/mm/1975
+    - dd/mm/1970
     nationalities:
     - Yemen
     birth_details:

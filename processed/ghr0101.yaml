@@ -73,9 +73,9 @@ individual_details:
         country_of_birth: China
     passport_details:
       passports:
-      - number: 'G42695702 '
-        additional_information: China
       - number: G55408772
+        additional_information: China
+      - number: 'G42695702 '
         additional_information: China
       - number: E03807847
         additional_information: China

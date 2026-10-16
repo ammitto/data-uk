@@ -75,13 +75,13 @@ individual_details:
     dobs:
     - '1964-04-21'
     nationalities:
-    - Russia
     - Israel
+    - Russia
     positions:
-    - Former Member of the Board of Directors of Alfa-Bank Russia
     - Shareholder of ABH Holdings S.A
-    - Former Chairman of the Supervisory Board of Alfa Group Consortium
     - Former Member of the Board of Directors of ABH Holdings S.A
+    - Former Member of the Board of Directors of Alfa-Bank Russia
+    - Former Chairman of the Supervisory Board of Alfa Group Consortium
     genders:
     - Male
     birth_details:

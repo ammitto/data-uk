@@ -49,8 +49,6 @@ addresses:
     address_line6: Tripoli
     address_country: Libya
 phone_numbers:
-- 218 214870586
-- 218 214870714
 - 218 213330927
 - 218 213331533
 - 218 213333541
@@ -63,6 +61,8 @@ phone_numbers:
 - 218 214870747
 - 218 214870767
 - 218 214870777
+- 218 214870586
+- 218 214870714
 email_addresses:
 - agbank@agribankly.org
 entity_details:

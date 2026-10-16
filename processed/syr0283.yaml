@@ -44,8 +44,8 @@ addresses:
 entity_details:
   entity:
     types_of_entity:
-    - Private
     - Real Estate
+    - Private
     parent_companies:
     - Cham Holdings
     subsidiaries:

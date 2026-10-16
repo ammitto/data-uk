@@ -47,9 +47,9 @@ addresses:
     address_line6: Torez City
     address_country: Ukraine
 phone_numbers:
-- "+7 (499) 709-00-00"
 - "+7 (903) 403-46-64"
 - "+7 (949) 591-54-68"
+- "+7 (499) 709-00-00"
 email_addresses:
 - info@impeks-don.ru
 entity_details:

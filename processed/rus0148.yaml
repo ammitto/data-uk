@@ -46,8 +46,8 @@ addresses:
 individual_details:
   individual:
     dobs:
-    - '1953-08-28'
     - '1953-09-29'
+    - '1953-08-28'
     nationalities:
     - Ukraine
     genders:

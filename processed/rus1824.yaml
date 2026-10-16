@@ -73,8 +73,8 @@ individual_details:
     - Russia
     positions:
     - Member of the Board of Directors of MTS Bank
-    - Member of the Board of Directors of Instacom International S.A. SPF
     - Member of the Board of Directors at East-West United Bank
+    - Member of the Board of Directors of Instacom International S.A. SPF
     genders:
     - Female
     birth_details:
@@ -84,5 +84,5 @@ individual_details:
     passport_details:
       passports:
       - number: '513000376'
-      - number: '531297140'
       - number: '530328862'
+      - number: '531297140'

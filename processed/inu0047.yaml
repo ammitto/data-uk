@@ -34,10 +34,6 @@ uk_statement_of_reasons: |2-
   On behalf of a UN designated entity, Aluminat has procured goods which have potential application in Iran's proliferation sensitive nuclear activities.
 addresses:
   addresses:
-  - address_line1: Parcham St
-    address_line2: 13th Km of Qom Rd
-    address_line6: Arak
-    address_country: Iran
   - address_line1: Unit 38
     address_line2: 5th Fl
     address_line3: Bldg No 60
@@ -45,10 +41,14 @@ addresses:
     address_line5: Jordan
     address_line6: Tehran
     address_country: Iran
+  - address_line1: Parcham St
+    address_line2: 13th Km of Qom Rd
+    address_line6: Arak
+    address_country: Iran
 phone_numbers:
 - "+98 22045237"
-- "+98 212049216"
 - "+98 22049928"
+- "+98 212049216"
 websites:
 - www.aluminat.com
 entity_details:

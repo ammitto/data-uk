@@ -44,14 +44,14 @@ addresses:
     address_line6: MOSCOW
     address_country: Russia
 phone_numbers:
-- "+8 800 100-67-00"
 - "+7 (495) 957-00-00"
+- "+8 800 100-67-00"
 email_addresses:
 - mail@lanta.ru
 websites:
+- https://lanta.ru
 - www.lanta.ru
 - https://www.lanta.ru
-- https://lanta.ru
 entity_details:
   entity:
     business_registration_numbers:

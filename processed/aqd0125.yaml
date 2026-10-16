@@ -135,8 +135,8 @@ individual_details:
     dobs:
     - '1974-03-14'
     - '1974-04-13'
-    - '1974-04-14'
     - '1970-08-01'
+    - '1974-04-14'
     nationalities:
     - Tanzania
     birth_details:

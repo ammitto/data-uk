@@ -46,14 +46,14 @@ addresses:
     address_line6: Moscow
     address_country: Russia
 phone_numbers:
-- "+7 495 786 37 73"
 - "+7 495 788 17 68"
+- "+7 495 786 37 73"
 email_addresses:
 - tsbank@transstroybank.ru
 websites:
 - http://www.tsbnk.ru
-- http://www.transstroybank.ru
 - http://www.transstroibank.ru
+- http://www.transstroybank.ru
 entity_details:
   entity:
     business_registration_numbers:

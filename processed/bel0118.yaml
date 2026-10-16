@@ -89,7 +89,7 @@ individual_details:
       passports:
       - number: SP0017927
         additional_information: "(Expiry: 19 Jul 2022)"
-      - number: MP2972008
-        additional_information: "(Expiry: 05 Nov 2028)"
       - number: MP2486634
+        additional_information: "(Expiry: 05 Nov 2028)"
+      - number: MP2972008
         additional_information: "(Expiry: 05 Nov 2028)"

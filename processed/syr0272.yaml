@@ -40,5 +40,5 @@ entity_details:
   entity:
     types_of_entity:
     - Private Joint Stock Company
-    - Construction
     - Joint Venture
+    - Construction

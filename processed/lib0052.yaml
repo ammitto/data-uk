@@ -56,6 +56,6 @@ individual_details:
         additional_information: Issued on 8 Nov 2012
     national_identifier_details:
       national_identifiers:
-      - number: '119820043341'
       - number: '137803'
         additional_information: Personal ID
+      - number: '119820043341'

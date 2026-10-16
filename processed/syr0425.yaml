@@ -62,8 +62,8 @@ individual_details:
     dobs:
     - '1957-06-18'
     nationalities:
-    - Russia
     - Syria
+    - Russia
     genders:
     - Male
     birth_details:

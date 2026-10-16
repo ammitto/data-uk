@@ -63,15 +63,15 @@ titles:
 individual_details:
   individual:
     dobs:
-    - dd/mm/1958
-    - dd/mm/1959
     - dd/mm/1957
+    - dd/mm/1959
+    - dd/mm/1958
     positions:
     - Deputy Chief of Staff for Operations for the Sudan People’s Liberation Army
       in Opposition (SPLA-IO)
     birth_details:
       locations:
-      - town_of_birth: 'Mayan, Unity State '
-        country_of_birth: South Sudan
       - town_of_birth: Mayom County, Unity State
+        country_of_birth: South Sudan
+      - town_of_birth: 'Mayan, Unity State '
         country_of_birth: South Sudan

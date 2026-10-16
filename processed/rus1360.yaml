@@ -51,8 +51,8 @@ individual_details:
     dobs:
     - '1969-09-26'
     nationalities:
-    - Latvia
     - Russia
+    - Latvia
     positions:
     - Chief Executive Officer of Russian Railways
     genders:

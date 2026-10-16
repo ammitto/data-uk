@@ -44,7 +44,7 @@ phone_numbers:
 entity_details:
   entity:
     business_registration_numbers:
-    - 'OGRN: 1047796617494'
     - 'INN: 7727518729'
+    - 'OGRN: 1047796617494'
     types_of_entity:
     - Limited Liability Company

@@ -77,11 +77,11 @@ individual_details:
         additional_information: South Sudan number
       - number: D00001369
         additional_information: South Sudan number
-      - number: DA025963
-        additional_information: Uganda.
       - number: '003606'
         additional_information: Sudan number
       - number: '00606'
         additional_information: Sudan number
       - number: B002606
         additional_information: Sudan number
+      - number: DA025963
+        additional_information: Uganda.

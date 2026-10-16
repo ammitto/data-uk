@@ -51,11 +51,11 @@ individual_details:
     dobs:
     - '1978-02-20'
     nationalities:
-    - China
     - Cambodia
+    - China
     positions:
-    - Director of U-Life KH Super App Company Limited
     - Director of Tian Xu International Technology Plc
+    - Director of U-Life KH Super App Company Limited
     genders:
     - Male
     birth_details:

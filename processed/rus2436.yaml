@@ -76,9 +76,9 @@ websites:
 entity_details:
   entity:
     business_registration_numbers:
+    - 'KPP: 165601001'
     - 'OGRN: 1021603067683 '
     - 'INN: 1656003409'
-    - 'KPP: 165601001'
     types_of_entity:
     - Research Institute
     parent_companies:

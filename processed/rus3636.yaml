@@ -52,7 +52,7 @@ websites:
 entity_details:
   entity:
     business_registration_numbers:
-    - Russia INN – 7805013333
     - Russia OGRN - 1027802763240
+    - Russia INN – 7805013333
     types_of_entity:
     - Joint Stock Company

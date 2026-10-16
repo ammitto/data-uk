@@ -69,11 +69,11 @@ individual_details:
     dobs:
     - '1974-07-15'
     nationalities:
-    - Ukraine
     - Russia
+    - Ukraine
     positions:
-    - Former Commander of the Ukrainian Navy
     - Deputy Commander of the Black Sea Fleet of the Russian Federation
+    - Former Commander of the Ukrainian Navy
     genders:
     - Male
     birth_details:

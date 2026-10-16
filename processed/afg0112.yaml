@@ -70,9 +70,9 @@ addresses:
 individual_details:
   individual:
     dobs:
+    - dd/mm/1977
     - dd/mm/1978
     - '1981-12-30'
-    - dd/mm/1977
     nationalities:
     - Afghanistan
     positions:
@@ -81,21 +81,21 @@ individual_details:
     - Male
     birth_details:
       locations:
-      - town_of_birth: Khost province
-        country_of_birth: Afghanistan
+      - town_of_birth: Danda, Miramshah, North Waziristan
+        country_of_birth: Pakistan
       - town_of_birth: Neka district, Paktika province
         country_of_birth: Afghanistan
       - town_of_birth: Srana village, Garda Saray district, Paktia province
         country_of_birth: Afghanistan
-      - town_of_birth: Danda, Miramshah, North Waziristan
-        country_of_birth: Pakistan
+      - town_of_birth: Khost province
+        country_of_birth: Afghanistan
     passport_details:
       passports:
       - number: P05076602
+      - number: P00032260
+        additional_information: 'Afghanistan, issued on 30 Jun. 2022 in Kabul, Afghanistan,
+          expires 30 Jun. 2032 (Name in Latin script: Abdul Satar Abdullah)'
       - number: D0010367
         additional_information: 'Afghanistan number D0010367, issued on 18 May 2024,
           issued in Kabul, Afghanistan, expires 18 May 2029 (Name in Latin script:
           Sirajuddin Haqqani)'
-      - number: P00032260
-        additional_information: 'Afghanistan, issued on 30 Jun. 2022 in Kabul, Afghanistan,
-          expires 30 Jun. 2032 (Name in Latin script: Abdul Satar Abdullah)'

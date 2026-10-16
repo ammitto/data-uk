@@ -77,7 +77,7 @@ individual_details:
     - Iraq
     birth_details:
       locations:
-      - town_of_birth: Al-Owja
-        country_of_birth: Iraq
       - town_of_birth: Baghdad
+        country_of_birth: Iraq
+      - town_of_birth: Al-Owja
         country_of_birth: Iraq

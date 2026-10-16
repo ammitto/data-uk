@@ -59,10 +59,10 @@ individual_details:
       passports:
       - number: FN920256
         additional_information: Zimbabwe
-      - number: EN183928
-        additional_information: Zimbabwe
       - number: VUK491921
         additional_information: Canada
+      - number: EN183928
+        additional_information: Zimbabwe
     national_identifier_details:
       national_identifiers:
       - number: 29135894Z66

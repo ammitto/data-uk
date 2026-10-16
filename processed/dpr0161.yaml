@@ -64,6 +64,9 @@ other_information: 'Korea Ryonbong General Corporation is the parent company of 
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
+  - address_line5: Mangyongdae District
+    address_line6: Pyongyang
+    address_country: North Korea
   - address_line5: Mangungdae-gu
     address_line6: Pyongyang
     address_country: North Korea
@@ -71,18 +74,15 @@ addresses:
     address_line5: Central District
     address_line6: Pyongyang
     address_country: North Korea
-  - address_line5: Mangyongdae District
-    address_line6: Pyongyang
-    address_country: North Korea
 phone_numbers:
+- 850-2-18111-8642
 - 850-2-381-4410
 - 850 2 18111-3818642
 - 850-2-18111
-- 850-2-18111-8642
 email_addresses:
+- sjc-117@hotmail.com
 - and millim@silibank.com
 - ryonha@silibank.com
-- sjc-117@hotmail.com
 entity_details:
   entity:
     parent_companies:

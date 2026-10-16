@@ -51,12 +51,12 @@ addresses:
     address_country: Russia
 phone_numbers:
 - "+74991967100"
-- "+79104626802"
 - "+79160353451"
+- "+79104626802"
 email_addresses:
 - nikolay.tupikin@gmail.com
-- kurnikoff@yandex.ru
 - natupikin@mail.ru
+- kurnikoff@yandex.ru
 individual_details:
   individual:
     dobs:

@@ -50,8 +50,8 @@ individual_details:
     dobs:
     - '1959-12-22'
     nationalities:
-    - Russia
     - Uzbekistan
+    - Russia
     genders:
     - Female
     birth_details:

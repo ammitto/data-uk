@@ -49,9 +49,9 @@ addresses:
     address_line2: St. Petersburg
     address_country: Russia
 phone_numbers:
+- "+7 (812) 655-74-31"
 - "+7 (812) 324-3806"
 - "+7 (812) 655-74-30"
-- "+7 (812) 655-74-31"
 email_addresses:
 - prc@spsc.ru
 websites:

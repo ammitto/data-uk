@@ -55,8 +55,8 @@ addresses:
 individual_details:
   individual:
     dobs:
-    - '1956-06-20'
     - '1956-10-06'
+    - '1956-06-20'
     nationalities:
     - Ukraine
     positions:

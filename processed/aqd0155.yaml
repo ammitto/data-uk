@@ -66,9 +66,9 @@ individual_details:
     - Palestinian
     birth_details:
       locations:
-      - town_of_birth: Tadamon, Rif Dimashq
-        country_of_birth: Syria
       - town_of_birth: Qalamun, Damascus Province
+        country_of_birth: Syria
+      - town_of_birth: Tadamon, Rif Dimashq
         country_of_birth: Syria
       - town_of_birth: Ghutah, Damascus Province
         country_of_birth: Syria

@@ -50,7 +50,7 @@ individual_details:
     - Male
     birth_details:
       locations:
-      - town_of_birth: Donetsk
-        country_of_birth: Ukrainian SSR
       - town_of_birth: Kharsyzk, Donetsk Region
+        country_of_birth: Ukrainian SSR
+      - town_of_birth: Donetsk
         country_of_birth: Ukrainian SSR

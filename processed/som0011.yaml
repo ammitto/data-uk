@@ -63,8 +63,8 @@ uk_statement_of_reasons: "\n"
 individual_details:
   individual:
     dobs:
-    - '1967-11-11'
     - '1960-11-11'
+    - '1967-11-11'
     - '1969-11-11'
     - '1969-01-01'
     birth_details:

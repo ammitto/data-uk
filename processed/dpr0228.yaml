@@ -48,7 +48,7 @@ individual_details:
       passports:
       - number: '199421147'
         additional_information: Expired 29 Dec. 2014
-      - number: '381110042'
-        additional_information: Expired 25 Jan. 2016
       - number: '563210184'
         additional_information: Expires 18 Jun. 2018
+      - number: '381110042'
+        additional_information: Expired 25 Jan. 2016

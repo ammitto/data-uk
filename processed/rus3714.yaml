@@ -54,19 +54,19 @@ addresses:
     address_line6: Moscow
     address_country: Russia
 phone_numbers:
-- "+7 (495) 739-88-00"
 - "+7 (495) 401-14-44"
+- "+7 (495) 739-88-00"
 websites:
 - https://teleportbank.ru
 entity_details:
   entity:
     business_registration_numbers:
-    - 'OGRN: 1077711000080'
-    - BIK 044525273
     - TIN 7750004175
     - KPP 770601001
     - KPP 997950001
     - OKPO 09141558
     - OKVED 64.19
+    - BIK 044525273
+    - 'OGRN: 1077711000080'
     types_of_entity:
     - JOINT-STOCK COMPANY

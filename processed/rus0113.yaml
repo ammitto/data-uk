@@ -61,8 +61,8 @@ addresses:
 individual_details:
   individual:
     dobs:
-    - dd/mm/1964
     - '1964-04-21'
+    - dd/mm/1964
     nationalities:
     - Ukraine
     positions:

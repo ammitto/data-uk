@@ -56,7 +56,7 @@ individual_details:
       locations:
       - town_of_birth: Murama, Kigali
         country_of_birth: Rwanda
-      - town_of_birth: Rubungo, Kigali
-        country_of_birth: Rwanda
       - town_of_birth: Kinyinya, Kigali
+        country_of_birth: Rwanda
+      - town_of_birth: Rubungo, Kigali
         country_of_birth: Rwanda

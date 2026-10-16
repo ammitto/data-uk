@@ -46,15 +46,15 @@ titles:
 individual_details:
   individual:
     dobs:
-    - '1979-04-05'
     - '1978-04-12'
+    - '1979-04-05'
     nationalities:
     - Russia
     genders:
     - Male
     birth_details:
       locations:
-      - town_of_birth: Nikolaevka, Amur Oblast
-        country_of_birth: Russia
       - town_of_birth: Dushanbe
         country_of_birth: Tajikistan
+      - town_of_birth: Nikolaevka, Amur Oblast
+        country_of_birth: Russia

@@ -59,8 +59,8 @@ individual_details:
     dobs:
     - '1952-06-23'
     nationalities:
-    - Iran
     - United Kingdom
+    - Iran
     genders:
     - Male
     birth_details:

@@ -65,6 +65,6 @@ individual_details:
     - Male
     birth_details:
       locations:
+      - town_of_birth: Luhansk, Vorochilovgrad Oblast
       - town_of_birth: Vorochilovgrad
         country_of_birth: Ukrainian SSR (now Ukraine)
-      - town_of_birth: Luhansk, Vorochilovgrad Oblast

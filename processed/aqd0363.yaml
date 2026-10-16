@@ -67,15 +67,15 @@ other_information: 'Leader of AL-NUSRAH FRONT FOR THE PEOPLE OF THE LEVANT (QDe.
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_country: Syria
   - address_line5: Arsal
     address_line6: Bekaa
     address_country: Lebanon
+  - address_country: Syria
 individual_details:
   individual:
     dobs:
-    - '1972-08-17'
     - '1972-01-01'
+    - '1972-08-17'
     nationalities:
     - Syria
     birth_details:
@@ -92,6 +92,6 @@ individual_details:
         additional_information: Syrian Passport
     national_identifier_details:
       national_identifiers:
-      - number: '13080011550'
       - number: '5877002'
         additional_information: Syrian Identification Card issued 25 May 2011
+      - number: '13080011550'

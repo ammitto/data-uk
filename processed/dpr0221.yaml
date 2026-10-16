@@ -44,8 +44,8 @@ uk_statement_of_reasons: "\n"
 individual_details:
   individual:
     dobs:
-    - '1976-08-25'
     - '1976-10-18'
+    - '1976-08-25'
     nationalities:
     - North Korea
     - North Korea
@@ -53,7 +53,7 @@ individual_details:
     - Tanchon Commercial Bank Representative in Syria
     passport_details:
       passports:
-      - number: '4721202031'
       - number: '836110035'
         additional_information: Diplomatic passport number, which expires on 1 January
           2020.
+      - number: '4721202031'

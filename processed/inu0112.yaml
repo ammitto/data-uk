@@ -52,20 +52,20 @@ uk_statement_of_reasons: |2-
   Carries out scientific research in relation to Iran’s proliferation-sensitive nuclear activities.
 addresses:
   addresses:
-  - address_line1: P.O. Box 19395/4716
-    address_line6: Tehran
-    address_country: Iran
   - address_line1: Shahid Beheshti University
     address_line5: Evin
     address_line6: Tehran
     address_country: Iran
+  - address_line1: P.O. Box 19395/4716
+    address_line6: Tehran
+    address_country: Iran
 phone_numbers:
 - "+98 21 2403003"
-- "+98 21 2403041"
 - "+98 21 29902866"
+- "+98 21 2403041"
 websites:
-- www.sbu canada.org
 - en.sbu.ac.ir
+- www.sbu canada.org
 entity_details:
   entity:
     types_of_entity:

@@ -59,11 +59,11 @@ individual_details:
     dobs:
     - '1970-04-13'
     nationalities:
-    - Russia
     - United Kingdom
+    - Russia
     positions:
-    - Former First Deputy President of VTB Bank
     - Former Chairman of the Management Board of VTB Bank
+    - Former First Deputy President of VTB Bank
     genders:
     - Male
     birth_details:

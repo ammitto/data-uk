@@ -54,20 +54,20 @@ addresses:
     address_line3: 71365 1589
     address_line6: Shiraz
     address_country: Iran
-  - address_line1: P.O. Box 71365 1589
+  - address_line1: Mirzaye Shirazi Blv.
     address_line6: Shiraz
     address_country: Iran
-  - address_line1: Mirzaye Shirazi Blv.
+  - address_line1: P.O. Box 71365 1589
     address_line6: Shiraz
     address_country: Iran
 phone_numbers:
 - 71 649 869
-- 71 644 831
 - 71 646 253
+- 71 644 831
 websites:
 - www.sashirazco.com
-- www.sashiraz.co.ir
 - www.sashirazcorp.com
+- www.sashiraz.co.ir
 entity_details:
   entity:
     types_of_entity:

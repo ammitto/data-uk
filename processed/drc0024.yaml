@@ -46,8 +46,8 @@ titles:
 individual_details:
   individual:
     dobs:
-    - dd/mm/1978
     - '1978-04-01'
+    - dd/mm/1978
     nationalities:
     - Congo (Democratic Republic)
     - Congo (Democratic Republic)
@@ -57,9 +57,9 @@ individual_details:
     - Male
     birth_details:
       locations:
-      - town_of_birth: Bibwe
-        country_of_birth: Congo (Democratic Republic)
       - town_of_birth: Lusamambo, Lubero territory
+        country_of_birth: Congo (Democratic Republic)
+      - town_of_birth: Bibwe
         country_of_birth: Congo (Democratic Republic)
     national_identifier_details:
       national_identifiers:

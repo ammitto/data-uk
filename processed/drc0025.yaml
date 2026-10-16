@@ -78,13 +78,13 @@ titles:
 individual_details:
   individual:
     dobs:
-    - dd/mm/1974
     - dd/mm/1973
+    - dd/mm/1974
     nationalities:
     - Congo (Democratic Republic)
     positions:
-    - Former CNDP military commander
     - Former Chief of Staff in CNDP
+    - Former CNDP military commander
     genders:
     - Male
     birth_details:
