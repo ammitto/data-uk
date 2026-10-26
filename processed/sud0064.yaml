@@ -1,0 +1,56 @@
+---
+last_updated: '2026-10-26'
+date_designated: '2026-10-26'
+unique_id: SUD0064
+names:
+  names:
+  - name1: Ahmed
+    name2: Barrir
+    name3: Haj
+    name6: AHMED
+    name_type: Primary Name
+  - name1: Ahmed
+    name2: Bereir
+    name6: HAJ-AHMED
+    name_type: Primary Name Variation
+non_latin_names:
+  names:
+  - name_non_latin_script: احمد برير حاج أحمد
+regime_name: The Sudan (Sanctions) (EU Exit) Regulations 2020
+individual_entity_ship: Individual
+designation_source: UK
+sanctions_imposed: Asset freeze|Travel Ban|Director Disqualification Sanction
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: false
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: true
+  prohibition_of_port_entry: false
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: true
+  deflag: false
+uk_statement_of_reasons: "\nAhmed Haj Barrir AHMED is an involved person under the
+  Sudan (Sanctions) (EU Exit) Regulations 2020 because he is or has been involved
+  in a relevant activity, namely he is responsible for or promoting the commission
+  of violations of international humanitarian law in Sudan, namely the deliberate
+  targeting of civilians. He was a Brigadier General in the Sudanese Armed Forces
+  during the time of the Wad Madani massacre in Gezira State.\n \n"
+addresses:
+  addresses:
+  - address_country: Sudan
+titles:
+- Brigadier General
+individual_details:
+  individual:
+    nationalities:
+    - Sudan
+    positions:
+    - Brigadier General
+    genders:
+    - Male

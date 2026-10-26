@@ -1,0 +1,66 @@
+---
+last_updated: '2026-10-26'
+date_designated: '2026-10-26'
+unique_id: SUD0065
+names:
+  names:
+  - name1: 'Siddiq Ali '
+    name2: Wad
+    name6: AL-BASHA
+    name_type: Primary Name
+  - name1: Siddig
+    name2: Ali
+    name6: AL-BASHA
+    name_type: Primary Name Variation
+  - name1: Siddiq
+    name6: AL-DIHAISH
+    name_type: Alias
+  - name6: AL-DIHEESH
+    name_type: Alias
+  - name1: Martyr
+    name6: AL-DIHEESH
+    name_type: Alias
+non_latin_names:
+  names:
+  - name_non_latin_script: 'الصديق على ودالباشا '
+  - name_non_latin_script: صديق الدحيش
+regime_name: The Sudan (Sanctions) (EU Exit) Regulations 2020
+individual_entity_ship: Individual
+designation_source: UK
+sanctions_imposed: Asset freeze|Travel Ban|Director Disqualification Sanction
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: false
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: true
+  prohibition_of_port_entry: false
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: true
+  deflag: false
+uk_statement_of_reasons: "\nThe Secretary of State has reasonable grounds to suspect
+  that Siddiq Ali Wad AL-BASHA is an involved person under the Sudan (Sanctions) (EU
+  Exit) Regulations 2020 since he is or has been involved in a relevant activity.
+  As Commander of the Abdullah Jamaa Battalion, he is responsible for or has provided
+  support for violations of international humanitarian law in Sudan, including the
+  use of violence based on ethnicity, specifically against the Kanabi people, the
+  deliberate targeting of civilians, and rape and other forms of sexual and gender-based
+  violence during the “recapture” of Wad Madani in Gezira State.\n \n"
+addresses:
+  addresses:
+  - address_country: Sudan
+titles:
+- Commander
+individual_details:
+  individual:
+    nationalities:
+    - Sudan
+    positions:
+    - Commander
+    genders:
+    - Male
