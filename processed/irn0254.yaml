@@ -58,11 +58,11 @@ individual_details:
         country_of_birth: Iran
     passport_details:
       passports:
+      - number: P41219058
+        additional_information: Iran
       - number: RE003666
         additional_information: St Kitts & Nevis
       - number: 'L00017629 '
         additional_information: Cyprus
       - number: B65348454
-        additional_information: Iran
-      - number: P41219058
         additional_information: Iran

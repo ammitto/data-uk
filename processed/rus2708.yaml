@@ -61,7 +61,7 @@ websites:
 entity_details:
   entity:
     business_registration_numbers:
-    - 'OGRN: 1025901777571'
     - 'INN: 5913001268'
+    - 'OGRN: 1025901777571'
     parent_companies:
     - Joint Stock Company Ruschem

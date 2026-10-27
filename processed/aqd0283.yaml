@@ -95,15 +95,15 @@ addresses:
 individual_details:
   individual:
     dobs:
-    - '1979-05-27'
     - dd/mm/1973
+    - '1979-05-27'
     nationalities:
     - Saudi Arabia
     birth_details:
       locations:
-      - country_of_birth: Saudi Arabia
       - town_of_birth: Shabwa
         country_of_birth: Yemen
+      - country_of_birth: Saudi Arabia
     national_identifier_details:
       national_identifiers:
       - number: '1089516791'

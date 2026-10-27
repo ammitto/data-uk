@@ -52,7 +52,7 @@ entity_details:
   entity:
     business_registration_numbers:
     - INN – 7722779734
-    - OGRN – 1127746497328
     - KPP - 772201001
+    - OGRN – 1127746497328
     types_of_entity:
     - Limited Liability Company

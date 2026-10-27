@@ -59,8 +59,8 @@ entity_details:
   entity:
     business_registration_numbers:
     - 'INN: 7704113772'
-    - 'OGRN: 1027739553764'
     - 'BIK (RU): 044525341'
+    - 'OGRN: 1027739553764'
     - Russia Licence No. – 1885
     types_of_entity:
     - JOINT-STOCK COMPANY

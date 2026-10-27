@@ -92,10 +92,10 @@ individual_details:
   individual:
     dobs:
     - '1980-08-08'
-    - '1979-12-03'
-    - '1979-03-03'
     - '1980-08-08'
     - '1984-05-28'
+    - '1979-12-03'
+    - '1979-03-03'
     nationalities:
     - Indonesia
     birth_details:

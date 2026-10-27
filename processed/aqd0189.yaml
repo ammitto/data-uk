@@ -62,16 +62,16 @@ individual_details:
   individual:
     dobs:
     - '1966-05-29'
-    - '1986-05-09'
     - '1966-05-25'
+    - '1986-05-09'
     nationalities:
     - Tunisia
     birth_details:
       locations:
       - town_of_birth: Tunis
         country_of_birth: Tunisia
-      - country_of_birth: Morocco
       - country_of_birth: Egypt
+      - country_of_birth: Morocco
     passport_details:
       passports:
       - number: L723315

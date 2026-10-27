@@ -104,13 +104,13 @@ individual_details:
     - '1979-12-31'
     - '1973-09-28'
     - '1979-12-31'
+    - '1982-06-10'
+    - '1979-12-31'
     - '1973-08-22'
     - '1973-09-26'
     - '1979-12-31'
     - '1973-08-26'
     - '1979-12-31'
-    - '1979-12-31'
-    - '1982-06-10'
     nationalities:
     - Algeria
     birth_details:
@@ -123,11 +123,11 @@ individual_details:
         country_of_birth: Algeria
       - town_of_birth: Mascara
         country_of_birth: Algeria
+      - country_of_birth: Morocco
       - town_of_birth: Maskara
         country_of_birth: Algeria
       - town_of_birth: Mehdia, Tiaret Province
         country_of_birth: Algeria
-      - country_of_birth: Morocco
     national_identifier_details:
       national_identifiers:
       - number: '20645897'

@@ -73,8 +73,8 @@ individual_details:
     dobs:
     - '1970-02-13'
     nationalities:
-    - Algeria
     - Palestinian
+    - Algeria
     genders:
     - Male
     birth_details:

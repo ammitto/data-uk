@@ -104,15 +104,15 @@ individual_details:
     - Tanzania
     - Tanzania
     positions:
-    - Lieutenant general
     - Senior leader of the Allied Democratic Forces (ADF)
+    - Lieutenant general
     birth_details:
       locations:
       - country_of_birth: Tanzania
       - country_of_birth: Tanzania
     passport_details:
       passports:
-      - number: AB850901
-        additional_information: 'Expiration date: 2026-12-11'
       - number: AB187304
         additional_information: Expired 28 Nov. 2016
+      - number: AB850901
+        additional_information: 'Expiration date: 2026-12-11'

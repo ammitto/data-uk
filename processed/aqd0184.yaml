@@ -53,8 +53,8 @@ uk_statement_of_reasons: "\n"
 individual_details:
   individual:
     dobs:
-    - '1965-03-01'
     - dd/mm/1955
+    - '1965-03-01'
     nationalities:
     - Pakistan
     birth_details:
@@ -63,13 +63,13 @@ individual_details:
         country_of_birth: Pakistan
     passport_details:
       passports:
+      - number: A-374184
+        additional_information: Pakistani number
       - number: AT0712501
         additional_information: Pakistani number issued on 12 Mar. 2008 (expired 11
           Mar 2013)
-      - number: A-374184
-        additional_information: Pakistani number
     national_identifier_details:
       national_identifiers:
+      - number: '24492025390'
       - number: '6110125312507'
         additional_information: Pakistani
-      - number: '24492025390'

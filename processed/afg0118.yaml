@@ -62,7 +62,6 @@ titles:
 individual_details:
   individual:
     dobs:
-    - dd/mm/1963
     - '1966-01-01'
     - dd/mm/1958
     - dd/mm/1959
@@ -70,6 +69,7 @@ individual_details:
     - dd/mm/1961
     - dd/mm/1962
     - dd/mm/1964
+    - dd/mm/1963
     nationalities:
     - Afghanistan
     birth_details:

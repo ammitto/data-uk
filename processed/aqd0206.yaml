@@ -47,8 +47,8 @@ other_information: 'As at Aug. 2015, emir of Russian-speaking militants of the I
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_country: Iraq
   - address_country: Syria
+  - address_country: Iraq
   - address_line1: Moscovskiy Microrayon 6
     address_line2: App. 96
     address_line3: Ust- Dzheguta

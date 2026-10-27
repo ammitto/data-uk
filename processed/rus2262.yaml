@@ -50,7 +50,7 @@ addresses:
 entity_details:
   entity:
     business_registration_numbers:
-    - 'INN: 3849055365'
     - 'OGRN: 1153850042246'
+    - 'INN: 3849055365'
     types_of_entity:
     - Limited Liability Company

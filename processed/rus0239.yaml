@@ -45,5 +45,5 @@ uk_statement_of_reasons: |2-
 entity_details:
   entity:
     types_of_entity:
-    - Holding Company
     - Public Joint Stock Company
+    - Holding Company

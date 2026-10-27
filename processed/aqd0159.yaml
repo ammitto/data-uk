@@ -172,6 +172,21 @@ individual_details:
         country_of_birth: India
     passport_details:
       passports:
+      - number: C-267185
+        additional_information: Issued in Karachi in Jul.1996
+      - number: P537849
+        additional_information: India number P537849 , issued on 30 Jul. 1979, issued
+          in BOMBAY
+      - number: A717288
+        additional_information: A717288 , issued on 18 Aug. 1985, issued in Dubai
+          (MISUSE)
+      - number: G866537
+        additional_information: 'Issued on 12 Aug. 1991, issued in Rawalpindi (MISUSE) '
+      - number: H-123259
+        additional_information: issued in Rawalpindi in Jul. 2001
+      - number: G-869537
+        additional_information: issued in Rawalpindi
+      - number: KC-285901
       - number: A-333602
         additional_information: India number A-333602, issued on 4 Jun. 1985, issued
           in Bombay, India (passport subsequently revoked by the Government of India)
@@ -192,18 +207,3 @@ individual_details:
           in BOMBAY
       - number: V57865
         additional_information: issued on 3 Oct. 1983, issued in BOMBAY
-      - number: P537849
-        additional_information: India number P537849 , issued on 30 Jul. 1979, issued
-          in BOMBAY
-      - number: A717288
-        additional_information: A717288 , issued on 18 Aug. 1985, issued in Dubai
-          (MISUSE)
-      - number: G866537
-        additional_information: 'Issued on 12 Aug. 1991, issued in Rawalpindi (MISUSE) '
-      - number: H-123259
-        additional_information: issued in Rawalpindi in Jul. 2001
-      - number: G-869537
-        additional_information: issued in Rawalpindi
-      - number: KC-285901
-      - number: C-267185
-        additional_information: Issued in Karachi in Jul.1996

@@ -89,8 +89,8 @@ uk_statement_of_reasons: "\n"
 individual_details:
   individual:
     dobs:
-    - '1960-04-11'
     - '1963-04-11'
+    - '1960-04-11'
     nationalities:
     - Egypt
     birth_details:

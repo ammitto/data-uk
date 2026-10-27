@@ -67,8 +67,8 @@ individual_details:
   individual:
     dobs:
     - dd/mm/1985
-    - dd/mm/1986
     - dd/mm/1984
+    - dd/mm/1986
     nationalities:
     - Yemen
     positions:

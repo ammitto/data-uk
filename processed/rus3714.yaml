@@ -61,12 +61,12 @@ websites:
 entity_details:
   entity:
     business_registration_numbers:
-    - TIN 7750004175
-    - KPP 770601001
-    - KPP 997950001
     - OKPO 09141558
     - OKVED 64.19
     - BIK 044525273
     - 'OGRN: 1077711000080'
+    - TIN 7750004175
+    - KPP 770601001
+    - KPP 997950001
     types_of_entity:
     - JOINT-STOCK COMPANY

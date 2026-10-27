@@ -88,7 +88,7 @@ individual_details:
     - Chief of General Staff, SPLA in Opposition
     birth_details:
       locations:
-      - town_of_birth: Akobo, Jonglei State
-        country_of_birth: South Sudan
       - town_of_birth: Uror County, Jonglei State
+        country_of_birth: South Sudan
+      - town_of_birth: Akobo, Jonglei State
         country_of_birth: South Sudan

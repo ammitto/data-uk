@@ -86,8 +86,8 @@ individual_details:
     nationalities:
     - Yemen
     positions:
-    - Major General
     - Judicial Custodian of properties and funds owned by Houthis’ opponents
+    - Major General
     genders:
     - Male
     birth_details:
@@ -96,15 +96,15 @@ individual_details:
         country_of_birth: Yemen
     passport_details:
       passports:
-      - number: '05274639'
-        additional_information: 'Yemen number, issued on 7 Oct. 2013 (Expiration date:
-          7 Oct 2019)'
       - number: '00481779'
         additional_information: 'Yemen number , issued on 9 Dec. 2000 (Expiration
           date: 9 Dec 2006)'
+      - number: '05274639'
+        additional_information: 'Yemen number, issued on 7 Oct. 2013 (Expiration date:
+          7 Oct 2019)'
     national_identifier_details:
       national_identifiers:
-      - number: '1388114'
-        additional_information: Yemen
       - number: '10010057512'
+        additional_information: Yemen
+      - number: '1388114'
         additional_information: Yemen
