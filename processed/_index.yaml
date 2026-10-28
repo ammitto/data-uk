@@ -1,9 +1,9 @@
 ---
 source: uk
 count: 6420
-fetched_at: '2026-10-27T11:51:33Z'
+fetched_at: '2026-10-28T12:26:27Z'
 schema: ammitto:sources:uk:v1
-pruned: 3
+pruned: 0
 files:
 - afg0001.yaml
 - afg0002.yaml

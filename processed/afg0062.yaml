@@ -57,9 +57,9 @@ titles:
 individual_details:
   individual:
     dobs:
-    - '1968-09-20'
     - '1975'
     - dd/mm/1971
+    - '1968-09-20'
     nationalities:
     - Afghanistan
     positions:

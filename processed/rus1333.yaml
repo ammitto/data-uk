@@ -60,9 +60,9 @@ individual_details:
     dobs:
     - '1975-08-12'
     nationalities:
+    - Cyprus
     - Israel
     - Russia
-    - Cyprus
     positions:
     - Associate of Oleg Deripaska
     genders:

@@ -73,9 +73,9 @@ individual_details:
   individual:
     dobs:
     - '1969-12-18'
-    - '1969-07-14'
     - '1968-05-25'
     - '1968-12-18'
+    - '1969-07-14'
     nationalities:
     - Tunisia
     birth_details:

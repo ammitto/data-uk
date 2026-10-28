@@ -40,8 +40,8 @@ uk_statement_of_reasons: |2-
 individual_details:
   individual:
     dobs:
-    - '1964-04-07'
     - dd/mm/1963
+    - '1964-04-07'
     nationalities:
     - Iran
     positions:

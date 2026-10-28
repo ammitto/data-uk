@@ -88,10 +88,10 @@ individual_details:
     passport_details:
       passports:
       - number: '101423404'
-      - number: '002327881 '
-        additional_information: Kuwaiti.
       - number: '2541451'
         additional_information: Kuwaiti. Expires on 16 February 2017.
+      - number: '002327881 '
+        additional_information: Kuwaiti.
     national_identifier_details:
       national_identifiers:
       - number: '259092401188'

@@ -49,8 +49,8 @@ ship_details:
     current_believed_flags:
     - Dominica
     previous_flags:
-    - Panama
     - Italy
+    - Panama
     types_of_ship:
     - Oil Tanker
     tonnages:

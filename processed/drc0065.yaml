@@ -57,9 +57,9 @@ addresses:
 individual_details:
   individual:
     dobs:
+    - dd/mm/1970
     - dd/mm/1968
     - dd/mm/1969
-    - dd/mm/1970
     nationalities:
     - Rwanda
     positions:

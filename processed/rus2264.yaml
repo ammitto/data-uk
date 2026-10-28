@@ -73,8 +73,8 @@ websites:
 entity_details:
   entity:
     business_registration_numbers:
-    - 'INN: 7706818288'
     - 'OGRN: 5147746464256'
+    - 'INN: 7706818288'
     types_of_entity:
     - Limited Liability Company
     - Limited Liability Company

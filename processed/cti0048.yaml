@@ -49,9 +49,9 @@ addresses:
 individual_details:
   individual:
     dobs:
-    - dd/mm/1965
     - dd/mm/1963
     - dd/mm/1964
+    - dd/mm/1965
     nationalities:
     - Palestinian
     positions:

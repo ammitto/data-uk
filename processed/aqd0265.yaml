@@ -79,7 +79,7 @@ individual_details:
       - country_of_birth: Kuwait
     passport_details:
       passports:
-      - number: '106261543'
-        additional_information: Kuwait
       - number: '1420529'
         additional_information: Kuwaiti. Issued in Kuwait. Expired on 31 March 2006.
+      - number: '106261543'
+        additional_information: Kuwait

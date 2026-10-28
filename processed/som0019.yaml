@@ -62,10 +62,10 @@ addresses:
 individual_details:
   individual:
     dobs:
+    - dd/mm/1957
     - dd/mm/1958
     - dd/mm/1959
     - dd/mm/1960
-    - dd/mm/1957
     - dd/mm/1961
     - dd/mm/1962
     birth_details:

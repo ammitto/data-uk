@@ -53,14 +53,14 @@ addresses:
     address_country: Russia
 phone_numbers:
 - 8(800)1000 600
-- "+7 343 355 75 75"
 - 8(343)355 75 75
 - 8(495)771 70 95
+- "+7 343 355 75 75"
 email_addresses:
 - clients@skbbank.ru
-- orders@delo.ru
 - digital@sinara.ru
 - orders@sinara.ru
+- orders@delo.ru
 websites:
 - http://sinara.ru
 - http://www.sinara.ru

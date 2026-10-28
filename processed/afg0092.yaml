@@ -58,9 +58,9 @@ titles:
 individual_details:
   individual:
     dobs:
+    - dd/mm/1972
     - dd/mm/1973
     - '1973-03-22'
-    - dd/mm/1972
     nationalities:
     - Afghanistan
     positions:
@@ -69,11 +69,11 @@ individual_details:
     - Male
     birth_details:
       locations:
+      - town_of_birth: Sarpolad village, Washer District, Helmand Province
+        country_of_birth: Afghanistan
       - town_of_birth: Arghandab District, Kandahar Province
         country_of_birth: Afghanistan
       - town_of_birth: Uruzgan
-        country_of_birth: Afghanistan
-      - town_of_birth: Sarpolad village, Washer District, Helmand Province
         country_of_birth: Afghanistan
     passport_details:
       passports:

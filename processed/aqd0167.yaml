@@ -1,5 +1,5 @@
 ---
-last_updated: '2022-06-23'
+last_updated: '2026-10-27'
 date_designated: '2014-09-23'
 unique_id: AQD0167
 ofsi_group_id: '13137'
@@ -38,22 +38,22 @@ sanctions_imposed_indicators:
 other_information: 'French terrorist fighter who travelled to Syria and joined Islamic
   State in Iraq and the Levant, listed as Al-Qaida in Iraq (AQI) (QDe.115). Active
   in radicalizing and propagating Al-Qaida’s (QDe.004) ideology through the Internet.
-  Incites violent activities against France. French arrest warrant issued on 12 Jun.
-  2015 by a magistrate of the anti-terrorism division of the Prosecutor’s Office in
-  Paris for her participation in a terrorist criminal association. Review pursuant
-  to Security Council resolution 2268 (2017) was concluded on 15 November 2021. INTERPOL-UN
-  Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5818236.
+  Incites violent activities against France. Currently detained in France. Review
+  pursuant to Security Council resolution 2268 (2017) was concluded on 15 November
+  2021. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5818236.
   Address country Syria , located in since 2013.'
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_country: Syria
+  - address_country: France
 individual_details:
   individual:
     dobs:
     - '1984-12-09'
     nationalities:
     - France
+    genders:
+    - Female
     birth_details:
       locations:
       - town_of_birth: Ploemeur
@@ -61,13 +61,13 @@ individual_details:
     passport_details:
       passports:
       - number: 05AT521433
-        additional_information: Issued on 30/11/2005 by the sous-prefecture of police
-          of Lorient, France
+        additional_information: Issued on 30/11/2005 in Lorient, France (issued by
+          the sous-prefecture of police)
     national_identifier_details:
       national_identifiers:
       - number: '050456101445'
-        additional_information: French national identity card. Issued on 19/05/2005
-          by the sous-prefecture of police of Lorient, France,
+        additional_information: France. Issued on 19/05/2005 in Lorient, France (issued
+          by the sous-prefecture of police)
       - number: '0205561020089'
-        additional_information: French identity card. Issued on 30 May 2002 under
-          name Emilie Edwige Konig
+        additional_information: France. Issued on 30 May 2002 (issued under name Emilie
+          Edwige Konig)

@@ -58,8 +58,8 @@ individual_details:
     dobs:
     - '1980-01-09'
     nationalities:
-    - Lithuania
     - Russia
+    - Lithuania
     positions:
     - General Director of Highland Gold International Joint Stock Company
     genders:

@@ -66,8 +66,8 @@ addresses:
 individual_details:
   individual:
     dobs:
-    - dd/mm/1965
     - dd/mm/1966
+    - dd/mm/1965
     - dd/mm/1967
     - dd/mm/1968
     - dd/mm/1969

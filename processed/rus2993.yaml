@@ -50,7 +50,7 @@ websites:
 entity_details:
   entity:
     business_registration_numbers:
-    - 'OGRN: 1052306487254'
     - 'INN: 2311085466'
+    - 'OGRN: 1052306487254'
     types_of_entity:
     - Joint Stock Company

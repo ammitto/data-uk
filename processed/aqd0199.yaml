@@ -107,8 +107,8 @@ addresses:
 individual_details:
   individual:
     dobs:
-    - '1982-04-19'
     - '1982-04-18'
+    - '1982-04-19'
     nationalities:
     - Saudi Arabia
     birth_details:

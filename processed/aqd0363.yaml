@@ -67,10 +67,10 @@ other_information: 'Leader of AL-NUSRAH FRONT FOR THE PEOPLE OF THE LEVANT (QDe.
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_country: Syria
   - address_line5: Arsal
     address_line6: Bekaa
     address_country: Lebanon
+  - address_country: Syria
 individual_details:
   individual:
     dobs:
@@ -80,11 +80,11 @@ individual_details:
     - Syria
     birth_details:
       locations:
+      - town_of_birth: Tell Mnin
+        country_of_birth: Syria
       - town_of_birth: Benghazi
         country_of_birth: Libya
       - town_of_birth: Al Tall
-        country_of_birth: Syria
-      - town_of_birth: Tell Mnin
         country_of_birth: Syria
     passport_details:
       passports:

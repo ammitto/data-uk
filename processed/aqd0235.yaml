@@ -74,15 +74,15 @@ addresses:
 individual_details:
   individual:
     dobs:
-    - '1957-08-17'
     - '1958-08-17'
+    - '1957-08-17'
     nationalities:
     - Indonesia
     birth_details:
       locations:
-      - town_of_birth: Korleko-Lombok Timur
-        country_of_birth: Indonesia
       - town_of_birth: Tirpas-Selong Village, East Lombok
+        country_of_birth: Indonesia
+      - town_of_birth: Korleko-Lombok Timur
         country_of_birth: Indonesia
     national_identifier_details:
       national_identifiers:

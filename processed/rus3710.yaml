@@ -63,8 +63,8 @@ websites:
 entity_details:
   entity:
     business_registration_numbers:
+    - OGRN 1027739109133
     - 'Central Bank of Russia licence: 2790'
     - TIN 7704001959
-    - OGRN 1027739109133
     types_of_entity:
     - JOINT-STOCK COMPANY

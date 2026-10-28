@@ -53,8 +53,8 @@ websites:
 entity_details:
   entity:
     business_registration_numbers:
-    - 'OGRN: 1066147003658'
     - 'TIN: 6147025090'
+    - 'OGRN: 1066147003658'
     types_of_entity:
     - Government Agency
     parent_companies:

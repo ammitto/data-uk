@@ -72,7 +72,7 @@ individual_details:
   individual:
     dobs:
     - dd/mm/1992
-    - dd/mm/1993
     - dd/mm/1991
+    - dd/mm/1993
     positions:
     - Deputy, Lord's Resistance Army

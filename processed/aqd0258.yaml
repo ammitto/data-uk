@@ -93,11 +93,11 @@ individual_details:
       - country_of_birth: Kuwait
     passport_details:
       passports:
-      - number: '002955916'
-        additional_information: Kuwaiti
       - number: '101856740'
         additional_information: Kuwaiti. Issued on 12 May 2005. Expired on 11 May
           2007
+      - number: '002955916'
+        additional_information: Kuwaiti
     national_identifier_details:
       national_identifiers:
       - number: '261122400761'
