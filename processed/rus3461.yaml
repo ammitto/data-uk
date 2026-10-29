@@ -48,14 +48,14 @@ addresses:
     address_line6: Moscow
     address_country: Russia
 phone_numbers:
-- "+7 495 777-71-75"
 - "+7 495 777-71-71"
+- "+7 495 777-71-75"
 email_addresses:
 - info@absolutbank.ru
 - anti.corr@absolutbank.ru
 websites:
-- www.absolutbank.com
 - www.absolutbank.ru
+- www.absolutbank.com
 entity_details:
   entity:
     business_registration_numbers:

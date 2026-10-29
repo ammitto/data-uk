@@ -83,7 +83,7 @@ individual_details:
     - Male
     birth_details:
       locations:
-      - town_of_birth: Karago municipality, Gisenyi prefecture
-        country_of_birth: Rwanda
       - town_of_birth: Nyabihu District, Western province
+        country_of_birth: Rwanda
+      - town_of_birth: Karago municipality, Gisenyi prefecture
         country_of_birth: Rwanda

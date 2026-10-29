@@ -39,8 +39,8 @@ uk_statement_of_reasons: |2
 individual_details:
   individual:
     dobs:
-    - '1971-03-12'
     - '1974-03-12'
+    - '1971-03-12'
     nationalities:
     - Iran
     genders:
@@ -51,5 +51,5 @@ individual_details:
         country_of_birth: Iran
     passport_details:
       passports:
-      - number: L95279398
       - number: L18597666
+      - number: L95279398

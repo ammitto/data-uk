@@ -55,15 +55,15 @@ addresses:
     address_line6: Moscow
     address_country: Russia
 phone_numbers:
-- "+7 (495) 215-24-08"
 - "+7 (800) 555-89-21"
 - "+7 (800) 555-89-82"
+- "+7 (495) 215-24-08"
 email_addresses:
-- infobank@ozon.ru
 - help@finance.ozon.ru
+- infobank@ozon.ru
 websites:
-- https://finance.ozon.ru
 - https://t.me/ozon_bank_official
+- https://finance.ozon.ru
 entity_details:
   entity:
     business_registration_numbers:

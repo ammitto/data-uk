@@ -53,12 +53,12 @@ addresses:
     address_country: Russia
 phone_numbers:
 - "+7 845 230-80-51"
-- "+7 845 230-81-72"
 - "+7 845 230-81-78"
+- "+7 845 230-81-72"
 email_addresses:
 - zem@sepo.ru
-- sepo-energo@mail.ru
 - director@sepo.ru
+- sepo-energo@mail.ru
 websites:
 - www.sepo.ru
 entity_details:

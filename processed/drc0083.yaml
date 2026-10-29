@@ -66,7 +66,7 @@ individual_details:
     - Male
     birth_details:
       locations:
-      - town_of_birth: Gatoki Cell, Murunda Sector, Rutsiro Commune, Kibuye Prefecture
-        country_of_birth: Rwanda
       - town_of_birth: Rutsiro District, Western Province
+        country_of_birth: Rwanda
+      - town_of_birth: Gatoki Cell, Murunda Sector, Rutsiro Commune, Kibuye Prefecture
         country_of_birth: Rwanda

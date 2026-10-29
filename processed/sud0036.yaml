@@ -52,8 +52,8 @@ individual_details:
     dobs:
     - '1990-08-07'
     nationalities:
-    - Sudan
     - Kenya
+    - Sudan
     - Sudan
     positions:
     - Procurement Director of the Rapid Support Forces
@@ -65,10 +65,10 @@ individual_details:
         country_of_birth: Sudan
     passport_details:
       passports:
-      - number: B00024943
-        additional_information: Expires 27 Sep 2031
       - number: AK1586127
       - number: B00017334
+      - number: B00024943
+        additional_information: Expires 27 Sep 2031
     national_identifier_details:
       national_identifiers:
       - number: '784199014302485'

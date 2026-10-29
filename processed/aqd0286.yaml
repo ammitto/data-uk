@@ -1,5 +1,5 @@
 ---
-last_updated: '2026-10-27'
+last_updated: '2026-10-29'
 date_designated: '2015-09-29'
 unique_id: AQD0286
 ofsi_group_id: '13290'
@@ -42,8 +42,7 @@ other_information: 'Member of Al-Qaida in the Arabian Peninsula (AQAP) (QDe.129)
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_line1: Al Mukalla
-    address_country: France
+  - address_country: France
 individual_details:
   individual:
     dobs:
