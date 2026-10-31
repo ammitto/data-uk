@@ -90,6 +90,9 @@ individual_details:
         country_of_birth: Afghanistan
     passport_details:
       passports:
+      - number: D0010006
+        additional_information: Issued on 28 Sep. 2022, issued in Kabul, Afghanistan
+          (expires 28 Sep. 2027)
       - number: D0010408
         additional_information: 'Afghanistan diplomatic passport, issued on 26 Aug.
           2024 in Kabul, Afghanistan (Name  in Latin script: Hedayatullah Badri; name
@@ -97,6 +100,3 @@ individual_details:
       - number: P03318995
         additional_information: 'Afghanistan passport, issued on 29 Jul. 2020 (Name
           in Latin script: Hedayatullah  Hedayat, expires 29 Jul. 2025)'
-      - number: D0010006
-        additional_information: Issued on 28 Sep. 2022, issued in Kabul, Afghanistan
-          (expires 28 Sep. 2027)

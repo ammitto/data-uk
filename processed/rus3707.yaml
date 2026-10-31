@@ -42,12 +42,12 @@ addresses:
     address_line6: Moscow
     address_country: Russia
 phone_numbers:
-- "+7 9199 039650"
 - "+7 (495) 380-00-01"
 - "+7 925 152 18 12"
+- "+7 9199 039650"
 email_addresses:
-- Feropont777@gmail.com
 - Tehnoluks1@mail.ru
+- Feropont777@gmail.com
 websites:
 - www.tehnolux.ru
 entity_details:

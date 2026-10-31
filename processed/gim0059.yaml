@@ -51,8 +51,8 @@ websites:
 entity_details:
   entity:
     business_registration_numbers:
-    - India PAN - AAYCA2604D
     - 'Corporate Identification Number (CIN): U74999HR2023OPC109285'
+    - India PAN - AAYCA2604D
     types_of_entity:
     - Company
     - Company

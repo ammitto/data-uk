@@ -46,13 +46,13 @@ addresses:
     address_line6: RYAZAN
     address_country: Russia
 phone_numbers:
-- "+7 (4912) 21-94-07"
 - 8 491 221 94 07
+- "+7 (4912) 21-94-07"
 email_addresses:
 - kredit@bankvyatich.ru
 websites:
-- https://bankvyatich.ru
 - https://ibank2.bankvyatich.ru
+- https://bankvyatich.ru
 entity_details:
   entity:
     business_registration_numbers:

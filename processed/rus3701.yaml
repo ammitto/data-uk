@@ -61,7 +61,7 @@ addresses:
 entity_details:
   entity:
     business_registration_numbers:
-    - 'OGRN: 1267700105012'
     - 'INN: 9729417656'
+    - 'OGRN: 1267700105012'
     types_of_entity:
     - Limited Liability Company

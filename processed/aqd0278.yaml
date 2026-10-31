@@ -72,14 +72,14 @@ uk_statement_of_reasons: "\n"
 individual_details:
   individual:
     dobs:
-    - '1966'
     - '1964-04-04'
+    - '1966'
     nationalities:
-    - Malaysia
     - Indonesia
+    - Malaysia
     birth_details:
       locations:
-      - town_of_birth: Sukamanah, West Java
-        country_of_birth: Indonesia
       - town_of_birth: Cianjur, West Java
+        country_of_birth: Indonesia
+      - town_of_birth: Sukamanah, West Java
         country_of_birth: Indonesia

@@ -70,9 +70,9 @@ addresses:
 individual_details:
   individual:
     dobs:
-    - '1981-12-30'
     - dd/mm/1977
     - dd/mm/1978
+    - '1981-12-30'
     nationalities:
     - Afghanistan
     positions:
@@ -81,13 +81,13 @@ individual_details:
     - Male
     birth_details:
       locations:
-      - town_of_birth: Srana village, Garda Saray district, Paktia province
-        country_of_birth: Afghanistan
       - town_of_birth: Khost province
         country_of_birth: Afghanistan
       - town_of_birth: Danda, Miramshah, North Waziristan
         country_of_birth: Pakistan
       - town_of_birth: Neka district, Paktika province
+        country_of_birth: Afghanistan
+      - town_of_birth: Srana village, Garda Saray district, Paktia province
         country_of_birth: Afghanistan
     passport_details:
       passports:

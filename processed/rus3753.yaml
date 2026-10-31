@@ -59,12 +59,12 @@ addresses:
 phone_numbers:
 - "+7 (495) 229-00-50"
 websites:
-- http://bankck.ru
-- http://www.capitalkredit.ru
 - https://open.capitalkredit.ru
+- http://bankck.ru
 - http:// bankstolichnykredit.rf
 - http:// kbstolichnycredit.rf
 - http://www.bankintegral.ru
+- http://www.capitalkredit.ru
 entity_details:
   entity:
     business_registration_numbers:

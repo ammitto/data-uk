@@ -1,5 +1,5 @@
 ---
-last_updated: '2026-04-29'
+last_updated: '2026-10-30'
 date_designated: '2001-01-31'
 unique_id: AFG0011
 ofsi_group_id: '7270'
@@ -80,3 +80,5 @@ individual_details:
       - number: D0010442
         additional_information: Afghanistan diplomatic passport D0010442, issued on
           13 Nov. 2024, expires 13 Nov. 2029
+      - number: P05629010
+        additional_information: 'Afghanistan passport number '

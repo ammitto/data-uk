@@ -51,10 +51,10 @@ addresses:
     address_line6: St Petersburg
     address_country: Russia
 phone_numbers:
-- "+7 812 3279090"
-- "+7 812 6355070"
 - "+8 800 5050040"
 - "+ 7 812 6355088"
+- "+7 812 3279090"
+- "+7 812 6355070"
 email_addresses:
 - info@eltech.spb.ru
 websites:

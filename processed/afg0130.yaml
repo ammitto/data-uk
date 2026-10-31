@@ -47,9 +47,9 @@ titles:
 individual_details:
   individual:
     dobs:
+    - dd/mm/1971
     - dd/mm/1969
     - dd/mm/1970
-    - dd/mm/1971
     nationalities:
     - Afghanistan
     birth_details:

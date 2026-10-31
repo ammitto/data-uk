@@ -58,13 +58,13 @@ phone_numbers:
 email_addresses:
 - mailbox@eximbank.ru
 websites:
-- http://www.eximbank.ru
 - www.eximbank.ru
+- http://www.eximbank.ru
 entity_details:
   entity:
     business_registration_numbers:
     - 'Central Bank of Russia licence: 2790'
-    - OGRN 1027739109133
     - TIN 7704001959
+    - OGRN 1027739109133
     types_of_entity:
     - JOINT-STOCK COMPANY

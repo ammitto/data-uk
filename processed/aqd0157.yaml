@@ -68,8 +68,8 @@ individual_details:
     dobs:
     - '1983-08-01'
     nationalities:
-    - Tunisia
     - France
+    - Tunisia
     birth_details:
       locations:
       - town_of_birth: Paris

@@ -60,15 +60,15 @@ individual_details:
   individual:
     dobs:
     - dd/mm/1960
-    - dd/mm/1961
     - '1967-01-01'
+    - dd/mm/1961
     nationalities:
     - Afghanistan
     positions:
     - Governor of Khost and Paktika provinces under the Taliban regime  (1996-2001)
+    - Vice-Minister of Information and  Culture under the Taliban regime (1996-2001)
     - Consular Department, Ministry of Foreign Affairs under the Taliban regime (1996-
       2001)
-    - Vice-Minister of Information and  Culture under the Taliban regime (1996-2001)
     birth_details:
       locations:
       - town_of_birth: Jalalabad City, Nangarhar Province

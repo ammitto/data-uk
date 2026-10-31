@@ -63,14 +63,14 @@ addresses:
     address_country: Georgia
 email_addresses:
 - mail@rapira.org
-- support@rapira.org
 - support@rapira.net
+- support@rapira.org
 websites:
 - Rapira.io
 - Rapira.org
 - Rapira24.ru
-- Rapiras.ru
 - Rapira.net
+- Rapiras.ru
 entity_details:
   entity:
     business_registration_numbers:
