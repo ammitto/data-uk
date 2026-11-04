@@ -78,9 +78,6 @@ individual_details:
         country_of_birth: Afghanistan
     passport_details:
       passports:
-      - number: D0009803
-        additional_information: Afghanistan diplomatic passport number D0009803, issued
-          on 13 Dec. 2021 (expires on 13 Dec. 2026)
       - number: D0009716
         additional_information: 'Afghanistan  diplomatic passport issued on 25 Sep.
           2021, issued in Kabul, Afghanistan (Name in Latin  script: Amir Khan Mutaqi,
@@ -93,3 +90,6 @@ individual_details:
           on 5 Aug. 2031
       - number: P02444824
         additional_information: 'Afghanistan passport number '
+      - number: D0009803
+        additional_information: Afghanistan diplomatic passport number D0009803, issued
+          on 13 Dec. 2021 (expires on 13 Dec. 2026)

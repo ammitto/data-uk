@@ -1,5 +1,5 @@
 ---
-last_updated: '2026-02-24'
+last_updated: '2026-11-03'
 date_designated: '2026-02-24'
 unique_id: RUS3293
 names:
@@ -44,10 +44,10 @@ uk_statement_of_reasons: |2
   The Secretary of State considers that there are reasonable grounds to suspect ZENITH GLOBAL CORPORATION LIMITED is associated with Tahir GARAYEV who is or has been involved in obtaining a benefit from or supporting the Government of Russia by owning or controlling, directly or indirectly, or working as a director of CORAL ENERGY GROUP (now 2RIVERS GROUP) which has been carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian energy sector.
 addresses:
   addresses:
-  - address_line1: '604'
-    address_line2: Tower A
-    address_line3: New Trade Plaza
-    address_line4: 6 On Ping Street
+  - address_line1: FLAT/RM D10 9/F
+    address_line2: CAMELPAINT BUILDING BLOCK 2
+    address_line3: 62 HOI YUEN ROAD
+    address_line4: KWUN TONG KL
     address_line5: Hong Kong
     address_country: China
 websites:

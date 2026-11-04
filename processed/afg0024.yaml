@@ -55,8 +55,8 @@ titles:
 individual_details:
   individual:
     dobs:
-    - '1963-09-29'
     - dd/mm/1968
+    - '1963-09-29'
     nationalities:
     - Afghanistan
     positions:
@@ -68,10 +68,10 @@ individual_details:
     passport_details:
       passports:
       - number: D0009751
-        additional_information: Afghanistan diplomatic passport number P04999950,
-          issued on 4 Feb. 2025 (expires 4 Feb. 2035)
+        additional_information: Afghanistan diplomatic passport D0009751, issued on
+          16 Oct. 2021, issued in Kabul, Afghanistan  (expires 16 Oct. 2026)
       - number: P02444826
         additional_information: 'Afghanistan passport number '
       - number: D0009751
-        additional_information: Afghanistan diplomatic passport D0009751, issued on
-          16 Oct. 2021, issued in Kabul, Afghanistan  (expires 16 Oct. 2026)
+        additional_information: Afghanistan diplomatic passport number P04999950,
+          issued on 4 Feb. 2025 (expires 4 Feb. 2035)
