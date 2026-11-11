@@ -52,7 +52,7 @@ websites:
 entity_details:
   entity:
     business_registration_numbers:
-    - 'OGRN: 1177456043907'
     - 'INN: 7453309640'
+    - 'OGRN: 1177456043907'
     types_of_entity:
     - Limited Liability Company

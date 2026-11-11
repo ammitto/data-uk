@@ -62,15 +62,15 @@ addresses:
     address_line6: Kutaisi City
     address_country: Georgia
 email_addresses:
-- mail@rapira.org
-- support@rapira.net
 - support@rapira.org
+- support@rapira.net
+- mail@rapira.org
 websites:
+- Rapiras.ru
+- Rapira.net
 - Rapira.io
 - Rapira.org
 - Rapira24.ru
-- Rapira.net
-- Rapiras.ru
 entity_details:
   entity:
     business_registration_numbers:

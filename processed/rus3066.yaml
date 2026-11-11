@@ -1,5 +1,5 @@
 ---
-last_updated: '2025-10-15'
+last_updated: '2026-11-10'
 date_designated: '2025-10-15'
 unique_id: RUS3066
 ofsi_group_id: '17171'
@@ -27,11 +27,9 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: "\nALT CAPITAL is or has been involved in destabilising Ukraine
-  or undermining or threatening the territorial integrity, sovereignty or independence
-  of Ukraine, by making available goods or technology, that could contribute to destabilising
-  Ukraine or undermining or threatening the territorial integrity, sovereignty or
-  independence of Ukraine.  \n"
+uk_statement_of_reasons: |2
+
+  The Secretary of State considers that there are reasonable grounds to suspect that ALT CAPITAL is or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine, by making available funds, economic resources, goods or technology, that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine.
 addresses:
   addresses:
   - address_line1: 75 High Street

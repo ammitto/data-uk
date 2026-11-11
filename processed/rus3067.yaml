@@ -1,5 +1,5 @@
 ---
-last_updated: '2025-10-15'
+last_updated: '2026-11-10'
 date_designated: '2025-10-15'
 unique_id: RUS3067
 ofsi_group_id: '17172'
@@ -31,13 +31,9 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: "\nVladislav GROMOV  is an \"involved person\" under the
-  Russia (Sanctions) (EU Exit) Regulations 2019 because he is, or has been, involved
-  in destabilising Ukraine or undermining or threatening the territorial integrity,
-  sovereignty or independence of Ukraine by managing an entity, ALT CAPITAL PTE LTD,
-  which is making available goods or technology that could contribute to destabilising
-  Ukraine or undermining or threatening the territorial integrity, sovereignty or
-  independence of Ukraine. \n"
+uk_statement_of_reasons: |2
+
+  The Secretary of State considers that there are reasonable grounds to suspect that Vladislav GROMOV is an "involved person" under the Russia (Sanctions) (EU Exit) Regulations 2019 because he is, or has been, involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by managing an entity, ALT CAPITAL PTE LTD, which is making available funds, economic resources, goods or technology that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine.
 individual_details:
   individual:
     dobs:
@@ -46,3 +42,11 @@ individual_details:
     - New Zealand
     genders:
     - Male
+    birth_details:
+      locations:
+      - town_of_birth: Belgorod-Dnestrovskiy
+        country_of_birth: Ukraine
+    passport_details:
+      passports:
+      - number: LT244011
+        additional_information: New Zealand

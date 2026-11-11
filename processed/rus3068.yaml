@@ -1,5 +1,5 @@
 ---
-last_updated: '2025-10-23'
+last_updated: '2026-11-10'
 date_designated: '2025-10-15'
 unique_id: RUS3068
 ofsi_group_id: '17173'
@@ -28,14 +28,19 @@ sanctions_imposed_indicators:
   closure_of_representative_offices: false
   director_disqualification_sanction: true
   deflag: false
-uk_statement_of_reasons: "\nNarmina DADASHOVA is or has been involved in destabilising
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that Narmina DADASHOVA is an involved person on the basis of
+  the following grounds: (1) Narmina DADASHOVA is or has been involved in destabilising
   Ukraine or undermining or threatening the territorial integrity, sovereignty or
   independence of Ukraine, by owning or controlling directly or indirectly, or working
   as a director, trustee, or other manager or equivalent of ALT CAPITAL PTE LTD, an
   entity that is or has been providing financial services, or making available funds,
   economic resources, goods or technology, that could contribute to destabilising
   Ukraine or undermining or threatening the territorial integrity, sovereignty or
-  independence of Ukraine. \n"
+  independence of Ukraine; \n (2) Narmina DADASHOVA has also been involved in obtaining
+  a benefit from or supporting the Government of Russia through working as a manager
+  of an entity (Mechel Carbon Pte Ltd) carrying on business in a sector of strategic
+  significance to the Government of Russia, namely the Russian extractives sector.\n"
 addresses:
   addresses:
   - address_line1: 75 High Street
@@ -52,3 +57,15 @@ individual_details:
     - Owner of MECHEL CARBON (SINGAPORE) PTE LTD
     genders:
     - Female
+    birth_details:
+      locations:
+      - town_of_birth: Baku
+        country_of_birth: Azerbaijan
+    passport_details:
+      passports:
+      - number: K4296297D
+        additional_information: Singapore
+    national_identifier_details:
+      national_identifiers:
+      - number: S8276308B
+        additional_information: Singaporean National ID number

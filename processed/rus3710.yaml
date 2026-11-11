@@ -58,8 +58,8 @@ phone_numbers:
 email_addresses:
 - mailbox@eximbank.ru
 websites:
-- www.eximbank.ru
 - http://www.eximbank.ru
+- www.eximbank.ru
 entity_details:
   entity:
     business_registration_numbers:
