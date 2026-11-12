@@ -63,22 +63,22 @@ titles:
 individual_details:
   individual:
     dobs:
-    - '1973-01-01'
     - '1974-07-01'
+    - '1973-01-01'
     nationalities:
     - Iraq
     genders:
     - Male
     birth_details:
       locations:
+      - country_of_birth: Iraq
       - town_of_birth: Albu Kamal
         country_of_birth: Syria
-      - country_of_birth: Iraq
     national_identifier_details:
       national_identifiers:
-      - number: '4118 '
-        additional_information: Turkish Residency Card issued on 15 Jan. 2019
       - number: '9080002892'
         additional_information: 'National Identification card issued by the Syrian
           Arab Republic, mother’s name Dahiyah al-Mulhim, DOB: 1 Jan. 1973, POB: Albu
           Kamal, Syria'
+      - number: '4118 '
+        additional_information: Turkish Residency Card issued on 15 Jan. 2019

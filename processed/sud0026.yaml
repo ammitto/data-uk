@@ -67,11 +67,11 @@ individual_details:
     dobs:
     - '1967-08-17'
     nationalities:
-    - Italy
     - Colombia
+    - Italy
     positions:
-    - Recruiter for A4SI (INTERNATIONAL SERVICES AGENCY S.A.S)
     - Retired Army Colonel
+    - Recruiter for A4SI (INTERNATIONAL SERVICES AGENCY S.A.S)
     genders:
     - Male
     birth_details:
@@ -80,9 +80,9 @@ individual_details:
         country_of_birth: Colombia
     passport_details:
       passports:
+      - number: AP628498
       - number: YB7731256
         additional_information: Expires 01 Mar 2031
-      - number: AP628498
     national_identifier_details:
       national_identifiers:
       - number: '80413253'

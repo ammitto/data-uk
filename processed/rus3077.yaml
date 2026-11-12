@@ -46,11 +46,11 @@ addresses:
     address_line6: VLADIVOSTOK
     address_country: Russia
 phone_numbers:
-- 8 (800) 775-56-06
 - "+7 495 924 75 00"
+- 8 (800) 775-56-06
 email_addresses:
-- bank@solidbank.ru
 - ckp@solidbank.ru
+- bank@solidbank.ru
 websites:
 - https://solidbank.ru
 entity_details:

@@ -66,8 +66,8 @@ individual_details:
         country_of_birth: Congo (Democratic Republic)
     passport_details:
       passports:
-      - number: OB0072391
       - number: OP0204168
+      - number: OB0072391
     national_identifier_details:
       national_identifiers:
       - number: 1 1978 8 0137555 3 27

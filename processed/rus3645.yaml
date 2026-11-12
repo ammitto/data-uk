@@ -49,14 +49,14 @@ addresses:
 phone_numbers:
 - "+8 (499) 348-23-86"
 email_addresses:
-- sales@21kompozit.ru
 - overseas@21kompozit.ru
+- sales@21kompozit.ru
 websites:
 - 21komposit.ru
 entity_details:
   entity:
     business_registration_numbers:
-    - 'OGRN: 1152130010890'
     - 'INN: 2130159236'
+    - 'OGRN: 1152130010890'
     types_of_entity:
     - Limited Liability Company

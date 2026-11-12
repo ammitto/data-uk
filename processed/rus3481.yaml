@@ -62,7 +62,7 @@ email_addresses:
 entity_details:
   entity:
     business_registration_numbers:
-    - 'INN: 7728173890'
     - 'OGRN: 1027700311760'
+    - 'INN: 7728173890'
     types_of_entity:
     - Limited Liability Company

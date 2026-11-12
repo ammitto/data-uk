@@ -53,7 +53,7 @@ email_addresses:
 entity_details:
   entity:
     business_registration_numbers:
-    - 'OGRN: 1193850025467'
     - 'INN: 3810081395'
+    - 'OGRN: 1193850025467'
     types_of_entity:
     - Limited Liability Company

@@ -62,8 +62,8 @@ phone_numbers:
 individual_details:
   individual:
     dobs:
-    - '1993-05-09'
     - '1993-03-16'
+    - '1993-05-09'
     nationalities:
     - Uganda
     genders:
@@ -78,9 +78,9 @@ individual_details:
         additional_information: "(Uganda)"
     national_identifier_details:
       national_identifiers:
+      - number: CM920231090NZA
+        additional_information: "(Uganda)"
       - number: Z15105123
         additional_information: 'Zambia Z15105123, issued on 5. Aug. 2020 (fraudulently
           acquired under the name Isaac Mupeta, born 9 May 1993 in Lusaka, Zambia,
           registration number 102523/29/1) '
-      - number: CM920231090NZA
-        additional_information: "(Uganda)"

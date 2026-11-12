@@ -44,14 +44,14 @@ individual_details:
     nationalities:
     - Ukraine
     - Ukraine
-    - Ukraine
     - Sudan
+    - Ukraine
     - Ukraine
     genders:
     - Male
     passport_details:
       passports:
-      - number: " FM684476"
-      - number: " PU669310"
       - number: PU683987
+      - number: " PU669310"
       - number: FB793884
+      - number: " FM684476"

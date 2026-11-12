@@ -56,8 +56,8 @@ addresses:
     address_country: Russia
 phone_numbers:
 - "+7 (800) 555-89-21"
-- "+7 (800) 555-89-82"
 - "+7 (495) 215-24-08"
+- "+7 (800) 555-89-82"
 email_addresses:
 - help@finance.ozon.ru
 - infobank@ozon.ru

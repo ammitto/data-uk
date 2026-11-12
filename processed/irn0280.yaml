@@ -49,8 +49,8 @@ individual_details:
     dobs:
     - '1996-08-28'
     nationalities:
-    - St Kitts and Nevis
     - United Kingdom
+    - St Kitts and Nevis
     - Iran
     genders:
     - Male

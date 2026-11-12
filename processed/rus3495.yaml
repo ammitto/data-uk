@@ -46,18 +46,18 @@ addresses:
     address_line6: Hong Kong
     address_country: China
 phone_numbers:
-- "+852 6745 7255"
 - "+852 6131 1855"
+- "+852 6745 7255"
 email_addresses:
 - sales.hk@m9logistics.com
 websites:
-- m9logistics.com
 - m9logisitcs.cn
+- m9logistics.com
 entity_details:
   entity:
     business_registration_numbers:
-    - 'CR number: 2469563'
     - Business Registration Number - 67092371
+    - 'CR number: 2469563'
     types_of_entity:
     - Limited Liability Company
     subsidiaries:

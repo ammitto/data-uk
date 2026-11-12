@@ -48,11 +48,11 @@ addresses:
     address_line6: Shenzhen
     address_country: China
 phone_numbers:
-- "+86 755 8666 5669"
 - "+86 0755 86018996"
+- "+86 755 8666 5669"
 email_addresses:
-- sales@harxon.com
 - wanyanni@harxon.com
+- sales@harxon.com
 websites:
 - www.harxon.com
 entity_details:

@@ -55,8 +55,8 @@ titles:
 individual_details:
   individual:
     dobs:
-    - dd/mm/1971
     - '1972-10-24'
+    - dd/mm/1971
     nationalities:
     - Afghanistan
     positions:

@@ -41,7 +41,7 @@ individual_details:
     dobs:
     - '1960-09-28'
     nationalities:
-    - Iran
     - St Kitts and Nevis
+    - Iran
     genders:
     - Male
