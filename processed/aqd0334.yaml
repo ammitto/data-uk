@@ -50,8 +50,8 @@ individual_details:
     dobs:
     - '1984-12-11'
     nationalities:
-    - Germany
     - Morocco
+    - Germany
     birth_details:
       locations:
       - town_of_birth: Bonn

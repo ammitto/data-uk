@@ -52,9 +52,9 @@ other_information: 'Member of the Taliban Supreme Council as of June 2007.  Belo
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_line1: Kabul
-    address_country: Afghanistan
   - address_line6: Kabul
+    address_country: Afghanistan
+  - address_line1: Kabul
     address_country: Afghanistan
 titles:
 - Mullah

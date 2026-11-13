@@ -51,8 +51,8 @@ titles:
 individual_details:
   individual:
     dobs:
-    - dd/mm/1958
     - '1957-02-22'
+    - dd/mm/1958
     nationalities:
     - Afghanistan
     positions:

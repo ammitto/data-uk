@@ -65,9 +65,9 @@ individual_details:
           the sous-prefecture of police)
     national_identifier_details:
       national_identifiers:
-      - number: '050456101445'
-        additional_information: France. Issued on 19/05/2005 in Lorient, France (issued
-          by the sous-prefecture of police)
       - number: '0205561020089'
         additional_information: France. Issued on 30 May 2002 (issued under name Emilie
           Edwige Konig)
+      - number: '050456101445'
+        additional_information: France. Issued on 19/05/2005 in Lorient, France (issued
+          by the sous-prefecture of police)

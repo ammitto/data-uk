@@ -46,9 +46,9 @@ uk_statement_of_reasons: "\n"
 individual_details:
   individual:
     dobs:
-    - '1958'
     - '1963-09-18'
     - '1962-10-19'
+    - '1958'
     nationalities:
     - Afghanistan
     positions:
@@ -57,16 +57,16 @@ individual_details:
     - Male
     birth_details:
       locations:
-      - town_of_birth: Bagrami District, Kabul Province
-        country_of_birth: Afghanistan
       - town_of_birth: Tarakhel area, Deh Sabz District, Kabul Province
+        country_of_birth: Afghanistan
+      - town_of_birth: Bagrami District, Kabul Province
         country_of_birth: Afghanistan
     passport_details:
       passports:
+      - number: P09305451
+        additional_information: Issued on 29 April 2025, issued in Kabul, Afghanistan,
+          expires 29 Apr. 2030
       - number: D0009914
         additional_information: 'Afghanistan diplomatic passport,  issued in Afghanistan,
           issued 10 May 2022, expires 10 May 2027 (Name in Latin script: Noor Mohammed
           Saqeb; name original script: نور  ثاقب محمد)'
-      - number: P09305451
-        additional_information: Issued on 29 April 2025, issued in Kabul, Afghanistan,
-          expires 29 Apr. 2030
