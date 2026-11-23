@@ -63,19 +63,19 @@ individual_details:
     dobs:
     - '1975-07-15'
     nationalities:
-    - Morocco
     - Germany
+    - Morocco
     birth_details:
       locations:
       - town_of_birth: Haselünne, Lower Saxony
         country_of_birth: Germany
     passport_details:
       passports:
+      - number: '28642163'
+        additional_information: Germany Provisional passport number, issued in Hamburg
       - number: '954242'
         additional_information: Morocco passport number, issue date:28/06/1995, issued
           in Meknas, Morocco, expired
-      - number: '28642163'
-        additional_information: Germany Provisional passport number, issued in Hamburg
     national_identifier_details:
       national_identifiers:
       - number: '1336597587'

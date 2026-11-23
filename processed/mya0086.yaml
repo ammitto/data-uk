@@ -1,0 +1,54 @@
+---
+last_updated: '2026-11-23'
+date_designated: '2026-11-23'
+unique_id: MYA0086
+names:
+  names:
+  - name1: Myat
+    name2: Thet
+    name6: Oo
+    name_type: Primary Name
+  - name1: Myat
+    name2: Thet
+    name6: Oo
+    name_type: Primary Name Variation
+regime_name: The Myanmar (Sanctions) Regulations 2021
+individual_entity_ship: Individual
+designation_source: UK
+sanctions_imposed: Asset freeze|Travel Ban|Director Disqualification Sanction
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: false
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: true
+  prohibition_of_port_entry: false
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: true
+  deflag: false
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that Myat Thet Oo is an involved person under The Myanmar (Sanctions)
+  Regulations 2021 on the basis of the following grounds: \nGround 1: \nMajor General
+  U Myat Thet Oo has held numerous senior roles within the government of Myanmar including
+  as Ambassador to Laos, and senior ranks within the military of Myanmar, most recently,
+  as a Major General, and formerly as a Brigadier General.\nGround 2: Through his
+  military roles in the military government of Myanmar Major General U Myet Thet Oo
+  has enabled the military junta in Myanmar to engage in repression of the civilian
+  population in Myanmar.\n"
+titles:
+- U
+- Major General
+individual_details:
+  individual:
+    nationalities:
+    - Myanmar
+    positions:
+    - Major General
+    - Ambassador of Myanmar to the Lao People’s Democratic Republic
+    genders:
+    - Male

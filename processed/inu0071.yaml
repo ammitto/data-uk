@@ -53,6 +53,9 @@ uk_statement_of_reasons: "\nOwned or controlled by MODAFL as a subsidiary of Ira
   Aviation Industries Organisation (IAIO). \n"
 addresses:
   addresses:
+  - address_line1: P.O. Box81465 935
+    address_line6: Esfahan
+    address_country: Iran
   - address_line1: No. 27 Shahamat Ave.
     address_line2: Vallie asr Square.
     address_line6: Tehran (HESA Tehran Office)
@@ -61,9 +64,6 @@ addresses:
     address_line2: No. 27 Ahahamat Ave.
     address_line3: Vallie Asr Square
     address_line6: Tehran
-    address_country: Iran
-  - address_line1: P.O. Box81465 935
-    address_line6: Esfahan
     address_country: Iran
   - address_line1: P.O. Box 8140
     address_line2: No. 107 Sepahbod Gharany Ave.
@@ -79,6 +79,7 @@ addresses:
     address_country: Iran
 phone_numbers:
 - "(98329)324903 (Fax)"
+- "(9831)229737"
 - 031252273 (Fax)
 - 98(21)8806478
 - 98(21)8892488
@@ -89,7 +90,6 @@ phone_numbers:
 - '98218828355'
 - 98(311)2220101
 - "(312)5224910 20"
-- "(9831)229737"
 - 0312 5227368
 - 98(311)2222028
 - "(9831)229738"

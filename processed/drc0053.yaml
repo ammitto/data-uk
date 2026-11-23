@@ -59,9 +59,9 @@ individual_details:
     nationalities:
     - Rwanda
     positions:
-    - FDLR-FOCA “SONOKI” Sector Commander
-    - former commander of the First Division of FOCA
     - FDLR-FOCA Brigadier General
+    - former commander of the First Division of FOCA
+    - FDLR-FOCA “SONOKI” Sector Commander
     genders:
     - Male
     birth_details:

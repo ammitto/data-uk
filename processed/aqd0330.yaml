@@ -97,8 +97,8 @@ addresses:
 individual_details:
   individual:
     dobs:
-    - '1967-06-16'
     - '1967-01-01'
+    - '1967-06-16'
     nationalities:
     - Iraq
     genders:
@@ -114,9 +114,9 @@ individual_details:
           on 27 May 2021.
     national_identifier_details:
       national_identifiers:
-      - number: '00405771'
-        additional_information: Iraq national identity card. Issued on 20 May 2013
-          in Iraq
       - number: '540763'
         additional_information: certificate of Iraqi nationality. Issued on 13 February
           1984
+      - number: '00405771'
+        additional_information: Iraq national identity card. Issued on 20 May 2013
+          in Iraq

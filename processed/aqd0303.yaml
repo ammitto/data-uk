@@ -77,8 +77,8 @@ individual_details:
   individual:
     dobs:
     - '1968-01-01'
-    - '1968-04-24'
     - '1968-04-23'
+    - '1968-04-24'
     nationalities:
     - Algeria
     birth_details:

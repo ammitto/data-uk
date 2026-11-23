@@ -47,14 +47,14 @@ addresses:
     address_line6: Shebekino
     address_country: Russia
 phone_numbers:
-- "+7 47248 30441"
 - "+ 7 47248 30217"
+- "+7 47248 30441"
 email_addresses:
 - rushol@ngs.ru
 entity_details:
   entity:
     business_registration_numbers:
-    - 'OGRN: 1023100009569'
     - INN:3129002923
+    - 'OGRN: 1023100009569'
     types_of_entity:
     - Closed Joint Stock Company

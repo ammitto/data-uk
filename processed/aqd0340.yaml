@@ -53,14 +53,14 @@ individual_details:
         country_of_birth: Morocco
     passport_details:
       passports:
-      - number: K-348486
-        additional_information: Morocco passport number
       - number: M 271351
         additional_information: 'Morocco passport number, issue date: 24/10/2000,
           issued in Berlin, Embassy of Morocco'
+      - number: K-348486
+        additional_information: Morocco passport number
     national_identifier_details:
       national_identifiers:
-      - number: G-0343089
-        additional_information: Morocco National Identity Card number
       - number: E-189935
         additional_information: Morocco National Identity number
+      - number: G-0343089
+        additional_information: Morocco National Identity Card number

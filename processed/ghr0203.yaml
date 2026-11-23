@@ -1,0 +1,59 @@
+---
+last_updated: '2026-11-20'
+date_designated: '2026-11-17'
+unique_id: GHR0203
+names:
+  names:
+  - name6: HAR HEVRON DEVELOPMENT COMPANY LTD
+    name_type: Primary Name
+  - name6: HAR HEBRON DEVELOPMENT CO
+    name_type: Primary Name Variation
+  - name6: SOUTHERN MT. HEBRON DEVELOPMENT CO (1986) LTD
+    name_type: Primary Name Variation
+non_latin_names:
+  names:
+  - name_non_latin_script: 'החברה לפיתוח הר חברון (תשמ"ו) בע"מ '
+regime_name: The Global Human Rights and International Humanitarian Law Sanctions
+  Regulations 2026
+individual_entity_ship: Entity
+designation_source: UK
+sanctions_imposed: Asset freeze|Director Disqualification Sanction
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: false
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: false
+  prohibition_of_port_entry: false
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: true
+  deflag: false
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that HAR HEVRON DEVELOPMENT COMPANY LTD (hereafter “HAR HEVRON”)
+  is an involved person under the Global Human Rights and International Humanitarian
+  Law Sanctions Regulations 2026 on the basis of the following grounds: (1) HAR HEVRON
+  is or has been involved in facilitating or providing support for activity which
+  constitutes a serious violation of international humanitarian law; Specifically,
+  HAR HEVRON is a development company which carries out construction and infrastructure
+  works for, and supplies housing units to, Israeli settlements and outposts in the
+  southern West Bank. The establishment and expansion of Israeli settlements in the
+  occupied West Bank constitutes a serious violation of international humanitarian
+  law.\n \n"
+addresses:
+  addresses:
+  - address_line5: Otniel
+    address_line6: West Bank
+    address_country: Occupied Palestinian Territories
+phone_numbers:
+- "+972-86254800"
+websites:
+- https://www.hlp.co.il/
+entity_details:
+  entity:
+    business_registration_numbers:
+    - 511145138 (Israel)

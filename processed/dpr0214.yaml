@@ -45,8 +45,8 @@ uk_statement_of_reasons: "\n"
 individual_details:
   individual:
     dobs:
-    - '1957-04-15'
     - '1958-02-22'
+    - '1957-04-15'
     positions:
     - Tanchon Commercial Bank Representative in Syria
     passport_details:

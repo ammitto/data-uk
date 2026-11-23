@@ -38,11 +38,11 @@ uk_statement_of_reasons: |2-
 individual_details:
   individual:
     dobs:
-    - '1972-07-23'
     - '1972-06-23'
+    - '1972-07-23'
     nationalities:
-    - Russia
     - Ukraine
+    - Russia
     genders:
     - Male
     birth_details:

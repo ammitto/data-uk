@@ -70,8 +70,8 @@ individual_details:
     nationalities:
     - Somalia
     positions:
-    - Colonel
     - Sheikh
+    - Colonel
     birth_details:
       locations:
       - town_of_birth: Region V (the Ogaden Region in Eastern Ethiopia)

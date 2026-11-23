@@ -55,11 +55,11 @@ individual_details:
       - number: '03824970'
         additional_information: 'Oman number, issued on 4 May 2014, issued in Muscat,
           Oman (Date of expiration: 3 May 2024)'
-      - number: B/011641
       - number: '215215'
         additional_information: Libya Passport number
       - number: '428720'
         additional_information: Libya
+      - number: B/011641
     national_identifier_details:
       national_identifiers:
       - number: '98606612'

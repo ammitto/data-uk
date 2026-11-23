@@ -47,7 +47,7 @@ individual_details:
     - Male
     passport_details:
       passports:
-      - number: '927234267'
       - number: '108120258'
         additional_information: "(issued by the Democratic People's Republic of Korea
           on 14 Feb. 2018; expiration date 14 Feb. 2023)"
+      - number: '927234267'

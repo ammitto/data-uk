@@ -73,9 +73,9 @@ individual_details:
         country_of_birth: Libya
     passport_details:
       passports:
-      - number: 1990/345751
-        additional_information: 'Libya '
       - number: '345741'
+        additional_information: 'Libya '
+      - number: 1990/345751
         additional_information: 'Libya '
     national_identifier_details:
       national_identifiers:

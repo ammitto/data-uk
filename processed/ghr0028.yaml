@@ -151,8 +151,8 @@ uk_statement_of_reasons: |2-
 individual_details:
   individual:
     dobs:
-    - '1972-08-11'
     - '1972-08-10'
+    - '1972-08-11'
     nationalities:
     - Saudi Arabia
     genders:

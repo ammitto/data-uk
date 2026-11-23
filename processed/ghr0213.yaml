@@ -1,0 +1,48 @@
+---
+last_updated: '2026-11-17'
+date_designated: '2026-11-17'
+unique_id: GHR0213
+names:
+  names:
+  - name6: TZAV 9
+    name_type: Primary Name
+  - name6: Order 9
+    name_type: Primary Name Variation
+  - name6: TSAV 9
+    name_type: Primary Name Variation
+non_latin_names:
+  names:
+  - name_non_latin_script: 'צו 9 '
+regime_name: The Global Human Rights and International Humanitarian Law Sanctions
+  Regulations 2026
+individual_entity_ship: Entity
+designation_source: UK
+sanctions_imposed: Asset freeze|Director Disqualification Sanction
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: false
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: false
+  prohibition_of_port_entry: false
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: true
+  deflag: false
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that TZAV 9 is an involved person under the Global Human Rights
+  and International Humanitarian Law Sanctions Regulations 2026 on the basis of the
+  following ground: TZAV 9 is or has been responsible for activity which constitutes
+  obstruction of the delivery or distribution of, or access to, humanitarian assistance.
+  Specifically, TZAV 9 is an Israeli activist movement whose stated mission has been
+  to stop humanitarian aid entering the Gaza Strip, and which has organised and carried
+  out blockades of crossings, ports and roads used by humanitarian aid convoys bound
+  for Gaza. \n"
+entity_details:
+  entity:
+    types_of_entity:
+    - Protest organisation

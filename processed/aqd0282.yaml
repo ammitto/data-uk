@@ -88,8 +88,8 @@ addresses:
 individual_details:
   individual:
     dobs:
-    - '1960-12-13'
     - '1960-12-30'
+    - '1960-12-13'
     nationalities:
     - Jordan
     birth_details:

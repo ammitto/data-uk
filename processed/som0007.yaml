@@ -77,8 +77,8 @@ individual_details:
   individual:
     dobs:
     - dd/mm/1979
+    - dd/mm/1982
     - dd/mm/1980
     - dd/mm/1981
-    - dd/mm/1982
     nationalities:
     - Somalia
