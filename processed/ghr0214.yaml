@@ -1,0 +1,48 @@
+---
+last_updated: '2026-11-24'
+date_designated: '2026-11-24'
+unique_id: GHR0214
+names:
+  names:
+  - name1: Sarim
+    name2: Al Din
+    name6: Mufadal
+    name_type: Primary Name
+  - name1: Sarim
+    name2: Al-Din
+    name6: 'MUFADDAL '
+    name_type: Primary Name
+non_latin_names:
+  names:
+  - name_non_latin_script: 'صارم الدين مفضل '
+regime_name: The Global Human Rights and International Humanitarian Law Sanctions
+  Regulations 2026
+individual_entity_ship: Individual
+designation_source: UK
+sanctions_imposed: Asset freeze|Travel Ban|Director Disqualification Sanction
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: false
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: true
+  prohibition_of_port_entry: false
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: true
+  deflag: false
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that SARIM AL-DIN MUFADDAL (hereafter “MUFADDAL”) is an involved
+  person under the Global Human Rights and International Humanitarian Law Sanctions
+  Regulations 2026 on the basis that he is or has been responsible for or engaged
+  in activity which amounts to a serious abuse of the right of individuals not to
+  be subjected to torture or cruel, inhuman or degrading treatment or punishment.
+  Specifically, as a prosecutor of the Specialised Criminal Prosecution in Sana’a
+  under the Houthi de facto authorities, MUFADDAL is reasonably suspected of having
+  directly perpetrated, or knowingly permitted or acquiesced in, sexual violence including
+  rape, torture and other cruel, inhuman or degrading treatment of women detainees.
+  \n"

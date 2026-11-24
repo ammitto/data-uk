@@ -50,11 +50,11 @@ addresses:
     address_line6: TEHRAN
     address_country: Iran
 phone_numbers:
-- "+(9821) 66418184"
 - "+(9821) 66419974"
+- "+(9821) 66418184"
 websites:
-- www.en.ttbank.ir
 - www.ttbank.ir
+- www.en.ttbank.ir
 entity_details:
   entity:
     business_registration_numbers:

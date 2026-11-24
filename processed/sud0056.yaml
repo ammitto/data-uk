@@ -43,15 +43,15 @@ individual_details:
   individual:
     nationalities:
     - Ukraine
+    - Ukraine
+    - Ukraine
     - Sudan
-    - Ukraine
-    - Ukraine
     - Ukraine
     genders:
     - Male
     passport_details:
       passports:
       - number: PU683987
-      - number: FB793884
       - number: " FM684476"
       - number: " PU669310"
+      - number: FB793884
