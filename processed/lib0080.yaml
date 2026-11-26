@@ -1,0 +1,58 @@
+---
+last_updated: '2026-11-26'
+date_designated: '2026-11-24'
+unique_id: LIB0080
+un_reference_number: LYe.007
+names:
+  names:
+  - name6: IMO 8027705
+    name_type: Primary Name
+  - name6: AEGEAN
+    name_type: Alias
+regime_name: The Libya (Sanctions) (EU Exit) Regulations 2020
+individual_entity_ship: Ship
+designation_source: UN
+sanctions_imposed: 'Shipping sanctions: (see "Other information")'
+sanctions_imposed_indicators:
+  asset_freeze: false
+  trust_services_sanctions: false
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: false
+  prohibition_of_port_entry: false
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: false
+  deflag: false
+other_information: IMO 8027705 was listed pursuant to paragraphs 10(a), 10 (b), 10(c)
+  and 10(d) of resolution 2146 (2014), as amended by paragraph 2 of resolutions 2441
+  (2018) and 2509 (2020) and extended in resolution 2819 (2026) (prohibition to load,
+  transport or discharge; prohibition to enter ports; prohibition to provide bunkering
+  and vessel services; prohibition to engage in financial transactions with regard
+  to petroleum). Pursuant to paragraph 11 of resolution 2146, as modified by paragraph
+  2 of resolution 2509 (2020), this designation is valid from 24 November 2026 to
+  24 November 2027, unless terminated earlier by the Committee pursuant to paragraph
+  12 of resolution 2146 (2014).
+uk_statement_of_reasons: "\n"
+ship_details:
+  ship:
+    imo_numbers:
+    - IMO8027705
+    current_owner_operators:
+    - Canary Navigation SA
+    current_believed_flags:
+    - Turkey
+    previous_flags:
+    - Mongolia
+    types_of_ship:
+    - Oil Tanker
+    tonnages:
+    - '1900'
+    lengths:
+    - '87'
+    years_built:
+    - '1981'

@@ -1,5 +1,5 @@
 ---
-last_updated: '2026-07-06'
+last_updated: '2026-11-26'
 date_designated: '2026-07-06'
 unique_id: CHW0042
 names:
@@ -38,5 +38,13 @@ uk_statement_of_reasons: "\nTh\ne Secretary of State considers that there are re
   at SC Signal. \n \n"
 individual_details:
   individual:
+    dobs:
+    - '1982-08-12'
     positions:
     - Head. 4th Scientific Research Department. SC Signal
+    national_identifier_details:
+      national_identifiers:
+      - number: '43452993337367'
+        additional_information: NIN
+      - number: '06786435816'
+        additional_information: SNILS

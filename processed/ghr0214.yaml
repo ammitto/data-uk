@@ -1,17 +1,17 @@
 ---
-last_updated: '2026-11-24'
+last_updated: '2026-11-26'
 date_designated: '2026-11-24'
 unique_id: GHR0214
 names:
   names:
   - name1: Sarim
-    name2: Al Din
-    name6: Mufadal
-    name_type: Primary Name
-  - name1: Sarim
     name2: Al-Din
     name6: 'MUFADDAL '
     name_type: Primary Name
+  - name1: Sarim
+    name2: Al Din
+    name6: MUFADAL
+    name_type: Alias
 non_latin_names:
   names:
   - name_non_latin_script: 'صارم الدين مفضل '
