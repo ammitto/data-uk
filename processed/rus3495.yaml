@@ -56,8 +56,8 @@ websites:
 entity_details:
   entity:
     business_registration_numbers:
-    - Business Registration Number - 67092371
     - 'CR number: 2469563'
+    - Business Registration Number - 67092371
     types_of_entity:
     - Limited Liability Company
     subsidiaries:

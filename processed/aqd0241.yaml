@@ -67,16 +67,16 @@ uk_statement_of_reasons: "\n"
 individual_details:
   individual:
     dobs:
-    - '1970-02-05'
     - '1969-02-05'
+    - '1970-02-05'
     nationalities:
     - Tunisia
     birth_details:
       locations:
-      - town_of_birth: Tripoli
-        country_of_birth: Libya
       - town_of_birth: Tunis
         country_of_birth: Tunisia
+      - town_of_birth: Tripoli
+        country_of_birth: Libya
     national_identifier_details:
       national_identifiers:
       - number: W374031

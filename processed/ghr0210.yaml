@@ -1,0 +1,55 @@
+---
+last_updated: '2026-11-20'
+date_designated: '2026-11-17'
+unique_id: GHR0210
+names:
+  names:
+  - name6: 'LEV HAHAR YAZAMUT LIMITED '
+    name_type: Primary Name
+non_latin_names:
+  names:
+  - name_non_latin_script: 'לב ההר יזמות בע"מ '
+regime_name: The Global Human Rights and International Humanitarian Law Sanctions
+  Regulations 2026
+individual_entity_ship: Entity
+designation_source: UK
+sanctions_imposed: Asset freeze|Director Disqualification Sanction
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: false
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: false
+  prohibition_of_port_entry: false
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: true
+  deflag: false
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that LEV HAHAR YAZAMUT LIMITED (hereafter “LEV HAHAR”) is an
+  involved person under the Global Human Rights and International Humanitarian Law
+  Sanctions Regulations 2026 on the basis of the following grounds: (1) LEV HAHAR
+  is or has been involved in facilitating or providing support for activity which
+  constitutes a serious violation of international humanitarian law; (2) LEV HAHAR
+  is or has been involved in profiting from activity which constitutes a serious violation
+  of international humanitarian law. Specifically, LEV HAHAR is an Israeli property
+  developer which builds and markets housing in Israeli settlements in the occupied
+  West Bank Itamar, Elon Moreh, Bruchin, Rechelim, and Neria. The establishment and
+  expansion of Israeli settlements in the occupied West Bank constitutes a serious
+  violation of international humanitarian law.\n \n"
+addresses:
+  addresses:
+  - address_line1: Merkaz HaTzvi
+    address_line5: Elon Moreh
+    address_line6: West Bank
+    address_country: Occupied Palestinian Territories
+websites:
+- https://lhy.co.il/
+entity_details:
+  entity:
+    business_registration_numbers:
+    - 516060720 (Israel)

@@ -47,8 +47,8 @@ individual_details:
     nationalities:
     - Russia
     positions:
-    - Founder of ML.Cloud LLC
     - Employee of Media Land LLC
+    - Founder of ML.Cloud LLC
     genders:
     - Female
     passport_details:

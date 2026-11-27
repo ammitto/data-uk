@@ -77,15 +77,15 @@ addresses:
 individual_details:
   individual:
     dobs:
-    - dd/mm/1970
     - '1968-05-15'
+    - dd/mm/1970
     nationalities:
     - Iraq
     birth_details:
       locations:
-      - town_of_birth: Baghdad
-        country_of_birth: Iraq
       - town_of_birth: Al-Owja
+        country_of_birth: Iraq
+      - town_of_birth: Baghdad
         country_of_birth: Iraq
     passport_details:
       passports:

@@ -74,8 +74,8 @@ addresses:
 individual_details:
   individual:
     dobs:
-    - '1983-10-25'
     - dd/mm/1977
+    - '1983-10-25'
     nationalities:
     - Iraq
     birth_details:

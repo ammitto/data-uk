@@ -46,8 +46,8 @@ uk_statement_of_reasons: "\n"
 individual_details:
   individual:
     dobs:
-    - '1957-04-25'
     - '1967-04-25'
+    - '1957-04-25'
     nationalities:
     - Indonesia
     birth_details:

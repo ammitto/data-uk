@@ -52,17 +52,17 @@ addresses:
     address_line6: Suzhou City
     address_country: China
 phone_numbers:
-- "+86 0512-66936931"
 - "+86 512 6621 2797"
+- "+86 0512-66936931"
 email_addresses:
 - ps_bod@parsun.com.cn
-- liuying@parsun.com.cn
 - sales@parsun.com.cn
+- liuying@parsun.com.cn
 websites:
 - www.parsun.tmall.com
 - www.parsun-endumax.com
-- www.parsun.com.cn
 - www.parsunpower.com
+- www.parsun.com.cn
 entity_details:
   entity:
     business_registration_numbers:

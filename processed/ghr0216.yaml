@@ -1,0 +1,58 @@
+---
+last_updated: '2026-11-24'
+date_designated: '2026-11-24'
+unique_id: GHR0216
+names:
+  names:
+  - name1: Abdul
+    name2: Hakim
+    name6: 'AL KHAIWANI '
+    name_type: Primary Name
+  - name1: 'Abdulhakim '
+    name6: " AL KHIYAWANI "
+    name_type: Primary Name Variation
+regime_name: The Global Human Rights and International Humanitarian Law Sanctions
+  Regulations 2026
+individual_entity_ship: Individual
+designation_source: UK
+sanctions_imposed: Asset freeze|Travel Ban|Director Disqualification Sanction
+sanctions_imposed_indicators:
+  asset_freeze: true
+  trust_services_sanctions: false
+  arms_embargo: false
+  targeted_arms_embargo: false
+  technical_assistance_related_to_aircraft: false
+  travel_ban: true
+  prohibition_of_port_entry: false
+  chartering_of_ships: false
+  crew_servicing_of_ships_and_aircraft: false
+  prevention_of_chartering_of_ships_and_aircraft: false
+  prevention_of_business_arrangements: false
+  closure_of_representative_offices: false
+  director_disqualification_sanction: true
+  deflag: false
+uk_statement_of_reasons: "\nThe Secretary of State considers that there are reasonable
+  grounds to suspect that Abdul Hakim Hashem Ali AL-KHAIWANI (hereafter AL-KHAIWANI)
+  is an involved person under The Global Human Rights and International Humanitarian
+  Law Sanctions Regulations 2026 on the basis that he is or has been responsible for,
+  and has facilitated and provided support for, activity which amounts to a serious
+  abuse of the right of individuals not to be subjected to torture or cruel, inhuman
+  or degrading treatment or punishment. Specifically, as Director of the Houthi Security
+  and Intelligence Service since September 2019, and previously as Houthi Deputy Minister
+  of Interior from 2016, AL-KHAIWANI has been responsible for security forces and
+  detention facilities in which detainees, including journalists, activists, humanitarian
+  workers and United Nations personnel held without charge or trial, have been subjected
+  to torture and other cruel, inhuman or degrading treatment, including electric shocks,
+  beatings, the removal of fingernails, waterboarding, sexual violence and the denial
+  of food and medical care, in some cases resulting in death. \n"
+individual_details:
+  individual:
+    dobs:
+    - dd/mm/1986
+    nationalities:
+    - Yemen
+    positions:
+    - 'Director of the Security and Intelligence Service (former: Deputy Minister
+      of the Interior)'
+    genders:
+    - Male

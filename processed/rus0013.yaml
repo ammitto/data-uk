@@ -51,8 +51,8 @@ addresses:
 individual_details:
   individual:
     dobs:
-    - '1962-12-19'
     - '1965-12-30'
+    - '1962-12-19'
     nationalities:
     - Ukraine
     positions:
@@ -63,8 +63,8 @@ individual_details:
     - Male
     birth_details:
       locations:
+      - town_of_birth: Zaporozhye
+        country_of_birth: Ukraine
       - town_of_birth: Simferopol, The Autonomous Republic of Crimea and the city
           of Sevastopol
-        country_of_birth: Ukraine
-      - town_of_birth: Zaporozhye
         country_of_birth: Ukraine

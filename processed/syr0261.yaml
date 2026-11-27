@@ -51,10 +51,10 @@ individual_details:
     dobs:
     - dd/mm/1979
     nationalities:
-    - Lebanon
     - Syria
+    - Lebanon
     positions:
-    - Vice-President of Aman Holding (A.k.a. Aman Group)
     - Syrian businessman
+    - Vice-President of Aman Holding (A.k.a. Aman Group)
     genders:
     - Male

@@ -56,7 +56,7 @@ websites:
 entity_details:
   entity:
     business_registration_numbers:
-    - 'INN: 2130159236'
     - 'OGRN: 1152130010890'
+    - 'INN: 2130159236'
     types_of_entity:
     - Limited Liability Company

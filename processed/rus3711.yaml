@@ -61,7 +61,7 @@ entity_details:
   entity:
     business_registration_numbers:
     - Russian INN - 6163011391
-    - Russian KPP - 616301001
     - Russian OGRN - 1026100001949
+    - Russian KPP - 616301001
     types_of_entity:
     - PUBLIC JOINT STOCK COMPANY

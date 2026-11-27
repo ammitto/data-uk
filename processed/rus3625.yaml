@@ -54,7 +54,7 @@ email_addresses:
 entity_details:
   entity:
     business_registration_numbers:
-    - 'OGRN: 1023100009569'
     - INN:3129002923
+    - 'OGRN: 1023100009569'
     types_of_entity:
     - Closed Joint Stock Company

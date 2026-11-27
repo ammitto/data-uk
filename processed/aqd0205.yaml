@@ -46,8 +46,8 @@ uk_statement_of_reasons: "\n"
 individual_details:
   individual:
     dobs:
-    - dd/mm/1972
     - '1974-03-21'
+    - dd/mm/1972
     nationalities:
     - Jordan
     birth_details:

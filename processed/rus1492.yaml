@@ -62,17 +62,17 @@ websites:
 entity_details:
   entity:
     business_registration_numbers:
-    - "Legal Entity Number 2534006SJ05GGKETEY75 (Russia) \nRegistration Number 1027739179160
-      (Russia)"
     - |-
       SWIFT/BIC MINNRUMM,
       BIK (RU) 044525600,
       Tax ID No. 7725039953 (Russia),
       Government Gazette Number 09317135 (Russia)
+    - "Legal Entity Number 2534006SJ05GGKETEY75 (Russia) \nRegistration Number 1027739179160
+      (Russia)"
     types_of_entity:
     - Financial Institution
     subsidiaries:
-    - "Azovskaya Zernovaya Kompaniya OOO \nEkspluatiruyushchaya Kompaniya Tsentr OOO"
     - Agropromyshlenny Kompleks Voronezhski OOO, Anninskii Elevator OOO, Auditkonsalt
       OOO, Belinveststroi OOO, Dve Stolitsy OOO, Kontrakt OOO, Ladoga OOO, Nekommercheskaya
       Organizatsiya Fond Khimicheskoe Razoruzhenie I Konversiya
+    - "Azovskaya Zernovaya Kompaniya OOO \nEkspluatiruyushchaya Kompaniya Tsentr OOO"

@@ -50,10 +50,10 @@ other_information: 'Founding member of Jemaah Islamiyah (JI) (QDe.092) who worke
 uk_statement_of_reasons: "\n"
 addresses:
   addresses:
-  - address_country: Malaysia
   - address_line1: Taman Bukit Ampang
     address_line6: State of Selangor
     address_country: Malaysia
+  - address_country: Malaysia
 individual_details:
   individual:
     dobs:
